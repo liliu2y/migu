@@ -1,0 +1,74 @@
+# 工作流名称
+name: 自动运行咪咕节目采集
+
+on:
+  schedule:
+    - cron: '0 16,20,0,4,8,12 * * *' # UTC时间对应北京时间0/4/8/12/16/20点
+  workflow_dispatch:
+
+jobs:
+  run-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run app.js (generate files and exit)
+        run: |
+          # 全局设置时区为北京时间
+          export TZ='Asia/Shanghai'
+          node app.js
+        timeout-minutes: 5
+
+      - name: Check generated files
+        id: check_files
+        run: |
+          echo "===== 当前目录所有文件（北京时间：$(TZ='Asia/Shanghai' date)） ====="
+          ls -la
+          echo "===== 递归查找目标文件 ====="
+          INTERFACE_TXT=$(find . -name "interface.txt" | head -n 1)
+          INTERFACE_TXT2=$(find . -name "interfaceTXT.txt" | head -n 1)
+          PLAYBACK_XML=$(find . -name "playback.xml" | head -n 1)
+          
+          echo "INTERFACE_TXT=$INTERFACE_TXT" >> $GITHUB_ENV
+          echo "INTERFACE_TXT2=$INTERFACE_TXT2" >> $GITHUB_ENV
+          echo "PLAYBACK_XML=$PLAYBACK_XML" >> $GITHUB_ENV
+
+          if [ -z "$INTERFACE_TXT" ] || [ -z "$INTERFACE_TXT2" ] || [ -z "$PLAYBACK_XML" ]; then
+            echo "ERROR: Some files are missing!"
+            exit 1
+          fi
+
+      - name: Commit and push files
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          git add $INTERFACE_TXT $INTERFACE_TXT2 $PLAYBACK_XML
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit - files are identical"
+            exit 0
+          fi
+          
+          # 关键：生成北京时间的commit信息
+          COMMIT_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
+          git commit -m "Auto update files: $COMMIT_TIME (CST/北京时间)"
+          git push origin HEAD:main --force-with-lease
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
