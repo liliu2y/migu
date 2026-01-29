@@ -403,10 +403,10 @@ ${replace}/962753816
 ${replace}/962748127
 #EXTINF:-1 tvg-id="韩国VS伊拉克" tvg-name="五人制亚洲杯 韩国VS伊拉克 全场回放（乔迁） 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-昨天",五人制亚洲杯 韩国VS伊拉克 全场回放（乔迁） 15:45
 ${replace}/962750424
-#EXTINF:-1 tvg-id="张安达2-5凯伦·威尔逊" tvg-name="斯诺克 张安达2-5凯伦·威尔逊 2026斯诺克德国大师赛第3轮回放：吉米·罗伯逊5-2杰克·琼斯 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-5凯伦·威尔逊 2026斯诺克德国大师赛第3轮回放：吉米·罗伯逊5-2杰克·琼斯 17:00
-${replace}/962752203
 #EXTINF:-1 tvg-id="张安达2-5凯伦·威尔逊" tvg-name="斯诺克 张安达2-5凯伦·威尔逊 【回放】凯伦·威尔逊5-2张安达（朱峰立） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-5凯伦·威尔逊 【回放】凯伦·威尔逊5-2张安达（朱峰立） 17:00
 ${replace}/962751302
+#EXTINF:-1 tvg-id="张安达2-5凯伦·威尔逊" tvg-name="斯诺克 张安达2-5凯伦·威尔逊 【回放】吉米·罗伯逊5-2杰克·琼斯 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-5凯伦·威尔逊 【回放】吉米·罗伯逊5-2杰克·琼斯 17:00
+${replace}/962752203
 #EXTINF:-1 tvg-id="张安达2-5凯伦·威尔逊" tvg-name="斯诺克 张安达2-5凯伦·威尔逊 【回放】凯伦·威尔逊5-2张安达 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-5凯伦·威尔逊 【回放】凯伦·威尔逊5-2张安达 17:00
 ${replace}/962751660
 #EXTINF:-1 tvg-id="科威特VS泰国" tvg-name="五人制亚洲杯 科威特VS泰国 全场回放（涂远） 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-昨天",五人制亚洲杯 科威特VS泰国 全场回放（涂远） 17:45
@@ -435,6 +435,14 @@ ${replace}/962753830
 ${replace}/962753843
 #EXTINF:-1 tvg-id="吉尔吉斯斯坦VS印度尼西亚" tvg-name="五人制亚洲杯 吉尔吉斯斯坦VS印度尼西亚 全场回放（王子睿） 19:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-昨天",五人制亚洲杯 吉尔吉斯斯坦VS印度尼西亚 全场回放（王子睿） 19:45
 ${replace}/962753156
+#EXTINF:-1 tvg-id="徐思0-5阿里·卡特 墨菲、罗伯逊晋级" tvg-name="斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】徐思0-5阿里·卡特（朱蒙） 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】徐思0-5阿里·卡特（朱蒙） 22:00
+${replace}/962755221
+#EXTINF:-1 tvg-id="徐思0-5阿里·卡特 墨菲、罗伯逊晋级" tvg-name="斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】马克·艾伦0-5肖恩·墨菲 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】马克·艾伦0-5肖恩·墨菲 22:00
+${replace}/962755265
+#EXTINF:-1 tvg-id="徐思0-5阿里·卡特 墨菲、罗伯逊晋级" tvg-name="斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】辛格·查达0-5尼尔·罗伯逊 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】辛格·查达0-5尼尔·罗伯逊 22:00
+${replace}/962755301
+#EXTINF:-1 tvg-id="徐思0-5阿里·卡特 墨菲、罗伯逊晋级" tvg-name="斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】徐思0-5阿里·卡特 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 徐思0-5阿里·卡特 墨菲、罗伯逊晋级 【回放】徐思0-5阿里·卡特 22:00
+${replace}/962755397
 #EXTINF:-1 tvg-id="斯佳辉挑战小特 肖国栋对阵希金斯" tvg-name="斯诺克 斯佳辉挑战小特 肖国栋对阵希金斯 1号桌 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉挑战小特 肖国栋对阵希金斯 1号桌 03:00
 ${replace}/962585737
 #EXTINF:-1 tvg-id="斯佳辉挑战小特 肖国栋对阵希金斯" tvg-name="斯诺克 斯佳辉挑战小特 肖国栋对阵希金斯 2号桌 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉挑战小特 肖国栋对阵希金斯 2号桌 03:00
