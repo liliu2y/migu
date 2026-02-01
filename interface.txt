@@ -329,8 +329,6 @@ ${replace}/962786776
 ${replace}/962786746
 #EXTINF:-1 tvg-id="勇士VS活塞" tvg-name="NBA 勇士VS活塞 全场回放（拜月宁） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 勇士VS活塞 全场回放（拜月宁） 10:55
 ${replace}/962786608
-#EXTINF:-1 tvg-id="鲍李组合闯入决赛 朱轩辰惜败" tvg-name="BWF 鲍李组合闯入决赛 朱轩辰惜败 2026BWF泰国羽毛球大师赛Day5一号场全场回放（二） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 鲍李组合闯入决赛 朱轩辰惜败 2026BWF泰国羽毛球大师赛Day5一号场全场回放（二） 13:00
-${replace}/962792651
 #EXTINF:-1 tvg-id="鲍李组合闯入决赛 朱轩辰惜败" tvg-name="BWF 鲍李组合闯入决赛 朱轩辰惜败 【回放】库苏马/梅丽莎1-2鲍骊婧/李怡婧（鸿昆） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 鲍李组合闯入决赛 朱轩辰惜败 【回放】库苏马/梅丽莎1-2鲍骊婧/李怡婧（鸿昆） 13:00
 ${replace}/962786941
 #EXTINF:-1 tvg-id="鲍李组合闯入决赛 朱轩辰惜败" tvg-name="BWF 鲍李组合闯入决赛 朱轩辰惜败 【回放】胡珂源/林祥毅0-2因陀罗/华金（鸿昆） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 鲍李组合闯入决赛 朱轩辰惜败 【回放】胡珂源/林祥毅0-2因陀罗/华金（鸿昆） 13:00
@@ -349,6 +347,8 @@ ${replace}/962790683
 ${replace}/962791309
 #EXTINF:-1 tvg-id="鲍李组合闯入决赛 朱轩辰惜败" tvg-name="BWF 鲍李组合闯入决赛 朱轩辰惜败 【全场回放】二号场 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 鲍李组合闯入决赛 朱轩辰惜败 【全场回放】二号场 13:00
 ${replace}/962790127
+#EXTINF:-1 tvg-id="鲍李组合闯入决赛 朱轩辰惜败" tvg-name="BWF 鲍李组合闯入决赛 朱轩辰惜败 2026BWF泰国羽毛球大师赛Day5一号场全场回放（二） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 鲍李组合闯入决赛 朱轩辰惜败 2026BWF泰国羽毛球大师赛Day5一号场全场回放（二） 13:00
+${replace}/962792651
 #EXTINF:-1 tvg-id="梧州市苍梧县队2-0贵港市桂平市队" tvg-name="广西县级足球超级联赛 梧州市苍梧县队2-0贵港市桂平市队 25/26赛季广西县级足球超级联赛第三轮全场回放：梧州市苍梧县队2:0贵港市桂平市队 4:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png" group-title="体育-昨天",广西县级足球超级联赛 梧州市苍梧县队2-0贵港市桂平市队 25/26赛季广西县级足球超级联赛第三轮全场回放：梧州市苍梧县队2:0贵港市桂平市队 4:30
 ${replace}/962789419
 #EXTINF:-1 tvg-id="贵港市港南区队1-2贺州市八步区队" tvg-name="广西县级足球超级联赛 贵港市港南区队1-2贺州市八步区队 25/26赛季广西县级足球超级联赛第三轮全场回放：贵港市港南区队1:2贺州市八步区队 4:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png" group-title="体育-昨天",广西县级足球超级联赛 贵港市港南区队1-2贺州市八步区队 25/26赛季广西县级足球超级联赛第三轮全场回放：贵港市港南区队1:2贺州市八步区队 4:30
@@ -469,28 +469,28 @@ ${replace}/962805669
 ${replace}/962804571
 #EXTINF:-1 tvg-id="灰熊VS森林狼" tvg-name="NBA 灰熊VS森林狼 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS森林狼 全场回放（英文原声） 08:55
 ${replace}/962805050
-#EXTINF:-1 tvg-id="德约阿卡打响男单终极对决" tvg-name="澳网 德约阿卡打响男单终极对决 阿尔卡拉斯 vs 德约科维奇 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 德约阿卡打响男单终极对决 阿尔卡拉斯 vs 德约科维奇 16:00
-${replace}/962798381
-#EXTINF:-1 tvg-id="德约阿卡打响男单终极对决" tvg-name="澳网 德约阿卡打响男单终极对决 罗德拉沃尔球场 清流 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 德约阿卡打响男单终极对决 罗德拉沃尔球场 清流 09:00
-${replace}/962798331
-#EXTINF:-1 tvg-id="德约阿卡打响男单终极对决" tvg-name="澳网 德约阿卡打响男单终极对决 国际信号 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 德约阿卡打响男单终极对决 国际信号 09:00
-${replace}/962798035
+#EXTINF:-1 tvg-id="世纪之战！阿卡成为男网最年轻全满贯" tvg-name="澳网 世纪之战！阿卡成为男网最年轻全满贯 【回放】图皮岑娜0-2叶夫列莫娃 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 世纪之战！阿卡成为男网最年轻全满贯 【回放】图皮岑娜0-2叶夫列莫娃 09:00
+${replace}/962804892
+#EXTINF:-1 tvg-id="世纪之战！阿卡成为男网最年轻全满贯" tvg-name="澳网 世纪之战！阿卡成为男网最年轻全满贯 【回放】汉斯1-2舍什科 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 世纪之战！阿卡成为男网最年轻全满贯 【回放】汉斯1-2舍什科 09:00
+${replace}/962806813
 #EXTINF:-1 tvg-id="火箭VS独行侠" tvg-name="NBA 火箭VS独行侠 全场回放（连睿、周鹏、秋童） 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 火箭VS独行侠 全场回放（连睿、周鹏、秋童） 09:25
 ${replace}/962805008
 #EXTINF:-1 tvg-id="火箭VS独行侠" tvg-name="NBA 火箭VS独行侠 全场回放（英文原声） 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 火箭VS独行侠 全场回放（英文原声） 09:25
 ${replace}/962805824
-#EXTINF:-1 tvg-id="国羽小将鲍骊婧/李怡婧获得亚军" tvg-name="BWF 国羽小将鲍骊婧/李怡婧获得亚军 塞蒂亚布迪/梅拉蒂vs阿德南/贾米尔 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽小将鲍骊婧/李怡婧获得亚军 塞蒂亚布迪/梅拉蒂vs阿德南/贾米尔 15:00
-${replace}/962803131
-#EXTINF:-1 tvg-id="国羽小将鲍骊婧/李怡婧获得亚军" tvg-name="BWF 国羽小将鲍骊婧/李怡婧获得亚军 1号场地 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽小将鲍骊婧/李怡婧获得亚军 1号场地 13:00
-${replace}/962683893
-#EXTINF:-1 tvg-id="日本VS乌兹别克斯坦" tvg-name="五人制亚洲杯 日本VS乌兹别克斯坦 吴子越 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 日本VS乌兹别克斯坦 吴子越 15:45
-${replace}/962763555
-#EXTINF:-1 tvg-id="日本VS乌兹别克斯坦" tvg-name="五人制亚洲杯 日本VS乌兹别克斯坦 赛场原声 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 日本VS乌兹别克斯坦 赛场原声 15:45
-${replace}/962761270
-#EXTINF:-1 tvg-id="塔吉克斯坦VS澳大利亚" tvg-name="五人制亚洲杯 塔吉克斯坦VS澳大利亚 乔迁 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 塔吉克斯坦VS澳大利亚 乔迁 15:45
-${replace}/962763508
-#EXTINF:-1 tvg-id="塔吉克斯坦VS澳大利亚" tvg-name="五人制亚洲杯 塔吉克斯坦VS澳大利亚 赛场原声 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 塔吉克斯坦VS澳大利亚 赛场原声 15:45
-${replace}/962763065
+#EXTINF:-1 tvg-id="鲍骊婧/李怡婧获得女双亚军" tvg-name="BWF 鲍骊婧/李怡婧获得女双亚军 【回放】鲍骊婧/李怡婧1-2阿玛莉亚/拉马丹蒂（余博洋） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 鲍骊婧/李怡婧获得女双亚军 【回放】鲍骊婧/李怡婧1-2阿玛莉亚/拉马丹蒂（余博洋） 13:00
+${replace}/962806501
+#EXTINF:-1 tvg-id="鲍骊婧/李怡婧获得女双亚军" tvg-name="BWF 鲍骊婧/李怡婧获得女双亚军 【回放】卡尔南多/毛拉纳2-0因陀罗/华金（余博洋） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 鲍骊婧/李怡婧获得女双亚军 【回放】卡尔南多/毛拉纳2-0因陀罗/华金（余博洋） 13:00
+${replace}/962806901
+#EXTINF:-1 tvg-id="鲍骊婧/李怡婧获得女双亚军" tvg-name="BWF 鲍骊婧/李怡婧获得女双亚军 【回放】吴堇溦（退赛）0-2西哈格（孙宁智） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 鲍骊婧/李怡婧获得女双亚军 【回放】吴堇溦（退赛）0-2西哈格（孙宁智） 13:00
+${replace}/962807281
+#EXTINF:-1 tvg-id="鲍骊婧/李怡婧获得女双亚军" tvg-name="BWF 鲍骊婧/李怡婧获得女双亚军 【回放】阿德南/贾米尔2-1塞蒂亚布迪/梅拉蒂（鸿昆） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 鲍骊婧/李怡婧获得女双亚军 【回放】阿德南/贾米尔2-1塞蒂亚布迪/梅拉蒂（鸿昆） 13:00
+${replace}/962811552
+#EXTINF:-1 tvg-id="鲍骊婧/李怡婧获得女双亚军" tvg-name="BWF 鲍骊婧/李怡婧获得女双亚军 【回放】乌拜迪拉2-1帕尼查蓬（鸿昆） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 鲍骊婧/李怡婧获得女双亚军 【回放】乌拜迪拉2-1帕尼查蓬（鸿昆） 13:00
+${replace}/962815540
+#EXTINF:-1 tvg-id="日本VS乌兹别克斯坦" tvg-name="五人制亚洲杯 日本VS乌兹别克斯坦 全场回放（吴子越） 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 日本VS乌兹别克斯坦 全场回放（吴子越） 15:45
+${replace}/962807820
+#EXTINF:-1 tvg-id="塔吉克斯坦VS澳大利亚" tvg-name="五人制亚洲杯 塔吉克斯坦VS澳大利亚 全场回放（乔迁） 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 塔吉克斯坦VS澳大利亚 全场回放（乔迁） 15:45
+${replace}/962810239
 #EXTINF:-1 tvg-id="钦州市钦北区队vs防城港市港口区队" tvg-name="广西县级足球超级联赛 钦州市钦北区队vs防城港市港口区队 25/26赛季广西县级足球超级联赛第三轮: 钦州市钦北区队vs防城港市港口区队 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png" group-title="体育-今天",广西县级足球超级联赛 钦州市钦北区队vs防城港市港口区队 25/26赛季广西县级足球超级联赛第三轮: 钦州市钦北区队vs防城港市港口区队 18:30
 ${replace}/962726307
 #EXTINF:-1 tvg-id="顶级抗压能力！重温孙颖莎关键局逆转美和" tvg-name="乒乓球经典赛事 顶级抗压能力！重温孙颖莎关键局逆转美和 经典赛事 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMT10RN3F.png" group-title="体育-今天",乒乓球经典赛事 顶级抗压能力！重温孙颖莎关键局逆转美和 经典赛事 19:00
@@ -505,13 +505,13 @@ ${replace}/962770966
 ${replace}/962770995
 #EXTINF:-1 tvg-id="萍乡VS南昌" tvg-name="江西省城市篮球联赛 萍乡VS南昌 2026江西省城市篮球联赛: 萍乡VS南昌 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 萍乡VS南昌 2026江西省城市篮球联赛: 萍乡VS南昌 19:00
 ${replace}/962772986
-#EXTINF:-1 tvg-id="上饶vs新余" tvg-name="江西省城市篮球联赛 上饶vs新余 2026江西省城市篮球联赛: 上饶vs新余 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 上饶vs新余 2026江西省城市篮球联赛: 上饶vs新余 19:00
+#EXTINF:-1 tvg-id="上饶104-94新余" tvg-name="江西省城市篮球联赛 上饶104-94新余 2026江西省城市篮球联赛: 上饶vs新余 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 上饶104-94新余 2026江西省城市篮球联赛: 上饶vs新余 19:00
 ${replace}/962786789
 #EXTINF:-1 tvg-id="抚州vs宜春" tvg-name="江西省城市篮球联赛 抚州vs宜春 2026江西省城市篮球联赛: 抚州vs宜春 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 抚州vs宜春 2026江西省城市篮球联赛: 抚州vs宜春 19:00
 ${replace}/962786838
-#EXTINF:-1 tvg-id="景德镇vs九江" tvg-name="江西省城市篮球联赛 景德镇vs九江 2026江西省城市篮球联赛: 景德镇vs九江 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 景德镇vs九江 2026江西省城市篮球联赛: 景德镇vs九江 19:00
+#EXTINF:-1 tvg-id="景德镇74-71九江" tvg-name="江西省城市篮球联赛 景德镇74-71九江 2026江西省城市篮球联赛: 景德镇vs九江 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 景德镇74-71九江 2026江西省城市篮球联赛: 景德镇vs九江 19:00
 ${replace}/962786846
-#EXTINF:-1 tvg-id="吉安vs鹰潭" tvg-name="江西省城市篮球联赛 吉安vs鹰潭 2026江西省城市篮球联赛: 吉安vs鹰潭 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 吉安vs鹰潭 2026江西省城市篮球联赛: 吉安vs鹰潭 19:00
+#EXTINF:-1 tvg-id="吉安80-61鹰潭" tvg-name="江西省城市篮球联赛 吉安80-61鹰潭 2026江西省城市篮球联赛: 吉安vs鹰潭 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png" group-title="体育-今天",江西省城市篮球联赛 吉安80-61鹰潭 2026江西省城市篮球联赛: 吉安vs鹰潭 19:00
 ${replace}/962786851
 #EXTINF:-1 tvg-id="都灵VS莱切" tvg-name="意甲 都灵VS莱切 乔迁 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 都灵VS莱切 乔迁 19:15
 ${replace}/962748424
@@ -713,9 +713,9 @@ ${replace}/962773941
 ${replace}/962786175
 #EXTINF:-1 tvg-id="Zuffa拳击第2期：瓦伦苏埃拉VS托雷斯" tvg-name="Zuffa拳击 Zuffa拳击第2期：瓦伦苏埃拉VS托雷斯 清流播出 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R9E7BQ06.png" group-title="体育-明天",Zuffa拳击 Zuffa拳击第2期：瓦伦苏埃拉VS托雷斯 清流播出 07:00
 ${replace}/962786107
-#EXTINF:-1 tvg-id="马刺VS魔术" tvg-name="NBA 马刺VS魔术 王晓晨 04:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 马刺VS魔术 王晓晨 04:55
+#EXTINF:-1 tvg-id="马刺VS魔术" tvg-name="NBA 马刺VS魔术 王晓晨 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 马刺VS魔术 王晓晨 07:55
 ${replace}/962781656
-#EXTINF:-1 tvg-id="马刺VS魔术" tvg-name="NBA 马刺VS魔术 英文原声 04:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 马刺VS魔术 英文原声 04:55
+#EXTINF:-1 tvg-id="马刺VS魔术" tvg-name="NBA 马刺VS魔术 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 马刺VS魔术 英文原声 07:55
 ${replace}/962781633
 #EXTINF:-1 tvg-id="尼克斯VS湖人" tvg-name="NBA 尼克斯VS湖人 李天宇 刘铁 陈正昊 07:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 尼克斯VS湖人 李天宇 刘铁 陈正昊 07:45
 ${replace}/962781988
