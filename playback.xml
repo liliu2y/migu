@@ -105,7 +105,10 @@
     <programme channel="CCTV1综合" start="20260201220000 +0800" stop="20260201223340 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260201223340 +0800" stop="20260201235900 +0800">
+    <programme channel="CCTV1综合" start="20260201223340 +0800" stop="20260201232455 +0800">
+        <title lang="zh">太平年第19集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260201232455 +0800" stop="20260201235900 +0800">
         <title lang="zh">中华考工记-4</title>
     </programme>
     <channel id="CCTV2财经">
