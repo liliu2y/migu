@@ -91,16 +91,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202200035 +0800" stop="20260202200500 +0800">
-        <title lang="zh">前情提要-太平年-20/48</title>
+        <title lang="zh">前情提要-太平年-第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202200500 +0800" stop="20260202205620 +0800">
-        <title lang="zh">太平年20/48</title>
+        <title lang="zh">太平年第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202205620 +0800" stop="20260202210030 +0800">
-        <title lang="zh">前情提要-太平年-21/48</title>
+        <title lang="zh">前情提要-太平年-第21集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202210030 +0800" stop="20260202215150 +0800">
-        <title lang="zh">太平年21/48</title>
+        <title lang="zh">太平年第21集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202215150 +0800" stop="20260202220000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -109,7 +109,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202223410 +0800" stop="20260202232615 +0800">
-        <title lang="zh">太平年22/48</title>
+        <title lang="zh">太平年第22集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260202232615 +0800" stop="20260202235900 +0800">
         <title lang="zh">非遗里的中国（第四季）-1（甘肃篇）</title>
@@ -219,14 +219,11 @@
     <programme channel="CCTV2财经" start="20260202213000 +0800" stop="20260202215600 +0800">
         <title lang="zh">央视财经评论-2026-2-2</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260202215600 +0800" stop="20260202223700 +0800">
-        <title lang="zh">2023精品财经纪录-大泰山-1</title>
+    <programme channel="CCTV2财经" start="20260202215600 +0800" stop="20260202232900 +0800">
+        <title lang="zh">2025新质生产力中国行-2025新质生产力年度盛典</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260202223700 +0800" stop="20260202233920 +0800">
+    <programme channel="CCTV2财经" start="20260202232900 +0800" stop="20260202235900 +0800">
         <title lang="zh">对话-2026-5</title>
-    </programme>
-    <programme channel="CCTV2财经" start="20260202233920 +0800" stop="20260202235900 +0800">
-        <title lang="zh">经济半小时</title>
     </programme>
     <channel id="CCTV3综艺">
         <display-name lang="zh">CCTV3综艺</display-name>
@@ -853,13 +850,13 @@
         <title lang="zh">本集提要-生命树-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260202193000 +0800" stop="20260202202455 +0800">
-        <title lang="zh">生命树7/40</title>
+        <title lang="zh">生命树第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260202202455 +0800" stop="20260202202955 +0800">
         <title lang="zh">本集提要-生命树-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260202202955 +0800" stop="20260202212225 +0800">
-        <title lang="zh">生命树8/40</title>
+        <title lang="zh">生命树第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260202212225 +0800" stop="20260202212725 +0800">
         <title lang="zh">本集提要-加油！小茉-第24集</title>
@@ -874,7 +871,7 @@
         <title lang="zh">加油！小茉第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260202230855 +0800" stop="20260202235455 +0800">
-        <title lang="zh">加油！小茉26/32</title>
+        <title lang="zh">加油！小茉第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260202235455 +0800" stop="20260202235900 +0800">
         <title lang="zh">星推荐-2026年2月-2</title>
@@ -4644,7 +4641,7 @@
     <programme channel="河北卫视" start="20260202233000 +0800" stop="20260202233500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260202233500 +0800" stop="20260203000000 +0800">
+    <programme channel="河北卫视" start="20260202233500 +0800" stop="20260203003000 +0800">
         <title lang="zh">我们的日子原版(7）</title>
     </programme>
     <channel id="江西卫视">
