@@ -357,14 +357,10 @@ ${replace}/962848101
 ${replace}/962848291
 #EXTINF:-1 tvg-id="黄蜂VS鹈鹕" tvg-name="NBA 黄蜂VS鹈鹕 全场回放（英文原声） 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 黄蜂VS鹈鹕 全场回放（英文原声） 03:55
 ${replace}/962848506
-#EXTINF:-1 tvg-id="步行者VS火箭" tvg-name="NBA 步行者VS火箭 连睿 周鹏 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS火箭 连睿 周鹏 07:55
-${replace}/962782138
-#EXTINF:-1 tvg-id="步行者VS火箭" tvg-name="NBA 步行者VS火箭 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS火箭 英文原声 07:55
-${replace}/962782085
-#EXTINF:-1 tvg-id="灰熊VS森林狼" tvg-name="NBA 灰熊VS森林狼 陈鑫隆 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS森林狼 陈鑫隆 08:25
-${replace}/962782064
-#EXTINF:-1 tvg-id="灰熊VS森林狼" tvg-name="NBA 灰熊VS森林狼 英文原声 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS森林狼 英文原声 08:25
-${replace}/962782025
+#EXTINF:-1 tvg-id="步行者VS火箭" tvg-name="NBA 步行者VS火箭 全场回放（连睿 周鹏） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS火箭 全场回放（连睿 周鹏） 07:55
+${replace}/962851036
+#EXTINF:-1 tvg-id="灰熊VS森林狼" tvg-name="NBA 灰熊VS森林狼 全场回放（陈鑫隆） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS森林狼 全场回放（陈鑫隆） 08:25
+${replace}/962851833
 #EXTINF:-1 tvg-id="快船VS76人" tvg-name="NBA 快船VS76人 李天宇 刘铁 陈正昊 10:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS76人 李天宇 刘铁 陈正昊 10:45
 ${replace}/962781923
 #EXTINF:-1 tvg-id="快船VS76人" tvg-name="NBA 快船VS76人 英文原声 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS76人 英文原声 10:55
@@ -379,12 +375,16 @@ ${replace}/962747164
 ${replace}/962747175
 #EXTINF:-1 tvg-id="伊朗VS乌兹别克斯坦" tvg-name="五人制亚洲杯 伊朗VS乌兹别克斯坦 涂远 13:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 伊朗VS乌兹别克斯坦 涂远 13:45
 ${replace}/962764344
+#EXTINF:-1 tvg-id="伊朗VS乌兹别克斯坦" tvg-name="五人制亚洲杯 伊朗VS乌兹别克斯坦 赛场原声 13:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 伊朗VS乌兹别克斯坦 赛场原声 13:45
+${replace}/962851024
 #EXTINF:-1 tvg-id="抽签仪式" tvg-name="乒乓球亚洲杯 抽签仪式 肖扬 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png" group-title="体育-今天",乒乓球亚洲杯 抽签仪式 肖扬 16:00
 ${replace}/962771508
 #EXTINF:-1 tvg-id="抽签仪式" tvg-name="乒乓球亚洲杯 抽签仪式 现场原声 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png" group-title="体育-今天",乒乓球亚洲杯 抽签仪式 现场原声 16:00
 ${replace}/962771498
 #EXTINF:-1 tvg-id="泰国VS伊拉克" tvg-name="五人制亚洲杯 泰国VS伊拉克 乔迁 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 泰国VS伊拉克 乔迁 15:45
 ${replace}/962764242
+#EXTINF:-1 tvg-id="泰国VS伊拉克" tvg-name="五人制亚洲杯 泰国VS伊拉克 赛场原声 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 泰国VS伊拉克 赛场原声 15:45
+${replace}/962851038
 #EXTINF:-1 tvg-id="香港金牛VS盐南苏科雄狮" tvg-name="NBL 香港金牛VS盐南苏科雄狮 解说 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="体育-今天",NBL 香港金牛VS盐南苏科雄狮 解说 16:50
 ${replace}/962499303
 #EXTINF:-1 tvg-id="香港金牛VS盐南苏科雄狮" tvg-name="NBL 香港金牛VS盐南苏科雄狮 现场原声 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="体育-今天",NBL 香港金牛VS盐南苏科雄狮 现场原声 16:50
@@ -397,6 +397,8 @@ ${replace}/962749792
 ${replace}/962771523
 #EXTINF:-1 tvg-id="日本VS阿富汗" tvg-name="五人制亚洲杯 日本VS阿富汗 涂远 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 日本VS阿富汗 涂远 17:45
 ${replace}/962764093
+#EXTINF:-1 tvg-id="日本VS阿富汗" tvg-name="五人制亚洲杯 日本VS阿富汗 赛场原声 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 日本VS阿富汗 赛场原声 17:45
+${replace}/962851049
 #EXTINF:-1 tvg-id="U12第23场 澳門維他奶星苗 VS 温州华奥" tvg-name="萨马兰奇杯 U12第23场 澳門維他奶星苗 VS 温州华奥 清流播出 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/28/100000001403106f43a3.jpg" group-title="体育-今天",萨马兰奇杯 U12第23场 澳門維他奶星苗 VS 温州华奥 清流播出 18:30
 ${replace}/962749947
 #EXTINF:-1 tvg-id="丁俊晖VS霍金斯 吴宜泽张安达出战" tvg-name="斯诺克 丁俊晖VS霍金斯 吴宜泽张安达出战 1号桌 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS霍金斯 吴宜泽张安达出战 1号桌 19:00
@@ -411,6 +413,8 @@ ${replace}/962747309
 ${replace}/962838745
 #EXTINF:-1 tvg-id="丁俊晖VS霍金斯 吴宜泽张安达出战" tvg-name="斯诺克 丁俊晖VS霍金斯 吴宜泽张安达出战 朱蒙 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS霍金斯 吴宜泽张安达出战 朱蒙 19:00
 ${replace}/962838898
+#EXTINF:-1 tvg-id="丁俊晖VS霍金斯 吴宜泽张安达出战" tvg-name="斯诺克 丁俊晖VS霍金斯 吴宜泽张安达出战 朱峰立 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS霍金斯 吴宜泽张安达出战 朱峰立 19:00
+${replace}/962851242
 #EXTINF:-1 tvg-id="U12第24场 石狮草根 VS 香港東方" tvg-name="萨马兰奇杯 U12第24场 石狮草根 VS 香港東方 清流播出 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/28/100000001403106f43a3.jpg" group-title="体育-今天",萨马兰奇杯 U12第24场 石狮草根 VS 香港東方 清流播出 19:30
 ${replace}/962750005
 #EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 图文直播 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 图文直播 19:35
@@ -431,6 +435,8 @@ ${replace}/962481905
 ${replace}/962481918
 #EXTINF:-1 tvg-id="印度尼西亚VS越南" tvg-name="五人制亚洲杯 印度尼西亚VS越南 王子睿 19:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 印度尼西亚VS越南 王子睿 19:45
 ${replace}/962764054
+#EXTINF:-1 tvg-id="印度尼西亚VS越南" tvg-name="五人制亚洲杯 印度尼西亚VS越南 赛场原声 19:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png" group-title="体育-今天",五人制亚洲杯 印度尼西亚VS越南 赛场原声 19:45
+${replace}/962851062
 #EXTINF:-1 tvg-id="博洛尼亚VSAC米兰" tvg-name="意甲 博洛尼亚VSAC米兰 石庆圣 李彦 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天",意甲 博洛尼亚VSAC米兰 石庆圣 李彦 03:15
 ${replace}/962748616
 #EXTINF:-1 tvg-id="博洛尼亚VSAC米兰" tvg-name="意甲 博洛尼亚VSAC米兰 赛场原声 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天",意甲 博洛尼亚VSAC米兰 赛场原声 03:30
