@@ -68,7 +68,7 @@ jobs:
           
           # 关键：生成北京时间的commit信息
           COMMIT_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
-          git commit -m "Auto update files: $COMMIT_TIME (CST/北京时间)"
+          git commit -m "Auto update files: $COMMIT_TIME (UTC+8)"
           git push origin HEAD:main --force-with-lease
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
