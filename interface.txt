@@ -313,8 +313,6 @@ ${replace}/963095303
 ${replace}/963095784
 #EXTINF:-1 tvg-id="阿布扎比站" tvg-name="浪琴国家联赛 阿布扎比站 2026浪琴国家联赛阿布扎比站全场回放 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/8/100000001150106c3201.jpg" group-title="体育-昨天",浪琴国家联赛 阿布扎比站 2026浪琴国家联赛阿布扎比站全场回放 19:00
 ${replace}/963101558
-#EXTINF:-1 tvg-id="横井/青木女双夺冠 奥恰洛夫2-3惜败" tvg-name="WTT 横井/青木女双夺冠 奥恰洛夫2-3惜败 【女双决赛】柳韩娜/金娜英1-3横井咲樱/青木咲智 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 横井/青木女双夺冠 奥恰洛夫2-3惜败 【女双决赛】柳韩娜/金娜英1-3横井咲樱/青木咲智 19:30
-${replace}/963101721
 #EXTINF:-1 tvg-id="横井/青木女双夺冠 奥恰洛夫2-3惜败" tvg-name="WTT 横井/青木女双夺冠 奥恰洛夫2-3惜败 全场回放（凌维康） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 横井/青木女双夺冠 奥恰洛夫2-3惜败 全场回放（凌维康） 19:30
 ${replace}/963100981
 #EXTINF:-1 tvg-id="横井/青木女双夺冠 奥恰洛夫2-3惜败" tvg-name="WTT 横井/青木女双夺冠 奥恰洛夫2-3惜败 全场回放（一号桌） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 横井/青木女双夺冠 奥恰洛夫2-3惜败 全场回放（一号桌） 19:30
@@ -391,8 +389,6 @@ ${replace}/963105806
 ${replace}/963105958
 #EXTINF:-1 tvg-id="NBA全明星单项赛" tvg-name="NBA NBA全明星单项赛 全场回放（英文原声） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星单项赛 全场回放（英文原声） 05:55
 ${replace}/963107494
-#EXTINF:-1 tvg-id="《NBA周刊》2026全明星前方特别节目" tvg-name="NBA 《NBA周刊》2026全明星前方特别节目 解说 11:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 《NBA周刊》2026全明星前方特别节目 解说 11:55
-${replace}/963046260
 #EXTINF:-1 tvg-id="约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静" tvg-name="WTT 约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静 朱子恒 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静 朱子恒 13:30
 ${replace}/962930029
 #EXTINF:-1 tvg-id="约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静" tvg-name="WTT 约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静 赛场原声 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静 赛场原声 13:30
@@ -527,6 +523,8 @@ ${replace}/963068797
 ${replace}/962933762
 #EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 佳依 小七 05:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA NBA全明星正赛 佳依 小七 05:30
 ${replace}/962933806
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 同看冬奥会 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA NBA全明星正赛 同看冬奥会 04:00
+${replace}/963078636
 #EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 莫俊祺 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA NBA全明星正赛 莫俊祺 05:55
 ${replace}/962933891
 #EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 洪荒 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA NBA全明星正赛 洪荒 05:55
