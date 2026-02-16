@@ -349,14 +349,14 @@ ${replace}/963118583
 ${replace}/963118978
 #EXTINF:-1 tvg-id="巴列卡诺VS马德里竞技" tvg-name="西甲 巴列卡诺VS马德里竞技 全场回放（李霄、贺宇） 23:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-昨天",西甲 巴列卡诺VS马德里竞技 全场回放（李霄、贺宇） 23:00
 ${replace}/963119468
+#EXTINF:-1 tvg-id="迪亚尔多沃德科玻璃VS尼姆-蒙彼利埃" tvg-name="乒乓球欧冠 迪亚尔多沃德科玻璃VS尼姆-蒙彼利埃 25/26赛季乒乓球欧冠1/4决赛第二回合全场回放：迪亚尔多沃德科玻璃1-3尼姆-蒙彼利埃联盟 00:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V4JDQ2PO.png" group-title="体育-今天",乒乓球欧冠 迪亚尔多沃德科玻璃VS尼姆-蒙彼利埃 25/26赛季乒乓球欧冠1/4决赛第二回合全场回放：迪亚尔多沃德科玻璃1-3尼姆-蒙彼利埃联盟 00:00
+${replace}/963121188
 #EXTINF:-1 tvg-id="迪亚尔多沃德科玻璃VS尼姆-蒙彼利埃" tvg-name="乒乓球欧冠 迪亚尔多沃德科玻璃VS尼姆-蒙彼利埃 【全场回放】（周泽昊） 00:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V4JDQ2PO.png" group-title="体育-今天",乒乓球欧冠 迪亚尔多沃德科玻璃VS尼姆-蒙彼利埃 【全场回放】（周泽昊） 00:00
 ${replace}/963119983
 #EXTINF:-1 tvg-id="洛里昂VS昂热" tvg-name="法甲 洛里昂VS昂热 全场回放（李永熙） 00:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 洛里昂VS昂热 全场回放（李永熙） 00:00
 ${replace}/963119903
 #EXTINF:-1 tvg-id="梅斯VS欧塞尔" tvg-name="法甲 梅斯VS欧塞尔 全场回放（盛斌） 00:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 梅斯VS欧塞尔 全场回放（盛斌） 00:00
 ${replace}/963119882
-#EXTINF:-1 tvg-id="RB莱比锡VS沃尔夫斯堡" tvg-name="德甲 RB莱比锡VS沃尔夫斯堡 全场回放 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 RB莱比锡VS沃尔夫斯堡 全场回放 00:15
-${replace}/963120362
 #EXTINF:-1 tvg-id="RB莱比锡VS沃尔夫斯堡" tvg-name="德甲 RB莱比锡VS沃尔夫斯堡 全场回放（鲁靖明） 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-今天",德甲 RB莱比锡VS沃尔夫斯堡 全场回放（鲁靖明） 00:15
 ${replace}/963119994
 #EXTINF:-1 tvg-id="阿森纳VS维冈竞技" tvg-name="足总杯 阿森纳VS维冈竞技 全场回放（颜强、刘畅） 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="体育-今天",足总杯 阿森纳VS维冈竞技 全场回放（颜强、刘畅） 00:15
@@ -365,43 +365,53 @@ ${replace}/963120036
 ${replace}/963120161
 #EXTINF:-1 tvg-id="莱万特VS瓦伦西亚" tvg-name="西甲 莱万特VS瓦伦西亚 全场回放（张天翼） 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 莱万特VS瓦伦西亚 全场回放（张天翼） 01:15
 ${replace}/963120295
-#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 李嘉伟 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 李嘉伟 03:15
-${replace}/963062082
-#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 英文原声 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 英文原声 03:25
-${replace}/963062065
-#EXTINF:-1 tvg-id="里昂VS尼斯" tvg-name="法甲 里昂VS尼斯 鹿中原 03:30" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里昂VS尼斯 鹿中原 03:30
-${replace}/963070170
-#EXTINF:-1 tvg-id="里昂VS尼斯" tvg-name="法甲 里昂VS尼斯 赛场原声 03:30" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里昂VS尼斯 赛场原声 03:30
-${replace}/963070196
-#EXTINF:-1 tvg-id="那不勒斯VS罗马" tvg-name="意甲 那不勒斯VS罗马 吴桐 贺宇 03:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 那不勒斯VS罗马 吴桐 贺宇 03:15
-${replace}/963069462
-#EXTINF:-1 tvg-id="那不勒斯VS罗马" tvg-name="意甲 那不勒斯VS罗马 冬奥会冰球 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 那不勒斯VS罗马 冬奥会冰球 04:00
-${replace}/963078636
-#EXTINF:-1 tvg-id="那不勒斯VS罗马" tvg-name="意甲 那不勒斯VS罗马 赛场原声 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 那不勒斯VS罗马 赛场原声 03:30
-${replace}/963069520
-#EXTINF:-1 tvg-id="马略卡VS皇家贝蒂斯" tvg-name="西甲 马略卡VS皇家贝蒂斯 兰子非 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 马略卡VS皇家贝蒂斯 兰子非 03:45
-${replace}/963068783
-#EXTINF:-1 tvg-id="马略卡VS皇家贝蒂斯" tvg-name="西甲 马略卡VS皇家贝蒂斯 赛场原声 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 马略卡VS皇家贝蒂斯 赛场原声 03:45
-${replace}/963068797
-#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 杨健 曾令旭 周鹏 05:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 杨健 曾令旭 周鹏 05:30
-${replace}/962933762
-#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 佳依 小七 05:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 佳依 小七 05:30
-${replace}/962933806
-#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 同看冬奥会 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 同看冬奥会 04:00
-${replace}/963078636
-#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 莫俊祺 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 莫俊祺 05:55
-${replace}/962933891
-#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 洪荒 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 洪荒 05:55
-${replace}/962933910
-#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 英文原声 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 英文原声 05:55
-${replace}/962933951
+#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 全场回放（李嘉伟） 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 全场回放（李嘉伟） 03:25
+${replace}/963120611
+#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 全场回放（英文原声） 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 全场回放（英文原声） 03:25
+${replace}/963120831
+#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 【回放】黑队31-29白队 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 【回放】黑队31-29白队 03:25
+${replace}/963120585
+#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 【回放】蓝队25-37白队 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 【回放】蓝队25-37白队 03:25
+${replace}/963120512
+#EXTINF:-1 tvg-id="NBA G联赛全明星赛" tvg-name="G联赛 NBA G联赛全明星赛 【回放】红队32-35黑队 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 NBA G联赛全明星赛 【回放】红队32-35黑队 03:25
+${replace}/963120445
+#EXTINF:-1 tvg-id="里昂VS尼斯" tvg-name="法甲 里昂VS尼斯 全场回放（鹿中原） 03:30" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" group-title="体育-今天",法甲 里昂VS尼斯 全场回放（鹿中原） 03:30
+${replace}/963120758
+#EXTINF:-1 tvg-id="那不勒斯VS罗马" tvg-name="意甲 那不勒斯VS罗马 全场回放（吴桐、贺宇） 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 那不勒斯VS罗马 全场回放（吴桐、贺宇） 03:30
+${replace}/963120817
+#EXTINF:-1 tvg-id="马略卡VS皇家贝蒂斯" tvg-name="西甲 马略卡VS皇家贝蒂斯 全场回放（兰子非） 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-今天",西甲 马略卡VS皇家贝蒂斯 全场回放（兰子非） 03:45
+${replace}/963120874
+#EXTINF:-1 tvg-id="美国星队VS世界队" tvg-name="NBA 美国星队VS世界队 全场回放 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 美国星队VS世界队 全场回放 05:55
+${replace}/963121086
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 全场回放（杨健、曾令旭、周鹏） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 全场回放（杨健、曾令旭、周鹏） 05:55
+${replace}/963121999
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 全场回放（佳依、小七） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 全场回放（佳依、小七） 05:55
+${replace}/963122072
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 全场回放（莫俊祺） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 全场回放（莫俊祺） 05:55
+${replace}/963122092
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 全场回放（洪荒） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 全场回放（洪荒） 05:55
+${replace}/963122173
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 世界队vs条纹队全场回放（杨健、曾令旭、周鹏） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 世界队vs条纹队全场回放（杨健、曾令旭、周鹏） 05:55
+${replace}/963121537
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 星队vs条纹队全场回放（杨健、曾令旭、周鹏） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 星队vs条纹队全场回放（杨健、曾令旭、周鹏） 05:55
+${replace}/963121175
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 世界队vs星队全场回放（杨健、曾令旭、周鹏） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 世界队vs星队全场回放（杨健、曾令旭、周鹏） 05:55
+${replace}/963121086
+#EXTINF:-1 tvg-id="NBA全明星正赛" tvg-name="NBA NBA全明星正赛 星队vs条纹队全场回放（杨健、曾令旭、周鹏） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA NBA全明星正赛 星队vs条纹队全场回放（杨健、曾令旭、周鹏） 05:55
+${replace}/963121728
+#EXTINF:-1 tvg-id="美国条纹队VS美国星队" tvg-name="NBA 美国条纹队VS美国星队 全场回放 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 美国条纹队VS美国星队 全场回放 05:55
+${replace}/963121175
 #EXTINF:-1 tvg-id="Zuffa拳击3：阿贾格巴vs马丁" tvg-name="Zuffa拳击 Zuffa拳击3：阿贾格巴vs马丁 陈瑞阳 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R9E7BQ06.png" group-title="体育-今天",Zuffa拳击 Zuffa拳击3：阿贾格巴vs马丁 陈瑞阳 07:00
 ${replace}/963061955
 #EXTINF:-1 tvg-id="Zuffa拳击3：阿贾格巴vs马丁" tvg-name="Zuffa拳击 Zuffa拳击3：阿贾格巴vs马丁 英文原声 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R9E7BQ06.png" group-title="体育-今天",Zuffa拳击 Zuffa拳击3：阿贾格巴vs马丁 英文原声 07:00
 ${replace}/963061937
-#EXTINF:-1 tvg-id="WTA迪拜站Day2" tvg-name="WTA WTA迪拜站Day2 清流 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA WTA迪拜站Day2 清流 15:00
+#EXTINF:-1 tvg-id="美国条纹队VS世界队" tvg-name="NBA 美国条纹队VS世界队 全场回放 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 美国条纹队VS世界队 全场回放 05:55
+${replace}/963121537
+#EXTINF:-1 tvg-id="美国条纹队VS美国星队" tvg-name="NBA 美国条纹队VS美国星队 全场回放 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 美国条纹队VS美国星队 全场回放 05:55
+${replace}/963121728
+#EXTINF:-1 tvg-id="姆博科、阿尼西莫娃出场" tvg-name="WTA 姆博科、阿尼西莫娃出场 清流 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 姆博科、阿尼西莫娃出场 清流 15:00
 ${replace}/963046720
-#EXTINF:-1 tvg-id="WTA迪拜站Day2" tvg-name="WTA WTA迪拜站Day2 英文原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA WTA迪拜站Day2 英文原声 15:00
+#EXTINF:-1 tvg-id="姆博科、阿尼西莫娃出场" tvg-name="WTA 姆博科、阿尼西莫娃出场 英文原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 姆博科、阿尼西莫娃出场 英文原声 15:00
 ${replace}/963046729
 #EXTINF:-1 tvg-id="吉达国民VS迪拜青年国民" tvg-name="亚冠精英 吉达国民VS迪拜青年国民 涂远 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-明天",亚冠精英 吉达国民VS迪拜青年国民 涂远 23:45
 ${replace}/963063061
@@ -433,6 +443,8 @@ ${replace}/963068922
 ${replace}/963098837
 #EXTINF:-1 tvg-id="吉罗纳VS巴塞罗那" tvg-name="西甲 吉罗纳VS巴塞罗那 赛场原声 03:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" group-title="体育-明天",西甲 吉罗纳VS巴塞罗那 赛场原声 03:45
 ${replace}/963068938
+#EXTINF:-1 tvg-id="2003-04赛季魔术vs奇才" tvg-name="NBA经典赛事 2003-04赛季魔术vs奇才 王冠证 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-明天",NBA经典赛事 2003-04赛季魔术vs奇才 王冠证 10:00
+${replace}/963095635
 #EXTINF:-1 tvg-id="WTA迪拜站Day3" tvg-name="WTA WTA迪拜站Day3 清流 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA迪拜站Day3 清流 15:00
 ${replace}/963046780
 #EXTINF:-1 tvg-id="WTA迪拜站Day3" tvg-name="WTA WTA迪拜站Day3 英文原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA迪拜站Day3 英文原声 15:00
@@ -445,6 +457,10 @@ ${replace}/963063196
 ${replace}/963063238
 #EXTINF:-1 tvg-id="町田泽维亚VS成都蓉城" tvg-name="亚冠精英 町田泽维亚VS成都蓉城 赛场原声 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-明天",亚冠精英 町田泽维亚VS成都蓉城 赛场原声 17:45
 ${replace}/963066110
+#EXTINF:-1 tvg-id="町田泽维亚VS成都蓉城" tvg-name="亚冠精英 町田泽维亚VS成都蓉城 赛场原声 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-明天",亚冠精英 町田泽维亚VS成都蓉城 赛场原声 17:45
+${replace}/963121746
+#EXTINF:-1 tvg-id="2004-05赛季森林狼vs太阳" tvg-name="NBA经典赛事 2004-05赛季森林狼vs太阳 邢晨 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-明天",NBA经典赛事 2004-05赛季森林狼vs太阳 邢晨 19:00
+${replace}/963095646
 #EXTINF:-1 tvg-id="柔佛新山VS神户胜利船" tvg-name="亚冠精英 柔佛新山VS神户胜利船 鲁靖明 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-明天",亚冠精英 柔佛新山VS神户胜利船 鲁靖明 20:00
 ${replace}/963063342
 #EXTINF:-1 tvg-id="柔佛新山VS神户胜利船" tvg-name="亚冠精英 柔佛新山VS神户胜利船 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-明天",亚冠精英 柔佛新山VS神户胜利船 赛场原声 20:00
@@ -457,3 +473,5 @@ ${replace}/963066134
 ${replace}/963070365
 #EXTINF:-1 tvg-id="吴宜泽PK艾伦 罗伯逊迎战希金斯" tvg-name="斯诺克 吴宜泽PK艾伦 罗伯逊迎战希金斯 2号桌 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 吴宜泽PK艾伦 罗伯逊迎战希金斯 2号桌 21:00
 ${replace}/963070390
+#EXTINF:-1 tvg-id="吴宜泽PK艾伦 罗伯逊迎战希金斯" tvg-name="斯诺克 吴宜泽PK艾伦 罗伯逊迎战希金斯 柏林 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 吴宜泽PK艾伦 罗伯逊迎战希金斯 柏林 21:00
+${replace}/963122383
