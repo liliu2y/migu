@@ -520,7 +520,7 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 冬季两项女子4*6公里</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219150000 +0800" stop="20260219160000 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 冰壶精选</title>
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 单板滑雪男子坡面技巧决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219160000 +0800" stop="20260219164700 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧女子决赛</title>
@@ -528,28 +528,22 @@
     <programme channel="CCTV5体育" start="20260219164700 +0800" stop="20260219172700 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 冲刺赛预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219172700 +0800" stop="20260219183000 +0800">
+    <programme channel="CCTV5体育" start="20260219172700 +0800" stop="20260219180000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 冲刺赛预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219183000 +0800" stop="20260219195000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260219195000 +0800" stop="20260219195500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧 颁奖仪式</title>
+    <programme channel="CCTV5体育" start="20260219180000 +0800" stop="20260219195500 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧资格赛1、2</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219195500 +0800" stop="20260219202500 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛半决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219202500 +0800" stop="20260219205200 +0800">
+    <programme channel="CCTV5体育" start="20260219202500 +0800" stop="20260219210000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛半决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219205200 +0800" stop="20260219211200 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛决赛</title>
+    <programme channel="CCTV5体育" start="20260219210000 +0800" stop="20260219223000 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219211200 +0800" stop="20260219213000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛决赛</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260219213000 +0800" stop="20260219233000 +0800">
+    <programme channel="CCTV5体育" start="20260219223000 +0800" stop="20260219233000 +0800">
         <title lang="zh">体育世界-全景米兰</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219233000 +0800" stop="20260219235900 +0800">
@@ -606,10 +600,16 @@
     <programme channel="CCTV5+体育赛事" start="20260219190000 +0800" stop="20260219200000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 短道速滑</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260219200000 +0800" stop="20260219210000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260219200000 +0800" stop="20260219205200 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧女子决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260219210000 +0800" stop="20260219235900 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260219205200 +0800" stop="20260219211200 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山女子冲刺赛决赛</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260219211200 +0800" stop="20260219212000 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山男子冲刺赛决赛</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260219212000 +0800" stop="20260219235900 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶女子 中国-日本</title>
     </programme>
     <channel id="CCTV6电影">
