@@ -319,14 +319,6 @@ ${replace}/963152357
 ${replace}/963152167
 #EXTINF:-1 tvg-id="狼队VS阿森纳" tvg-name="英超 狼队VS阿森纳 全场回放（刘畅、颜强、李子琪） 03:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 狼队VS阿森纳 全场回放（刘畅、颜强、李子琪） 03:45
 ${replace}/963152414
-#EXTINF:-1 tvg-id="朱成竹3-0力克对手 黄愉倢PK陈伊依" tvg-name="WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 凌维康 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 凌维康 11:00
-${replace}/963142817
-#EXTINF:-1 tvg-id="朱成竹3-0力克对手 黄愉倢PK陈伊依" tvg-name="WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 2号桌 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 2号桌 11:00
-${replace}/963142786
-#EXTINF:-1 tvg-id="朱成竹3-0力克对手 黄愉倢PK陈伊依" tvg-name="WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 3号桌 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 3号桌 11:00
-${replace}/963142799
-#EXTINF:-1 tvg-id="朱成竹3-0力克对手 黄愉倢PK陈伊依" tvg-name="WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 4号桌 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱成竹3-0力克对手 黄愉倢PK陈伊依 4号桌 11:00
-${replace}/963142808
 #EXTINF:-1 tvg-id="麦克阿瑟FCVS曼谷联" tvg-name="亚冠二级 麦克阿瑟FCVS曼谷联 盛斌 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 麦克阿瑟FCVS曼谷联 盛斌 15:30
 ${replace}/963064508
 #EXTINF:-1 tvg-id="麦克阿瑟FCVS曼谷联" tvg-name="亚冠二级 麦克阿瑟FCVS曼谷联 赛场原声 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-今天",亚冠二级 麦克阿瑟FCVS曼谷联 赛场原声 15:30
@@ -351,6 +343,8 @@ ${replace}/963046907
 ${replace}/963095740
 #EXTINF:-1 tvg-id="约翰·希金斯 vs 克里斯·韦克林" tvg-name="斯诺克 约翰·希金斯 vs 克里斯·韦克林 1号桌 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 约翰·希金斯 vs 克里斯·韦克林 1号桌 21:00
 ${replace}/963070809
+#EXTINF:-1 tvg-id="约翰·希金斯 vs 克里斯·韦克林" tvg-name="斯诺克 约翰·希金斯 vs 克里斯·韦克林 朱峰立 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 约翰·希金斯 vs 克里斯·韦克林 朱峰立 21:00
+${replace}/963159854
 #EXTINF:-1 tvg-id="贾德·特鲁姆普 vs 马克·威廉姆斯" tvg-name="斯诺克 贾德·特鲁姆普 vs 马克·威廉姆斯 朱蒙 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 贾德·特鲁姆普 vs 马克·威廉姆斯 朱蒙 03:00
 ${replace}/963122437
 #EXTINF:-1 tvg-id="贾德·特鲁姆普 vs 马克·威廉姆斯" tvg-name="斯诺克 贾德·特鲁姆普 vs 马克·威廉姆斯 1号桌 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 贾德·特鲁姆普 vs 马克·威廉姆斯 1号桌 03:00
@@ -421,11 +415,21 @@ ${replace}/963143008
 ${replace}/963143029
 #EXTINF:-1 tvg-id="抽签仪式：孙颖莎、林诗栋担任嘉宾" tvg-name="WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 周泽昊 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 周泽昊 17:30
 ${replace}/963143071
-#EXTINF:-1 tvg-id="抽签仪式：孙颖莎、林诗栋担任嘉宾" tvg-name="WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 抽签仪式 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 抽签仪式 17:30
+#EXTINF:-1 tvg-id="抽签仪式：孙颖莎、林诗栋担任嘉宾" tvg-name="WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 现场原声 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 现场原声 17:30
 ${replace}/963143058
+#EXTINF:-1 tvg-id="抽签仪式：孙颖莎、林诗栋担任嘉宾" tvg-name="WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 同看冬奥会自由式滑雪 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 抽签仪式：孙颖莎、林诗栋担任嘉宾 同看冬奥会自由式滑雪 17:20
+${replace}/963154676
 #EXTINF:-1 tvg-id="WTA迪拜站Day6" tvg-name="WTA WTA迪拜站Day6 赛场原声 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA迪拜站Day6 赛场原声 21:00
 ${replace}/963046939
 #EXTINF:-1 tvg-id="WTA迪拜站Day6" tvg-name="WTA WTA迪拜站Day6 英文原声 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA迪拜站Day6 英文原声 21:00
 ${replace}/963046952
+#EXTINF:-1 tvg-id="WTA迪拜站Day6" tvg-name="WTA WTA迪拜站Day6 同看自由式滑雪 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA迪拜站Day6 同看自由式滑雪 20:00
+${replace}/963154727
+#EXTINF:-1 tvg-id="WTA迪拜站Day6" tvg-name="WTA WTA迪拜站Day6 同看速度滑冰 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA迪拜站Day6 同看速度滑冰 23:00
+${replace}/963145562
 #EXTINF:-1 tvg-id="肖恩·墨菲 vs 赵心童" tvg-name="斯诺克 肖恩·墨菲 vs 赵心童 1号桌 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 肖恩·墨菲 vs 赵心童 1号桌 21:00
 ${replace}/963071097
+#EXTINF:-1 tvg-id="肖恩·墨菲 vs 赵心童" tvg-name="斯诺克 肖恩·墨菲 vs 赵心童 同看自由式滑雪 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 肖恩·墨菲 vs 赵心童 同看自由式滑雪 20:00
+${replace}/963154727
+#EXTINF:-1 tvg-id="肖恩·墨菲 vs 赵心童" tvg-name="斯诺克 肖恩·墨菲 vs 赵心童 同看速度滑冰 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 肖恩·墨菲 vs 赵心童 同看速度滑冰 23:00
+${replace}/963145562
