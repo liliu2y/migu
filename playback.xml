@@ -510,10 +510,10 @@
     <programme channel="CCTV5+体育赛事" start="20260223032900 +0800" stop="20260223054500 +0800">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-  闭幕式</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260223054500 +0800" stop="20260223064500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260223054500 +0800" stop="20260223060200 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260223064500 +0800" stop="20260223070000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260223060200 +0800" stop="20260223070000 +0800">
         <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏2（4K）</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260223070000 +0800" stop="20260223083000 +0800">
@@ -4371,7 +4371,7 @@
     <programme channel="辽宁卫视" start="20260223225200 +0800" stop="20260223233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260223233100 +0800" stop="20260224000000 +0800">
+    <programme channel="辽宁卫视" start="20260223233100 +0800" stop="20260224002900 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -8745,8 +8745,167 @@
     <channel id="陕西新闻资讯频道">
         <display-name lang="zh">陕西新闻资讯频道</display-name>
     </channel>
-    <programme channel="陕西新闻资讯频道" start="20260223000000 +0800" stop="20260223235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="陕西新闻资讯频道" start="20260223000000 +0800" stop="20260223005900 +0800">
+        <title lang="zh">星光剧场：梅花儿香</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223005900 +0800" stop="20260223012400 +0800">
+        <title lang="zh">帮忙有一套</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223012400 +0800" stop="20260223054400 +0800">
+        <title lang="zh">晚曲台标 彩图</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223054400 +0800" stop="20260223061400 +0800">
+        <title lang="zh">彩图</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223061400 +0800" stop="20260223061500 +0800">
+        <title lang="zh">台标晨曲</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223061500 +0800" stop="20260223065500 +0800">
+        <title lang="zh">百家碎戏</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223065500 +0800" stop="20260223070000 +0800">
+        <title lang="zh">宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223070000 +0800" stop="20260223070300 +0800">
+        <title lang="zh">国歌   宣传  B1</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223070300 +0800" stop="20260223073800 +0800">
+        <title lang="zh">晨光剧场：潜行者 8</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223073800 +0800" stop="20260223074000 +0800">
+        <title lang="zh">B2剧宣</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223074000 +0800" stop="20260223081500 +0800">
+        <title lang="zh">晨光剧场：潜行者 9</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223081500 +0800" stop="20260223081800 +0800">
+        <title lang="zh">B3 频宣</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223081800 +0800" stop="20260223082100 +0800">
+        <title lang="zh">B4 频宣</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223082100 +0800" stop="20260223085600 +0800">
+        <title lang="zh">晨光剧场：潜行者 10</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223085600 +0800" stop="20260223093100 +0800">
+        <title lang="zh">晨光剧场：潜行者 11</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223093100 +0800" stop="20260223093600 +0800">
+        <title lang="zh">B5-B6</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223093600 +0800" stop="20260223101100 +0800">
+        <title lang="zh">晨光剧场：潜行者 12</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223101100 +0800" stop="20260223104600 +0800">
+        <title lang="zh">晨光剧场：潜行者 13</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223104600 +0800" stop="20260223105600 +0800">
+        <title lang="zh">宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223105600 +0800" stop="20260223112100 +0800">
+        <title lang="zh">帮忙有一套</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223112100 +0800" stop="20260223112700 +0800">
+        <title lang="zh">B7 宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223112700 +0800" stop="20260223120300 +0800">
+        <title lang="zh">百家碎戏：替身爸爸</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223120300 +0800" stop="20260223120600 +0800">
+        <title lang="zh">B11-B12 频宣</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223120600 +0800" stop="20260223124300 +0800">
+        <title lang="zh">百家碎戏：恩怨堂兄弟</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223124300 +0800" stop="20260223124500 +0800">
+        <title lang="zh">B16</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223124500 +0800" stop="20260223125500 +0800">
+        <title lang="zh">宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223125500 +0800" stop="20260223125700 +0800">
+        <title lang="zh">B17</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223125700 +0800" stop="20260223133200 +0800">
+        <title lang="zh">百家剧场：虎胆巍城 11</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223133200 +0800" stop="20260223140700 +0800">
+        <title lang="zh">百家剧场：虎胆巍城 12</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223140700 +0800" stop="20260223141300 +0800">
+        <title lang="zh">B18宣传B19</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223141300 +0800" stop="20260223144800 +0800">
+        <title lang="zh">百家剧场：虎胆巍城 13</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223144800 +0800" stop="20260223152300 +0800">
+        <title lang="zh">百家剧场：虎胆巍城 14</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223152300 +0800" stop="20260223155800 +0800">
+        <title lang="zh">百家剧场：虎胆巍城 15</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223155800 +0800" stop="20260223162800 +0800">
+        <title lang="zh">百家碎戏：欢乐一家亲 1</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223162800 +0800" stop="20260223165000 +0800">
+        <title lang="zh">国风秦韵</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223165000 +0800" stop="20260223165600 +0800">
+        <title lang="zh">B20-B21  宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223165600 +0800" stop="20260223171800 +0800">
+        <title lang="zh">国风秦韵</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223171800 +0800" stop="20260223172300 +0800">
+        <title lang="zh">B22-B23 宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223172300 +0800" stop="20260223175800 +0800">
+        <title lang="zh">百家剧场：虎胆巍城 16</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223175800 +0800" stop="20260223182300 +0800">
+        <title lang="zh">帮忙有一套</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223182300 +0800" stop="20260223182900 +0800">
+        <title lang="zh">A1-A2宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223182900 +0800" stop="20260223183100 +0800">
+        <title lang="zh">陕西天气预报</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223183100 +0800" stop="20260223191700 +0800">
+        <title lang="zh">百家碎戏：铁匠传艺  A3-A7 导视3</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223191700 +0800" stop="20260223192700 +0800">
+        <title lang="zh">今日点击 A8</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223192700 +0800" stop="20260223193000 +0800">
+        <title lang="zh">A9</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223193000 +0800" stop="20260223195900 +0800">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223195900 +0800" stop="20260223200100 +0800">
+        <title lang="zh">A10</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223200100 +0800" stop="20260223220300 +0800">
+        <title lang="zh">第一剧场：情满九道弯 33-35 (A11-12)</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223220300 +0800" stop="20260223221000 +0800">
+        <title lang="zh">A13-A14-A15</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223221000 +0800" stop="20260223224500 +0800">
+        <title lang="zh">帮忙有一套 (A18-A19)</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223224500 +0800" stop="20260223225500 +0800">
+        <title lang="zh">大剧有一套 A20</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223225500 +0800" stop="20260223230000 +0800">
+        <title lang="zh">宣传</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223230000 +0800" stop="20260223232900 +0800">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20260223232900 +0800" stop="20260224000000 +0800">
+        <title lang="zh">陕北民歌 遇见</title>
     </programme>
     <channel id="财富天下">
         <display-name lang="zh">财富天下</display-name>
