@@ -365,7 +365,7 @@ ${replace}/963207976
 ${replace}/963208581
 #EXTINF:-1 tvg-id="决赛第一阶段：赵心童4-4希金斯" tvg-name="斯诺克 决赛第一阶段：赵心童4-4希金斯 【回放】约翰·希金斯4-4赵心童（柏林）（第一阶段） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 决赛第一阶段：赵心童4-4希金斯 【回放】约翰·希金斯4-4赵心童（柏林）（第一阶段） 20:00
 ${replace}/963209254
-#EXTINF:-1 tvg-id="决赛第一阶段：赵心童4-4希金斯" tvg-name="斯诺克 决赛第一阶段：赵心童4-4希金斯 2026斯诺克球员锦标赛决赛第一阶段回放：约翰·希金斯4-4赵心童 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 决赛第一阶段：赵心童4-4希金斯 2026斯诺克球员锦标赛决赛第一阶段回放：约翰·希金斯4-4赵心童 20:00
+#EXTINF:-1 tvg-id="决赛第一阶段：赵心童4-4希金斯" tvg-name="斯诺克 决赛第一阶段：赵心童4-4希金斯 【回放】约翰·希金斯4-4赵心童（第一阶段） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 决赛第一阶段：赵心童4-4希金斯 【回放】约翰·希金斯4-4赵心童（第一阶段） 20:00
 ${replace}/963216030
 #EXTINF:-1 tvg-id="马术场地障碍世界杯西欧联赛" tvg-name="国际马联场地障碍世界杯 马术场地障碍世界杯西欧联赛 2026国际马联场地障碍世界杯西欧联赛哥德堡站全场回放 21:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/13/100000001010106d9f87.jpg" group-title="体育-昨天",国际马联场地障碍世界杯 马术场地障碍世界杯西欧联赛 2026国际马联场地障碍世界杯西欧联赛哥德堡站全场回放 21:15
 ${replace}/963212217
@@ -445,6 +445,8 @@ ${replace}/963214120
 ${replace}/963214709
 #EXTINF:-1 tvg-id="撕裂之城混音VS圣克鲁兹勇士" tvg-name="G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（邢晨） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（邢晨） 06:55
 ${replace}/963214652
+#EXTINF:-1 tvg-id="撕裂之城混音VS圣克鲁兹勇士" tvg-name="G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（英文原声） 06:55
+${replace}/963215389
 #EXTINF:-1 tvg-id="湖人VS凯尔特人" tvg-name="NBA 湖人VS凯尔特人 全场回放（杨健、曾令旭、季孟年、拜月宁） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS凯尔特人 全场回放（杨健、曾令旭、季孟年、拜月宁） 07:25
 ${replace}/963214680
 #EXTINF:-1 tvg-id="湖人VS凯尔特人" tvg-name="NBA 湖人VS凯尔特人 全场回放（郑泽鹏） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS凯尔特人 全场回放（郑泽鹏） 07:25
@@ -461,25 +463,25 @@ ${replace}/963214873
 ${replace}/963215197
 #EXTINF:-1 tvg-id="公牛VS尼克斯" tvg-name="NBA 公牛VS尼克斯 全场回放（王晓晨） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS尼克斯 全场回放（王晓晨） 08:55
 ${replace}/963215441
+#EXTINF:-1 tvg-id="公牛VS尼克斯" tvg-name="NBA 公牛VS尼克斯 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS尼克斯 全场回放（英文原声） 08:55
+${replace}/963216501
 #EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 全场回放（蔡凯臣、殷文玉、廖昕阳） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 全场回放（蔡凯臣、殷文玉、廖昕阳） 08:55
 ${replace}/963215252
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 全场回放（英文原声） 08:55
+${replace}/963216193
+#EXTINF:-1 tvg-id="快船VS魔术" tvg-name="NBA 快船VS魔术 全场回放（徐秦威） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS魔术 全场回放（徐秦威） 09:55
+${replace}/963217680
+#EXTINF:-1 tvg-id="快船VS魔术" tvg-name="NBA 快船VS魔术 全场回放（英文原声） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS魔术 全场回放（英文原声） 09:55
+${replace}/963220576
 #EXTINF:-1 tvg-id="第二比赛日热身区" tvg-name="WTT 第二比赛日热身区 热身馆 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 第二比赛日热身区 热身馆 11:00
 ${replace}/963143164
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 侯英超 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 侯英超 12:00
+#EXTINF:-1 tvg-id="陈俊菘2-3张本智和 王艺迪横扫晋级" tvg-name="WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 侯英超 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 侯英超 12:00
 ${replace}/963143278
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 刘馨蕊 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 刘馨蕊 12:00
-${replace}/963143289
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 热身馆 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 热身馆 11:00
-${replace}/963143164
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 1号桌 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 1号桌 12:00
+#EXTINF:-1 tvg-id="陈俊菘2-3张本智和 王艺迪横扫晋级" tvg-name="WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 1号桌 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 1号桌 12:00
 ${replace}/963143198
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 2号桌 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 2号桌 12:00
-${replace}/963143209
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 3号桌 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 3号桌 12:00
-${replace}/963143221
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 4号桌 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 4号桌 12:00
-${replace}/963143244
-#EXTINF:-1 tvg-id="陈俊菘对决张本智和 王艺迪3-0朱芊曦" tvg-name="WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 英文解说 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘对决张本智和 王艺迪3-0朱芊曦 英文解说 12:00
+#EXTINF:-1 tvg-id="陈俊菘2-3张本智和 王艺迪横扫晋级" tvg-name="WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 热身馆 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 热身馆 11:00
+${replace}/963143164
+#EXTINF:-1 tvg-id="陈俊菘2-3张本智和 王艺迪横扫晋级" tvg-name="WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 英文解说 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 陈俊菘2-3张本智和 王艺迪横扫晋级 英文解说 12:00
 ${replace}/963143271
 #EXTINF:-1 tvg-id="孙颖莎迎首秀 黄友政/陈熠冲八强" tvg-name="WTT 孙颖莎迎首秀 黄友政/陈熠冲八强 周冠达 程靖淇 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 孙颖莎迎首秀 黄友政/陈熠冲八强 周冠达 程靖淇 17:30
 ${replace}/963143329
@@ -579,13 +581,13 @@ ${replace}/963142911
 ${replace}/963142923
 #EXTINF:-1 tvg-id="林诗栋争晋级 周启豪迎战科顿" tvg-name="WTT 林诗栋争晋级 周启豪迎战科顿 英文解说 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 林诗栋争晋级 周启豪迎战科顿 英文解说 12:00
 ${replace}/963142937
-#EXTINF:-1 tvg-id="德国羽毛球公开赛Day1" tvg-name="BWF 德国羽毛球公开赛Day1 1号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 德国羽毛球公开赛Day1 1号场 16:00
+#EXTINF:-1 tvg-id="王祉怡、李诗沣、凤凰组合领衔出战" tvg-name="BWF 王祉怡、李诗沣、凤凰组合领衔出战 1号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 王祉怡、李诗沣、凤凰组合领衔出战 1号场 16:00
 ${replace}/963203506
-#EXTINF:-1 tvg-id="德国羽毛球公开赛Day1" tvg-name="BWF 德国羽毛球公开赛Day1 2号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 德国羽毛球公开赛Day1 2号场 16:00
+#EXTINF:-1 tvg-id="王祉怡、李诗沣、凤凰组合领衔出战" tvg-name="BWF 王祉怡、李诗沣、凤凰组合领衔出战 2号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 王祉怡、李诗沣、凤凰组合领衔出战 2号场 16:00
 ${replace}/963203532
-#EXTINF:-1 tvg-id="德国羽毛球公开赛Day1" tvg-name="BWF 德国羽毛球公开赛Day1 3号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 德国羽毛球公开赛Day1 3号场 16:00
+#EXTINF:-1 tvg-id="王祉怡、李诗沣、凤凰组合领衔出战" tvg-name="BWF 王祉怡、李诗沣、凤凰组合领衔出战 3号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 王祉怡、李诗沣、凤凰组合领衔出战 3号场 16:00
 ${replace}/963203546
-#EXTINF:-1 tvg-id="德国羽毛球公开赛Day1" tvg-name="BWF 德国羽毛球公开赛Day1 4号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 德国羽毛球公开赛Day1 4号场 16:00
+#EXTINF:-1 tvg-id="王祉怡、李诗沣、凤凰组合领衔出战" tvg-name="BWF 王祉怡、李诗沣、凤凰组合领衔出战 4号场 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 王祉怡、李诗沣、凤凰组合领衔出战 4号场 16:00
 ${replace}/963203554
 #EXTINF:-1 tvg-id="王楚钦迎战户上 王曼昱冲16强" tvg-name="WTT 王楚钦迎战户上 王曼昱冲16强 周泽昊 程靖淇 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 王楚钦迎战户上 王曼昱冲16强 周泽昊 程靖淇 17:30
 ${replace}/963143385
