@@ -447,24 +447,18 @@ ${replace}/963382431
 ${replace}/963382452
 #EXTINF:-1 tvg-id="勇士VS快船" tvg-name="NBA 勇士VS快船 全场回放（英文原声） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS快船 全场回放（英文原声） 10:55
 ${replace}/963383497
-#EXTINF:-1 tvg-id="墨尔本城VS武里南联" tvg-name="亚冠精英 墨尔本城VS武里南联 鲁靖明 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 墨尔本城VS武里南联 鲁靖明 15:30
-${replace}/963284240
-#EXTINF:-1 tvg-id="墨尔本城VS武里南联" tvg-name="亚冠精英 墨尔本城VS武里南联 赛场原声 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 墨尔本城VS武里南联 赛场原声 15:30
-${replace}/963283359
-#EXTINF:-1 tvg-id="中国女足VS孟加拉女足" tvg-name="女足亚洲杯 中国女足VS孟加拉女足 吴桐 贺宇 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 中国女足VS孟加拉女足 吴桐 贺宇 15:45
-${replace}/963282840
-#EXTINF:-1 tvg-id="中国女足VS孟加拉女足" tvg-name="女足亚洲杯 中国女足VS孟加拉女足 赛场原声 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 中国女足VS孟加拉女足 赛场原声 15:45
-${replace}/963282824
-#EXTINF:-1 tvg-id="北京首钢园VS江苏南钢" tvg-name="女篮俱乐部杯 北京首钢园VS江苏南钢 赛场原声 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png" group-title="体育-今天",女篮俱乐部杯 北京首钢园VS江苏南钢 赛场原声 16:55
-${replace}/963319113
-#EXTINF:-1 tvg-id="江原FCVS町田泽维亚" tvg-name="亚冠精英 江原FCVS町田泽维亚 张昊泽 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 江原FCVS町田泽维亚 张昊泽 17:45
-${replace}/963284250
-#EXTINF:-1 tvg-id="江原FCVS町田泽维亚" tvg-name="亚冠精英 江原FCVS町田泽维亚 赛场原声 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 江原FCVS町田泽维亚 赛场原声 17:45
-${replace}/963283403
-#EXTINF:-1 tvg-id="石宇奇、陈雨菲领衔国羽出征" tvg-name="BWF 石宇奇、陈雨菲领衔国羽出征 冯彦哲/黄东萍 VS 许永凯/维德佳佳(鸿昆) 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇、陈雨菲领衔国羽出征 冯彦哲/黄东萍 VS 许永凯/维德佳佳(鸿昆) 18:00
-${replace}/963379730
-#EXTINF:-1 tvg-id="石宇奇、陈雨菲领衔国羽出征" tvg-name="BWF 石宇奇、陈雨菲领衔国羽出征 刘圣书／谭宁vs胡绫芳/郑宇倢(孙宁智) 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇、陈雨菲领衔国羽出征 刘圣书／谭宁vs胡绫芳/郑宇倢(孙宁智) 18:10
-${replace}/963379871
+#EXTINF:-1 tvg-id="墨尔本城VS武里南联" tvg-name="亚冠精英 墨尔本城VS武里南联 全场回放（鲁靖明） 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 墨尔本城VS武里南联 全场回放（鲁靖明） 15:30
+${replace}/963387013
+#EXTINF:-1 tvg-id="中国女足VS孟加拉女足" tvg-name="女足亚洲杯 中国女足VS孟加拉女足 全场回放（吴桐、贺宇） 15:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 中国女足VS孟加拉女足 全场回放（吴桐、贺宇） 15:45
+${replace}/963387238
+#EXTINF:-1 tvg-id="北京首钢园VS江苏南钢" tvg-name="女篮俱乐部杯 北京首钢园VS江苏南钢 全场回放 17:07" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png" group-title="体育-今天",女篮俱乐部杯 北京首钢园VS江苏南钢 全场回放 17:07
+${replace}/963388315
+#EXTINF:-1 tvg-id="江原FCVS町田泽维亚" tvg-name="亚冠精英 江原FCVS町田泽维亚 全场回放 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 江原FCVS町田泽维亚 全场回放 17:45
+${replace}/963388737
+#EXTINF:-1 tvg-id="江原FCVS町田泽维亚" tvg-name="亚冠精英 江原FCVS町田泽维亚 全场回放（张昊泽） 17:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 江原FCVS町田泽维亚 全场回放（张昊泽） 17:45
+${replace}/963388371
+#EXTINF:-1 tvg-id="石宇奇、陈雨菲领衔国羽出征" tvg-name="BWF 石宇奇、陈雨菲领衔国羽出征 石宇奇 VS 拉克什亚(鸿昆) 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇、陈雨菲领衔国羽出征 石宇奇 VS 拉克什亚(鸿昆) 19:00
+${replace}/963379753
 #EXTINF:-1 tvg-id="石宇奇、陈雨菲领衔国羽出征" tvg-name="BWF 石宇奇、陈雨菲领衔国羽出征 1号场 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇、陈雨菲领衔国羽出征 1号场 18:00
 ${replace}/963366680
 #EXTINF:-1 tvg-id="石宇奇、陈雨菲领衔国羽出征" tvg-name="BWF 石宇奇、陈雨菲领衔国羽出征 2号场 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇、陈雨菲领衔国羽出征 2号场 18:00
