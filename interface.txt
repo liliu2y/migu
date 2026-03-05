@@ -383,28 +383,24 @@ ${replace}/963414496
 ${replace}/963415616
 #EXTINF:-1 tvg-id="纽卡斯尔联VS曼联" tvg-name="英超 纽卡斯尔联VS曼联 全场回放（詹俊、张路、林梦鸽） 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 纽卡斯尔联VS曼联 全场回放（詹俊、张路、林梦鸽） 04:00
 ${replace}/963415337
-#EXTINF:-1 tvg-id="尼克斯VS雷霆" tvg-name="NBA 尼克斯VS雷霆 罗森 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS雷霆 罗森 07:55
-${replace}/963348141
-#EXTINF:-1 tvg-id="尼克斯VS雷霆" tvg-name="NBA 尼克斯VS雷霆 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS雷霆 英文原声 07:55
-${replace}/963348172
-#EXTINF:-1 tvg-id="凯尔特人VS黄蜂" tvg-name="NBA 凯尔特人VS黄蜂 蔡凯臣 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 凯尔特人VS黄蜂 蔡凯臣 08:25
-${replace}/963348189
-#EXTINF:-1 tvg-id="凯尔特人VS黄蜂" tvg-name="NBA 凯尔特人VS黄蜂 英文原声 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 凯尔特人VS黄蜂 英文原声 08:25
-${replace}/963348220
-#EXTINF:-1 tvg-id="76人VS爵士" tvg-name="NBA 76人VS爵士 贾磊 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS爵士 贾磊 08:25
-${replace}/963348250
-#EXTINF:-1 tvg-id="76人VS爵士" tvg-name="NBA 76人VS爵士 英文原声 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS爵士 英文原声 08:25
-${replace}/963348283
-#EXTINF:-1 tvg-id="灰熊VS开拓者" tvg-name="NBA 灰熊VS开拓者 李天宇 陈正昊 王羽希 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS开拓者 李天宇 陈正昊 王羽希 08:45
-${replace}/963348299
-#EXTINF:-1 tvg-id="灰熊VS开拓者" tvg-name="NBA 灰熊VS开拓者 邢晨 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS开拓者 邢晨 08:55
-${replace}/963348318
-#EXTINF:-1 tvg-id="灰熊VS开拓者" tvg-name="NBA 灰熊VS开拓者 英文原声 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS开拓者 英文原声 08:55
-${replace}/963348366
-#EXTINF:-1 tvg-id="雄鹿VS老鹰" tvg-name="NBA 雄鹿VS老鹰 徐秦威 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS老鹰 徐秦威 10:25
-${replace}/963348396
-#EXTINF:-1 tvg-id="雄鹿VS老鹰" tvg-name="NBA 雄鹿VS老鹰 英文原声 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS老鹰 英文原声 10:25
-${replace}/963348423
+#EXTINF:-1 tvg-id="尼克斯VS雷霆" tvg-name="NBA 尼克斯VS雷霆 全场回放（罗森） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS雷霆 全场回放（罗森） 07:55
+${replace}/963418946
+#EXTINF:-1 tvg-id="尼克斯VS雷霆" tvg-name="NBA 尼克斯VS雷霆 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 尼克斯VS雷霆 全场回放（英文原声） 07:55
+${replace}/963419018
+#EXTINF:-1 tvg-id="凯尔特人VS黄蜂" tvg-name="NBA 凯尔特人VS黄蜂 全场回放（蔡凯臣） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 凯尔特人VS黄蜂 全场回放（蔡凯臣） 08:25
+${replace}/963419332
+#EXTINF:-1 tvg-id="凯尔特人VS黄蜂" tvg-name="NBA 凯尔特人VS黄蜂 全场回放（英文原声） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 凯尔特人VS黄蜂 全场回放（英文原声） 08:25
+${replace}/963419365
+#EXTINF:-1 tvg-id="76人VS爵士" tvg-name="NBA 76人VS爵士 全场回放（贾磊） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS爵士 全场回放（贾磊） 08:25
+${replace}/963419279
+#EXTINF:-1 tvg-id="76人VS爵士" tvg-name="NBA 76人VS爵士 全场回放（英文原声） 08:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS爵士 全场回放（英文原声） 08:25
+${replace}/963419353
+#EXTINF:-1 tvg-id="灰熊VS开拓者" tvg-name="NBA 灰熊VS开拓者 全场回放（李天宇、陈正昊、王羽希） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS开拓者 全场回放（李天宇、陈正昊、王羽希） 08:55
+${replace}/963420039
+#EXTINF:-1 tvg-id="灰熊VS开拓者" tvg-name="NBA 灰熊VS开拓者 全场回放（邢晨） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS开拓者 全场回放（邢晨） 08:55
+${replace}/963419992
+#EXTINF:-1 tvg-id="灰熊VS开拓者" tvg-name="NBA 灰熊VS开拓者 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS开拓者 全场回放（英文原声） 08:55
+${replace}/963419980
 #EXTINF:-1 tvg-id="菲律宾女足VS韩国女足" tvg-name="女足亚洲杯 菲律宾女足VS韩国女足 兰子非 10:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 菲律宾女足VS韩国女足 兰子非 10:45
 ${replace}/963282463
 #EXTINF:-1 tvg-id="菲律宾女足VS韩国女足" tvg-name="女足亚洲杯 菲律宾女足VS韩国女足 赛场原声 10:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 菲律宾女足VS韩国女足 赛场原声 10:45
