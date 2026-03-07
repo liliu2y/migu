@@ -345,11 +345,8 @@
     <programme channel="CCTV4中文国际" start="20260307090000 +0800" stop="20260307094500 +0800">
         <title lang="zh">远方的家2025-生态中国14</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260307094500 +0800" stop="20260307114430 +0800">
+    <programme channel="CCTV4中文国际" start="20260307094500 +0800" stop="20260307120000 +0800">
         <title lang="zh">2026年两会报道-4</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260307114430 +0800" stop="20260307120000 +0800">
-        <title lang="zh">远方的家-传世古建-6</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260307120000 +0800" stop="20260307134815 +0800">
         <title lang="zh">中国新闻</title>
@@ -1551,14 +1548,8 @@
     <programme channel="CCTV4欧洲" start="20260307090000 +0800" stop="20260307094500 +0800">
         <title lang="zh">远方的家2025-生态中国11</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260307094500 +0800" stop="20260307114200 +0800">
+    <programme channel="CCTV4欧洲" start="20260307094500 +0800" stop="20260307120000 +0800">
         <title lang="zh">2026年两会报道-4</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260307114200 +0800" stop="20260307115700 +0800">
-        <title lang="zh">平凡匠心-2025-44</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260307115700 +0800" stop="20260307120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-1</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260307120000 +0800" stop="20260307134500 +0800">
         <title lang="zh">中国新闻</title>
@@ -1677,14 +1668,8 @@
     <programme channel="CCTV4美洲" start="20260307090000 +0800" stop="20260307094500 +0800">
         <title lang="zh">远方的家2025-生态中国14</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260307094500 +0800" stop="20260307114200 +0800">
+    <programme channel="CCTV4美洲" start="20260307094500 +0800" stop="20260307120000 +0800">
         <title lang="zh">2026年两会报道-4</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260307114200 +0800" stop="20260307115700 +0800">
-        <title lang="zh">平凡匠心-2025-36</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260307115700 +0800" stop="20260307120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-10</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260307120000 +0800" stop="20260307134500 +0800">
         <title lang="zh">中国新闻</title>
@@ -2766,8 +2751,74 @@
     <channel id="中学生">
         <display-name lang="zh">中学生</display-name>
     </channel>
-    <programme channel="中学生" start="20260307000000 +0800" stop="20260307235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="中学生" start="20260306230000 +0800" stop="20260307080000 +0800">
+        <title lang="zh">《希望之星》英语风采大会幼儿组</title>
+    </programme>
+    <programme channel="中学生" start="20260307080000 +0800" stop="20260307090000 +0800">
+        <title lang="zh">《希望之星》2023小低组</title>
+    </programme>
+    <programme channel="中学生" start="20260307090000 +0800" stop="20260307102900 +0800">
+        <title lang="zh">《超燃星梦想》2026春节联欢晚会综合第一场</title>
+    </programme>
+    <programme channel="中学生" start="20260307102900 +0800" stop="20260307115700 +0800">
+        <title lang="zh">《超燃星梦想》2026春节联欢晚会综合第二场</title>
+    </programme>
+    <programme channel="中学生" start="20260307115700 +0800" stop="20260307115900 +0800">
+        <title lang="zh">2026全国中小学生少儿春晚大湾区分会场形象代言人</title>
+    </programme>
+    <programme channel="中学生" start="20260307115900 +0800" stop="20260307132800 +0800">
+        <title lang="zh">张明敏“我的中国心”公益音乐会</title>
+    </programme>
+    <programme channel="中学生" start="20260307132800 +0800" stop="20260307142700 +0800">
+        <title lang="zh">中国民族体育春晚郑州站</title>
+    </programme>
+    <programme channel="中学生" start="20260307142700 +0800" stop="20260307151400 +0800">
+        <title lang="zh">中国民族体育春晚海南站</title>
+    </programme>
+    <programme channel="中学生" start="20260307151400 +0800" stop="20260307172500 +0800">
+        <title lang="zh">第十二届上海我爱祖国青少年美育圆梦春节联欢晚会</title>
+    </programme>
+    <programme channel="中学生" start="20260307172500 +0800" stop="20260307182500 +0800">
+        <title lang="zh">中国民族体育春晚北京站</title>
+    </programme>
+    <programme channel="中学生" start="20260307182500 +0800" stop="20260307183600 +0800">
+        <title lang="zh">《人物故事》宁国市濡子惠心理潜能开发咨询中心</title>
+    </programme>
+    <programme channel="中学生" start="20260307183600 +0800" stop="20260307184600 +0800">
+        <title lang="zh">《对话教育》陈曼曼</title>
+    </programme>
+    <programme channel="中学生" start="20260307184600 +0800" stop="20260307185600 +0800">
+        <title lang="zh">《对话教育》方秀芬</title>
+    </programme>
+    <programme channel="中学生" start="20260307185600 +0800" stop="20260307190600 +0800">
+        <title lang="zh">《对话教育》姜峰</title>
+    </programme>
+    <programme channel="中学生" start="20260307190600 +0800" stop="20260307191600 +0800">
+        <title lang="zh">《对话教育》内蒙古为学教育咨询有限公司—赵春龙</title>
+    </programme>
+    <programme channel="中学生" start="20260307191600 +0800" stop="20260307193100 +0800">
+        <title lang="zh">《国风少年》初出茅庐</title>
+    </programme>
+    <programme channel="中学生" start="20260307193100 +0800" stop="20260307194600 +0800">
+        <title lang="zh">《国风少年》锦囊妙计</title>
+    </programme>
+    <programme channel="中学生" start="20260307194600 +0800" stop="20260307200100 +0800">
+        <title lang="zh">《国风少年》开诚布公</title>
+    </programme>
+    <programme channel="中学生" start="20260307200100 +0800" stop="20260307200700 +0800">
+        <title lang="zh">《我是宣讲人》朱枫—红枫丹心映千秋</title>
+    </programme>
+    <programme channel="中学生" start="20260307200700 +0800" stop="20260307222200 +0800">
+        <title lang="zh">2026艺启向前冲春节联欢晚会（山西）</title>
+    </programme>
+    <programme channel="中学生" start="20260307222200 +0800" stop="20260307225400 +0800">
+        <title lang="zh">《跟随书本去旅行》解码平潭岛的文化基因</title>
+    </programme>
+    <programme channel="中学生" start="20260307225400 +0800" stop="20260307230000 +0800">
+        <title lang="zh">《闪光的少年》无名旅人</title>
+    </programme>
+    <programme channel="中学生" start="20260307230000 +0800" stop="20260308080000 +0800">
+        <title lang="zh">《希望之星》英语风采大会小学低年级组</title>
     </programme>
     <channel id="CGTN">
         <display-name lang="zh">CGTN</display-name>
