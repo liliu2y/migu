@@ -363,7 +363,7 @@ ${replace}/963480733
 ${replace}/963480913
 #EXTINF:-1 tvg-id="浙江俱乐部绿城VS青岛西海岸" tvg-name="中超 浙江俱乐部绿城VS青岛西海岸 全场回放（张昊泽、徐云龙） 15:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="体育-昨天",中超 浙江俱乐部绿城VS青岛西海岸 全场回放（张昊泽、徐云龙） 15:15
 ${replace}/963483452
-#EXTINF:-1 tvg-id="保山队VS玉溪队" tvg-name="云南省城市足球联赛 保山队VS玉溪队 全场回放 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-昨天",云南省城市足球联赛 保山队VS玉溪队 全场回放 15:30
+#EXTINF:-1 tvg-id="保山队VS玉溪队" tvg-name="云南省城市足球联赛 保山队VS玉溪队 全场回放 5:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-昨天",云南省城市足球联赛 保山队VS玉溪队 全场回放 5:30
 ${replace}/963499122
 #EXTINF:-1 tvg-id="普洱队VS怒江队" tvg-name="云南省城市足球联赛 普洱队VS怒江队 全场回放 6:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-昨天",云南省城市足球联赛 普洱队VS怒江队 全场回放 6:00
 ${replace}/963484674
@@ -549,16 +549,14 @@ ${replace}/963495660
 ${replace}/963495572
 #EXTINF:-1 tvg-id="侯英超、周冠达、周泽昊解读签位" tvg-name="WTT 侯英超、周冠达、周泽昊解读签位 全场回放（侯英超、周冠达、周泽昊） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 侯英超、周冠达、周泽昊解读签位 全场回放（侯英超、周冠达、周泽昊） 13:00
 ${replace}/963497317
-#EXTINF:-1 tvg-id="朝鲜女足VS中国女足" tvg-name="女足亚洲杯 朝鲜女足VS中国女足 吴桐 贺宇 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 朝鲜女足VS中国女足 吴桐 贺宇 16:45
-${replace}/963424139
-#EXTINF:-1 tvg-id="朝鲜女足VS中国女足" tvg-name="女足亚洲杯 朝鲜女足VS中国女足 赛场原声 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 朝鲜女足VS中国女足 赛场原声 16:45
-${replace}/963424166
-#EXTINF:-1 tvg-id="孟加拉女足VS乌兹别克斯坦女足" tvg-name="女足亚洲杯 孟加拉女足VS乌兹别克斯坦女足 兰子非 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 孟加拉女足VS乌兹别克斯坦女足 兰子非 16:45
-${replace}/963424068
-#EXTINF:-1 tvg-id="孟加拉女足VS乌兹别克斯坦女足" tvg-name="女足亚洲杯 孟加拉女足VS乌兹别克斯坦女足 赛场原声 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 孟加拉女足VS乌兹别克斯坦女足 赛场原声 16:45
-${replace}/963424091
-#EXTINF:-1 tvg-id="新疆天山VS江苏南钢" tvg-name="女篮俱乐部杯 新疆天山VS江苏南钢 赛场原声 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png" group-title="体育-今天",女篮俱乐部杯 新疆天山VS江苏南钢 赛场原声 16:55
-${replace}/963496084
+#EXTINF:-1 tvg-id="朝鲜女足VS中国女足" tvg-name="女足亚洲杯 朝鲜女足VS中国女足 全场回放 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 朝鲜女足VS中国女足 全场回放 16:45
+${replace}/963502721
+#EXTINF:-1 tvg-id="朝鲜女足VS中国女足" tvg-name="女足亚洲杯 朝鲜女足VS中国女足 全场回放（吴桐、贺宇） 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 朝鲜女足VS中国女足 全场回放（吴桐、贺宇） 16:45
+${replace}/963501742
+#EXTINF:-1 tvg-id="孟加拉女足VS乌兹别克斯坦女足" tvg-name="女足亚洲杯 孟加拉女足VS乌兹别克斯坦女足 全场回放（兰子非） 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-今天",女足亚洲杯 孟加拉女足VS乌兹别克斯坦女足 全场回放（兰子非） 16:45
+${replace}/963501599
+#EXTINF:-1 tvg-id="新疆天山VS江苏南钢" tvg-name="女篮俱乐部杯 新疆天山VS江苏南钢 全场回放 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png" group-title="体育-今天",女篮俱乐部杯 新疆天山VS江苏南钢 全场回放 16:55
+${replace}/963501915
 #EXTINF:-1 tvg-id="韩国vs澳大利亚" tvg-name="WBC 韩国vs澳大利亚 中文解说 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/2/100000001414106530c7.jpg" group-title="体育-今天",WBC 韩国vs澳大利亚 中文解说 18:00
 ${replace}/963368475
 #EXTINF:-1 tvg-id="韩国vs澳大利亚" tvg-name="WBC 韩国vs澳大利亚 清流 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/2/100000001414106530c7.jpg" group-title="体育-今天",WBC 韩国vs澳大利亚 清流 18:00
@@ -627,13 +625,13 @@ ${replace}/963497130
 ${replace}/963425793
 #EXTINF:-1 tvg-id="蒯曼冲开门红 王曼昱PK大藤沙月" tvg-name="WTT 蒯曼冲开门红 王曼昱PK大藤沙月 混采区 11:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 蒯曼冲开门红 王曼昱PK大藤沙月 混采区 11:20
 ${replace}/963425806
-#EXTINF:-1 tvg-id="瑞士羽毛球公开赛第一日" tvg-name="BWF 瑞士羽毛球公开赛第一日 1号场地 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 瑞士羽毛球公开赛第一日 1号场地 16:30
+#EXTINF:-1 tvg-id="新赛事来袭！李诗沣领衔出战" tvg-name="BWF 新赛事来袭！李诗沣领衔出战 1号场地 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 新赛事来袭！李诗沣领衔出战 1号场地 16:30
 ${replace}/963496956
-#EXTINF:-1 tvg-id="瑞士羽毛球公开赛第一日" tvg-name="BWF 瑞士羽毛球公开赛第一日 2号场地 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 瑞士羽毛球公开赛第一日 2号场地 16:30
+#EXTINF:-1 tvg-id="新赛事来袭！李诗沣领衔出战" tvg-name="BWF 新赛事来袭！李诗沣领衔出战 2号场地 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 新赛事来袭！李诗沣领衔出战 2号场地 16:30
 ${replace}/963496969
-#EXTINF:-1 tvg-id="瑞士羽毛球公开赛第一日" tvg-name="BWF 瑞士羽毛球公开赛第一日 3号场地 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 瑞士羽毛球公开赛第一日 3号场地 16:45
+#EXTINF:-1 tvg-id="新赛事来袭！李诗沣领衔出战" tvg-name="BWF 新赛事来袭！李诗沣领衔出战 3号场地 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 新赛事来袭！李诗沣领衔出战 3号场地 16:45
 ${replace}/963496993
-#EXTINF:-1 tvg-id="瑞士羽毛球公开赛第一日" tvg-name="BWF 瑞士羽毛球公开赛第一日 4号场地 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 瑞士羽毛球公开赛第一日 4号场地 16:45
+#EXTINF:-1 tvg-id="新赛事来袭！李诗沣领衔出战" tvg-name="BWF 新赛事来袭！李诗沣领衔出战 4号场地 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 新赛事来袭！李诗沣领衔出战 4号场地 16:45
 ${replace}/963497013
 #EXTINF:-1 tvg-id="印度女足VS中国台北女足" tvg-name="女足亚洲杯 印度女足VS中国台北女足 涂远 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png" group-title="体育-明天",女足亚洲杯 印度女足VS中国台北女足 涂远 16:45
 ${replace}/963424244
