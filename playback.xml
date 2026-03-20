@@ -94,13 +94,13 @@
         <title lang="zh">前情提要-好好的时光-第35集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260320200000 +0800" stop="20260320205220 +0800">
-        <title lang="zh">好好的时光35/40</title>
+        <title lang="zh">好好的时光第35集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260320205220 +0800" stop="20260320205700 +0800">
         <title lang="zh">前情提要-好好的时光-第36集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260320205700 +0800" stop="20260320215140 +0800">
-        <title lang="zh">好好的时光36/40</title>
+        <title lang="zh">好好的时光第36集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260320215140 +0800" stop="20260320220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -508,7 +508,7 @@
         <title lang="zh">篮球公园</title>
     </programme>
     <programme channel="CCTV5体育" start="20260320193000 +0800" stop="20260320213000 +0800">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛-第28轮(浙江方兴渡 - 北京控股)</title>
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛-第28轮(浙江浙商证券 - 北京控股)</title>
     </programme>
     <programme channel="CCTV5体育" start="20260320213000 +0800" stop="20260320223500 +0800">
         <title lang="zh">体育世界</title>
@@ -874,25 +874,25 @@
         <title lang="zh">本集提要-我的山与海-第27集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320193000 +0800" stop="20260320202555 +0800">
-        <title lang="zh">我的山与海27/30</title>
+        <title lang="zh">我的山与海第27集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320202555 +0800" stop="20260320203055 +0800">
         <title lang="zh">本集提要-我的山与海-第28集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320203055 +0800" stop="20260320212455 +0800">
-        <title lang="zh">我的山与海28/30</title>
+        <title lang="zh">我的山与海第28集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320212455 +0800" stop="20260320212955 +0800">
         <title lang="zh">本集提要-隐身的名字-第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320212955 +0800" stop="20260320221955 +0800">
-        <title lang="zh">隐身的名字5/31</title>
+        <title lang="zh">隐身的名字第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320221955 +0800" stop="20260320222155 +0800">
         <title lang="zh">本集提要-隐身的名字-第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320222155 +0800" stop="20260320231155 +0800">
-        <title lang="zh">隐身的名字6/31</title>
+        <title lang="zh">隐身的名字第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260320231155 +0800" stop="20260320235755 +0800">
         <title lang="zh">驻站第26集</title>
@@ -2835,8 +2835,53 @@
     <channel id="中学生">
         <display-name lang="zh">中学生</display-name>
     </channel>
-    <programme channel="中学生" start="20260320000000 +0800" stop="20260320235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="中学生" start="20260320000000 +0800" stop="20260320090000 +0800">
+        <title lang="zh">《希望之星》2023幼儿组</title>
+    </programme>
+    <programme channel="中学生" start="20260320090000 +0800" stop="20260320112000 +0800">
+        <title lang="zh">《梦想舞台》2026春节联欢晚会综合第一场</title>
+    </programme>
+    <programme channel="中学生" start="20260320112000 +0800" stop="20260320121300 +0800">
+        <title lang="zh">2026《大国少年》全国中小学生春晚(7)</title>
+    </programme>
+    <programme channel="中学生" start="20260320121300 +0800" stop="20260320130500 +0800">
+        <title lang="zh">2026《大国少年》全国中小学生春晚(8)</title>
+    </programme>
+    <programme channel="中学生" start="20260320130500 +0800" stop="20260320140200 +0800">
+        <title lang="zh">2026《大国少年》全国中小学生春晚(9)</title>
+    </programme>
+    <programme channel="中学生" start="20260320140200 +0800" stop="20260320162600 +0800">
+        <title lang="zh">《艺润天山·同心筑梦》新疆少儿春节联欢晚会</title>
+    </programme>
+    <programme channel="中学生" start="20260320162600 +0800" stop="20260320173600 +0800">
+        <title lang="zh">2026《大国少年童贺新春》少儿春节联欢晚会</title>
+    </programme>
+    <programme channel="中学生" start="20260320173600 +0800" stop="20260320183600 +0800">
+        <title lang="zh">2026星梦少年少儿春节联欢晚会</title>
+    </programme>
+    <programme channel="中学生" start="20260320183600 +0800" stop="20260320190100 +0800">
+        <title lang="zh">了不起的梦想2026新春特别节目</title>
+    </programme>
+    <programme channel="中学生" start="20260320190100 +0800" stop="20260320200100 +0800">
+        <title lang="zh">2025年《希望之星》幼儿组</title>
+    </programme>
+    <programme channel="中学生" start="20260320200100 +0800" stop="20260320210100 +0800">
+        <title lang="zh">2025年《希望之星》初中组</title>
+    </programme>
+    <programme channel="中学生" start="20260320210100 +0800" stop="20260320220300 +0800">
+        <title lang="zh">2026艺路繁花少儿春晚赣州</title>
+    </programme>
+    <programme channel="中学生" start="20260320220300 +0800" stop="20260320222700 +0800">
+        <title lang="zh">《优优课堂》婚姻家庭心理教育认知培训</title>
+    </programme>
+    <programme channel="中学生" start="20260320222700 +0800" stop="20260320225700 +0800">
+        <title lang="zh">电影短片《如风少年之蜕变》</title>
+    </programme>
+    <programme channel="中学生" start="20260320225700 +0800" stop="20260320230000 +0800">
+        <title lang="zh">中央新影中学生频道2025年宣传片（第一版）</title>
+    </programme>
+    <programme channel="中学生" start="20260320230000 +0800" stop="20260321090000 +0800">
+        <title lang="zh">《希望之星》2023小低组</title>
     </programme>
     <channel id="CGTN">
         <display-name lang="zh">CGTN</display-name>
