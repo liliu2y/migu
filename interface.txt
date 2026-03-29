@@ -345,7 +345,7 @@ ${replace}/963866172
 ${replace}/963810943
 #EXTINF:-1 tvg-id="江津润通动力队VS秀山毛尖队" tvg-name="重庆城市足球超级联赛 江津润通动力队VS秀山毛尖队 25/26赛季重庆城市足球超级联赛1-4名半决赛(第一回合): 江津润通动力队vs秀山毛尖队 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" group-title="体育-昨天",重庆城市足球超级联赛 江津润通动力队VS秀山毛尖队 25/26赛季重庆城市足球超级联赛1-4名半决赛(第一回合): 江津润通动力队vs秀山毛尖队 19:00
 ${replace}/963810952
-#EXTINF:-1 tvg-id="九江89-73景德镇" tvg-name="江西省城市篮球联赛 九江89-73景德镇 2026江西省城市篮球联赛季后赛第一轮全场回放：九江vs景德镇 19:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MONMCEE1F.png" group-title="体育-昨天",江西省城市篮球联赛 九江89-73景德镇 2026江西省城市篮球联赛季后赛第一轮全场回放：九江vs景德镇 19:00
+#EXTINF:-1 tvg-id="九江89-73景德镇" tvg-name="江西省城市篮球联赛 九江89-73景德镇 2026江西省城市篮球联赛季后赛第一轮全场回放：九江vs景德镇 9:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MONMCEE1F.png" group-title="体育-昨天",江西省城市篮球联赛 九江89-73景德镇 2026江西省城市篮球联赛季后赛第一轮全场回放：九江vs景德镇 9:00
 ${replace}/963865725
 #EXTINF:-1 tvg-id="合肥文旅VS浙江稠州银行" tvg-name="WCBA 合肥文旅VS浙江稠州银行 全场回放（现场解说） 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="体育-昨天",WCBA 合肥文旅VS浙江稠州银行 全场回放（现场解说） 19:25
 ${replace}/963866226
@@ -429,10 +429,12 @@ ${replace}/963869016
 ${replace}/963869034
 #EXTINF:-1 tvg-id="柳州、盐城、宿迁等11场马拉松" tvg-name="马拉松系列赛 柳州、盐城、宿迁等11场马拉松 2026柳州银行杯·柳州马拉松全场回放 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-今天",马拉松系列赛 柳州、盐城、宿迁等11场马拉松 2026柳州银行杯·柳州马拉松全场回放 07:15
 ${replace}/963872099
-#EXTINF:-1 tvg-id="PFL匹兹堡站：埃布伦VS巴特" tvg-name="PFL PFL匹兹堡站：埃布伦VS巴特 PFL匹兹堡站主赛全场回放（英文原声） 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RA53B3F31.png" group-title="体育-今天",PFL PFL匹兹堡站：埃布伦VS巴特 PFL匹兹堡站主赛全场回放（英文原声） 07:00
-${replace}/963872123
 #EXTINF:-1 tvg-id="PFL匹兹堡站：埃布伦VS巴特" tvg-name="PFL PFL匹兹堡站：埃布伦VS巴特 【主赛】汪乐 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RA53B3F31.png" group-title="体育-今天",PFL PFL匹兹堡站：埃布伦VS巴特 【主赛】汪乐 07:00
 ${replace}/963871761
+#EXTINF:-1 tvg-id="PFL匹兹堡站：埃布伦VS巴特" tvg-name="PFL PFL匹兹堡站：埃布伦VS巴特 【主赛】全场回放（赛场原声） 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RA53B3F31.png" group-title="体育-今天",PFL PFL匹兹堡站：埃布伦VS巴特 【主赛】全场回放（赛场原声） 07:00
+${replace}/963872390
+#EXTINF:-1 tvg-id="PFL匹兹堡站：埃布伦VS巴特" tvg-name="PFL PFL匹兹堡站：埃布伦VS巴特 【主赛】全场回放（英文原声） 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RA53B3F31.png" group-title="体育-今天",PFL PFL匹兹堡站：埃布伦VS巴特 【主赛】全场回放（英文原声） 07:00
+${replace}/963872123
 #EXTINF:-1 tvg-id="PFL匹兹堡站：埃布伦VS巴特" tvg-name="PFL PFL匹兹堡站：埃布伦VS巴特 【副赛】汪乐 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RA53B3F31.png" group-title="体育-今天",PFL PFL匹兹堡站：埃布伦VS巴特 【副赛】汪乐 07:00
 ${replace}/963870012
 #EXTINF:-1 tvg-id="PFL匹兹堡站：埃布伦VS巴特" tvg-name="PFL PFL匹兹堡站：埃布伦VS巴特 【副赛】（赛场原声） 07:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RA53B3F31.png" group-title="体育-今天",PFL PFL匹兹堡站：埃布伦VS巴特 【副赛】（赛场原声） 07:00
@@ -445,6 +447,10 @@ ${replace}/963870077
 ${replace}/963870140
 #EXTINF:-1 tvg-id="2026悦达起亚盐城马拉松" tvg-name="马拉松系列赛 2026悦达起亚盐城马拉松 2026悦达起亚盐城马拉松全场回放 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-今天",马拉松系列赛 2026悦达起亚盐城马拉松 2026悦达起亚盐城马拉松全场回放 07:15
 ${replace}/963871543
+#EXTINF:-1 tvg-id="2026京东宿迁马拉松" tvg-name="马拉松系列赛 2026京东宿迁马拉松 2026京东宿迁马拉松全场回放 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-今天",马拉松系列赛 2026京东宿迁马拉松 2026京东宿迁马拉松全场回放 07:15
+${replace}/963872619
+#EXTINF:-1 tvg-id="君乐宝2026石家庄马拉松赛" tvg-name="马拉松系列赛 君乐宝2026石家庄马拉松赛 君乐宝2026石家庄马拉松赛全场回放 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-今天",马拉松系列赛 君乐宝2026石家庄马拉松赛 君乐宝2026石家庄马拉松赛全场回放 07:15
+${replace}/963872912
 #EXTINF:-1 tvg-id="2026长兴太湖图影马拉松" tvg-name="马拉松系列赛 2026长兴太湖图影马拉松 2026长兴太湖图影马拉松全场回放 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-今天",马拉松系列赛 2026长兴太湖图影马拉松 2026长兴太湖图影马拉松全场回放 07:15
 ${replace}/963872050
 #EXTINF:-1 tvg-id="2026中国银行扬州半程马拉松" tvg-name="马拉松系列赛 2026中国银行扬州半程马拉松 2026中国银行扬州半程马拉松暨东亚半程马拉松锦标赛全场回放 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-今天",马拉松系列赛 2026中国银行扬州半程马拉松 2026中国银行扬州半程马拉松暨东亚半程马拉松锦标赛全场回放 07:15
@@ -465,16 +471,14 @@ ${replace}/963872131
 ${replace}/963871650
 #EXTINF:-1 tvg-id="太阳VS爵士" tvg-name="NBA 太阳VS爵士 全场回放（李天宇、陈正昊、魏欣怡） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS爵士 全场回放（李天宇、陈正昊、魏欣怡） 09:55
 ${replace}/963871713
-#EXTINF:-1 tvg-id="墨尔本城女足VS纳萨夫女足" tvg-name="亚冠女足 墨尔本城女足VS纳萨夫女足 兰子非 11:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-今天",亚冠女足 墨尔本城女足VS纳萨夫女足 兰子非 11:45
-${replace}/963824560
-#EXTINF:-1 tvg-id="墨尔本城女足VS纳萨夫女足" tvg-name="亚冠女足 墨尔本城女足VS纳萨夫女足 赛场原声 11:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-今天",亚冠女足 墨尔本城女足VS纳萨夫女足 赛场原声 11:45
-${replace}/963824543
+#EXTINF:-1 tvg-id="太阳VS爵士" tvg-name="NBA 太阳VS爵士 全场回放（英文原声） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS爵士 全场回放（英文原声） 09:55
+${replace}/963871729
+#EXTINF:-1 tvg-id="墨尔本城女足VS纳萨夫女足" tvg-name="亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放（兰子非） 11:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png" group-title="体育-今天",亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放（兰子非） 11:45
+${replace}/963872426
 #EXTINF:-1 tvg-id="经典重映-2025年终总决赛" tvg-name="BWF 经典重映-2025年终总决赛 伪直播 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2025年终总决赛 伪直播 12:00
 ${replace}/963823493
-#EXTINF:-1 tvg-id="抽签仪式" tvg-name="国际乒联澳门单打世界杯 抽签仪式 刘馨蕊 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 抽签仪式 刘馨蕊 13:30
-${replace}/963811694
-#EXTINF:-1 tvg-id="抽签仪式" tvg-name="国际乒联澳门单打世界杯 抽签仪式 现场原声 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 抽签仪式 现场原声 13:30
-${replace}/963811637
+#EXTINF:-1 tvg-id="抽签：梁靖崑奥恰同组 覃予萱早田希娜同组" tvg-name="国际乒联澳门单打世界杯 抽签：梁靖崑奥恰同组 覃予萱早田希娜同组 全场回放（刘馨蕊） 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 抽签：梁靖崑奥恰同组 覃予萱早田希娜同组 全场回放（刘馨蕊） 13:30
+${replace}/963872665
 #EXTINF:-1 tvg-id="2026安徽省乒乓球联赛滁州市定远县海选赛day2" tvg-name="安徽省乒乓球联赛 2026安徽省乒乓球联赛滁州市定远县海选赛day2 2026安徽省乒乓球联赛滁州市定远县海选赛day2 14:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/6/1000000014151067f81d.png" group-title="体育-今天",安徽省乒乓球联赛 2026安徽省乒乓球联赛滁州市定远县海选赛day2 2026安徽省乒乓球联赛滁州市定远县海选赛day2 14:15
 ${replace}/963833127
 #EXTINF:-1 tvg-id="防城港市港口区队vs防城港市东兴市队" tvg-name="广西县级足球超级联赛 防城港市港口区队vs防城港市东兴市队 2026广西县级足球超级联赛第六轮: 防城港市港口区队vs防城港市东兴市队 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png" group-title="体育-今天",广西县级足球超级联赛 防城港市港口区队vs防城港市东兴市队 2026广西县级足球超级联赛第六轮: 防城港市港口区队vs防城港市东兴市队 14:30
