@@ -286,6 +286,8 @@ ${replace}/963910833
 #EXTINF:-1 tvg-id="梁靖崑2-3憾负 林昀儒横扫" tvg-name="国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（二号桌） 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-昨天",国际乒联澳门单打世界杯 梁靖崑2-3憾负 林昀儒横扫 全场回放（二号桌） 09:30
 ${replace}/963907877
 #EXTINF:-1 tvg-id="湖人VS奇才" tvg-name="NBA 湖人VS奇才 全场回放 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 湖人VS奇才 全场回放 09:55
+${replace}/963903944
+#EXTINF:-1 tvg-id="湖人VS奇才" tvg-name="NBA 湖人VS奇才 全场回放 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 湖人VS奇才 全场回放 09:55
 ${replace}/963903915
 #EXTINF:-1 tvg-id="湖人VS奇才" tvg-name="NBA 湖人VS奇才 全场回放（李天宇、徐咏、陈正昊、金佳悦） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 湖人VS奇才 全场回放（李天宇、徐咏、陈正昊、金佳悦） 09:55
 ${replace}/963903872
@@ -325,6 +327,10 @@ ${replace}/963913590
 ${replace}/963916909
 #EXTINF:-1 tvg-id="希金斯6-2老马 霍金斯10-8塔猜亚晋级" tvg-name="斯诺克 希金斯6-2老马 霍金斯10-8塔猜亚晋级 【回放】约翰·希金斯6-2马克·威廉姆斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 希金斯6-2老马 霍金斯10-8塔猜亚晋级 【回放】约翰·希金斯6-2马克·威廉姆斯（赛场原声） 20:00
 ${replace}/963923015
+#EXTINF:-1 tvg-id="卡林斯卡娅、安德莱斯库、巴多萨晋级" tvg-name="WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】安德莱斯库2-1加尔菲（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】安德莱斯库2-1加尔菲（赛场原声） 23:00
+${replace}/963925330
+#EXTINF:-1 tvg-id="卡林斯卡娅、安德莱斯库、巴多萨晋级" tvg-name="WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】戴伊0-2巴多萨（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】戴伊0-2巴多萨（赛场原声） 23:00
+${replace}/963925354
 #EXTINF:-1 tvg-id="卡林斯卡娅、安德莱斯库、巴多萨晋级" tvg-name="WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】托莫娃0-2卡林斯卡娅（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】托莫娃0-2卡林斯卡娅（赛场原声） 23:00
 ${replace}/963923474
 #EXTINF:-1 tvg-id="卡林斯卡娅、安德莱斯库、巴多萨晋级" tvg-name="WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】安德莱斯库2-1加尔菲（英文原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 卡林斯卡娅、安德莱斯库、巴多萨晋级 【回放】安德莱斯库2-1加尔菲（英文原声） 23:00
@@ -357,20 +363,32 @@ ${replace}/963921215
 ${replace}/963921284
 #EXTINF:-1 tvg-id="火箭VS尼克斯" tvg-name="NBA 火箭VS尼克斯 全场回放（AI字幕） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 火箭VS尼克斯 全场回放（AI字幕） 07:55
 ${replace}/963921408
+#EXTINF:-1 tvg-id="雄鹿VS独行侠" tvg-name="NBA 雄鹿VS独行侠 全场回放（董倡硕） 07:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS独行侠 全场回放（董倡硕） 07:30
+${replace}/963920720
+#EXTINF:-1 tvg-id="雄鹿VS独行侠" tvg-name="NBA 雄鹿VS独行侠 全场回放（英文原声） 07:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雄鹿VS独行侠 全场回放（英文原声） 07:30
+${replace}/963922142
 #EXTINF:-1 tvg-id="第三日热身区" tvg-name="国际乒联澳门单打世界杯 第三日热身区 热身区 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 第三日热身区 热身区 08:30
 ${replace}/963812089
-#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 马特 朱子恒 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 马特 朱子恒 09:30
-${replace}/963812180
-#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 2号桌 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 2号桌 09:30
-${replace}/963812150
-#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 热身区 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 热身区 08:30
-${replace}/963812089
-#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 1号桌 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 1号桌 09:30
-${replace}/963812117
-#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 混采区 09:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 混采区 09:50
-${replace}/963812199
-#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 候场区 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 候场区 09:00
-${replace}/963812223
+#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（马特） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（马特） 09:00
+${replace}/963925011
+#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（一号桌） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（一号桌） 09:00
+${replace}/963925923
+#EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 2026国际乒联单打世界杯男单小组赛第三轮回放：温瑞博3-0西蒙·高茨（赛场原声） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 2026国际乒联单打世界杯男单小组赛第三轮回放：温瑞博3-0西蒙·高茨（赛场原声） 09:00
+${replace}/963927148
+#EXTINF:-1 tvg-id="湖人VS骑士" tvg-name="NBA 湖人VS骑士 全场回放（杨健、苏群、曾令旭、佳依） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS骑士 全场回放（杨健、苏群、曾令旭、佳依） 10:25
+${replace}/963923734
+#EXTINF:-1 tvg-id="湖人VS骑士" tvg-name="NBA 湖人VS骑士 全场回放（郑泽鹏） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS骑士 全场回放（郑泽鹏） 10:25
+${replace}/963923849
+#EXTINF:-1 tvg-id="湖人VS骑士" tvg-name="NBA 湖人VS骑士 全场回放（大史） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS骑士 全场回放（大史） 10:25
+${replace}/963923672
+#EXTINF:-1 tvg-id="湖人VS骑士" tvg-name="NBA 湖人VS骑士 全场回放（英文原声） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS骑士 全场回放（英文原声） 10:25
+${replace}/963923694
+#EXTINF:-1 tvg-id="快船VS开拓者" tvg-name="NBA 快船VS开拓者 全场回放（李天宇、殷文玉、魏欣怡） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS开拓者 全场回放（李天宇、殷文玉、魏欣怡） 10:55
+${replace}/963924200
+#EXTINF:-1 tvg-id="快船VS开拓者" tvg-name="NBA 快船VS开拓者 全场回放（邢晨） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS开拓者 全场回放（邢晨） 10:55
+${replace}/963924094
+#EXTINF:-1 tvg-id="快船VS开拓者" tvg-name="NBA 快船VS开拓者 全场回放（英文原声） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 快船VS开拓者 全场回放（英文原声） 10:55
+${replace}/963924204
 #EXTINF:-1 tvg-id="王楚钦冲胜 王曼昱对决印度怪胶手" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 刘国正 周冠达 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 刘国正 周冠达 16:30
 ${replace}/963812473
 #EXTINF:-1 tvg-id="王楚钦冲胜 王曼昱对决印度怪胶手" tvg-name="国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 凌维康 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王楚钦冲胜 王曼昱对决印度怪胶手 凌维康 17:00
@@ -473,8 +491,6 @@ ${replace}/963853222
 ${replace}/963854395
 #EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 拜月宁 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 勇士VS马刺 拜月宁 09:55
 ${replace}/963854405
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 莫俊祺 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 勇士VS马刺 莫俊祺 09:45
-${replace}/963854413
 #EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 勇士VS马刺 英文原声 09:55
 ${replace}/963854479
 #EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 洪荒 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 勇士VS马刺 洪荒 09:45
