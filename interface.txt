@@ -275,6 +275,8 @@ ${replace}/963920720
 ${replace}/963922142
 #EXTINF:-1 tvg-id="第三日热身区" tvg-name="国际乒联澳门单打世界杯 第三日热身区 全场回放（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-昨天",国际乒联澳门单打世界杯 第三日热身区 全场回放（一） 08:30
 ${replace}/963925588
+#EXTINF:-1 tvg-id="第三日热身区" tvg-name="国际乒联澳门单打世界杯 第三日热身区 全场回放（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-昨天",国际乒联澳门单打世界杯 第三日热身区 全场回放（二） 08:30
+${replace}/963940614
 #EXTINF:-1 tvg-id="第三日热身区" tvg-name="国际乒联澳门单打世界杯 第三日热身区 全场回放（三） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-昨天",国际乒联澳门单打世界杯 第三日热身区 全场回放（三） 08:30
 ${replace}/963932738
 #EXTINF:-1 tvg-id="孙颖莎横扫晋级 覃予萱3-1早田希娜" tvg-name="国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（马特、朱子恒） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-昨天",国际乒联澳门单打世界杯 孙颖莎横扫晋级 覃予萱3-1早田希娜 全场回放（马特、朱子恒） 09:00
@@ -327,49 +329,75 @@ ${replace}/963932618
 ${replace}/963932921
 #EXTINF:-1 tvg-id="泰国女足U20VS孟加拉国U20" tvg-name="亚女U20 泰国女足U20VS孟加拉国U20 全场回放（兰子非） 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/7/10000000102310672034.png" group-title="体育-昨天",亚女U20 泰国女足U20VS孟加拉国U20 全场回放（兰子非） 20:45
 ${replace}/963931028
-#EXTINF:-1 tvg-id="巴普蒂斯特出战 凯斯、佩古拉晋级" tvg-name="WTA 巴普蒂斯特出战 凯斯、佩古拉晋级 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 巴普蒂斯特出战 凯斯、佩古拉晋级 赛场原声 23:00
-${replace}/963843456
-#EXTINF:-1 tvg-id="巴普蒂斯特出战 凯斯、佩古拉晋级" tvg-name="WTA 巴普蒂斯特出战 凯斯、佩古拉晋级 英文原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 巴普蒂斯特出战 凯斯、佩古拉晋级 英文原声 23:00
-${replace}/963843486
-#EXTINF:-1 tvg-id="特鲁姆普晋级四强 赵心童5-3韦克林" tvg-name="斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 2026斯诺克巡回锦标赛第二阶段回放：肖恩·墨菲9-10贾德·特鲁姆普（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 2026斯诺克巡回锦标赛第二阶段回放：肖恩·墨菲9-10贾德·特鲁姆普（赛场原声） 02:00
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】佩古拉2-1普丁塞娃（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】佩古拉2-1普丁塞娃（赛场原声） 23:00
+${replace}/963932858
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】安德莱斯库0-2肯宁（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】安德莱斯库0-2肯宁（赛场原声） 23:00
+${replace}/963938986
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】凯斯2-0维基奇（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】凯斯2-0维基奇（赛场原声） 23:00
+${replace}/963932860
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】约维奇2-0帕克斯（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】约维奇2-0帕克斯（赛场原声） 23:00
+${replace}/963932428
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】巴普蒂斯特1-2扎拉祖阿（英文原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】巴普蒂斯特1-2扎拉祖阿（英文原声） 23:00
+${replace}/963939759
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】安德莱斯库0-2肯宁（英文原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】安德莱斯库0-2肯宁（英文原声） 23:00
+${replace}/963938924
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】凯斯2-0维基奇（英文原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】凯斯2-0维基奇（英文原声） 23:00
+${replace}/963936889
+#EXTINF:-1 tvg-id="佩古拉逆转获胜 凯斯、约维奇晋级" tvg-name="WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】约维奇 vs 帕克斯（英文原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉逆转获胜 凯斯、约维奇晋级 【回放】约维奇 vs 帕克斯（英文原声） 23:00
+${replace}/963932137
+#EXTINF:-1 tvg-id="特鲁姆普晋级四强 赵心童5-3韦克林" tvg-name="斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 2026斯诺克巡回锦标赛第一阶段回放：赵心童5-3克里斯·韦克林（秦正） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 2026斯诺克巡回锦标赛第一阶段回放：赵心童5-3克里斯·韦克林（秦正） 02:00
+${replace}/963939477
+#EXTINF:-1 tvg-id="特鲁姆普晋级四强 赵心童5-3韦克林" tvg-name="斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 【回放】肖恩·墨菲9-10贾德·特鲁姆普（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 【回放】肖恩·墨菲9-10贾德·特鲁姆普（赛场原声） 02:00
 ${replace}/963937448
+#EXTINF:-1 tvg-id="特鲁姆普晋级四强 赵心童5-3韦克林" tvg-name="斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 【回放】赵心童5-3克里斯·韦克林（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 特鲁姆普晋级四强 赵心童5-3韦克林 【回放】赵心童5-3克里斯·韦克林（赛场原声） 02:00
+${replace}/963938966
+#EXTINF:-1 tvg-id="奇才VS76人" tvg-name="NBA 奇才VS76人 全场回放（王凯） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 奇才VS76人 全场回放（王凯） 06:55
+${replace}/963936371
+#EXTINF:-1 tvg-id="奇才VS76人" tvg-name="NBA 奇才VS76人 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 奇才VS76人 全场回放（英文原声） 06:55
+${replace}/963940526
 #EXTINF:-1 tvg-id="魔术VS老鹰" tvg-name="NBA 魔术VS老鹰 全场回放（张泽欣） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS老鹰 全场回放（张泽欣） 06:55
 ${replace}/963936714
-#EXTINF:-1 tvg-id="猛龙VS国王" tvg-name="NBA 猛龙VS国王 刘芳宇 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 猛龙VS国王 刘芳宇 07:55
-${replace}/963855109
-#EXTINF:-1 tvg-id="猛龙VS国王" tvg-name="NBA 猛龙VS国王 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 猛龙VS国王 英文原声 07:55
-${replace}/963854002
-#EXTINF:-1 tvg-id="爵士VS掘金" tvg-name="NBA 爵士VS掘金 盛哲 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS掘金 盛哲 08:55
-${replace}/963854283
-#EXTINF:-1 tvg-id="爵士VS掘金" tvg-name="NBA 爵士VS掘金 英文原声 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS掘金 英文原声 08:55
-${replace}/963854343
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 杨健 曾令旭 小七 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 杨健 曾令旭 小七 09:45
-${replace}/963854387
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 王晓晨 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 王晓晨 09:55
-${replace}/963854395
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 拜月宁 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 拜月宁 09:55
-${replace}/963854405
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 洪荒 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 洪荒 09:45
-${replace}/963854427
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 智能字幕 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 智能字幕 09:55
-${replace}/963853222
-#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 英文原声 09:55
-${replace}/963854479
+#EXTINF:-1 tvg-id="魔术VS老鹰" tvg-name="NBA 魔术VS老鹰 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS老鹰 全场回放（英文原声） 06:55
+${replace}/963937390
+#EXTINF:-1 tvg-id="热火VS凯尔特人" tvg-name="NBA 热火VS凯尔特人 全场回放（邵化谦、季孟年、秋童） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 热火VS凯尔特人 全场回放（邵化谦、季孟年、秋童） 07:25
+${replace}/963937386
+#EXTINF:-1 tvg-id="热火VS凯尔特人" tvg-name="NBA 热火VS凯尔特人 全场回放（英文原声） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 热火VS凯尔特人 全场回放（英文原声） 07:25
+${replace}/963938059
+#EXTINF:-1 tvg-id="灰熊VS尼克斯" tvg-name="NBA 灰熊VS尼克斯 全场回放（董倡硕） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS尼克斯 全场回放（董倡硕） 07:55
+${replace}/963938344
+#EXTINF:-1 tvg-id="灰熊VS尼克斯" tvg-name="NBA 灰熊VS尼克斯 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS尼克斯 全场回放（英文原声） 07:55
+${replace}/963938366
+#EXTINF:-1 tvg-id="公牛VS步行者" tvg-name="NBA 公牛VS步行者 全场回放（吴博文） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS步行者 全场回放（吴博文） 07:55
+${replace}/963939027
+#EXTINF:-1 tvg-id="公牛VS步行者" tvg-name="NBA 公牛VS步行者 全场回放 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS步行者 全场回放 07:55
+${replace}/963938054
+#EXTINF:-1 tvg-id="火箭VS雄鹿" tvg-name="NBA 火箭VS雄鹿 全场回放（庄宁宇、陈正昊、廖昕阳） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 火箭VS雄鹿 全场回放（庄宁宇、陈正昊、廖昕阳） 07:55
+${replace}/963938308
+#EXTINF:-1 tvg-id="火箭VS雄鹿" tvg-name="NBA 火箭VS雄鹿 全场回放（周鹏） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 火箭VS雄鹿 全场回放（周鹏） 07:55
+${replace}/963937936
+#EXTINF:-1 tvg-id="火箭VS雄鹿" tvg-name="NBA 火箭VS雄鹿 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 火箭VS雄鹿 全场回放（英文原声） 07:55
+${replace}/963937998
+#EXTINF:-1 tvg-id="猛龙VS国王" tvg-name="NBA 猛龙VS国王 全场回放（刘芳宇） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 猛龙VS国王 全场回放（刘芳宇） 07:55
+${replace}/963938341
+#EXTINF:-1 tvg-id="猛龙VS国王" tvg-name="NBA 猛龙VS国王 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 猛龙VS国王 全场回放（英文原声） 07:55
+${replace}/963939709
+#EXTINF:-1 tvg-id="爵士VS掘金" tvg-name="NBA 爵士VS掘金 全场回放（盛哲） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS掘金 全场回放（盛哲） 08:55
+${replace}/963940161
+#EXTINF:-1 tvg-id="爵士VS掘金" tvg-name="NBA 爵士VS掘金 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS掘金 全场回放（英文原声） 08:55
+${replace}/963939840
+#EXTINF:-1 tvg-id="勇士VS马刺" tvg-name="NBA 勇士VS马刺 全场回放（杨健、曾令旭、小七） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS马刺 全场回放（杨健、曾令旭、小七） 09:55
+${replace}/963940556
 #EXTINF:-1 tvg-id="第四日热身区" tvg-name="国际乒联澳门单打世界杯 第四日热身区 热身区 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 第四日热身区 热身区 10:00
 ${replace}/963812670
-#EXTINF:-1 tvg-id="墨西哥城船长VS撕裂之城混音" tvg-name="G联赛 墨西哥城船长VS撕裂之城混音 邢晨 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 墨西哥城船长VS撕裂之城混音 邢晨 09:55
-${replace}/963906169
-#EXTINF:-1 tvg-id="墨西哥城船长VS撕裂之城混音" tvg-name="G联赛 墨西哥城船长VS撕裂之城混音 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png" group-title="体育-今天",G联赛 墨西哥城船长VS撕裂之城混音 英文原声 09:55
-${replace}/963906290
-#EXTINF:-1 tvg-id="覃予萱打头阵冲8强 王曼昱PK伊藤美诚" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 热身区 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 热身区 10:00
-${replace}/963812670
-#EXTINF:-1 tvg-id="覃予萱打头阵冲8强 王曼昱PK伊藤美诚" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 侯英超 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 侯英超 11:00
+#EXTINF:-1 tvg-id="王曼昱PK伊藤美诚 张禹珍迎战松岛辉空" tvg-name="国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 侯英超 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 侯英超 11:00
 ${replace}/963821973
-#EXTINF:-1 tvg-id="覃予萱打头阵冲8强 王曼昱PK伊藤美诚" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 赛场原声 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 赛场原声 11:00
+#EXTINF:-1 tvg-id="王曼昱PK伊藤美诚 张禹珍迎战松岛辉空" tvg-name="国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 热身区 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 热身区 10:00
+${replace}/963812670
+#EXTINF:-1 tvg-id="王曼昱PK伊藤美诚 张禹珍迎战松岛辉空" tvg-name="国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 赛场原声 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 赛场原声 11:00
 ${replace}/963821939
-#EXTINF:-1 tvg-id="覃予萱打头阵冲8强 王曼昱PK伊藤美诚" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 混采区 11:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 混采区 11:20
+#EXTINF:-1 tvg-id="王曼昱PK伊藤美诚 张禹珍迎战松岛辉空" tvg-name="国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 混采区 11:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 混采区 11:20
 ${replace}/963822029
-#EXTINF:-1 tvg-id="覃予萱打头阵冲8强 王曼昱PK伊藤美诚" tvg-name="国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 候场区 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 覃予萱打头阵冲8强 王曼昱PK伊藤美诚 候场区 10:30
+#EXTINF:-1 tvg-id="王曼昱PK伊藤美诚 张禹珍迎战松岛辉空" tvg-name="国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 候场区 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png" group-title="体育-今天",国际乒联澳门单打世界杯 王曼昱PK伊藤美诚 张禹珍迎战松岛辉空 候场区 10:30
 ${replace}/963822057
 #EXTINF:-1 tvg-id="韩国女足U20VS乌兹别克斯坦女足U20" tvg-name="亚女U20 韩国女足U20VS乌兹别克斯坦女足U20 沈云怡 16:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/7/10000000102310672034.png" group-title="体育-今天",亚女U20 韩国女足U20VS乌兹别克斯坦女足U20 沈云怡 16:45
 ${replace}/963824707
@@ -427,7 +455,7 @@ ${replace}/963824754
 ${replace}/963824814
 #EXTINF:-1 tvg-id="日本女足U20VS印度女足U20" tvg-name="亚女U20 日本女足U20VS印度女足U20 赛场原声 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/7/10000000102310672034.png" group-title="体育-今天",亚女U20 日本女足U20VS印度女足U20 赛场原声 20:45
 ${replace}/963824792
-#EXTINF:-1 tvg-id="本西奇出战 佩古拉领衔美国三将登场" tvg-name="WTA 本西奇出战 佩古拉领衔美国三将登场 清流播出 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 本西奇出战 佩古拉领衔美国三将登场 清流播出 23:00
+#EXTINF:-1 tvg-id="本西奇出战 佩古拉领衔美国三将登场" tvg-name="WTA 本西奇出战 佩古拉领衔美国三将登场 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 本西奇出战 佩古拉领衔美国三将登场 赛场原声 23:00
 ${replace}/963843512
 #EXTINF:-1 tvg-id="本西奇出战 佩古拉领衔美国三将登场" tvg-name="WTA 本西奇出战 佩古拉领衔美国三将登场 英文原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 本西奇出战 佩古拉领衔美国三将登场 英文原声 23:00
 ${replace}/963843549
