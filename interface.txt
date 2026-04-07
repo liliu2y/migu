@@ -399,6 +399,8 @@ ${replace}/964027278
 ${replace}/964026396
 #EXTINF:-1 tvg-id="尤文图斯VS热那亚" tvg-name="意甲 尤文图斯VS热那亚 全场回放（吴桐、刘腾） 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 尤文图斯VS热那亚 全场回放（吴桐、刘腾） 23:30
 ${replace}/964026499
+#EXTINF:-1 tvg-id="高阳10-9怀特 白雨露、王信伯晋级" tvg-name="斯诺克 高阳10-9怀特 白雨露、王信伯晋级 2026斯诺克世锦赛资格赛Day1第1轮回放：黄佳浩5-10莱昂内·克劳利（第二阶段）（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳10-9怀特 白雨露、王信伯晋级 2026斯诺克世锦赛资格赛Day1第1轮回放：黄佳浩5-10莱昂内·克劳利（第二阶段）（赛场原声） 02:00
+${replace}/964035496
 #EXTINF:-1 tvg-id="高阳10-9怀特 白雨露、王信伯晋级" tvg-name="斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】高阳10-9吉米·怀特（第二阶段）（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】高阳10-9吉米·怀特（第二阶段）（赛场原声） 02:00
 ${replace}/964027282
 #EXTINF:-1 tvg-id="高阳10-9怀特 白雨露、王信伯晋级" tvg-name="斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】姚朋成10-9瑞安·戴维斯（第二阶段）（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳10-9怀特 白雨露、王信伯晋级 【回放】姚朋成10-9瑞安·戴维斯（第二阶段）（赛场原声） 02:00
@@ -421,6 +423,12 @@ ${replace}/964029774
 ${replace}/964029295
 #EXTINF:-1 tvg-id="魔术VS活塞" tvg-name="NBA 魔术VS活塞 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS活塞 全场回放（英文原声） 06:55
 ${replace}/964029240
+#EXTINF:-1 tvg-id="灰熊VS骑士" tvg-name="NBA 灰熊VS骑士 全场回放（王冠证、殷文玉、魏欣怡） 07:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS骑士 全场回放（王冠证、殷文玉、魏欣怡） 07:45
+${replace}/964030512
+#EXTINF:-1 tvg-id="灰熊VS骑士" tvg-name="NBA 灰熊VS骑士 全场回放（英文原声） 07:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS骑士 全场回放（英文原声） 07:45
+${replace}/964030519
+#EXTINF:-1 tvg-id="灰熊VS骑士" tvg-name="NBA 灰熊VS骑士 全场回放（AI字幕） 07:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS骑士 全场回放（AI字幕） 07:45
+${replace}/964029998
 #EXTINF:-1 tvg-id="马刺VS76人" tvg-name="NBA 马刺VS76人 全场回放（邵化谦、周赫） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS76人 全场回放（邵化谦、周赫） 07:55
 ${replace}/964030638
 #EXTINF:-1 tvg-id="马刺VS76人" tvg-name="NBA 马刺VS76人 全场回放（王晓晨） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS76人 全场回放（王晓晨） 07:55
@@ -431,24 +439,20 @@ ${replace}/964030944
 ${replace}/964031383
 #EXTINF:-1 tvg-id="掘金VS开拓者" tvg-name="NBA 掘金VS开拓者 全场回放（邢晨） 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 掘金VS开拓者 全场回放（邢晨） 08:45
 ${replace}/964031950
+#EXTINF:-1 tvg-id="掘金VS开拓者" tvg-name="NBA 掘金VS开拓者 全场回放（英文原声） 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 掘金VS开拓者 全场回放（英文原声） 08:45
+${replace}/964032894
 #EXTINF:-1 tvg-id="浙江FCvs狼队" tvg-name="英超青年杯 浙江FCvs狼队 全场回放 09:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/30/100000001429106a7d6a.png" group-title="体育-今天",英超青年杯 浙江FCvs狼队 全场回放 09:50
 ${replace}/964032409
 #EXTINF:-1 tvg-id="上海申花vs中国香港精英队" tvg-name="英超青年杯 上海申花vs中国香港精英队 全场回放 09:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/30/100000001429106a7d6a.png" group-title="体育-今天",英超青年杯 上海申花vs中国香港精英队 全场回放 09:50
 ${replace}/964032300
-#EXTINF:-1 tvg-id="杨惠泽3-1陈显畅 冯怡璇PK江芷林" tvg-name="WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 朱子恒 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 朱子恒 11:00
-${replace}/963962913
-#EXTINF:-1 tvg-id="杨惠泽3-1陈显畅 冯怡璇PK江芷林" tvg-name="WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 3D全真视频 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 3D全真视频 11:00
-${replace}/964029617
-#EXTINF:-1 tvg-id="杨惠泽3-1陈显畅 冯怡璇PK江芷林" tvg-name="WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 2号桌 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 2号桌 11:00
-${replace}/963962883
-#EXTINF:-1 tvg-id="杨惠泽3-1陈显畅 冯怡璇PK江芷林" tvg-name="WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 3号桌 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 3号桌 11:00
-${replace}/963962901
-#EXTINF:-1 tvg-id="杨惠泽3-1陈显畅 冯怡璇PK江芷林" tvg-name="WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 1号桌 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽3-1陈显畅 冯怡璇PK江芷林 1号桌 11:00
-${replace}/963962878
-#EXTINF:-1 tvg-id="石家庄功夫vs北京男足选拔队" tvg-name="英超青年杯 石家庄功夫vs北京男足选拔队 赛场原声 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/30/100000001429106a7d6a.png" group-title="体育-今天",英超青年杯 石家庄功夫vs北京男足选拔队 赛场原声 14:50
-${replace}/963904210
-#EXTINF:-1 tvg-id="阿森纳vs阿斯顿维拉" tvg-name="英超青年杯 阿森纳vs阿斯顿维拉 赛场原声 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/30/100000001429106a7d6a.png" group-title="体育-今天",英超青年杯 阿森纳vs阿斯顿维拉 赛场原声 14:50
-${replace}/963904213
+#EXTINF:-1 tvg-id="杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（朱子恒） 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（朱子恒） 11:00
+${replace}/964034375
+#EXTINF:-1 tvg-id="杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（一号桌） 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（一号桌） 11:00
+${replace}/964035379
+#EXTINF:-1 tvg-id="杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（二号桌） 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（二号桌） 11:00
+${replace}/964034981
+#EXTINF:-1 tvg-id="杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林" tvg-name="WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（三号桌） 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 杨惠泽喜迎开门红 冯怡璇3-2险胜江芷林 全场回放（三号桌） 11:00
+${replace}/964034120
 #EXTINF:-1 tvg-id="李和宸对决蔡俊杰 国乒女线六人出战" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 凌维康 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 李和宸对决蔡俊杰 国乒女线六人出战 凌维康 16:00
 ${replace}/963963044
 #EXTINF:-1 tvg-id="李和宸对决蔡俊杰 国乒女线六人出战" tvg-name="WTT 李和宸对决蔡俊杰 国乒女线六人出战 3D全真视频 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 李和宸对决蔡俊杰 国乒女线六人出战 3D全真视频 16:00
@@ -555,6 +559,8 @@ ${replace}/963977303
 ${replace}/963977323
 #EXTINF:-1 tvg-id="鹈鹕VS爵士" tvg-name="NBA 鹈鹕VS爵士 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 鹈鹕VS爵士 英文原声 07:55
 ${replace}/963977381
+#EXTINF:-1 tvg-id="亚洲攀岩锦标赛暨亚运会资格赛day1" tvg-name="亚洲攀岩锦标赛 亚洲攀岩锦标赛暨亚运会资格赛day1 解说 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/2/10000000143210641fc3.png" group-title="体育-明天",亚洲攀岩锦标赛 亚洲攀岩锦标赛暨亚运会资格赛day1 解说 09:30
+${replace}/964035192
 #EXTINF:-1 tvg-id="勇士VS国王" tvg-name="NBA 勇士VS国王 庄宁宇 徐咏 陈正昊 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 勇士VS国王 庄宁宇 徐咏 陈正昊 09:45
 ${replace}/963977911
 #EXTINF:-1 tvg-id="勇士VS国王" tvg-name="NBA 勇士VS国王 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 勇士VS国王 英文原声 09:55
