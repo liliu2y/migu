@@ -3717,6 +3717,12 @@
     <programme channel="陕西体育休闲频道" start="20260409233400 +0800" stop="20260410000000 +0800">
         <title lang="zh">天下赛场</title>
     </programme>
+    <channel id="24小时城市联赛轮播台">
+        <display-name lang="zh">24小时城市联赛轮播台</display-name>
+    </channel>
+    <programme channel="24小时城市联赛轮播台" start="20260409000000 +0800" stop="20260409235900 +0800">
+        <title lang="zh"></title>
+    </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
     </channel>
@@ -4170,7 +4176,7 @@
     <programme channel="广东卫视" start="20260409225500 +0800" stop="20260409234000 +0800">
         <title lang="zh">侦察英雄(28)</title>
     </programme>
-    <programme channel="广东卫视" start="20260409234000 +0800" stop="20260410000000 +0800">
+    <programme channel="广东卫视" start="20260409234000 +0800" stop="20260410010000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
