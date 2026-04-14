@@ -401,10 +401,6 @@ ${replace}/964180031
 ${replace}/964180056
 #EXTINF:-1 tvg-id="莱万特VS赫塔菲" tvg-name="西甲 莱万特VS赫塔菲 全场回放（兰子非） 02:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/10/7799H5EEETGN.png" group-title="体育-今天",西甲 莱万特VS赫塔菲 全场回放（兰子非） 02:45
 ${replace}/964180028
-#EXTINF:-1 tvg-id="大连可为VS南通海门珂缔缘" tvg-name="中乙 大连可为VS南通海门珂缔缘 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 大连可为VS南通海门珂缔缘 解说 14:50
-${replace}/964172104
-#EXTINF:-1 tvg-id="北京理工VS上海海港B队" tvg-name="中乙 北京理工VS上海海港B队 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 北京理工VS上海海港B队 解说 14:50
-${replace}/964172061
 #EXTINF:-1 tvg-id="江西庐山VS贵州筑城竞技" tvg-name="中乙 江西庐山VS贵州筑城竞技 解说 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 江西庐山VS贵州筑城竞技 解说 15:20
 ${replace}/964172169
 #EXTINF:-1 tvg-id="湖北青年星VS赣州瑞狮" tvg-name="中乙 湖北青年星VS赣州瑞狮 解说 16:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 湖北青年星VS赣州瑞狮 解说 16:20
@@ -443,9 +439,9 @@ ${replace}/963891170
 ${replace}/964072000
 #EXTINF:-1 tvg-id="大不里士拖拉机VS迪拜青年国民" tvg-name="亚冠精英 大不里士拖拉机VS迪拜青年国民 赛场原声 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 大不里士拖拉机VS迪拜青年国民 赛场原声 22:30
 ${replace}/964071975
-#EXTINF:-1 tvg-id="伊埃拉 费尔南德斯率先出战" tvg-name="WTA 伊埃拉 费尔南德斯率先出战 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 伊埃拉 费尔南德斯率先出战 赛场原声 23:00
+#EXTINF:-1 tvg-id="伊埃拉、费尔南德斯率先开战" tvg-name="WTA 伊埃拉、费尔南德斯率先开战 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 伊埃拉、费尔南德斯率先开战 赛场原声 23:00
 ${replace}/964062442
-#EXTINF:-1 tvg-id="伊埃拉 费尔南德斯率先出战" tvg-name="WTA 伊埃拉 费尔南德斯率先出战 英文原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 伊埃拉 费尔南德斯率先出战 英文原声 23:00
+#EXTINF:-1 tvg-id="伊埃拉、费尔南德斯率先开战" tvg-name="WTA 伊埃拉、费尔南德斯率先开战 英文原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 伊埃拉、费尔南德斯率先开战 英文原声 23:00
 ${replace}/964062508
 #EXTINF:-1 tvg-id="周跃龙、庞俊旭、江俊冲正赛" tvg-name="斯诺克 周跃龙、庞俊旭、江俊冲正赛 1号桌 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 周跃龙、庞俊旭、江俊冲正赛 1号桌 00:00
 ${replace}/964020797
@@ -469,10 +465,26 @@ ${replace}/964021070
 ${replace}/964072283
 #EXTINF:-1 tvg-id="吉达联合VS阿布扎比统一" tvg-name="亚冠精英 吉达联合VS阿布扎比统一 赛场原声 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-明天",亚冠精英 吉达联合VS阿布扎比统一 赛场原声 01:45
 ${replace}/964072268
+#EXTINF:-1 tvg-id="黄蜂VS热火" tvg-name="NBA 黄蜂VS热火 姜帆 李根 秋童 07:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 黄蜂VS热火 姜帆 李根 秋童 07:15
+${replace}/964187713
+#EXTINF:-1 tvg-id="黄蜂VS热火" tvg-name="NBA 黄蜂VS热火 英文原声 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 黄蜂VS热火 英文原声 07:00
+${replace}/964187696
+#EXTINF:-1 tvg-id="黄蜂VS热火" tvg-name="NBA 黄蜂VS热火 智能字幕 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 黄蜂VS热火 智能字幕 07:00
+${replace}/964187677
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第80期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-明天",咪咕体育日报 undefined 咪咕体育日报 第80期 08:00
 ${replace}/964146271
-#EXTINF:-1 tvg-id="环岛骑行全民挑战赛day1" tvg-name="环岛骑行全民挑战赛 环岛骑行全民挑战赛day1 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/13/100000001439106b941e.png" group-title="体育-明天",环岛骑行全民挑战赛 环岛骑行全民挑战赛day1 解说 09:00
+#EXTINF:-1 tvg-id="环岛骑行全民挑战赛day1" tvg-name="环海南岛国际公路自行车赛 环岛骑行全民挑战赛day1 解说 09:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/13/100000001439106b941e.png" group-title="体育-明天",环海南岛国际公路自行车赛 环岛骑行全民挑战赛day1 解说 09:10
+${replace}/964187092
+#EXTINF:-1 tvg-id="环岛骑行全民挑战赛day1" tvg-name="环海南岛国际公路自行车赛 环岛骑行全民挑战赛day1 解说 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/13/100000001439106b941e.png" group-title="体育-明天",环海南岛国际公路自行车赛 环岛骑行全民挑战赛day1 解说 12:00
 ${replace}/964166236
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 李天宇 刘炜 陈正昊 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 太阳VS开拓者 李天宇 刘炜 陈正昊 09:45
+${replace}/964187649
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 邢晨 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 太阳VS开拓者 邢晨 09:55
+${replace}/964187654
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 英文原声 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 太阳VS开拓者 英文原声 09:30
+${replace}/964187623
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 智能字幕 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 太阳VS开拓者 智能字幕 09:30
+${replace}/964187610
 #EXTINF:-1 tvg-id="长春喜都VS泰安天贶" tvg-name="中乙 长春喜都VS泰安天贶 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-明天",中乙 长春喜都VS泰安天贶 解说 14:50
 ${replace}/964172259
 #EXTINF:-1 tvg-id="青岛红狮VS大连英博B队" tvg-name="中乙 青岛红狮VS大连英博B队 解说 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-明天",中乙 青岛红狮VS大连英博B队 解说 15:20
