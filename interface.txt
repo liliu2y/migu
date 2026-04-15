@@ -235,8 +235,6 @@ ${replace}/959986618
 ${replace}/958475356
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/344/202604101045_1774936529944_H32_1080.webp" group-title="纪实",梨园频道
 ${replace}/961930369
-#EXTINF:-1 tvg-id="利雅得新月VS萨德" tvg-name="亚冠精英 利雅得新月VS萨德 全场回放 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-昨天",亚冠精英 利雅得新月VS萨德 全场回放 01:45
-${replace}/964180051
 #EXTINF:-1 tvg-id="利雅得新月VS萨德" tvg-name="亚冠精英 利雅得新月VS萨德 全场回放（吴桐） 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-昨天",亚冠精英 利雅得新月VS萨德 全场回放（吴桐） 01:45
 ${replace}/964179983
 #EXTINF:-1 tvg-id="范争一晋级 贺国强10-8龙泽煌" tvg-name="斯诺克 范争一晋级 贺国强10-8龙泽煌 【回放】贺国强10-8龙泽煌（第二阶段）（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 范争一晋级 贺国强10-8龙泽煌 【回放】贺国强10-8龙泽煌（第二阶段）（赛场原声） 02:00
@@ -329,18 +327,16 @@ ${replace}/964195058
 ${replace}/964195122
 #EXTINF:-1 tvg-id="周跃龙庞俊旭晋级 江俊9-10穆迪" tvg-name="斯诺克 周跃龙庞俊旭晋级 江俊9-10穆迪 【回放】安东尼·科瓦尔斯基10-8杰米·琼斯（第二阶段）（赛场原声） 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 周跃龙庞俊旭晋级 江俊9-10穆迪 【回放】安东尼·科瓦尔斯基10-8杰米·琼斯（第二阶段）（赛场原声） 00:00
 ${replace}/964195315
-#EXTINF:-1 tvg-id="吉达联合VS阿布扎比统一" tvg-name="亚冠精英 吉达联合VS阿布扎比统一 全场回放 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 吉达联合VS阿布扎比统一 全场回放 01:45
-${replace}/964195492
 #EXTINF:-1 tvg-id="吉达联合VS阿布扎比统一" tvg-name="亚冠精英 吉达联合VS阿布扎比统一 全场回放（石庆圣） 01:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-今天",亚冠精英 吉达联合VS阿布扎比统一 全场回放（石庆圣） 01:45
 ${replace}/964195247
-#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 李天宇 刘炜 陈正昊 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 李天宇 刘炜 陈正昊 09:45
-${replace}/964187649
-#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 邢晨 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 邢晨 09:55
-${replace}/964187654
-#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 英文原声 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 英文原声 09:30
-${replace}/964187623
-#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 智能字幕 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 智能字幕 09:30
-${replace}/964187610
+#EXTINF:-1 tvg-id="黄蜂VS热火" tvg-name="NBA 黄蜂VS热火 全场回放（姜帆、李根、秋童） 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 黄蜂VS热火 全场回放（姜帆、李根、秋童） 07:00
+${replace}/964199205
+#EXTINF:-1 tvg-id="黄蜂VS热火" tvg-name="NBA 黄蜂VS热火 全场回放（英文原声） 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 黄蜂VS热火 全场回放（英文原声） 07:00
+${replace}/964199678
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 全场回放（李天宇、刘炜、陈正昊、廖昕阳） 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 全场回放（李天宇、刘炜、陈正昊、廖昕阳） 09:30
+${replace}/964200763
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 全场回放（英文原声） 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 全场回放（英文原声） 09:30
+${replace}/964200749
 #EXTINF:-1 tvg-id="环岛骑行全民挑战赛day1" tvg-name="环海南岛国际公路自行车赛 环岛骑行全民挑战赛day1 解说 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/13/100000001439106b941e.png" group-title="体育-今天",环海南岛国际公路自行车赛 环岛骑行全民挑战赛day1 解说 12:00
 ${replace}/964166236
 #EXTINF:-1 tvg-id="长春喜都VS泰安天贶" tvg-name="中乙 长春喜都VS泰安天贶 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 长春喜都VS泰安天贶 解说 14:50
@@ -377,7 +373,7 @@ ${replace}/964021155
 ${replace}/964062524
 #EXTINF:-1 tvg-id="保利尼、斯瓦泰克出战" tvg-name="WTA 保利尼、斯瓦泰克出战 英文原声 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 保利尼、斯瓦泰克出战 英文原声 18:30
 ${replace}/964062543
-#EXTINF:-1 tvg-id="武汉三镇B队VS成都蓉城B队" tvg-name="中乙 武汉三镇B队VS成都蓉城B队 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 武汉三镇B队VS成都蓉城B队 解说 19:20
+#EXTINF:-1 tvg-id="武汉三镇B队VS成都蓉城希拉谷" tvg-name="中乙 武汉三镇B队VS成都蓉城希拉谷 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 武汉三镇B队VS成都蓉城希拉谷 解说 19:20
 ${replace}/964172379
 #EXTINF:-1 tvg-id="兰州陇原竞技VS山东泰山B队" tvg-name="中乙 兰州陇原竞技VS山东泰山B队 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 兰州陇原竞技VS山东泰山B队 解说 19:20
 ${replace}/964172365
