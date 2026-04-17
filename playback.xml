@@ -94,10 +94,10 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20260417195740 +0800" stop="20260417200100 +0800">
-        <title lang="zh">前情提要-金关-7/22</title>
+        <title lang="zh">前情提要-金关-第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260417200100 +0800" stop="20260417205525 +0800">
-        <title lang="zh">金关7/22</title>
+        <title lang="zh">金关第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260417205525 +0800" stop="20260417215120 +0800">
         <title lang="zh">周末一起看电影-1</title>
@@ -414,11 +414,8 @@
     <programme channel="CCTV4中文国际" start="20260417190000 +0800" stop="20260417193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260417193000 +0800" stop="20260417200000 +0800">
+    <programme channel="CCTV4中文国际" start="20260417193000 +0800" stop="20260417203000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260417200000 +0800" stop="20260417203000 +0800">
-        <title lang="zh">记住乡愁2026-46</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260417203000 +0800" stop="20260417210000 +0800">
         <title lang="zh">海峡两岸-2026-107</title>
@@ -435,14 +432,11 @@
     <programme channel="CCTV4中文国际" start="20260417223000 +0800" stop="20260417230230 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260417230230 +0800" stop="20260417232830 +0800">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260417232830 +0800" stop="20260417235500 +0800">
+    <programme channel="CCTV4中文国际" start="20260417230230 +0800" stop="20260417232900 +0800">
         <title lang="zh">海峡两岸-2026-107</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260417235500 +0800" stop="20260417235900 +0800">
-        <title lang="zh">护宝寻踪第28集</title>
+    <programme channel="CCTV4中文国际" start="20260417232900 +0800" stop="20260417235900 +0800">
+        <title lang="zh">护宝寻踪第31集</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
@@ -877,13 +871,13 @@
         <title lang="zh">本集提要-八千里路云和月-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260417193000 +0800" stop="20260417202540 +0800">
-        <title lang="zh">八千里路云和月19/40</title>
+        <title lang="zh">八千里路云和月第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260417202540 +0800" stop="20260417203040 +0800">
         <title lang="zh">本集提要-八千里路云和月-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260417203040 +0800" stop="20260417212440 +0800">
-        <title lang="zh">八千里路云和月20/40</title>
+        <title lang="zh">八千里路云和月第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260417212440 +0800" stop="20260417212940 +0800">
         <title lang="zh">本集提要-风与潮-第1集</title>
@@ -1677,20 +1671,11 @@
     <programme channel="CCTV4欧洲" start="20260417190000 +0800" stop="20260417193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417193000 +0800" stop="20260417200000 +0800">
+    <programme channel="CCTV4欧洲" start="20260417193000 +0800" stop="20260417203030 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417200000 +0800" stop="20260417204500 +0800">
-        <title lang="zh">远方的家2026-81</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260417204500 +0800" stop="20260417204900 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-20</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260417204900 +0800" stop="20260417205200 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-29</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260417205200 +0800" stop="20260417210000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-31</title>
+    <programme channel="CCTV4欧洲" start="20260417203030 +0800" stop="20260417210000 +0800">
+        <title lang="zh">中国文艺-2026-76</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260417210000 +0800" stop="20260417213000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1800,11 +1785,8 @@
     <programme channel="CCTV4美洲" start="20260417190000 +0800" stop="20260417193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260417193000 +0800" stop="20260417200000 +0800">
+    <programme channel="CCTV4美洲" start="20260417193000 +0800" stop="20260417203000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260417200000 +0800" stop="20260417203000 +0800">
-        <title lang="zh">中国文艺-2026-76</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260417203000 +0800" stop="20260417210000 +0800">
         <title lang="zh">走遍中国-2026-61</title>
