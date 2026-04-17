@@ -1671,11 +1671,11 @@
     <programme channel="CCTV4欧洲" start="20260417190000 +0800" stop="20260417193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417193000 +0800" stop="20260417203030 +0800">
+    <programme channel="CCTV4欧洲" start="20260417193000 +0800" stop="20260417203000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417203030 +0800" stop="20260417210000 +0800">
-        <title lang="zh">中国文艺-2026-76</title>
+    <programme channel="CCTV4欧洲" start="20260417203000 +0800" stop="20260417210000 +0800">
+        <title lang="zh">走遍中国-2026-61</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260417210000 +0800" stop="20260417213000 +0800">
         <title lang="zh">中国新闻</title>
@@ -3507,13 +3507,13 @@
     <programme channel="24小时城市联赛轮播台" start="20260417150800 +0800" stop="20260417170900 +0800">
         <title lang="zh">安徽徽青赛第10轮全场回放：六安3:1马鞍山</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260417170900 +0800" stop="20260417192800 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260417170900 +0800" stop="20260417191500 +0800">
         <title lang="zh">云南滇超第9轮全场回放：临沧队1:2大理队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260417192800 +0800" stop="20260417221100 +0800">
-        <title lang="zh">四川川超第5轮全场回放：宜宾长江首城队3:2凉山好医生队</title>
+    <programme channel="24小时城市联赛轮播台" start="20260417191500 +0800" stop="20260417223000 +0800">
+        <title lang="zh">浙江吴越杯第3轮：嘉兴VS宁波</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260417221100 +0800" stop="20260418012600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260417223000 +0800" stop="20260418012600 +0800">
         <title lang="zh">广西县超第7轮全场回放：梧州市岑溪市队2:4梧州市苍梧县队</title>
     </programme>
     <channel id="武术世界">
@@ -3687,17 +3687,8 @@
     <programme channel="东方卫视" start="20260417085900 +0800" stop="20260417090100 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260417090100 +0800" stop="20260417094900 +0800">
-        <title lang="zh">他从火光中走来(32)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417094900 +0800" stop="20260417103200 +0800">
-        <title lang="zh">他从火光中走来(33)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417103200 +0800" stop="20260417111500 +0800">
-        <title lang="zh">他从火光中走来(34)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417111500 +0800" stop="20260417120000 +0800">
-        <title lang="zh">他从火光中走来(35)</title>
+    <programme channel="东方卫视" start="20260417090100 +0800" stop="20260417120000 +0800">
+        <title lang="zh">他从火光中走来32-35</title>
     </programme>
     <programme channel="东方卫视" start="20260417120000 +0800" stop="20260417122600 +0800">
         <title lang="zh">午间30分</title>
@@ -3708,23 +3699,8 @@
     <programme channel="东方卫视" start="20260417123000 +0800" stop="20260417124200 +0800">
         <title lang="zh">ShanghaiEye</title>
     </programme>
-    <programme channel="东方卫视" start="20260417124200 +0800" stop="20260417132800 +0800">
-        <title lang="zh">雁回时(24)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417132800 +0800" stop="20260417141500 +0800">
-        <title lang="zh">雁回时(25)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417141500 +0800" stop="20260417150600 +0800">
-        <title lang="zh">雁回时(26)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417150600 +0800" stop="20260417154100 +0800">
-        <title lang="zh">雁回时(27)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417154100 +0800" stop="20260417162600 +0800">
-        <title lang="zh">雁回时(28)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417162600 +0800" stop="20260417170700 +0800">
-        <title lang="zh">雁回时(29)</title>
+    <programme channel="东方卫视" start="20260417124200 +0800" stop="20260417170700 +0800">
+        <title lang="zh">雁回时24-29</title>
     </programme>
     <programme channel="东方卫视" start="20260417170700 +0800" stop="20260417173300 +0800">
         <title lang="zh">东方新娱乐</title>
@@ -3759,14 +3735,8 @@
     <programme channel="东方卫视" start="20260417215900 +0800" stop="20260417220000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260417220000 +0800" stop="20260417224200 +0800">
-        <title lang="zh">不完美受害人(10)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417224200 +0800" stop="20260417232400 +0800">
-        <title lang="zh">不完美受害人(11)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417232400 +0800" stop="20260418000700 +0800">
-        <title lang="zh">不完美受害人(12)</title>
+    <programme channel="东方卫视" start="20260417220000 +0800" stop="20260418000700 +0800">
+        <title lang="zh">不完美受害人10-12</title>
     </programme>
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
@@ -4383,7 +4353,7 @@
     <programme channel="河北卫视" start="20260417233000 +0800" stop="20260417233500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260417233500 +0800" stop="20260418000000 +0800">
+    <programme channel="河北卫视" start="20260417233500 +0800" stop="20260418000500 +0800">
         <title lang="zh">运河风味</title>
     </programme>
     <channel id="江西卫视">
