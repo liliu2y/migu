@@ -1,8 +1,9 @@
 const fs = require('fs');
 const https = require('https');
 const http = require('http');
+const path = require('path');
 
-// 设置时区为 亚洲/上海 (北京时间)
+//设置时区为 亚洲/上海 (北京时间)
 process.env.TZ = 'Asia/Shanghai';
 
 // 数据源
@@ -130,10 +131,11 @@ async function fetch(url) {
     ip_list: ipData
   };
 
-  // 写入文件（zubo/ip_all.json）
-  fs.writeFileSync('ip_all.json', JSON.stringify(result, null, 2), 'utf8');
+  // 生成ip_all.json
+  const outputPath = path.resolve(__dirname, '../ip_all.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
 
-  console.log(`✅ 生成完成：zubo/ip_all.json`);
+  console.log(`✅ 生成完成：根目录 /ip_all.json`);
   console.log(`✅ 有效IP：${valid}`);
   console.log(`✅ 更新时间：${now.toLocaleString()}`);
 })();
