@@ -1,10 +1,14 @@
-const fs = require('fs');
-const https = require('https');
-const http = require('http');
-const path = require('path');
-
 //设置时区为 亚洲/上海 (北京时间)
 process.env.TZ = 'Asia/Shanghai';
+
+import fs from 'fs';
+import https from 'https';
+import http from 'http';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // 数据源
 const sources = [
@@ -131,7 +135,7 @@ async function fetch(url) {
     ip_list: ipData
   };
 
-  // 生成ip_all.json
+  // 输出到 项目根目录 ip_all.json
   const outputPath = path.resolve(__dirname, '../ip_all.json');
   fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
 
