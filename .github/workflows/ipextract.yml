@@ -15,6 +15,9 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: 设置时区为 中国北京时间
+        run: sudo timedatectl set-timezone Asia/Shanghai
+
       # 进入 utils 目录运行脚本
       - name: 运行提取脚本
         run: |
