@@ -507,16 +507,14 @@ ${replace}/964289534
 ${replace}/964289493
 #EXTINF:-1 tvg-id="崇左麦那湖百万垂钓大赛day3" tvg-name="崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day3 解说 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/17/100000001450106b2e4c.png" group-title="体育-今天",崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day3 解说 08:30
 ${replace}/964232880
-#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 连睿 李根 苏群 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 连睿 李根 苏群 08:45
-${replace}/964276772
-#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 邢晨 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 邢晨 08:55
-${replace}/964276775
-#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 王晓晨 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 王晓晨 08:55
-${replace}/964276788
-#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 英文原声 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 英文原声 08:55
-${replace}/964276822
-#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 智能字幕 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 智能字幕 08:55
-${replace}/964284679
+#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 全场回放（连睿、李根、苏群、裴优） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 全场回放（连睿、李根、苏群、裴优） 08:55
+${replace}/964293076
+#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 全场回放（邢晨） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 全场回放（邢晨） 08:55
+${replace}/964292926
+#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 全场回放（王晓晨） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 全场回放（王晓晨） 08:55
+${replace}/964293059
+#EXTINF:-1 tvg-id="马刺VS开拓者" tvg-name="NBA 马刺VS开拓者 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS开拓者 全场回放（英文原声） 08:55
+${replace}/964293055
 #EXTINF:-1 tvg-id="百园齐挥拍！共庆世界乒乓球日" tvg-name="国球进公园 百园齐挥拍！共庆世界乒乓球日 原声 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/15/1000000014471065fb01.png" group-title="体育-今天",国球进公园 百园齐挥拍！共庆世界乒乓球日 原声 14:00
 ${replace}/964204967
 #EXTINF:-1 tvg-id="厦门集美诚毅VS深圳二零二八" tvg-name="足协杯 厦门集美诚毅VS深圳二零二八 赛场原声 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-今天",足协杯 厦门集美诚毅VS深圳二零二八 赛场原声 14:50
@@ -647,3 +645,5 @@ ${replace}/964278360
 ${replace}/964183656
 #EXTINF:-1 tvg-id="吴宜泽VS雷佩凡" tvg-name="斯诺克 吴宜泽VS雷佩凡 朱蒙 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 吴宜泽VS雷佩凡 朱蒙 21:30
 ${replace}/964278365
+#EXTINF:-1 tvg-id="国际篮联女篮世界杯抽签仪式" tvg-name="女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 邵化谦 季孟年 23:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/9/10000000141610602642.png" group-title="体育-明天",女篮世界杯资格赛 国际篮联女篮世界杯抽签仪式 邵化谦 季孟年 23:50
+${replace}/964292104
