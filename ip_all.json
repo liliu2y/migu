@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/4/20 17:59:49",
+  "update_time": "2026/4/20 19:37:44",
   "statistics": {
-    "total_processed": 9648,
-    "valid_ip_count": 55,
-    "duplicate_ip_count": 7740
+    "total_processed": 9760,
+    "valid_ip_count": 56,
+    "duplicate_ip_count": 7850
   },
   "ip_list": {
     "bjcu": [
@@ -123,6 +123,7 @@
     ],
     "hncu": [
       "113.58.7.33:8188",
+      "219.156.115.12:4022",
       "42.237.212.68:4022"
     ],
     "hbcu": [
