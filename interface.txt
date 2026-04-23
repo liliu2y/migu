@@ -239,6 +239,8 @@ ${replace}/958475356
 ${replace}/961930369
 #EXTINF:-1 tvg-id="利雅得胜利VS多哈国民" tvg-name="亚冠二级 利雅得胜利VS多哈国民 全场回放（乔迁） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="体育-昨天",亚冠二级 利雅得胜利VS多哈国民 全场回放（乔迁） 23:45
 ${replace}/964351735
+#EXTINF:-1 tvg-id="巴黎圣日耳曼VS南特" tvg-name="法甲 巴黎圣日耳曼VS南特 全场回放（鹿中原、王宇） 00:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-昨天",法甲 巴黎圣日耳曼VS南特 全场回放（鹿中原、王宇） 00:45
+${replace}/964352038
 #EXTINF:-1 tvg-id="埃尔切VS马德里竞技" tvg-name="西甲 埃尔切VS马德里竞技 全场回放（孙雨轩、贺宇） 00:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天",西甲 埃尔切VS马德里竞技 全场回放（孙雨轩、贺宇） 00:45
 ${replace}/964352126
 #EXTINF:-1 tvg-id="皇家社会VS赫塔菲" tvg-name="西甲 皇家社会VS赫塔菲 全场回放（洪宇青） 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天",西甲 皇家社会VS赫塔菲 全场回放（洪宇青） 01:45
@@ -281,10 +283,30 @@ ${replace}/964366693
 ${replace}/964365473
 #EXTINF:-1 tvg-id="北京体育大学第56届田径运动会" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会上午场全场回放（赛场原声）（202604223） 13:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/20/100000001453106ebf57.png" group-title="体育-昨天",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 2026年北京体育大学第56届田径运动会上午场全场回放（赛场原声）（202604223） 13:15
 ${replace}/964360617
-#EXTINF:-1 tvg-id="小米拉出战  lga、萨巴晋级" tvg-name="WTA 小米拉出战  lga、萨巴晋级 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 小米拉出战  lga、萨巴晋级 赛场原声 17:00
-${replace}/964215405
-#EXTINF:-1 tvg-id="小米拉出战  lga、萨巴晋级" tvg-name="WTA 小米拉出战  lga、萨巴晋级 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 小米拉出战  lga、萨巴晋级 英文原声 17:00
-${replace}/964215432
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（赛场原声） 17:00
+${replace}/964369789
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（赛场原声） 17:00
+${replace}/964369603
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（刘钟鸣） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（刘钟鸣） 17:00
+${replace}/964367204
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（赛场原声） 17:00
+${replace}/964368802
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】王欣瑜1-2萨姆森（赛场原声） 17:00
+${replace}/964367576
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（赛场原声） 17:00
+${replace}/964367643
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（赛场原声） 17:00
+${replace}/964366715
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】安德列娃2-0乌德瓦尔迪（英文原声） 17:00
+${replace}/964369793
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】萨巴伦卡2-0斯特恩斯（英文原声） 17:00
+${replace}/964368847
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】斯瓦泰克2-0斯尼古尔（英文原声） 17:00
+${replace}/964367669
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】邦达尔2-0斯维托丽娜（英文原声） 17:00
+${replace}/964366679
+#EXTINF:-1 tvg-id="lga、萨巴晋级 大坂直美红土开门红" tvg-name="WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA lga、萨巴晋级 大坂直美红土开门红 【回放】奥索里奥0-2大坂直美（英文原声） 17:00
+${replace}/964369608
 #EXTINF:-1 tvg-id="王欣瑜VS萨姆森" tvg-name="WTA 王欣瑜VS萨姆森 全场回放 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 王欣瑜VS萨姆森 全场回放 18:20
 ${replace}/964367576
 #EXTINF:-1 tvg-id="王欣瑜VS萨姆森" tvg-name="WTA 王欣瑜VS萨姆森 全场回放（刘钟鸣） 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 王欣瑜VS萨姆森 全场回放（刘钟鸣） 18:20
@@ -301,25 +323,19 @@ ${replace}/964369562
 ${replace}/964367645
 #EXTINF:-1 tvg-id="斯佳辉VS侯赛因·瓦菲" tvg-name="斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 斯佳辉VS侯赛因·瓦菲 【回放】斯佳辉3-10侯赛因·瓦菲（第二阶段）（赛场原声） 20:00
 ${replace}/964368117
-#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 李霄 00:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 李霄 00:45
-${replace}/964223348
-#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 赛场原声 00:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 赛场原声 00:45
-${replace}/964223342
-#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 李霄 00:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 李霄 00:45
-${replace}/964223377
-#EXTINF:-1 tvg-id="巴列卡诺VS西班牙人" tvg-name="西甲 巴列卡诺VS西班牙人 周楚雄 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 巴列卡诺VS西班牙人 周楚雄 01:45
-${replace}/964222777
-#EXTINF:-1 tvg-id="巴列卡诺VS西班牙人" tvg-name="西甲 巴列卡诺VS西班牙人 赛场原声 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 巴列卡诺VS西班牙人 赛场原声 01:45
-${replace}/964222764
-#EXTINF:-1 tvg-id="巴列卡诺VS西班牙人" tvg-name="西甲 巴列卡诺VS西班牙人 周楚雄 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 巴列卡诺VS西班牙人 周楚雄 01:45
-${replace}/964223413
-#EXTINF:-1 tvg-id="尼尔·罗伯逊VS庞俊旭" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 孙嘉星 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 尼尔·罗伯逊VS庞俊旭 孙嘉星 02:00
-${replace}/964331973
-#EXTINF:-1 tvg-id="尼尔·罗伯逊VS庞俊旭" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 尼尔·罗伯逊VS庞俊旭 1号桌 02:00
+#EXTINF:-1 tvg-id="莱万特VS塞维利亚" tvg-name="西甲 莱万特VS塞维利亚 全场回放（李霄） 00:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS塞维利亚 全场回放（李霄） 00:45
+${replace}/964369785
+#EXTINF:-1 tvg-id="巴列卡诺VS西班牙人" tvg-name="西甲 巴列卡诺VS西班牙人 全场回放 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 巴列卡诺VS西班牙人 全场回放 01:45
+${replace}/964369913
+#EXTINF:-1 tvg-id="尼尔·罗伯逊VS庞俊旭" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 现场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 尼尔·罗伯逊VS庞俊旭 现场原声 02:00
 ${replace}/964184125
+#EXTINF:-1 tvg-id="尼尔·罗伯逊VS庞俊旭" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 解说 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 尼尔·罗伯逊VS庞俊旭 解说 02:00
+${replace}/964331973
+#EXTINF:-1 tvg-id="尼尔·罗伯逊VS庞俊旭" tvg-name="斯诺克 尼尔·罗伯逊VS庞俊旭 凯伦·威尔逊vs 马克·艾伦 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 尼尔·罗伯逊VS庞俊旭 凯伦·威尔逊vs 马克·艾伦 02:00
+${replace}/964184142
 #EXTINF:-1 tvg-id="凯伦·威尔逊VS马克·艾伦" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 朱蒙 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 凯伦·威尔逊VS马克·艾伦 朱蒙 02:00
 ${replace}/964331993
-#EXTINF:-1 tvg-id="凯伦·威尔逊VS马克·艾伦" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 凯伦·威尔逊VS马克·艾伦 2号桌 02:00
+#EXTINF:-1 tvg-id="凯伦·威尔逊VS马克·艾伦" tvg-name="斯诺克 凯伦·威尔逊VS马克·艾伦 现场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 凯伦·威尔逊VS马克·艾伦 现场原声 02:00
 ${replace}/964184142
 #EXTINF:-1 tvg-id="皇家奥维耶多VS比利亚雷亚尔" tvg-name="西甲 皇家奥维耶多VS比利亚雷亚尔 李霄 03:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 皇家奥维耶多VS比利亚雷亚尔 李霄 03:15
 ${replace}/964223023
@@ -389,6 +405,8 @@ ${replace}/964184191
 ${replace}/964215461
 #EXTINF:-1 tvg-id="莱巴金娜、高芙出战 佩古拉压场" tvg-name="WTA 莱巴金娜、高芙出战 佩古拉压场 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 莱巴金娜、高芙出战 佩古拉压场 英文原声 17:00
 ${replace}/964215484
+#EXTINF:-1 tvg-id="郑钦文VS肯宁" tvg-name="WTA 郑钦文VS肯宁 郑钦文VS肯宁 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 郑钦文VS肯宁 郑钦文VS肯宁 17:00
+${replace}/964215461
 #EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 图文直播 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 图文直播 19:35
 ${replace}/963890942
 #EXTINF:-1 tvg-id="福建晋江文旅VS广东东阳光" tvg-name="CBA 福建晋江文旅VS广东东阳光 图文直播 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 福建晋江文旅VS广东东阳光 图文直播 19:35
