@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/4/23 17:45:45",
+  "update_time": "2026/4/23 19:10:58",
   "statistics": {
-    "total_processed": 10186,
+    "total_processed": 9917,
     "valid_ip_count": 57,
-    "duplicate_ip_count": 8343
+    "duplicate_ip_count": 8204
   },
   "ip_list": {
     "hncu": [
@@ -70,10 +70,10 @@
       "27.154.99.234:3386"
     ],
     "snct": [
-      "124.114.103.230:6789"
+      "124.114.100.222:6789"
     ],
     "cqct": [
-      "106.87.49.114:8888"
+      "106.87.51.99:8888"
     ],
     "nmgct": [
       "111.127.156.64:51234"
