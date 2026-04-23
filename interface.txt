@@ -365,8 +365,6 @@ ${replace}/964354830
 ${replace}/964352821
 #EXTINF:-1 tvg-id="塞尔比VS杰克·琼斯" tvg-name="斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 塞尔比VS杰克·琼斯 【回放】马克·塞尔比10-2杰克·琼斯（第二阶段）（赛场原声） 02:00
 ${replace}/964353200
-#EXTINF:-1 tvg-id="伯恩利VS曼城" tvg-name="英超 伯恩利VS曼城 全场回放 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩利VS曼城 全场回放 02:45
-${replace}/964355589
 #EXTINF:-1 tvg-id="伯恩利VS曼城" tvg-name="英超 伯恩利VS曼城 全场回放（刘畅、颜强、李子琪） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩利VS曼城 全场回放（刘畅、颜强、李子琪） 02:45
 ${replace}/964354341
 #EXTINF:-1 tvg-id="伯恩茅斯VS利兹联" tvg-name="英超 伯恩茅斯VS利兹联 全场回放（刘焕） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 伯恩茅斯VS利兹联 全场回放（刘焕） 02:45
@@ -377,24 +375,32 @@ ${replace}/964354546
 ${replace}/964354533
 #EXTINF:-1 tvg-id="活塞VS魔术" tvg-name="NBA 活塞VS魔术 全场回放（姜帆、季孟年） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS魔术 全场回放（姜帆、季孟年） 06:55
 ${replace}/964357264
-#EXTINF:-1 tvg-id="北京体育大学第56届田径运动会" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 08:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/20/100000001453106ebf57.png" group-title="体育-今天",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 08:15
-${replace}/964299385
-#EXTINF:-1 tvg-id="华发冰雪热雪奇迹杯day1" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 解说 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001441106edf12.png" group-title="体育-今天",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 解说 08:30
-${replace}/964181332
-#EXTINF:-1 tvg-id="雷霆VS太阳" tvg-name="NBA 雷霆VS太阳 孙博 李根 马健 09:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS太阳 孙博 李根 马健 09:15
-${replace}/964277177
-#EXTINF:-1 tvg-id="雷霆VS太阳" tvg-name="NBA 雷霆VS太阳 英文原声 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS太阳 英文原声 09:25
-${replace}/964277230
-#EXTINF:-1 tvg-id="雷霆VS太阳" tvg-name="NBA 雷霆VS太阳 智能字幕 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS太阳 智能字幕 09:25
-${replace}/964289807
-#EXTINF:-1 tvg-id="吴阿顺领衔中国军团出战" tvg-name="高尔夫中国公开赛 吴阿顺领衔中国军团出战 赛场原声 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/21/1000000010051068f4be.png" group-title="体育-今天",高尔夫中国公开赛 吴阿顺领衔中国军团出战 赛场原声 12:30
-${replace}/964310299
+#EXTINF:-1 tvg-id="活塞VS魔术" tvg-name="NBA 活塞VS魔术 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS魔术 全场回放（英文原声） 06:55
+${replace}/964358329
+#EXTINF:-1 tvg-id="华发冰雪热雪奇迹杯day1" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 2026亚洲室内高山滑雪锦标赛: 华发冰雪热雪奇迹杯Day1全场回放（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001441106edf12.png" group-title="体育-今天",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day1 2026亚洲室内高山滑雪锦标赛: 华发冰雪热雪奇迹杯Day1全场回放（官方解说） 08:30
+${replace}/964361018
+#EXTINF:-1 tvg-id="雷霆VS太阳" tvg-name="NBA 雷霆VS太阳 全场回放（孙博、李根、马健、廖昕阳） 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS太阳 全场回放（孙博、李根、马健、廖昕阳） 09:25
+${replace}/964360462
+#EXTINF:-1 tvg-id="雷霆VS太阳" tvg-name="NBA 雷霆VS太阳 全场回放（英文原声） 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS太阳 全场回放（英文原声） 09:25
+${replace}/964360420
 #EXTINF:-1 tvg-id="吴阿顺领衔中国军团出战" tvg-name="高尔夫中国公开赛 吴阿顺领衔中国军团出战 中文解说 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/21/1000000010051068f4be.png" group-title="体育-今天",高尔夫中国公开赛 吴阿顺领衔中国军团出战 中文解说 12:30
 ${replace}/964310322
+#EXTINF:-1 tvg-id="吴阿顺领衔中国军团出战" tvg-name="高尔夫中国公开赛 吴阿顺领衔中国军团出战 赛场原声 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/21/1000000010051068f4be.png" group-title="体育-今天",高尔夫中国公开赛 吴阿顺领衔中国军团出战 赛场原声 12:30
+${replace}/964310299
+#EXTINF:-1 tvg-id="北京体育大学第56届田径运动会" tvg-name="中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 13:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/20/100000001453106ebf57.png" group-title="体育-今天",中国田径大众达标校园系列赛 北京体育大学第56届田径运动会 解说 13:15
+${replace}/964299422
 #EXTINF:-1 tvg-id="种子选手亮相！Iga、萨巴轮番登场" tvg-name="WTA 种子选手亮相！Iga、萨巴轮番登场 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 种子选手亮相！Iga、萨巴轮番登场 赛场原声 17:00
 ${replace}/964215405
+#EXTINF:-1 tvg-id="种子选手亮相！Iga、萨巴轮番登场" tvg-name="WTA 种子选手亮相！Iga、萨巴轮番登场 王欣瑜 vs 萨姆森(刘钟鸣) 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 种子选手亮相！Iga、萨巴轮番登场 王欣瑜 vs 萨姆森(刘钟鸣) 18:00
+${replace}/964359029
+#EXTINF:-1 tvg-id="种子选手亮相！Iga、萨巴轮番登场" tvg-name="WTA 种子选手亮相！Iga、萨巴轮番登场 王欣瑜vs萨姆森(赛场原声） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 种子选手亮相！Iga、萨巴轮番登场 王欣瑜vs萨姆森(赛场原声） 18:00
+${replace}/964358978
 #EXTINF:-1 tvg-id="种子选手亮相！Iga、萨巴轮番登场" tvg-name="WTA 种子选手亮相！Iga、萨巴轮番登场 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 种子选手亮相！Iga、萨巴轮番登场 英文原声 17:00
 ${replace}/964215432
+#EXTINF:-1 tvg-id="王欣瑜VS萨姆森" tvg-name="WTA 王欣瑜VS萨姆森 刘钟鸣 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 王欣瑜VS萨姆森 刘钟鸣 18:00
+${replace}/964359029
+#EXTINF:-1 tvg-id="王欣瑜VS萨姆森" tvg-name="WTA 王欣瑜VS萨姆森 赛场原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 王欣瑜VS萨姆森 赛场原声 18:00
+${replace}/964358978
 #EXTINF:-1 tvg-id="杭州队VS绍兴队" tvg-name="吴越杯 杭州队VS绍兴队 2026赛季浙江省城市足球联赛第四轮: 杭州VS绍兴 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/10000000143110601739.png" group-title="体育-今天",吴越杯 杭州队VS绍兴队 2026赛季浙江省城市足球联赛第四轮: 杭州VS绍兴 19:15
 ${replace}/964224054
 #EXTINF:-1 tvg-id="宁波队VS丽水队" tvg-name="吴越杯 宁波队VS丽水队 2026赛季浙江省城市足球联赛第四轮: 宁波VS丽水 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/10000000143110601739.png" group-title="体育-今天",吴越杯 宁波队VS丽水队 2026赛季浙江省城市足球联赛第四轮: 宁波VS丽水 18:50
@@ -445,7 +451,9 @@ ${replace}/964277444
 ${replace}/964277457
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第89期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-明天",咪咕体育日报 undefined 咪咕体育日报 第89期 08:00
 ${replace}/964291474
-#EXTINF:-1 tvg-id="华发冰雪热雪奇迹杯day2" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001441106edf12.png" group-title="体育-明天",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 08:30
+#EXTINF:-1 tvg-id="单打一、二阶段" tvg-name="中国乒协会员联赛 单打一、二阶段 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-明天",中国乒协会员联赛 单打一、二阶段 赛场原声 08:30
+${replace}/964358832
+#EXTINF:-1 tvg-id="华发冰雪热雪奇迹杯day2" tvg-name="亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001441106edf12.png" group-title="体育-明天",亚洲室内高山滑雪锦标赛 华发冰雪热雪奇迹杯day2 解说 09:00
 ${replace}/964181347
 #EXTINF:-1 tvg-id="森林狼VS掘金" tvg-name="NBA 森林狼VS掘金 杨健 曾令旭 闫宇峰 09:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 森林狼VS掘金 杨健 曾令旭 闫宇峰 09:15
 ${replace}/964277300
