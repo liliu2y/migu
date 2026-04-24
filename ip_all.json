@@ -1,13 +1,14 @@
 {
-  "update_time": "2026/4/24 17:45:58",
+  "update_time": "2026/4/24 19:07:16",
   "statistics": {
-    "total_processed": 10029,
-    "valid_ip_count": 56,
-    "duplicate_ip_count": 8001
+    "total_processed": 9983,
+    "valid_ip_count": 57,
+    "duplicate_ip_count": 8158
   },
   "ip_list": {
     "ahct": [
-      "124.112.240.142:4022"
+      "124.112.240.142:4022",
+      "124.112.189.152:4022"
     ],
     "sdcu": [
       "39.77.162.237:4002"
