@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/5/3 17:22:38",
+  "update_time": "2026/5/3 18:55:29",
   "statistics": {
-    "total_processed": 9018,
-    "valid_ip_count": 53,
-    "duplicate_ip_count": 7244
+    "total_processed": 8928,
+    "valid_ip_count": 52,
+    "duplicate_ip_count": 7156
   },
   "ip_list": {
     "bjcu": [
@@ -50,8 +50,7 @@
       "171.8.105.62:8800"
     ],
     "shct": [
-      "223.167.230.245:4022",
-      "223.167.245.61:8001"
+      "223.167.230.245:4022"
     ],
     "fjct": [
       "27.154.99.234:3386"
