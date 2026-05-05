@@ -371,8 +371,10 @@ ${replace}/964592453
 ${replace}/964592524
 #EXTINF:-1 tvg-id="毛铺草本酒VS巴特体育" tvg-name="城超 毛铺草本酒VS巴特体育 全场回放 6:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/22/1000000014551060d471.png" group-title="体育-昨天",城超 毛铺草本酒VS巴特体育 全场回放 6:00
 ${replace}/964592357
-#EXTINF:-1 tvg-id="第八日热身区" tvg-name="伦敦团体世乒赛 第八日热身区 热身区 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 第八日热身区 热身区 16:00
-${replace}/964438171
+#EXTINF:-1 tvg-id="第八日热身区" tvg-name="伦敦团体世乒赛 第八日热身区 全场回放（一） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 第八日热身区 全场回放（一） 16:00
+${replace}/964599368
+#EXTINF:-1 tvg-id="第八日热身区" tvg-name="伦敦团体世乒赛 第八日热身区 全场回放（二） 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 第八日热身区 全场回放（二） 16:00
+${replace}/964601318
 #EXTINF:-1 tvg-id="平永村足球队VS党相村塔石羊瘪队" tvg-name="贵州村超 平永村足球队VS党相村塔石羊瘪队 全场回放 6:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-昨天",贵州村超 平永村足球队VS党相村塔石羊瘪队 全场回放 6:30
 ${replace}/964592934
 #EXTINF:-1 tvg-id="国乒男团零封澳大利亚 中国台北男团晋级16强" tvg-name="伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（世乒赛观察室） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（世乒赛观察室） 17:00
@@ -381,6 +383,8 @@ ${replace}/964590776
 ${replace}/964597700
 #EXTINF:-1 tvg-id="国乒男团零封澳大利亚 中国台北男团晋级16强" tvg-name="伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（二号桌） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（二号桌） 17:00
 ${replace}/964600202
+#EXTINF:-1 tvg-id="国乒男团零封澳大利亚 中国台北男团晋级16强" tvg-name="伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（三号桌） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（三号桌） 17:00
+${replace}/964601202
 #EXTINF:-1 tvg-id="国乒男团零封澳大利亚 中国台北男团晋级16强" tvg-name="伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（四号桌） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 国乒男团零封澳大利亚 中国台北男团晋级16强 全场回放（四号桌） 17:00
 ${replace}/964599625
 #EXTINF:-1 tvg-id="中国男团VS澳大利亚男团" tvg-name="伦敦团体世乒赛 中国男团VS澳大利亚男团 【回放】林文政0-3梁靖崑 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-昨天",伦敦团体世乒赛 中国男团VS澳大利亚男团 【回放】林文政0-3梁靖崑 16:30
@@ -457,42 +461,22 @@ ${replace}/964598876
 ${replace}/964599726
 #EXTINF:-1 tvg-id="扒王村足球队VS场坝大河口将军岩队" tvg-name="贵州村超 扒王村足球队VS场坝大河口将军岩队 全场回放 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-昨天",贵州村超 扒王村足球队VS场坝大河口将军岩队 全场回放 20:30
 ${replace}/964600419
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 凌维康 周冠达 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 凌维康 周冠达 00:00
+#EXTINF:-1 tvg-id="雨果率巴西男团争晋级 埃及女团vs斯洛伐克" tvg-name="伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 凌维康 周冠达 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 凌维康 周冠达 00:00
 ${replace}/964436795
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 热身区 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 热身区 16:00
-${replace}/964438171
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 4号桌 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 4号桌 00:00
+#EXTINF:-1 tvg-id="雨果率巴西男团争晋级 埃及女团vs斯洛伐克" tvg-name="伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 4号桌 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 4号桌 00:00
 ${replace}/964437887
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 3号桌 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 3号桌 00:00
-${replace}/964437906
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 1号桌 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 1号桌 00:00
+#EXTINF:-1 tvg-id="雨果率巴西男团争晋级 埃及女团vs斯洛伐克" tvg-name="伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 1号桌 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 1号桌 00:00
 ${replace}/964436776
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 混采区 00:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 混采区 00:20
+#EXTINF:-1 tvg-id="雨果率巴西男团争晋级 埃及女团vs斯洛伐克" tvg-name="伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 混采区 00:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 混采区 00:20
 ${replace}/964437815
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 候场区 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 候场区 23:30
+#EXTINF:-1 tvg-id="雨果率巴西男团争晋级 埃及女团vs斯洛伐克" tvg-name="伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 候场区 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 候场区 23:30
 ${replace}/964437800
-#EXTINF:-1 tvg-id="倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利" tvg-name="伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 英文解说 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利 英文解说 00:00
+#EXTINF:-1 tvg-id="雨果率巴西男团争晋级 埃及女团vs斯洛伐克" tvg-name="伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 英文解说 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 雨果率巴西男团争晋级 埃及女团vs斯洛伐克 英文解说 00:00
 ${replace}/964437947
-#EXTINF:-1 tvg-id="日本U17VS卡塔尔U17" tvg-name="U17亚洲杯 日本U17VS卡塔尔U17 鹿中原 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 日本U17VS卡塔尔U17 鹿中原 23:45
-${replace}/964518889
-#EXTINF:-1 tvg-id="日本U17VS卡塔尔U17" tvg-name="U17亚洲杯 日本U17VS卡塔尔U17 赛场原声 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 日本U17VS卡塔尔U17 赛场原声 23:45
-${replace}/964518939
-#EXTINF:-1 tvg-id="印度尼西亚U17VS中国U17" tvg-name="U17亚洲杯 印度尼西亚U17VS中国U17 张昊泽 王宇 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 印度尼西亚U17VS中国U17 张昊泽 王宇 00:15
-${replace}/964518884
-#EXTINF:-1 tvg-id="印度尼西亚U17VS中国U17" tvg-name="U17亚洲杯 印度尼西亚U17VS中国U17 赛场原声 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 印度尼西亚U17VS中国U17 赛场原声 00:15
-${replace}/964518951
-#EXTINF:-1 tvg-id="李吉妮VS张帅" tvg-name="WTA 李吉妮VS张帅 胡力涛 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮VS张帅 胡力涛 22:00
-${replace}/964588648
-#EXTINF:-1 tvg-id="李吉妮VS张帅" tvg-name="WTA 李吉妮VS张帅 清流播出 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮VS张帅 清流播出 22:00
-${replace}/964588644
-#EXTINF:-1 tvg-id="沙特阿拉伯U17VS缅甸U17" tvg-name="U17亚洲杯 沙特阿拉伯U17VS缅甸U17 张天翼 00:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 沙特阿拉伯U17VS缅甸U17 张天翼 00:45
-${replace}/964518871
-#EXTINF:-1 tvg-id="沙特阿拉伯U17VS缅甸U17" tvg-name="U17亚洲杯 沙特阿拉伯U17VS缅甸U17 赛场原声 00:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 沙特阿拉伯U17VS缅甸U17 赛场原声 00:45
-${replace}/964518981
-#EXTINF:-1 tvg-id="塔吉克斯坦U17VS泰国U17" tvg-name="U17亚洲杯 塔吉克斯坦U17VS泰国U17 吴子越 01:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 塔吉克斯坦U17VS泰国U17 吴子越 01:15
-${replace}/964518863
-#EXTINF:-1 tvg-id="塔吉克斯坦U17VS泰国U17" tvg-name="U17亚洲杯 塔吉克斯坦U17VS泰国U17 赛场原声 01:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/8/100000001061106bf8b3.png" group-title="体育-今天",U17亚洲杯 塔吉克斯坦U17VS泰国U17 赛场原声 01:15
-${replace}/964518983
+#EXTINF:-1 tvg-id="李吉妮VS张帅" tvg-name="WTA 李吉妮VS张帅 全场回放 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮VS张帅 全场回放 22:00
+${replace}/964601646
+#EXTINF:-1 tvg-id="李吉妮VS张帅" tvg-name="WTA 李吉妮VS张帅 全场回放 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮VS张帅 全场回放 22:00
+${replace}/964601579
 #EXTINF:-1 tvg-id="活塞VS骑士" tvg-name="NBA 活塞VS骑士 李天宇 刘家成 张兆旭 06:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS骑士 李天宇 刘家成 张兆旭 06:40
 ${replace}/964587525
 #EXTINF:-1 tvg-id="活塞VS骑士" tvg-name="NBA 活塞VS骑士 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS骑士 英文原声 06:55
@@ -513,11 +497,11 @@ ${replace}/964587714
 ${replace}/964535060
 #EXTINF:-1 tvg-id="汤杯经典重映-中国 vs 澳大利亚" tvg-name="BWF 汤杯经典重映-中国 vs 澳大利亚 经典重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 vs 澳大利亚 经典重映 12:00
 ${replace}/964570827
-#EXTINF:-1 tvg-id="无锡网球公开赛Day4" tvg-name="ATP 无锡网球公开赛Day4 赛场原声 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 无锡网球公开赛Day4 赛场原声 14:00
+#EXTINF:-1 tvg-id="孙发京一日双赛！崔杰出战" tvg-name="ATP 孙发京一日双赛！崔杰出战 赛场原声 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 孙发京一日双赛！崔杰出战 赛场原声 14:00
 ${replace}/964498269
-#EXTINF:-1 tvg-id="无锡网球公开赛Day4" tvg-name="ATP 无锡网球公开赛Day4 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 无锡网球公开赛Day4 清流播出 14:00
+#EXTINF:-1 tvg-id="孙发京一日双赛！崔杰出战" tvg-name="ATP 孙发京一日双赛！崔杰出战 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 孙发京一日双赛！崔杰出战 清流播出 14:00
 ${replace}/964570396
-#EXTINF:-1 tvg-id="无锡网球公开赛Day4" tvg-name="ATP 无锡网球公开赛Day4 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 无锡网球公开赛Day4 清流播出 14:00
+#EXTINF:-1 tvg-id="孙发京一日双赛！崔杰出战" tvg-name="ATP 孙发京一日双赛！崔杰出战 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 孙发京一日双赛！崔杰出战 清流播出 14:00
 ${replace}/964570404
 #EXTINF:-1 tvg-id="超三联赛 深圳争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 深圳争霸赛 四分之一决赛 李月擎 13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-今天",超三联赛 超三联赛 深圳争霸赛 四分之一决赛 李月擎 13:55
 ${replace}/964500581
