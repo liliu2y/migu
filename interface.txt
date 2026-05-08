@@ -413,19 +413,11 @@ ${replace}/964647445
 ${replace}/964647370
 #EXTINF:-1 tvg-id="单打第一、二阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打第一、二阶段 赛场原声 08:30
 ${replace}/964635701
-#EXTINF:-1 tvg-id="360度滑动观赛！首日资格赛打响" tvg-name="全国艺术体操锦标赛 360度滑动观赛！首日资格赛打响 3D全真视频 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png" group-title="体育-今天",全国艺术体操锦标赛 360度滑动观赛！首日资格赛打响 3D全真视频 09:00
-${replace}/964632847
-#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 杨健 李根 马健 09:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 杨健 李根 马健 09:10
-${replace}/964608298
-#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 莫俊祺 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 莫俊祺 09:25
-${replace}/964608245
-#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 洪荒 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 洪荒 09:25
-${replace}/964608235
-#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 英文原声 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 英文原声 09:25
-${replace}/964608206
-#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 智能字幕 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 智能字幕 09:25
-${replace}/964608191
-#EXTINF:-1 tvg-id="白卓璇、姚欣辛轮番出战" tvg-name="WTA 白卓璇、姚欣辛轮番出战 赛场原声 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 白卓璇、姚欣辛轮番出战 赛场原声 11:00
+#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 全场回放（杨健、李根、马健、佳依） 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 全场回放（杨健、李根、马健、佳依） 09:25
+${replace}/964650774
+#EXTINF:-1 tvg-id="雷霆VS湖人" tvg-name="NBA 雷霆VS湖人 全场回放（洪荒） 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 雷霆VS湖人 全场回放（洪荒） 09:25
+${replace}/964650551
+#EXTINF:-1 tvg-id="姚欣辛迎战塔拉鲁迪" tvg-name="WTA 姚欣辛迎战塔拉鲁迪 赛场原声 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 姚欣辛迎战塔拉鲁迪 赛场原声 11:00
 ${replace}/964535031
 #EXTINF:-1 tvg-id="汤杯经典重映-中国 vs 加拿大" tvg-name="BWF 汤杯经典重映-中国 vs 加拿大 经典重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 vs 加拿大 经典重映 12:00
 ${replace}/964570846
@@ -433,6 +425,8 @@ ${replace}/964570846
 ${replace}/964498281
 #EXTINF:-1 tvg-id="布云朝克特迎战一号种子！崔杰冲四强" tvg-name="ATP 布云朝克特迎战一号种子！崔杰冲四强 清流播出 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-今天",ATP 布云朝克特迎战一号种子！崔杰冲四强 清流播出 14:00
 ${replace}/964634216
+#EXTINF:-1 tvg-id="全国艺术体操锦标赛Day1" tvg-name="全国艺术体操锦标赛 全国艺术体操锦标赛Day1 3D全真视频 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png" group-title="体育-今天",全国艺术体操锦标赛 全国艺术体操锦标赛Day1 3D全真视频 09:00
+${replace}/964632847
 #EXTINF:-1 tvg-id="第十一日热身区" tvg-name="伦敦团体世乒赛 第十一日热身区 热身区 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 第十一日热身区 热身区 16:00
 ${replace}/964436925
 #EXTINF:-1 tvg-id="乌克兰女团VS日本女团" tvg-name="伦敦团体世乒赛 乌克兰女团VS日本女团 马特 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 乌克兰女团VS日本女团 马特 17:00
@@ -537,12 +531,16 @@ ${replace}/964608524
 ${replace}/964608496
 #EXTINF:-1 tvg-id="森林狼VS马刺" tvg-name="NBA 森林狼VS马刺 智能字幕 09:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 森林狼VS马刺 智能字幕 09:25
 ${replace}/964608487
+#EXTINF:-1 tvg-id="激战前夜：奇马耶夫vs斯特里克兰特辑" tvg-name="UFC前瞻与回顾 激战前夜：奇马耶夫vs斯特里克兰特辑 陈瑞阳 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-明天",UFC前瞻与回顾 激战前夜：奇马耶夫vs斯特里克兰特辑 陈瑞阳 11:00
+${replace}/964647798
 #EXTINF:-1 tvg-id="江西网球公开赛Day6" tvg-name="WTA 江西网球公开赛Day6 清流播出 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 江西网球公开赛Day6 清流播出 12:00
 ${replace}/964535026
 #EXTINF:-1 tvg-id="尤杯经典重映-中国 vs 印度" tvg-name="BWF 尤杯经典重映-中国 vs 印度 经典重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 尤杯经典重映-中国 vs 印度 经典重映 12:00
 ${replace}/964570858
 #EXTINF:-1 tvg-id="无锡网球公开赛Day7" tvg-name="ATP 无锡网球公开赛Day7 赛场原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="体育-明天",ATP 无锡网球公开赛Day7 赛场原声 15:00
 ${replace}/964498291
+#EXTINF:-1 tvg-id="激战前夜：约书亚万vs平良达郎特辑" tvg-name="UFC前瞻与回顾 激战前夜：约书亚万vs平良达郎特辑 王琰博 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-明天",UFC前瞻与回顾 激战前夜：约书亚万vs平良达郎特辑 王琰博 15:00
+${replace}/964647887
 #EXTINF:-1 tvg-id="第十二日热身区" tvg-name="伦敦团体世乒赛 第十二日热身区 热身区 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-明天",伦敦团体世乒赛 第十二日热身区 热身区 16:00
 ${replace}/964437269
 #EXTINF:-1 tvg-id="女团半决赛" tvg-name="伦敦团体世乒赛 女团半决赛 马特 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-明天",伦敦团体世乒赛 女团半决赛 马特 17:00
@@ -583,6 +581,8 @@ ${replace}/964633814
 ${replace}/964636263
 #EXTINF:-1 tvg-id="阿斯顿维拉女足VS阿森纳女足" tvg-name="英女超 阿斯顿维拉女足VS阿森纳女足 赛场原声 18:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="体育-明天",英女超 阿斯顿维拉女足VS阿森纳女足 赛场原声 18:45
 ${replace}/964636248
+#EXTINF:-1 tvg-id="聚焦八角笼：UFC328特辑" tvg-name="UFC前瞻与回顾 聚焦八角笼：UFC328特辑 王琰博 郝俊 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-明天",UFC前瞻与回顾 聚焦八角笼：UFC328特辑 王琰博 郝俊 19:00
+${replace}/964647933
 #EXTINF:-1 tvg-id="利物浦VS切尔西" tvg-name="英超 利物浦VS切尔西 詹俊 张路 郭小仙儿 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-明天",英超 利物浦VS切尔西 詹俊 张路 郭小仙儿 19:00
 ${replace}/964636640
 #EXTINF:-1 tvg-id="利物浦VS切尔西" tvg-name="英超 利物浦VS切尔西 陈曦 陈熙荣 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-明天",英超 利物浦VS切尔西 陈曦 陈熙荣 19:20
