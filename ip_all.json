@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/5/9 17:20:26",
+  "update_time": "2026/5/9 18:58:00",
   "statistics": {
     "total_processed": 9648,
-    "valid_ip_count": 56,
-    "duplicate_ip_count": 8111
+    "valid_ip_count": 57,
+    "duplicate_ip_count": 8110
   },
   "ip_list": {
     "gdct": [
@@ -28,7 +28,8 @@
     ],
     "hebcu": [
       "60.4.30.6:8077",
-      "121.29.215.182:2083"
+      "121.29.215.182:2083",
+      "60.4.28.155:8077"
     ],
     "lncu": [
       "116.2.172.91:4010"
