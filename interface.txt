@@ -429,6 +429,10 @@ ${replace}/964710162
 ${replace}/964690711
 #EXTINF:-1 tvg-id="维罗纳VS科莫" tvg-name="意甲 维罗纳VS科莫 全场回放（涂远、马延峰） 18:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天",意甲 维罗纳VS科莫 全场回放（涂远、马延峰） 18:15
 ${replace}/964700736
+#EXTINF:-1 tvg-id="富民村足球队VS腊酉村足球队" tvg-name="贵州村超 富民村足球队VS腊酉村足球队 全场回放 8:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-昨天",贵州村超 富民村足球队VS腊酉村足球队 全场回放 8:30
+${replace}/964708993
+#EXTINF:-1 tvg-id="辽宁铁人楠波湾VS云南玉昆" tvg-name="中超 辽宁铁人楠波湾VS云南玉昆 全场回放（石庆圣、鲁靖明） 18:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="体育-昨天",中超 辽宁铁人楠波湾VS云南玉昆 全场回放（石庆圣、鲁靖明） 18:45
+${replace}/964703101
 #EXTINF:-1 tvg-id="深圳青年人VS石家庄功夫" tvg-name="中甲 深圳青年人VS石家庄功夫 全场回放（官方解说） 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-昨天",中甲 深圳青年人VS石家庄功夫 全场回放（官方解说） 18:50
 ${replace}/964710442
 #EXTINF:-1 tvg-id="漳州队VS平潭队" tvg-name="闽超 漳州队VS平潭队 全场回放 9:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-昨天",闽超 漳州队VS平潭队 全场回放 9:00
@@ -437,6 +441,8 @@ ${replace}/964711057
 ${replace}/964710613
 #EXTINF:-1 tvg-id="厦门队VS泉州队" tvg-name="闽超 厦门队VS泉州队 全场回放 9:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-昨天",闽超 厦门队VS泉州队 全场回放 9:00
 ${replace}/964707636
+#EXTINF:-1 tvg-id="宿州VS黄山" tvg-name="徽BA 宿州VS黄山 全场回放 9:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png" group-title="体育-昨天",徽BA 宿州VS黄山 全场回放 9:00
+${replace}/964707436
 #EXTINF:-1 tvg-id="池州VS蚌埠" tvg-name="徽BA 池州VS蚌埠 全场回放 9:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png" group-title="体育-昨天",徽BA 池州VS蚌埠 全场回放 9:00
 ${replace}/964709756
 #EXTINF:-1 tvg-id="淮南VS芜湖" tvg-name="徽BA 淮南VS芜湖 全场回放 9:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png" group-title="体育-昨天",徽BA 淮南VS芜湖 全场回放 9:00
@@ -575,30 +581,42 @@ ${replace}/964711965
 ${replace}/964712477
 #EXTINF:-1 tvg-id="76人VS尼克斯" tvg-name="NBA 76人VS尼克斯 全场回放（英文原声） 03:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS尼克斯 全场回放（英文原声） 03:25
 ${replace}/964712492
-#EXTINF:-1 tvg-id="zuffa拳击第6期：莫斯利VS博哈丘克" tvg-name="Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 李威蓄 06:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png" group-title="体育-今天",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 李威蓄 06:00
-${replace}/964630022
-#EXTINF:-1 tvg-id="zuffa拳击第6期：莫斯利VS博哈丘克" tvg-name="Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 英文原声 06:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png" group-title="体育-今天",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 英文原声 06:00
-${replace}/964629992
-#EXTINF:-1 tvg-id="成年集体与少年青年个人全能决赛上阵" tvg-name="全国艺术体操锦标赛 成年集体与少年青年个人全能决赛上阵 3D全真视频 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png" group-title="体育-今天",全国艺术体操锦标赛 成年集体与少年青年个人全能决赛上阵 3D全真视频 09:00
-${replace}/964632919
-#EXTINF:-1 tvg-id="浙江稠州银行vs长沙勇胜" tvg-name="全国青年篮球联赛 浙江稠州银行vs长沙勇胜 清流播出 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 浙江稠州银行vs长沙勇胜 清流播出 10:00
-${replace}/964666025
-#EXTINF:-1 tvg-id="浙江广厦vs苏科雄狮" tvg-name="全国青年篮球联赛 浙江广厦vs苏科雄狮 清流播出 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 浙江广厦vs苏科雄狮 清流播出 13:30
-${replace}/964666042
-#EXTINF:-1 tvg-id="上海久事vs江苏肯帝亚" tvg-name="全国青年篮球联赛 上海久事vs江苏肯帝亚 清流播出 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 上海久事vs江苏肯帝亚 清流播出 13:30
-${replace}/964666045
+#EXTINF:-1 tvg-id="zuffa拳击第6期：莫斯利VS博哈丘克" tvg-name="Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 Zuffa拳击第6期全场回放（英文原声） 06:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png" group-title="体育-今天",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 Zuffa拳击第6期全场回放（英文原声） 06:00
+${replace}/964723074
+#EXTINF:-1 tvg-id="zuffa拳击第6期：莫斯利VS博哈丘克" tvg-name="Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 全场回放（李威蓄） 06:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png" group-title="体育-今天",Zuffa拳击 zuffa拳击第6期：莫斯利VS博哈丘克 全场回放（李威蓄） 06:00
+${replace}/964718389
+#EXTINF:-1 tvg-id="森林狼VS马刺" tvg-name="NBA 森林狼VS马刺 全场回放（杨健、李根、闫宇峰、小七） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 森林狼VS马刺 全场回放（杨健、李根、闫宇峰、小七） 07:25
+${replace}/964717160
+#EXTINF:-1 tvg-id="森林狼VS马刺" tvg-name="NBA 森林狼VS马刺 全场回放（王晓晨） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 森林狼VS马刺 全场回放（王晓晨） 07:25
+${replace}/964717190
+#EXTINF:-1 tvg-id="森林狼VS马刺" tvg-name="NBA 森林狼VS马刺 全场回放（英文原声） 07:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 森林狼VS马刺 全场回放（英文原声） 07:25
+${replace}/964717109
+#EXTINF:-1 tvg-id="浙江稠州银行103-85长沙勇胜" tvg-name="全国青年篮球联赛 浙江稠州银行103-85长沙勇胜 全场回放（赛场原声） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 浙江稠州银行103-85长沙勇胜 全场回放（赛场原声） 10:00
+${replace}/964720427
+#EXTINF:-1 tvg-id="上海久事84-92江苏肯帝亚" tvg-name="全国青年篮球联赛 上海久事84-92江苏肯帝亚 CBA季后赛八强对阵出炉！北京VS广东 上海VS山东 广厦VS山西 深圳VS浙江 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 上海久事84-92江苏肯帝亚 CBA季后赛八强对阵出炉！北京VS广东 上海VS山东 广厦VS山西 深圳VS浙江 13:30
+${replace}/964563226
 #EXTINF:-1 tvg-id="新疆广汇vs深圳新世纪" tvg-name="全国青年篮球联赛 新疆广汇vs深圳新世纪 清流播出 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 新疆广汇vs深圳新世纪 清流播出 15:30
 ${replace}/964666063
 #EXTINF:-1 tvg-id="北京首钢vs广东宏远" tvg-name="全国青年篮球联赛 北京首钢vs广东宏远 清流播出 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 北京首钢vs广东宏远 清流播出 15:30
 ${replace}/964666111
+#EXTINF:-1 tvg-id="全国艺术体操锦标赛Day4" tvg-name="全国艺术体操锦标赛 全国艺术体操锦标赛Day4 3D全真视频 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png" group-title="体育-今天",全国艺术体操锦标赛 全国艺术体操锦标赛Day4 3D全真视频 16:00
+${replace}/964632923
 #EXTINF:-1 tvg-id="热血之战！大坂直美对决斯瓦泰克" tvg-name="WTA 热血之战！大坂直美对决斯瓦泰克 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 热血之战！大坂直美对决斯瓦泰克 赛场原声 17:00
 ${replace}/964474273
 #EXTINF:-1 tvg-id="热血之战！大坂直美对决斯瓦泰克" tvg-name="WTA 热血之战！大坂直美对决斯瓦泰克 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 热血之战！大坂直美对决斯瓦泰克 英文原声 17:00
 ${replace}/964474384
 #EXTINF:-1 tvg-id="龙狮青年vs四川锦城" tvg-name="全国青年篮球联赛 龙狮青年vs四川锦城 清流播出 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 龙狮青年vs四川锦城 清流播出 18:00
 ${replace}/964666078
+#EXTINF:-1 tvg-id="NBA季后赛精彩重播：马刺 vs 森林狼 G4" tvg-name="NBA经典赛事 NBA季后赛精彩重播：马刺 vs 森林狼 G4 杨健 李根 闫宇峰 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA季后赛精彩重播：马刺 vs 森林狼 G4 杨健 李根 闫宇峰 18:00
+${replace}/964717159
 #EXTINF:-1 tvg-id="刘国正、侯英超、周泽昊复盘世乒赛" tvg-name="伦敦团体世乒赛 刘国正、侯英超、周泽昊复盘世乒赛 刘国正 侯英超 周泽昊 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png" group-title="体育-今天",伦敦团体世乒赛 刘国正、侯英超、周泽昊复盘世乒赛 刘国正 侯英超 周泽昊 19:00
 ${replace}/964438055
+#EXTINF:-1 tvg-id="JCK战觉城：进阶之路13组选手只为签约" tvg-name="JCK JCK战觉城：进阶之路13组选手只为签约 解说 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png" group-title="体育-今天",JCK JCK战觉城：进阶之路13组选手只为签约 解说 18:50
+${replace}/964720843
+#EXTINF:-1 tvg-id="JCK战觉城：进阶之路13组选手只为签约" tvg-name="JCK JCK战觉城：进阶之路13组选手只为签约 英文原声 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png" group-title="体育-今天",JCK JCK战觉城：进阶之路13组选手只为签约 英文原声 18:50
+${replace}/964720827
+#EXTINF:-1 tvg-id="JCK战觉城：进阶之路13组选手只为签约" tvg-name="JCK JCK战觉城：进阶之路13组选手只为签约 清流 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png" group-title="体育-今天",JCK JCK战觉城：进阶之路13组选手只为签约 清流 18:50
+${replace}/964720814
 #EXTINF:-1 tvg-id="南京同曦vs青岛国信海天" tvg-name="全国青年篮球联赛 南京同曦vs青岛国信海天 清流播出 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 南京同曦vs青岛国信海天 清流播出 19:30
 ${replace}/964666117
 #EXTINF:-1 tvg-id="天津荣钢vs山西汾酒" tvg-name="全国青年篮球联赛 天津荣钢vs山西汾酒 清流播出 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 天津荣钢vs山西汾酒 清流播出 20:00
@@ -673,6 +691,8 @@ ${replace}/964665525
 ${replace}/964474289
 #EXTINF:-1 tvg-id="WTA罗马站1/4决赛" tvg-name="WTA WTA罗马站1/4决赛 英文原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA WTA罗马站1/4决赛 英文原声 19:00
 ${replace}/964474378
+#EXTINF:-1 tvg-id="北京北汽VS广东东阳光" tvg-name="CBA 北京北汽VS广东东阳光 图文直播 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 北京北汽VS广东东阳光 图文直播 19:35
+${replace}/964718403
 #EXTINF:-1 tvg-id="北京首钢vs南京同曦" tvg-name="全国青年篮球联赛 北京首钢vs南京同曦 清流播出 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-明天",全国青年篮球联赛 北京首钢vs南京同曦 清流播出 20:00
 ${replace}/964666256
 #EXTINF:-1 tvg-id="龙狮青年vs天津荣钢" tvg-name="全国青年篮球联赛 龙狮青年vs天津荣钢 清流播出 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-明天",全国青年篮球联赛 龙狮青年vs天津荣钢 清流播出 20:00
