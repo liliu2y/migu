@@ -1384,13 +1384,13 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260515213000 +0800" stop="20260515220000 +0800">
-        <title lang="zh">高端访谈</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260515220000 +0800" stop="20260515223000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260515223000 +0800" stop="20260515230000 +0800">
+    <programme channel="CCTV13新闻" start="20260515220000 +0800" stop="20260515223000 +0800">
         <title lang="zh">国际时讯</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20260515223000 +0800" stop="20260515230000 +0800">
+        <title lang="zh">环球视线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260515230000 +0800" stop="20260515235900 +0800">
         <title lang="zh">24小时</title>
@@ -3660,10 +3660,10 @@
     <programme channel="24小时城市联赛轮播台" start="20260515171500 +0800" stop="20260515190000 +0800">
         <title lang="zh">山东齐鲁超赛第2轮全场回放：聊城传奇农商行9:1临沂队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260515190000 +0800" stop="20260515222000 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260515190000 +0800" stop="20260515221000 +0800">
         <title lang="zh">广西县超季军赛：北海市合浦县队vs玉林市北流市队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260515222000 +0800" stop="20260516001600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260515221000 +0800" stop="20260516001600 +0800">
         <title lang="zh">江苏苏超常规赛第5周全场回放：无锡队3:1泰州队</title>
     </programme>
     <channel id="武术世界">
