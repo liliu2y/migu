@@ -106,13 +106,13 @@
         <title lang="zh">前情提要-主角-第18集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260519200400 +0800" stop="20260519205310 +0800">
-        <title lang="zh">主角18/48</title>
+        <title lang="zh">主角第18集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260519205310 +0800" stop="20260519205715 +0800">
         <title lang="zh">前情提要-主角-第19集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260519205715 +0800" stop="20260519214620 +0800">
-        <title lang="zh">主角19/48</title>
+        <title lang="zh">主角第19集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260519214620 +0800" stop="20260519215520 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -871,7 +871,7 @@
         <title lang="zh">本集提要-家业-第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260519203040 +0800" stop="20260519212440 +0800">
-        <title lang="zh">家业6/42</title>
+        <title lang="zh">家业第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260519212440 +0800" stop="20260519212940 +0800">
         <title lang="zh">本集提要-雨霖铃-第13集</title>
@@ -3657,8 +3657,11 @@
     <programme channel="24小时城市联赛轮播台" start="20260519190200 +0800" stop="20260519213400 +0800">
         <title lang="zh">福建闽超第2轮全场回放：漳州4:1平潭</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260519213400 +0800" stop="20260520001000 +0800">
-        <title lang="zh">江苏苏超常规赛第5周全场回放：徐州队1:2宿迁队</title>
+    <programme channel="24小时城市联赛轮播台" start="20260519213400 +0800" stop="20260519231300 +0800">
+        <title lang="zh">广东粤BA第8轮全场回放：深圳118:66梅州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260519231300 +0800" stop="20260520013000 +0800">
+        <title lang="zh">浙江吴越杯第9轮全场回放：温州0:2杭州</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
