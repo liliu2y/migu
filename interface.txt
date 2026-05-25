@@ -537,8 +537,6 @@ ${replace}/964979314
 ${replace}/964978712
 #EXTINF:-1 tvg-id="诺丁汉森林VS伯恩茅斯" tvg-name="英超 诺丁汉森林VS伯恩茅斯 全场回放（刘焕） 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 诺丁汉森林VS伯恩茅斯 全场回放（刘焕） 22:45
 ${replace}/964977400
-#EXTINF:-1 tvg-id="曼城VS阿斯顿维拉" tvg-name="英超 曼城VS阿斯顿维拉 全场回放 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 曼城VS阿斯顿维拉 全场回放 22:45
-${replace}/964982050
 #EXTINF:-1 tvg-id="曼城VS阿斯顿维拉" tvg-name="英超 曼城VS阿斯顿维拉 全场回放（涂远、李彦、姚安妮） 22:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 曼城VS阿斯顿维拉 全场回放（涂远、李彦、姚安妮） 22:45
 ${replace}/964981891
 #EXTINF:-1 tvg-id="利物浦VS布伦特福德" tvg-name="英超 利物浦VS布伦特福德 全场回放（刘畅、颜强、程思钦） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 利物浦VS布伦特福德 全场回放（刘畅、颜强、程思钦） 21:30
@@ -577,36 +575,90 @@ ${replace}/964986386
 ${replace}/964985995
 #EXTINF:-1 tvg-id="马刺VS雷霆" tvg-name="NBA 马刺VS雷霆 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS雷霆 全场回放（英文原声） 07:55
 ${replace}/964985942
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 男子组一号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 男子组一号场地 08:35
-${replace}/964924340
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 男子组二号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 男子组二号场地 08:35
-${replace}/964924389
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 女子组一号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 女子组一号场地 08:35
-${replace}/964924435
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 女子组二号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 女子组二号场地 08:35
-${replace}/964924447
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30
-${replace}/964912735
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30
-${replace}/964912841
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30
-${replace}/964912853
-#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 赛场原声 08:30
-${replace}/964912869
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 2026中国大学生排球联赛Day6男子组一号场地全场回放（赛场原声）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 2026中国大学生排球联赛Day6男子组一号场地全场回放（赛场原声）（二） 08:30
+${replace}/964996271
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 2026中国大学生排球联赛Day6男子组一号场地全场回放（官方解说）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 2026中国大学生排球联赛Day6男子组一号场地全场回放（官方解说）（二） 08:30
+${replace}/964996228
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】中山大学3-0西南交通大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】中山大学3-0西南交通大学（官方解说） 08:30
+${replace}/964988103
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】中北大学3-0武汉体育学院（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】中北大学3-0武汉体育学院（官方解说） 08:30
+${replace}/964988009
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】华南理工大学3-1湖南师范大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】华南理工大学3-1湖南师范大学（官方解说） 08:30
+${replace}/964991646
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】中国石油大学 (华东)3-0吉林大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】中国石油大学 (华东)3-0吉林大学（官方解说） 08:30
+${replace}/964993055
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】重庆工商大学0-3沈阳体育学院（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】重庆工商大学0-3沈阳体育学院（官方解说） 08:30
+${replace}/964995020
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】南昌大学1-3清华大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】南昌大学1-3清华大学（官方解说） 08:30
+${replace}/964988242
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】天津体育学院1-3西南政法大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】天津体育学院1-3西南政法大学（官方解说） 08:30
+${replace}/964988891
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】北京师范大学2-3海南师范大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】北京师范大学2-3海南师范大学（官方解说） 08:30
+${replace}/964991484
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】北京航空航天大学1-3武汉大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】北京航空航天大学1-3武汉大学（官方解说） 08:30
+${replace}/964993171
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】复旦大学3-1西北工业大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【男子组回放】复旦大学3-1西北工业大学（官方解说） 08:30
+${replace}/964994876
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】中国海洋大学3-1四川大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】中国海洋大学3-1四川大学（官方解说） 08:30
+${replace}/964988329
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】中山大学1-3中央民族大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】中山大学1-3中央民族大学（官方解说） 08:30
+${replace}/964990216
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】湖南师范大学3-0成都体育学院（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】湖南师范大学3-0成都体育学院（官方解说） 08:30
+${replace}/964991365
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】北京航空航天大学3-0华东师范大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】北京航空航天大学3-0华东师范大学（官方解说） 08:30
+${replace}/964993486
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】中央财经大学3-0南昌大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】中央财经大学3-0南昌大学（官方解说） 08:30
+${replace}/964987606
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】延边大学3-0武汉体育学院（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】延边大学3-0武汉体育学院（官方解说） 08:30
+${replace}/964988472
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】北京体育大学3-0海南师范大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】北京体育大学3-0海南师范大学（官方解说） 08:30
+${replace}/964990938
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】吉林大学0-3复旦大学（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【女子组回放】吉林大学0-3复旦大学（官方解说） 08:30
+${replace}/964993401
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组一号场地（官方解说）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组一号场地（官方解说）（一） 08:30
+${replace}/964991666
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（官方解说）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（官方解说）（二） 08:30
+${replace}/964995089
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（官方解说）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（官方解说）（一） 08:30
+${replace}/964994189
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（官方解说）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（官方解说）（一） 08:30
+${replace}/964990599
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（官方解说）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（官方解说）（二） 08:30
+${replace}/964993895
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（官方解说）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（官方解说）（一） 08:30
+${replace}/964991406
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（官方解说）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（官方解说）（二） 08:30
+${replace}/964994086
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组一号场地（赛场原声）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组一号场地（赛场原声）（一） 08:30
+${replace}/964991694
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（赛场原声）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（赛场原声）（一） 08:30
+${replace}/964993707
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（赛场原声）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】男子组二号场地（赛场原声）（二） 08:30
+${replace}/964995041
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（赛场原声）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（赛场原声）（一） 08:30
+${replace}/964990911
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（赛场原声）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组一号场地（赛场原声）（二） 08:30
+${replace}/964994395
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（赛场原声）（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（赛场原声）（一） 08:30
+${replace}/964990895
+#EXTINF:-1 tvg-id="火力全开！小组赛第五轮" tvg-name="中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（赛场原声）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 火力全开！小组赛第五轮 【全场回放】女子组二号场地（赛场原声）（二） 08:30
+${replace}/964993811
 #EXTINF:-1 tvg-id="精彩回顾：商竣程vs阿古特" tvg-name="澳网 精彩回顾：商竣程vs阿古特 【回放】商竣程3-1阿古特（单文强） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：商竣程vs阿古特 【回放】商竣程3-1阿古特（单文强） 10:00
 ${replace}/962503207
 #EXTINF:-1 tvg-id="世界职业围棋锦标赛第二比赛日" tvg-name="春兰杯世界职业围棋锦标赛 世界职业围棋锦标赛第二比赛日 2026第十六届春兰杯世界职业围棋锦标赛day2全场回放（官方解说） 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/100000001469106cd042.png" group-title="体育-今天",春兰杯世界职业围棋锦标赛 世界职业围棋锦标赛第二比赛日 2026第十六届春兰杯世界职业围棋锦标赛day2全场回放（官方解说） 13:00
 ${replace}/964992743
 #EXTINF:-1 tvg-id="精彩回顾：王欣瑜vs卡利尼娜" tvg-name="澳网 精彩回顾：王欣瑜vs卡利尼娜 【回放】王欣瑜2-0卡利尼娜（单文强） 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：王欣瑜vs卡利尼娜 【回放】王欣瑜2-0卡利尼娜（单文强） 13:30
 ${replace}/962526951
-#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 3号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 3号桌 17:00
-${replace}/964892192
-#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 1号桌 17:00
-${replace}/964892161
-#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 4号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 4号桌 17:00
-${replace}/964892230
-#EXTINF:-1 tvg-id="NBA季后赛精彩重播：雷霆vs马刺 G4" tvg-name="NBA经典赛事 NBA季后赛精彩重播：雷霆vs马刺 G4 杨健 周琦 刘晓宇 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA季后赛精彩重播：雷霆vs马刺 G4 杨健 周琦 刘晓宇 18:00
-${replace}/964988927
+#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 2026斯诺克Q school第一阶段Day6回放：约书亚·索蒙德2-4肖恩·奥沙利文（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 2026斯诺克Q school第一阶段Day6回放：约书亚·索蒙德2-4肖恩·奥沙利文（赛场原声） 17:00
+${replace}/964994994
+#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 2026斯诺克Q school第一阶段Day6回放：利亚姆·戴维斯4-2迪恩·杨（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 2026斯诺克Q school第一阶段Day6回放：利亚姆·戴维斯4-2迪恩·杨（赛场原声） 17:00
+${replace}/964995214
+#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 2026斯诺克Q school第一阶段Day6回放：菲尔·奥凯恩4-1詹姆·奥尼尔（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 2026斯诺克Q school第一阶段Day6回放：菲尔·奥凯恩4-1詹姆·奥尼尔（赛场原声） 17:00
+${replace}/964995481
+#EXTINF:-1 tvg-id="张家玮4-1取胜 成功获得职业资格" tvg-name="斯诺克 张家玮4-1取胜 成功获得职业资格 【回放】杰克·布拉德福德1-4张家玮（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张家玮4-1取胜 成功获得职业资格 【回放】杰克·布拉德福德1-4张家玮（赛场原声） 17:00
+${replace}/964994718
+#EXTINF:-1 tvg-id="NBA季后赛精彩重播：雷霆vs马刺 G4" tvg-name="NBA经典赛事 NBA季后赛精彩重播：雷霆vs马刺 G4 全场回放（杨健、周琦、刘晓宇、秋童） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA季后赛精彩重播：雷霆vs马刺 G4 全场回放（杨健、周琦、刘晓宇、秋童） 18:00
+${replace}/964986386
 #EXTINF:-1 tvg-id="帕德博恩VS沃尔夫斯堡" tvg-name="德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 王子睿 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/5/29/1000000004331060c2a2.png" group-title="体育-明天",德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 王子睿 02:15
 ${replace}/964916888
 #EXTINF:-1 tvg-id="帕德博恩VS沃尔夫斯堡" tvg-name="德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/5/29/1000000004331060c2a2.png" group-title="体育-明天",德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 赛场原声 02:15
@@ -625,11 +677,11 @@ ${replace}/964958728
 ${replace}/964853204
 #EXTINF:-1 tvg-id="精彩回顾：帕芙柳琴科娃vs白卓璇" tvg-name="澳网 精彩回顾：帕芙柳琴科娃vs白卓璇 李宁 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-明天",澳网 精彩回顾：帕芙柳琴科娃vs白卓璇 李宁 10:00
 ${replace}/964889559
-#EXTINF:-1 tvg-id="资格赛、1/16决赛" tvg-name="BWF 资格赛、1/16决赛 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 资格赛、1/16决赛 1号场地 10:00
+#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 全主力出击！石宇奇领衔登场 1号场地 10:00
 ${replace}/964988939
-#EXTINF:-1 tvg-id="资格赛、1/16决赛" tvg-name="BWF 资格赛、1/16决赛 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 资格赛、1/16决赛 2号场地 10:00
+#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 全主力出击！石宇奇领衔登场 2号场地 10:00
 ${replace}/964988953
-#EXTINF:-1 tvg-id="资格赛、1/16决赛" tvg-name="BWF 资格赛、1/16决赛 3号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 资格赛、1/16决赛 3号场地 10:00
+#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 3号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 全主力出击！石宇奇领衔登场 3号场地 10:00
 ${replace}/964988977
 #EXTINF:-1 tvg-id="精彩回顾：王欣瑜vs奥斯塔彭科" tvg-name="澳网 精彩回顾：王欣瑜vs奥斯塔彭科 单文强 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-明天",澳网 精彩回顾：王欣瑜vs奥斯塔彭科 单文强 13:00
 ${replace}/964889651
