@@ -351,46 +351,22 @@ ${replace}/964995481
 ${replace}/964994718
 #EXTINF:-1 tvg-id="NBA季后赛精彩重播：雷霆vs马刺 G4" tvg-name="NBA经典赛事 NBA季后赛精彩重播：雷霆vs马刺 G4 全场回放（杨健、周琦、刘晓宇、秋童） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA季后赛精彩重播：雷霆vs马刺 G4 全场回放（杨健、周琦、刘晓宇、秋童） 18:00
 ${replace}/964986386
-#EXTINF:-1 tvg-id="帕德博恩VS沃尔夫斯堡" tvg-name="德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 王子睿 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/5/29/1000000004331060c2a2.png" group-title="体育-今天",德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 王子睿 02:15
-${replace}/964916888
-#EXTINF:-1 tvg-id="帕德博恩VS沃尔夫斯堡" tvg-name="德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 赛场原声 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/5/29/1000000004331060c2a2.png" group-title="体育-今天",德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 赛场原声 02:15
-${replace}/964916879
-#EXTINF:-1 tvg-id="帕德博恩VS沃尔夫斯堡" tvg-name="德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 智能字幕 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/5/29/1000000004331060c2a2.png" group-title="体育-今天",德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 智能字幕 02:15
-${replace}/964916908
-#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 连睿 周琦 周鹏 07:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 连睿 周琦 周鹏 07:30
-${replace}/964958669
-#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 吴博文 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 吴博文 07:55
-${replace}/964958693
-#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 英文原声 07:55
-${replace}/964958723
-#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 智能解说 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 智能解说 07:55
-${replace}/964958728
-#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第121期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第121期 08:00
-${replace}/964853204
+#EXTINF:-1 tvg-id="帕德博恩VS沃尔夫斯堡" tvg-name="德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 全场回放（王子睿） 02:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/5/29/1000000004331060c2a2.png" group-title="体育-今天",德甲升降级附加赛 帕德博恩VS沃尔夫斯堡 全场回放（王子睿） 02:15
+${replace}/964997580
+#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 全场回放（连睿、周琦、周鹏、小七） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 全场回放（连睿、周琦、周鹏、小七） 07:55
+${replace}/965000615
+#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 全场回放（吴博文） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 全场回放（吴博文） 07:55
+${replace}/965000317
+#EXTINF:-1 tvg-id="骑士VS尼克斯" tvg-name="NBA 骑士VS尼克斯 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 骑士VS尼克斯 全场回放（英文原声） 07:55
+${replace}/965000463
 #EXTINF:-1 tvg-id="精彩回顾：帕芙柳琴科娃vs白卓璇" tvg-name="澳网 精彩回顾：帕芙柳琴科娃vs白卓璇 李宁 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：帕芙柳琴科娃vs白卓璇 李宁 10:00
 ${replace}/964889559
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 1号场地 10:00
-${replace}/964988939
 #EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 2号场地 10:00
 ${replace}/964988953
+#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 1号场地 10:00
+${replace}/964988939
 #EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 3号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 3号场地 10:00
 ${replace}/964988977
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 朱胤丞 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 朱胤丞 10:00
-${replace}/964997349
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 鸿昆 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 鸿昆 10:00
-${replace}/964997371
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 杨妮娜 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 杨妮娜 12:00
-${replace}/964997379
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 杨妮娜 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 杨妮娜 13:00
-${replace}/964997386
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 鸿昆 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 鸿昆 13:30
-${replace}/964997388
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 鸿昆 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 鸿昆 13:30
-${replace}/964997397
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 孙宁智 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 孙宁智 16:00
-${replace}/964997399
-#EXTINF:-1 tvg-id="全主力出击！石宇奇领衔登场" tvg-name="BWF 全主力出击！石宇奇领衔登场 杨妮娜 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 全主力出击！石宇奇领衔登场 杨妮娜 16:00
-${replace}/964997401
 #EXTINF:-1 tvg-id="精彩回顾：王欣瑜vs奥斯塔彭科" tvg-name="澳网 精彩回顾：王欣瑜vs奥斯塔彭科 单文强 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：王欣瑜vs奥斯塔彭科 单文强 13:00
 ${replace}/964889651
 #EXTINF:-1 tvg-id="泰安天贶VS大连可为" tvg-name="中乙 泰安天贶VS大连可为 解说 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 泰安天贶VS大连可为 解说 15:20
@@ -427,6 +403,8 @@ ${replace}/964988997
 ${replace}/964989012
 #EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 3号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 1/16决赛 3号场地 10:00
 ${replace}/964989036
+#EXTINF:-1 tvg-id="1/16决赛" tvg-name="BWF 1/16决赛 1号场地英文解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 1/16决赛 1号场地英文解说 10:00
+${replace}/964998780
 #EXTINF:-1 tvg-id="精彩回顾：约维奇/姆博科vs梅尔滕斯/张帅" tvg-name="澳网 精彩回顾：约维奇/姆博科vs梅尔滕斯/张帅 鸿昆 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-明天",澳网 精彩回顾：约维奇/姆博科vs梅尔滕斯/张帅 鸿昆 13:30
 ${replace}/964889668
 #EXTINF:-1 tvg-id="山西崇德荣海VS青岛红狮" tvg-name="中乙 山西崇德荣海VS青岛红狮 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-明天",中乙 山西崇德荣海VS青岛红狮 解说 14:50
