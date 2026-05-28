@@ -297,8 +297,6 @@ ${replace}/965014530
 ${replace}/965016720
 #EXTINF:-1 tvg-id="精彩回顾：吴易昺vs纳尔迪" tvg-name="澳网 精彩回顾：吴易昺vs纳尔迪 【回放】吴易昺3-1纳尔迪（李宁） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-昨天",澳网 精彩回顾：吴易昺vs纳尔迪 【回放】吴易昺3-1纳尔迪（李宁） 10:00
 ${replace}/962531890
-#EXTINF:-1 tvg-id="翁泓阳拿下德比战！ 陈雨菲逆转晋级" tvg-name="BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 2026BWF新加坡羽毛球公开赛Day2一号场地全场回放（赛场原声）（三） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 2026BWF新加坡羽毛球公开赛Day2一号场地全场回放（赛场原声）（三） 10:00
-${replace}/965026739
 #EXTINF:-1 tvg-id="翁泓阳拿下德比战！ 陈雨菲逆转晋级" tvg-name="BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【回放】李诗沣0-2翁泓阳（鸿昆） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【回放】李诗沣0-2翁泓阳（鸿昆） 10:00
 ${replace}/965017156
 #EXTINF:-1 tvg-id="翁泓阳拿下德比战！ 陈雨菲逆转晋级" tvg-name="BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【回放】陈雨菲2-1蕾莎娜（鸿昆） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【回放】陈雨菲2-1蕾莎娜（鸿昆） 10:00
@@ -343,6 +341,8 @@ ${replace}/965020835
 ${replace}/965025757
 #EXTINF:-1 tvg-id="翁泓阳拿下德比战！ 陈雨菲逆转晋级" tvg-name="BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【三号场地全场回放】（赛场原声）（三） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【三号场地全场回放】（赛场原声）（三） 10:00
 ${replace}/965026014
+#EXTINF:-1 tvg-id="翁泓阳拿下德比战！ 陈雨菲逆转晋级" tvg-name="BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【一号场地全场回放】（赛场原声）（三） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 翁泓阳拿下德比战！ 陈雨菲逆转晋级 【一号场地全场回放】（赛场原声）（三） 10:00
+${replace}/965026739
 #EXTINF:-1 tvg-id="赛前媒体日：宋亚东张名扬媒体前亮剑" tvg-name="UFC格斗之夜 赛前媒体日：宋亚东张名扬媒体前亮剑 UFC格斗之夜赛前媒体日全场回放（赛场原声） 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png" group-title="体育-昨天",UFC格斗之夜 赛前媒体日：宋亚东张名扬媒体前亮剑 UFC格斗之夜赛前媒体日全场回放（赛场原声） 11:00
 ${replace}/965021226
 #EXTINF:-1 tvg-id="赛前媒体日：宋亚东张名扬媒体前亮剑" tvg-name="UFC格斗之夜 赛前媒体日：宋亚东张名扬媒体前亮剑 宋亚东赛前采访：担心菲格雷多大幅超重作弊 当年直播怼黑粉是自己不成熟 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png" group-title="体育-昨天",UFC格斗之夜 赛前媒体日：宋亚东张名扬媒体前亮剑 宋亚东赛前采访：担心菲格雷多大幅超重作弊 当年直播怼黑粉是自己不成熟 11:00
@@ -361,8 +361,34 @@ ${replace}/965022066
 ${replace}/965022077
 #EXTINF:-1 tvg-id="厦门飞鹭VS江西庐山" tvg-name="中乙 厦门飞鹭VS江西庐山 全场回放（官方解说） 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-昨天",中乙 厦门飞鹭VS江西庐山 全场回放（官方解说） 15:50
 ${replace}/965021992
-#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 5号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 5号桌 17:00
-${replace}/965002117
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 2026斯诺克Q school第二阶段Day2五号桌全场回放（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 2026斯诺克Q school第二阶段Day2五号桌全场回放（赛场原声）（二） 17:00
+${replace}/965028473
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【回放】王雨晨4-1埃里克·纳吉（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【回放】王雨晨4-1埃里克·纳吉（赛场原声） 17:00
+${replace}/965026685
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【回放】保罗·迪维尔3-4帕如克・艾尔肯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【回放】保罗·迪维尔3-4帕如克・艾尔肯（赛场原声） 17:00
+${replace}/965027457
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【回放】乔治·普拉格内尔4-0陈旨俊（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【回放】乔治·普拉格内尔4-0陈旨俊（赛场原声） 17:00
+${replace}/965027353
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】一号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】一号桌（赛场原声）（一） 17:00
+${replace}/965026733
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】一号桌（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】一号桌（赛场原声）（二） 17:00
+${replace}/965027511
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】二号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】二号桌（赛场原声）（一） 17:00
+${replace}/965027100
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】二号桌（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】二号桌（赛场原声）（二） 17:00
+${replace}/965027559
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】三号桌（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】三号桌（赛场原声）（二） 17:00
+${replace}/965027484
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】四号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】四号桌（赛场原声）（一） 17:00
+${replace}/965027197
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】四号桌（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】四号桌（赛场原声）（二） 17:00
+${replace}/965027706
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】五号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】五号桌（赛场原声）（一） 17:00
+${replace}/965027421
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】六号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】六号桌（赛场原声）（一） 17:00
+${replace}/965026694
+#EXTINF:-1 tvg-id="王雨晨、新疆选手帕如克晋级" tvg-name="斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】六号桌（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨、新疆选手帕如克晋级 【全场回放】六号桌（赛场原声）（二） 17:00
+${replace}/965027609
 #EXTINF:-1 tvg-id="广州蒲公英VS赣州瑞狮" tvg-name="中乙 广州蒲公英VS赣州瑞狮 全场回放（官方解说） 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-昨天",中乙 广州蒲公英VS赣州瑞狮 全场回放（官方解说） 18:50
 ${replace}/965025626
 #EXTINF:-1 tvg-id="武汉三镇B队VS广东铭途" tvg-name="中乙 武汉三镇B队VS广东铭途 全场回放 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-昨天",中乙 武汉三镇B队VS广东铭途 全场回放 19:20
@@ -371,82 +397,48 @@ ${replace}/965025943
 ${replace}/965025441
 #EXTINF:-1 tvg-id="海门珂缔缘VS上海赛更达" tvg-name="中乙 海门珂缔缘VS上海赛更达 全场回放（官方解说） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-昨天",中乙 海门珂缔缘VS上海赛更达 全场回放（官方解说） 19:20
 ${replace}/965026401
-#EXTINF:-1 tvg-id="汕头VS汕尾" tvg-name="粤BA 汕头VS汕尾 全场回放 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 汕头VS汕尾 全场回放 19:30
+#EXTINF:-1 tvg-id="汕头VS汕尾" tvg-name="粤BA 汕头VS汕尾 全场回放 9:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 汕头VS汕尾 全场回放 9:30
 ${replace}/965026331
-#EXTINF:-1 tvg-id="深圳VS东莞" tvg-name="粤BA 深圳VS东莞 全场回放 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 深圳VS东莞 全场回放 19:30
+#EXTINF:-1 tvg-id="深圳VS东莞" tvg-name="粤BA 深圳VS东莞 全场回放 9:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 深圳VS东莞 全场回放 9:30
 ${replace}/965026028
-#EXTINF:-1 tvg-id="清远VS韶关" tvg-name="粤BA 清远VS韶关 全场回放 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 清远VS韶关 全场回放 19:30
+#EXTINF:-1 tvg-id="清远VS韶关" tvg-name="粤BA 清远VS韶关 全场回放 9:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 清远VS韶关 全场回放 9:30
 ${replace}/965026180
-#EXTINF:-1 tvg-id="潮州VS河源" tvg-name="粤BA 潮州VS河源 全场回放 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 潮州VS河源 全场回放 19:30
+#EXTINF:-1 tvg-id="潮州VS河源" tvg-name="粤BA 潮州VS河源 全场回放 9:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 潮州VS河源 全场回放 9:30
 ${replace}/965025887
-#EXTINF:-1 tvg-id="惠州VS揭阳" tvg-name="粤BA 惠州VS揭阳 全场回放 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 惠州VS揭阳 全场回放 19:30
+#EXTINF:-1 tvg-id="惠州VS揭阳" tvg-name="粤BA 惠州VS揭阳 全场回放 9:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png" group-title="体育-昨天",粤BA 惠州VS揭阳 全场回放 9:30
 ${replace}/965026421
-#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第123期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第123期 08:00
-${replace}/964853220
-#EXTINF:-1 tvg-id="第22届亚洲U20田径锦标赛Day1" tvg-name="亚洲U20田径锦标赛 第22届亚洲U20田径锦标赛Day1 上午场 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png" group-title="体育-今天",亚洲U20田径锦标赛 第22届亚洲U20田径锦标赛Day1 上午场 08:30
-${replace}/964632830
-#EXTINF:-1 tvg-id="第22届亚洲U20田径锦标赛Day1" tvg-name="亚洲U20田径锦标赛 第22届亚洲U20田径锦标赛Day1 下午场 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png" group-title="体育-今天",亚洲U20田径锦标赛 第22届亚洲U20田径锦标赛Day1 下午场 16:30
-${replace}/964890691
-#EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 男子组一号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 男子组一号场地 08:35
-${replace}/965009327
-#EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 男子组二号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 男子组二号场地 08:35
-${replace}/965009423
 #EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 女子组一号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 女子组一号场地 08:35
 ${replace}/965009529
 #EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 女子组二号场地 08:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 女子组二号场地 08:35
 ${replace}/965009533
 #EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30
-${replace}/965009614
-#EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30
-${replace}/965009622
-#EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30
 ${replace}/965009629
 #EXTINF:-1 tvg-id="中国大学生排球联赛交叉赛+半决赛" tvg-name="中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg" group-title="体育-今天",中国大学生排球联赛 中国大学生排球联赛交叉赛+半决赛 赛场原声 08:30
 ${replace}/965009632
-#EXTINF:-1 tvg-id="首轮第2日称重：石铭携尹帅等5位新星闯赛前终极关" tvg-name="UFC精英之路 首轮第2日称重：石铭携尹帅等5位新星闯赛前终极关 陈瑞阳 汪乐 08:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png" group-title="体育-今天",UFC精英之路 首轮第2日称重：石铭携尹帅等5位新星闯赛前终极关 陈瑞阳 汪乐 08:50
-${replace}/965018765
-#EXTINF:-1 tvg-id="精彩回顾：诺斯科娃vs王欣瑜" tvg-name="澳网 精彩回顾：诺斯科娃vs王欣瑜 邱超 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：诺斯科娃vs王欣瑜 邱超 10:00
-${replace}/964889682
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 1号场地 10:00
-${replace}/964989043
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 1号场地 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 1号场地 18:30
-${replace}/964989054
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 2号场地 10:00
-${replace}/964989090
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 2号场地 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 2号场地 16:00
-${replace}/964989101
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 3号场地 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 3号场地 10:10
-${replace}/964989112
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 1号场地英文解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 1号场地英文解说 10:00
-${replace}/964998773
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 2号场地英文解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 2号场地英文解说 10:00
-${replace}/964998792
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 朱胤丞 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 朱胤丞 10:30
-${replace}/965026698
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 朱胤丞 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 朱胤丞 14:30
-${replace}/965026701
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 18:30
-${replace}/965026710
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 孙宁智 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 孙宁智 11:00
+#EXTINF:-1 tvg-id="RTU次日称重全员过磅！尹帅怒推巴特巴亚尔" tvg-name="UFC精英之路 RTU次日称重全员过磅！尹帅怒推巴特巴亚尔 RTU精英之路第五季第二比赛日称重仪式全场回放（陈瑞阳、汪乐） 08:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png" group-title="体育-今天",UFC精英之路 RTU次日称重全员过磅！尹帅怒推巴特巴亚尔 RTU精英之路第五季第二比赛日称重仪式全场回放（陈瑞阳、汪乐） 08:50
+${replace}/965030319
+#EXTINF:-1 tvg-id="精彩回顾：诺斯科娃vs王欣瑜" tvg-name="澳网 精彩回顾：诺斯科娃vs王欣瑜 【回放】诺斯科娃0-2王欣瑜（邱超） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：诺斯科娃vs王欣瑜 【回放】诺斯科娃0-2王欣瑜（邱超） 10:00
+${replace}/962644521
+#EXTINF:-1 tvg-id="五大单项全线争胜！石宇奇、王祉怡领衔" tvg-name="BWF 五大单项全线争胜！石宇奇、王祉怡领衔 莱恩VS王祉怡 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 五大单项全线争胜！石宇奇、王祉怡领衔 莱恩VS王祉怡 11:00
 ${replace}/965026713
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 14:30
-${replace}/965026715
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 15:00
-${replace}/965026719
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 杨妮娜 17:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 杨妮娜 17:40
-${replace}/965026720
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 杨妮娜 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 杨妮娜 18:30
-${replace}/965026722
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 鸿昆 10:30
-${replace}/965026726
-#EXTINF:-1 tvg-id="石宇奇PK法汉！陈雨菲再战明地阳菜" tvg-name="BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 轩子博 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 石宇奇PK法汉！陈雨菲再战明地阳菜 轩子博 16:00
-${replace}/965026728
+#EXTINF:-1 tvg-id="五大单项全线争胜！石宇奇、王祉怡领衔" tvg-name="BWF 五大单项全线争胜！石宇奇、王祉怡领衔 2号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 五大单项全线争胜！石宇奇、王祉怡领衔 2号场地 10:00
+${replace}/964989090
+#EXTINF:-1 tvg-id="五大单项全线争胜！石宇奇、王祉怡领衔" tvg-name="BWF 五大单项全线争胜！石宇奇、王祉怡领衔 1号场地 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 五大单项全线争胜！石宇奇、王祉怡领衔 1号场地 10:00
+${replace}/964989043
+#EXTINF:-1 tvg-id="五大单项全线争胜！石宇奇、王祉怡领衔" tvg-name="BWF 五大单项全线争胜！石宇奇、王祉怡领衔 3号场地 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 五大单项全线争胜！石宇奇、王祉怡领衔 3号场地 10:10
+${replace}/964989112
+#EXTINF:-1 tvg-id="五大单项全线争胜！石宇奇、王祉怡领衔" tvg-name="BWF 五大单项全线争胜！石宇奇、王祉怡领衔 1号场地英文解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 五大单项全线争胜！石宇奇、王祉怡领衔 1号场地英文解说 10:00
+${replace}/964998773
+#EXTINF:-1 tvg-id="五大单项全线争胜！石宇奇、王祉怡领衔" tvg-name="BWF 五大单项全线争胜！石宇奇、王祉怡领衔 2号场地英文解说 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 五大单项全线争胜！石宇奇、王祉怡领衔 2号场地英文解说 10:00
+${replace}/964998792
 #EXTINF:-1 tvg-id="精彩回顾：达尼丽娜/克鲁尼奇vs梅尔滕斯/张帅" tvg-name="澳网 精彩回顾：达尼丽娜/克鲁尼奇vs梅尔滕斯/张帅 邱超、李宁 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-今天",澳网 精彩回顾：达尼丽娜/克鲁尼奇vs梅尔滕斯/张帅 邱超、李宁 12:00
 ${replace}/964889750
 #EXTINF:-1 tvg-id="激战前夜：RTU中国力量经典比赛回顾" tvg-name="UFC前瞻与回顾 激战前夜：RTU中国力量经典比赛回顾 陈瑞阳 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 激战前夜：RTU中国力量经典比赛回顾 陈瑞阳 12:00
 ${replace}/965018821
 #EXTINF:-1 tvg-id="围甲联赛第1轮" tvg-name="中国围棋甲级联赛 围甲联赛第1轮 解说 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png" group-title="体育-今天",中国围棋甲级联赛 围甲联赛第1轮 解说 14:00
 ${replace}/965017579
+#EXTINF:-1 tvg-id="男女100米决赛压场开战" tvg-name="亚洲U20田径锦标赛 男女100米决赛压场开战 下午场 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png" group-title="体育-今天",亚洲U20田径锦标赛 男女100米决赛压场开战 下午场 16:30
+${replace}/964890691
 #EXTINF:-1 tvg-id="斯诺克Q school 第二阶段Day3" tvg-name="斯诺克 斯诺克Q school 第二阶段Day3 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯诺克Q school 第二阶段Day3 1号桌 17:00
 ${replace}/965002125
 #EXTINF:-1 tvg-id="斯诺克Q school 第二阶段Day3" tvg-name="斯诺克 斯诺克Q school 第二阶段Day3 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯诺克Q school 第二阶段Day3 2号桌 17:00
@@ -517,10 +509,16 @@ ${replace}/964998765
 ${replace}/965019463
 #EXTINF:-1 tvg-id="精彩回顾：德约科维奇vs辛纳" tvg-name="澳网 精彩回顾：德约科维奇vs辛纳 刘钟鸣、蔡凯臣 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-明天",澳网 精彩回顾：德约科维奇vs辛纳 刘钟鸣、蔡凯臣 12:30
 ${replace}/964889790
+#EXTINF:-1 tvg-id="围甲联赛第2轮" tvg-name="中国围棋甲级联赛 围甲联赛第2轮 解说 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png" group-title="体育-明天",中国围棋甲级联赛 围甲联赛第2轮 解说 14:00
+${replace}/965017582
+#EXTINF:-1 tvg-id="超三联赛 潍坊大区赛 B档小组赛下午场" tvg-name="超三联赛 超三联赛 潍坊大区赛 B档小组赛下午场 清流播出 13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-明天",超三联赛 超三联赛 潍坊大区赛 B档小组赛下午场 清流播出 13:55
+${replace}/965028750
 #EXTINF:-1 tvg-id="陕西联合VS南京城市" tvg-name="中甲 陕西联合VS南京城市 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-明天",中甲 陕西联合VS南京城市 解说 14:50
 ${replace}/965013857
 #EXTINF:-1 tvg-id="陕西联合VS南京城市" tvg-name="中甲 陕西联合VS南京城市 赛场原声 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-明天",中甲 陕西联合VS南京城市 赛场原声 14:50
 ${replace}/965013865
+#EXTINF:-1 tvg-id="四姑娘山黄金联赛Day1" tvg-name="越野黄金联赛 四姑娘山黄金联赛Day1 解说 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001473106b7dba.png" group-title="体育-明天",越野黄金联赛 四姑娘山黄金联赛Day1 解说 16:00
+${replace}/965020347
 #EXTINF:-1 tvg-id="斯诺克Q school 第二阶段Day4" tvg-name="斯诺克 斯诺克Q school 第二阶段Day4 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克Q school 第二阶段Day4 1号桌 17:00
 ${replace}/965002177
 #EXTINF:-1 tvg-id="斯诺克Q school 第二阶段Day4" tvg-name="斯诺克 斯诺克Q school 第二阶段Day4 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 斯诺克Q school 第二阶段Day4 2号桌 17:00
@@ -553,6 +551,8 @@ ${replace}/964989187
 ${replace}/965013873
 #EXTINF:-1 tvg-id="宁波职业足球俱乐部VS南通支云" tvg-name="中甲 宁波职业足球俱乐部VS南通支云 赛场原声 18:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-明天",中甲 宁波职业足球俱乐部VS南通支云 赛场原声 18:50
 ${replace}/965013888
+#EXTINF:-1 tvg-id="超三联赛 潍坊大区赛 B档小组赛晚间场" tvg-name="超三联赛 超三联赛 潍坊大区赛 B档小组赛晚间场 清流播出 18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-明天",超三联赛 超三联赛 潍坊大区赛 B档小组赛晚间场 清流播出 18:55
+${replace}/965028754
 #EXTINF:-1 tvg-id="广东广州豹足球俱乐部VS深圳青年人" tvg-name="中甲 广东广州豹足球俱乐部VS深圳青年人 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-明天",中甲 广东广州豹足球俱乐部VS深圳青年人 解说 19:20
 ${replace}/965013908
 #EXTINF:-1 tvg-id="广东广州豹足球俱乐部VS深圳青年人" tvg-name="中甲 广东广州豹足球俱乐部VS深圳青年人 赛场原声 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-明天",中甲 广东广州豹足球俱乐部VS深圳青年人 赛场原声 19:20
