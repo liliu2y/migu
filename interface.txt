@@ -297,6 +297,8 @@ ${replace}/965046087
 ${replace}/965046653
 #EXTINF:-1 tvg-id="精彩回顾：佩古拉vs莱巴金娜" tvg-name="澳网 精彩回顾：佩古拉vs莱巴金娜 【回放】佩古拉0-2莱巴金娜（李晶、王蔷）（50帧原画） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg" group-title="体育-昨天",澳网 精彩回顾：佩古拉vs莱巴金娜 【回放】佩古拉0-2莱巴金娜（李晶、王蔷）（50帧原画） 10:00
 ${replace}/962751615
+#EXTINF:-1 tvg-id="陈雨菲逆转宫崎友花 梁王晋级四强" tvg-name="BWF 陈雨菲逆转宫崎友花 梁王晋级四强 2026BWF新加坡羽毛球公开赛Day4一号场地全场回放（英文解说）（二） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 陈雨菲逆转宫崎友花 梁王晋级四强 2026BWF新加坡羽毛球公开赛Day4一号场地全场回放（英文解说）（二） 12:00
+${replace}/965064073
 #EXTINF:-1 tvg-id="陈雨菲逆转宫崎友花 梁王晋级四强" tvg-name="BWF 陈雨菲逆转宫崎友花 梁王晋级四强 2026BWF新加坡羽毛球公开赛Day4一号场地全场回放（赛场原声）（二） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 陈雨菲逆转宫崎友花 梁王晋级四强 2026BWF新加坡羽毛球公开赛Day4一号场地全场回放（赛场原声）（二） 12:00
 ${replace}/965064001
 #EXTINF:-1 tvg-id="陈雨菲逆转宫崎友花 梁王晋级四强" tvg-name="BWF 陈雨菲逆转宫崎友花 梁王晋级四强 2026BWF新加坡羽毛球公开赛Day4二号场地全场回放（赛场原声）（二） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 陈雨菲逆转宫崎友花 梁王晋级四强 2026BWF新加坡羽毛球公开赛Day4二号场地全场回放（赛场原声）（二） 12:00
@@ -359,18 +361,30 @@ ${replace}/965058069
 ${replace}/965058903
 #EXTINF:-1 tvg-id="13秒38  张可依百米栏夺冠" tvg-name="亚洲U20田径锦标赛 13秒38  张可依百米栏夺冠 【全场回放】下午场（赛场原声） 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png" group-title="体育-昨天",亚洲U20田径锦标赛 13秒38  张可依百米栏夺冠 【全场回放】下午场（赛场原声） 16:30
 ${replace}/965062010
-#EXTINF:-1 tvg-id="巩晨智出战 王雨晨晋级" tvg-name="斯诺克 巩晨智出战 王雨晨晋级 3号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 巩晨智出战 王雨晨晋级 3号桌 17:00
-${replace}/965002197
-#EXTINF:-1 tvg-id="巩晨智出战 王雨晨晋级" tvg-name="斯诺克 巩晨智出战 王雨晨晋级 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 巩晨智出战 王雨晨晋级 1号桌 17:00
-${replace}/965002177
-#EXTINF:-1 tvg-id="巩晨智出战 王雨晨晋级" tvg-name="斯诺克 巩晨智出战 王雨晨晋级 2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 巩晨智出战 王雨晨晋级 2号桌 17:00
-${replace}/965002184
-#EXTINF:-1 tvg-id="巩晨智出战 王雨晨晋级" tvg-name="斯诺克 巩晨智出战 王雨晨晋级 4号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 巩晨智出战 王雨晨晋级 4号桌 17:00
-${replace}/965002203
-#EXTINF:-1 tvg-id="巩晨智出战 王雨晨晋级" tvg-name="斯诺克 巩晨智出战 王雨晨晋级 5号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 巩晨智出战 王雨晨晋级 5号桌 17:00
-${replace}/965002211
-#EXTINF:-1 tvg-id="巩晨智出战 王雨晨晋级" tvg-name="斯诺克 巩晨智出战 王雨晨晋级 6号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 巩晨智出战 王雨晨晋级 6号桌 17:00
-${replace}/965002217
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4回放：卡勒姆·贝雷斯福德1-4巩晨智（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4回放：卡勒姆·贝雷斯福德1-4巩晨智（赛场原声） 17:00
+${replace}/965064245
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4一号桌全场回放（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4一号桌全场回放（赛场原声）（二） 17:00
+${replace}/965064234
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4二号桌全场回放（赛场原声）（二） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4二号桌全场回放（赛场原声）（二） 17:00
+${replace}/965064203
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4二号桌全场回放（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4二号桌全场回放（赛场原声）（一） 17:00
+${replace}/965064192
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4一号桌全场回放（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 2026斯诺克Q school第二阶段Day4一号桌全场回放（赛场原声）（一） 17:00
+${replace}/965064141
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【回放】克里斯·托顿0-4王雨晨（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【回放】克里斯·托顿0-4王雨晨（赛场原声） 17:00
+${replace}/965059032
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【回放】廖予生4-2卢克·平奇斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【回放】廖予生4-2卢克·平奇斯（赛场原声） 17:00
+${replace}/965063989
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【回放】帕如克·艾尔肯0-4阿兰·泰勒（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【回放】帕如克·艾尔肯0-4阿兰·泰勒（赛场原声） 17:00
+${replace}/965062299
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】三号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】三号桌（赛场原声）（一） 17:00
+${replace}/965063413
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】四号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】四号桌（赛场原声）（一） 17:00
+${replace}/965063857
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】五号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】五号桌（赛场原声）（一） 17:00
+${replace}/965063985
+#EXTINF:-1 tvg-id="王雨晨轻松取胜 巩晨智晋级" tvg-name="斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】六号桌（赛场原声）（一） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 王雨晨轻松取胜 巩晨智晋级 【全场回放】六号桌（赛场原声）（一） 17:00
+${replace}/965064037
 #EXTINF:-1 tvg-id="石铭绞杀印度一姐 吉牛血虐日本冠军 孟博取胜" tvg-name="UFC精英之路 石铭绞杀印度一姐 吉牛血虐日本冠军 孟博取胜 【全场回放】（陈瑞阳、王琰博、郝俊） 17:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png" group-title="体育-昨天",UFC精英之路 石铭绞杀印度一姐 吉牛血虐日本冠军 孟博取胜 【全场回放】（陈瑞阳、王琰博、郝俊） 17:55
 ${replace}/965062332
 #EXTINF:-1 tvg-id="石铭绞杀印度一姐 吉牛血虐日本冠军 孟博取胜" tvg-name="UFC精英之路 石铭绞杀印度一姐 吉牛血虐日本冠军 孟博取胜 【全场回放】（英文原声） 17:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png" group-title="体育-昨天",UFC精英之路 石铭绞杀印度一姐 吉牛血虐日本冠军 孟博取胜 【全场回放】（英文原声） 17:55
