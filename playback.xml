@@ -1362,14 +1362,11 @@
     <programme channel="CCTV13新闻" start="20260529190000 +0800" stop="20260529193235 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529193235 +0800" stop="20260529193910 +0800">
+    <programme channel="CCTV13新闻" start="20260529193235 +0800" stop="20260529193750 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260529193910 +0800" stop="20260529200000 +0800">
-        <title lang="zh">焦点访谈</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260529200000 +0800" stop="20260529210000 +0800">
-        <title lang="zh">东方时空</title>
+    <programme channel="CCTV13新闻" start="20260529193750 +0800" stop="20260529210000 +0800">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260529210000 +0800" stop="20260529213000 +0800">
         <title lang="zh">新闻联播</title>
@@ -4116,7 +4113,7 @@
     <programme channel="辽宁卫视" start="20260529230200 +0800" stop="20260529233100 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260529233100 +0800" stop="20260530000000 +0800">
+    <programme channel="辽宁卫视" start="20260529233100 +0800" stop="20260530003200 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
