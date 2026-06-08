@@ -339,7 +339,7 @@ ${replace}/965232944
 ${replace}/965232030
 #EXTINF:-1 tvg-id="奉贤经发VS闵行沿浦" tvg-name="乒乓球嘉年华 奉贤经发VS闵行沿浦 全场回放 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png" group-title="体育-昨天",乒乓球嘉年华 奉贤经发VS闵行沿浦 全场回放 19:00
 ${replace}/965232576
-#EXTINF:-1 tvg-id="武汉引力空间VS武汉波力斯" tvg-name="城超 武汉引力空间VS武汉波力斯 全场回放 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/22/1000000014551060d471.png" group-title="体育-昨天",城超 武汉引力空间VS武汉波力斯 全场回放 19:00
+#EXTINF:-1 tvg-id="武汉引力空间VS武汉波力斯" tvg-name="城超 武汉引力空间VS武汉波力斯 全场回放 9:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/22/1000000014551060d471.png" group-title="体育-昨天",城超 武汉引力空间VS武汉波力斯 全场回放 9:00
 ${replace}/965232287
 #EXTINF:-1 tvg-id="UCI小轮车竞速世界杯Day2" tvg-name="UCI小轮车竞速世界杯 UCI小轮车竞速世界杯Day2 2026UCI小轮车竞速世界杯Day2全场回放（官方解说） 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/5/1000000014811066f73e.png" group-title="体育-昨天",UCI小轮车竞速世界杯 UCI小轮车竞速世界杯Day2 2026UCI小轮车竞速世界杯Day2全场回放（官方解说） 20:45
 ${replace}/965233295
@@ -361,22 +361,28 @@ ${replace}/965234985
 ${replace}/965235136
 #EXTINF:-1 tvg-id="世界跆拳道大奖赛罗马站第三日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛罗马站第三日 2026世界跆拳道大奖赛罗马站Day3全场回放（官方解说） 22:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-昨天",世界跆拳道大奖赛 世界跆拳道大奖赛罗马站第三日 2026世界跆拳道大奖赛罗马站Day3全场回放（官方解说） 22:25
 ${replace}/965235259
-#EXTINF:-1 tvg-id="中国U19VS突尼斯U23" tvg-name="土伦杯 中国U19VS突尼斯U23 全场回放 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 中国U19VS突尼斯U23 全场回放 00:15
-${replace}/965235331
 #EXTINF:-1 tvg-id="中国U19VS突尼斯U23" tvg-name="土伦杯 中国U19VS突尼斯U23 全场回放（张昊泽、王宇） 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 中国U19VS突尼斯U23 全场回放（张昊泽、王宇） 00:15
 ${replace}/965235288
-#EXTINF:-1 tvg-id="《NBA周刊》2026总决赛G3特辑" tvg-name="NBA 《NBA周刊》2026总决赛G3特辑 现场原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 《NBA周刊》2026总决赛G3特辑 现场原声 09:55
-${replace}/965118640
+#EXTINF:-1 tvg-id="拉斯帕尔马斯VS马拉加" tvg-name="西乙 拉斯帕尔马斯VS马拉加 全场回放（周楚雄） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/6/3/10000000119910669858.png" group-title="体育-今天",西乙 拉斯帕尔马斯VS马拉加 全场回放（周楚雄） 02:45
+${replace}/965235403
+#EXTINF:-1 tvg-id="摩洛哥VS挪威" tvg-name="世界杯热身赛 摩洛哥VS挪威 全场回放（孙雨轩、贺宇） 02:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/5/100000001482106b6caa.png" group-title="体育-今天",世界杯热身赛 摩洛哥VS挪威 全场回放（孙雨轩、贺宇） 02:50
+${replace}/965235426
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第134期 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第134期 15:00
 ${replace}/965030541
 #EXTINF:-1 tvg-id="斯诺克经典回放：2022英锦赛半决赛 汤姆·福德vs丁俊晖" tvg-name="斯诺克 斯诺克经典回放：2022英锦赛半决赛 汤姆·福德vs丁俊晖 清流播出 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯诺克经典回放：2022英锦赛半决赛 汤姆·福德vs丁俊晖 清流播出 18:00
 ${replace}/965162067
 #EXTINF:-1 tvg-id="NBA精彩重播：1994总决赛 尼克斯vs火箭 G7" tvg-name="NBA经典赛事 NBA精彩重播：1994总决赛 尼克斯vs火箭 G7 徐秦威 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：1994总决赛 尼克斯vs火箭 G7 徐秦威 18:00
 ${replace}/965183440
-#EXTINF:-1 tvg-id="郑钦文 vs 克里斯蒂安" tvg-name="WTA 郑钦文 vs 克里斯蒂安 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 郑钦文 vs 克里斯蒂安 赛场原声 20:00
+#EXTINF:-1 tvg-id="费尔南德斯迎战博尔特" tvg-name="WTA 费尔南德斯迎战博尔特 郑钦文 vs克里斯蒂安(李宁) 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 费尔南德斯迎战博尔特 郑钦文 vs克里斯蒂安(李宁) 20:00
+${replace}/965237423
+#EXTINF:-1 tvg-id="费尔南德斯迎战博尔特" tvg-name="WTA 费尔南德斯迎战博尔特 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 费尔南德斯迎战博尔特 赛场原声 20:00
 ${replace}/965146093
-#EXTINF:-1 tvg-id="郑钦文 vs 克里斯蒂安" tvg-name="WTA 郑钦文 vs 克里斯蒂安 英文原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 郑钦文 vs 克里斯蒂安 英文原声 20:00
+#EXTINF:-1 tvg-id="费尔南德斯迎战博尔特" tvg-name="WTA 费尔南德斯迎战博尔特 英文原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 费尔南德斯迎战博尔特 英文原声 20:00
 ${replace}/965146167
+#EXTINF:-1 tvg-id="郑钦文VS克里斯蒂安" tvg-name="WTA 郑钦文VS克里斯蒂安 赛场原声 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 郑钦文VS克里斯蒂安 赛场原声 20:00
+${replace}/965237408
+#EXTINF:-1 tvg-id="郑钦文VS克里斯蒂安" tvg-name="WTA 郑钦文VS克里斯蒂安 李宁 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 郑钦文VS克里斯蒂安 李宁 20:00
+${replace}/965237423
 #EXTINF:-1 tvg-id="科特迪瓦U23VS加拿大U20" tvg-name="土伦杯 科特迪瓦U23VS加拿大U20 涂远 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 科特迪瓦U23VS加拿大U20 涂远 20:45
 ${replace}/965164098
 #EXTINF:-1 tvg-id="科特迪瓦U23VS加拿大U20" tvg-name="土伦杯 科特迪瓦U23VS加拿大U20 赛场原声 20:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png" group-title="体育-今天",土伦杯 科特迪瓦U23VS加拿大U20 赛场原声 20:45
