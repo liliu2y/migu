@@ -820,13 +820,13 @@
         <title lang="zh">本集提要-迷墙-第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260615193000 +0800" stop="20260615202540 +0800">
-        <title lang="zh">迷墙17/20</title>
+        <title lang="zh">迷墙第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260615202540 +0800" stop="20260615203040 +0800">
         <title lang="zh">本集提要-迷墙-第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260615203040 +0800" stop="20260615212440 +0800">
-        <title lang="zh">迷墙18/20</title>
+        <title lang="zh">迷墙第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260615212440 +0800" stop="20260615212940 +0800">
         <title lang="zh">本集提要-爱情有烟火-第1集</title>
@@ -1245,10 +1245,10 @@
     <programme channel="CCTV13新闻" start="20260615041500 +0800" stop="20260615050000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615050000 +0800" stop="20260615051600 +0800">
+    <programme channel="CCTV13新闻" start="20260615050000 +0800" stop="20260615051200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615051600 +0800" stop="20260615060000 +0800">
+    <programme channel="CCTV13新闻" start="20260615051200 +0800" stop="20260615060000 +0800">
         <title lang="zh">面对面</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260615060000 +0800" stop="20260615090000 +0800">
@@ -1266,19 +1266,19 @@
     <programme channel="CCTV13新闻" start="20260615110000 +0800" stop="20260615120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615120000 +0800" stop="20260615123300 +0800">
+    <programme channel="CCTV13新闻" start="20260615120000 +0800" stop="20260615123400 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615123300 +0800" stop="20260615130000 +0800">
+    <programme channel="CCTV13新闻" start="20260615123400 +0800" stop="20260615130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260615130000 +0800" stop="20260615140000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615140000 +0800" stop="20260615141600 +0800">
+    <programme channel="CCTV13新闻" start="20260615140000 +0800" stop="20260615141200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615141600 +0800" stop="20260615150000 +0800">
+    <programme channel="CCTV13新闻" start="20260615141200 +0800" stop="20260615150000 +0800">
         <title lang="zh">面对面</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260615150000 +0800" stop="20260615160000 +0800">
@@ -1293,10 +1293,13 @@
     <programme channel="CCTV13新闻" start="20260615180000 +0800" stop="20260615190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615190000 +0800" stop="20260615194030 +0800">
+    <programme channel="CCTV13新闻" start="20260615190000 +0800" stop="20260615193150 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260615194030 +0800" stop="20260615200000 +0800">
+    <programme channel="CCTV13新闻" start="20260615193150 +0800" stop="20260615193855 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20260615193855 +0800" stop="20260615200000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260615200000 +0800" stop="20260615210000 +0800">
@@ -4197,7 +4200,7 @@
     <programme channel="辽宁卫视" start="20260615225200 +0800" stop="20260615233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260615233100 +0800" stop="20260616000000 +0800">
+    <programme channel="辽宁卫视" start="20260615233100 +0800" stop="20260616002100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -4350,7 +4353,7 @@
     <programme channel="河北卫视" start="20260615233000 +0800" stop="20260615233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260615233300 +0800" stop="20260616000000 +0800">
+    <programme channel="河北卫视" start="20260615233300 +0800" stop="20260616000300 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
