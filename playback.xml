@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-星月征途-第16集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260618200200 +0800" stop="20260618205310 +0800">
-        <title lang="zh">星月征途16/20</title>
+        <title lang="zh">星月征途第16集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260618205310 +0800" stop="20260618205720 +0800">
-        <title lang="zh">前情提要-星月征途-17/20</title>
+        <title lang="zh">前情提要-星月征途-第17集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260618205720 +0800" stop="20260618214705 +0800">
-        <title lang="zh">星月征途17/20</title>
+        <title lang="zh">星月征途第17集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260618214705 +0800" stop="20260618215540 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -3981,7 +3981,7 @@
     <programme channel="广东卫视" start="20260618230500 +0800" stop="20260618235000 +0800">
         <title lang="zh">雪迷宫(9)</title>
     </programme>
-    <programme channel="广东卫视" start="20260618235000 +0800" stop="20260619000000 +0800">
+    <programme channel="广东卫视" start="20260618235000 +0800" stop="20260619001500 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4251,7 +4251,7 @@
     <programme channel="辽宁卫视" start="20260618230300 +0800" stop="20260618233500 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260618233500 +0800" stop="20260619000000 +0800">
+    <programme channel="辽宁卫视" start="20260618233500 +0800" stop="20260619003800 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4404,7 +4404,7 @@
     <programme channel="河北卫视" start="20260618233000 +0800" stop="20260618233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260618233300 +0800" stop="20260619000000 +0800">
+    <programme channel="河北卫视" start="20260618233300 +0800" stop="20260619000800 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
@@ -9027,6 +9027,123 @@
     <programme channel="海南广播电视总台少儿频道" start="20260618231500 +0800" stop="20260619000000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
+    <channel id="建党105周年巡礼">
+        <display-name lang="zh">建党105周年巡礼</display-name>
+    </channel>
+    <programme channel="建党105周年巡礼" start="20260617235300 +0800" stop="20260618001400 +0800">
+        <title lang="zh">《飞向月球第二季》第三集：满载而归</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618001400 +0800" stop="20260618010300 +0800">
+        <title lang="zh">《我们的征途》第01集</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618010300 +0800" stop="20260618015300 +0800">
+        <title lang="zh">《我们的征途》第02集</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618015300 +0800" stop="20260618024200 +0800">
+        <title lang="zh">《我们的征途》第03集</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618024200 +0800" stop="20260618031200 +0800">
+        <title lang="zh">《你好！火星》第1集：出发</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618031200 +0800" stop="20260618034200 +0800">
+        <title lang="zh">《你好！火星》第2集：征途</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618034200 +0800" stop="20260618041200 +0800">
+        <title lang="zh">《你好！火星》第3集：环绕</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618041200 +0800" stop="20260618044200 +0800">
+        <title lang="zh">《你好！火星》第4集：着陆</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618044200 +0800" stop="20260618051200 +0800">
+        <title lang="zh">《你好！火星》第5集：巡视</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618051200 +0800" stop="20260618060200 +0800">
+        <title lang="zh">《下一站，火星》第1集</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618060200 +0800" stop="20260618065100 +0800">
+        <title lang="zh">《下一站，火星》第2集</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618065100 +0800" stop="20260618073600 +0800">
+        <title lang="zh">探索无垠·中国载人航天三十年</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618073600 +0800" stop="20260618082500 +0800">
+        <title lang="zh">《天宫建造》01中国载人航天工程</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618082500 +0800" stop="20260618091500 +0800">
+        <title lang="zh">《天宫建造》02极限挑战</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618091500 +0800" stop="20260618100300 +0800">
+        <title lang="zh">《天宫建造》03梦天实验舱</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618100300 +0800" stop="20260618105300 +0800">
+        <title lang="zh">《天宫建造》04空间站</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618105300 +0800" stop="20260618114200 +0800">
+        <title lang="zh">《天宫建造》05天宫</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618114200 +0800" stop="20260618120900 +0800">
+        <title lang="zh">《国家记忆》20161007 《钱学森与中国航天60年》系列 第一集 艰难归国路</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618120900 +0800" stop="20260618135800 +0800">
+        <title lang="zh">秋收起义</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618135800 +0800" stop="20260618154300 +0800">
+        <title lang="zh">领袖1935</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618154300 +0800" stop="20260618172600 +0800">
+        <title lang="zh">大会师</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618172600 +0800" stop="20260618175200 +0800">
+        <title lang="zh">《红色热土》第一集：南粤星火</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618175200 +0800" stop="20260618182000 +0800">
+        <title lang="zh">《红色热土》第二集：红色血脉</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618182000 +0800" stop="20260618184600 +0800">
+        <title lang="zh">《红色热土》第三集：华南砥柱</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618184600 +0800" stop="20260618191400 +0800">
+        <title lang="zh">《红色热土》第四集：迎接黎明</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618191400 +0800" stop="20260618193700 +0800">
+        <title lang="zh">《山河岁月》第一集：历史的天空</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618193700 +0800" stop="20260618195900 +0800">
+        <title lang="zh">《山河岁月》第二集：百年望道</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618195900 +0800" stop="20260618202200 +0800">
+        <title lang="zh">《山河岁月》第三集：湘江北去</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618202200 +0800" stop="20260618204500 +0800">
+        <title lang="zh">《山河岁月》第四集：法兰西岁月</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618204500 +0800" stop="20260618210700 +0800">
+        <title lang="zh">《山河岁月》第五集：去远方</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618210700 +0800" stop="20260618213000 +0800">
+        <title lang="zh">《山河岁月》第六集：工运风暴</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618213000 +0800" stop="20260618215200 +0800">
+        <title lang="zh">《山河岁月》第七集：北伐北伐</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618215200 +0800" stop="20260618221500 +0800">
+        <title lang="zh">《山河岁月》第八集：从南昌到三河坝</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618221500 +0800" stop="20260618223800 +0800">
+        <title lang="zh">《山河岁月》第九集：战斗在罗霄山上</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618223800 +0800" stop="20260618230000 +0800">
+        <title lang="zh">《山河岁月》第十集：从三湾到古田</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618230000 +0800" stop="20260618232300 +0800">
+        <title lang="zh">《山河岁月》第十一集：共和国摇篮</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618232300 +0800" stop="20260618234600 +0800">
+        <title lang="zh">《山河岁月》第十二集：无言的丰碑</title>
+    </programme>
+    <programme channel="建党105周年巡礼" start="20260618234600 +0800" stop="20260619000800 +0800">
+        <title lang="zh">《山河岁月》第十三集：可爱的中国</title>
+    </programme>
     <channel id="经典香港电影">
         <display-name lang="zh">经典香港电影</display-name>
     </channel>
@@ -9074,57 +9191,6 @@
     </programme>
     <programme channel="经典香港电影" start="20260618224600 +0800" stop="20260619010400 +0800">
         <title lang="zh">爆裂点</title>
-    </programme>
-    <channel id="抗战经典影片">
-        <display-name lang="zh">抗战经典影片</display-name>
-    </channel>
-    <programme channel="抗战经典影片" start="20260617231800 +0800" stop="20260618011100 +0800">
-        <title lang="zh">南昌起义</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618011100 +0800" stop="20260618024700 +0800">
-        <title lang="zh">地道战</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618024700 +0800" stop="20260618041500 +0800">
-        <title lang="zh">三进山城</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618041500 +0800" stop="20260618054300 +0800">
-        <title lang="zh">吕梁英雄</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618054300 +0800" stop="20260618074100 +0800">
-        <title lang="zh">红日</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618074100 +0800" stop="20260618092300 +0800">
-        <title lang="zh">小兵张嘎</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618092300 +0800" stop="20260618104700 +0800">
-        <title lang="zh">七天七夜</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618104700 +0800" stop="20260618123700 +0800">
-        <title lang="zh">黄河绝恋</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618123700 +0800" stop="20260618142300 +0800">
-        <title lang="zh">紫日</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618142300 +0800" stop="20260618155900 +0800">
-        <title lang="zh">血战许昌</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618155900 +0800" stop="20260618172500 +0800">
-        <title lang="zh">让这首歌作证</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618172500 +0800" stop="20260618190100 +0800">
-        <title lang="zh">浴血誓言</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618190100 +0800" stop="20260618203200 +0800">
-        <title lang="zh">浴血阻击</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618203200 +0800" stop="20260618220700 +0800">
-        <title lang="zh">突围</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618220700 +0800" stop="20260618234100 +0800">
-        <title lang="zh">抗日名将卫立煌</title>
-    </programme>
-    <programme channel="抗战经典影片" start="20260618234100 +0800" stop="20260619011200 +0800">
-        <title lang="zh">密使</title>
     </programme>
     <channel id="新片放映厅">
         <display-name lang="zh">新片放映厅</display-name>
@@ -9458,123 +9524,6 @@
     </programme>
     <programme channel="南方影视" start="20260618223500 +0800" stop="20260619001500 +0800">
         <title lang="zh">剧无霸经典剧场:女子奇袭队(19-21)</title>
-    </programme>
-    <channel id="建党105周年巡礼">
-        <display-name lang="zh">建党105周年巡礼</display-name>
-    </channel>
-    <programme channel="建党105周年巡礼" start="20260617235300 +0800" stop="20260618001400 +0800">
-        <title lang="zh">《飞向月球第二季》第三集：满载而归</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618001400 +0800" stop="20260618010300 +0800">
-        <title lang="zh">《我们的征途》第01集</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618010300 +0800" stop="20260618015300 +0800">
-        <title lang="zh">《我们的征途》第02集</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618015300 +0800" stop="20260618024200 +0800">
-        <title lang="zh">《我们的征途》第03集</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618024200 +0800" stop="20260618031200 +0800">
-        <title lang="zh">《你好！火星》第1集：出发</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618031200 +0800" stop="20260618034200 +0800">
-        <title lang="zh">《你好！火星》第2集：征途</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618034200 +0800" stop="20260618041200 +0800">
-        <title lang="zh">《你好！火星》第3集：环绕</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618041200 +0800" stop="20260618044200 +0800">
-        <title lang="zh">《你好！火星》第4集：着陆</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618044200 +0800" stop="20260618051200 +0800">
-        <title lang="zh">《你好！火星》第5集：巡视</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618051200 +0800" stop="20260618060200 +0800">
-        <title lang="zh">《下一站，火星》第1集</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618060200 +0800" stop="20260618065100 +0800">
-        <title lang="zh">《下一站，火星》第2集</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618065100 +0800" stop="20260618073600 +0800">
-        <title lang="zh">探索无垠·中国载人航天三十年</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618073600 +0800" stop="20260618082500 +0800">
-        <title lang="zh">《天宫建造》01中国载人航天工程</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618082500 +0800" stop="20260618091500 +0800">
-        <title lang="zh">《天宫建造》02极限挑战</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618091500 +0800" stop="20260618100300 +0800">
-        <title lang="zh">《天宫建造》03梦天实验舱</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618100300 +0800" stop="20260618105300 +0800">
-        <title lang="zh">《天宫建造》04空间站</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618105300 +0800" stop="20260618114200 +0800">
-        <title lang="zh">《天宫建造》05天宫</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618114200 +0800" stop="20260618120900 +0800">
-        <title lang="zh">《国家记忆》20161007 《钱学森与中国航天60年》系列 第一集 艰难归国路</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618120900 +0800" stop="20260618135800 +0800">
-        <title lang="zh">秋收起义</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618135800 +0800" stop="20260618154300 +0800">
-        <title lang="zh">领袖1935</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618154300 +0800" stop="20260618172600 +0800">
-        <title lang="zh">大会师</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618172600 +0800" stop="20260618175200 +0800">
-        <title lang="zh">《红色热土》第一集：南粤星火</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618175200 +0800" stop="20260618182000 +0800">
-        <title lang="zh">《红色热土》第二集：红色血脉</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618182000 +0800" stop="20260618184600 +0800">
-        <title lang="zh">《红色热土》第三集：华南砥柱</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618184600 +0800" stop="20260618191400 +0800">
-        <title lang="zh">《红色热土》第四集：迎接黎明</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618191400 +0800" stop="20260618193700 +0800">
-        <title lang="zh">《山河岁月》第一集：历史的天空</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618193700 +0800" stop="20260618195900 +0800">
-        <title lang="zh">《山河岁月》第二集：百年望道</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618195900 +0800" stop="20260618202200 +0800">
-        <title lang="zh">《山河岁月》第三集：湘江北去</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618202200 +0800" stop="20260618204500 +0800">
-        <title lang="zh">《山河岁月》第四集：法兰西岁月</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618204500 +0800" stop="20260618210700 +0800">
-        <title lang="zh">《山河岁月》第五集：去远方</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618210700 +0800" stop="20260618213000 +0800">
-        <title lang="zh">《山河岁月》第六集：工运风暴</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618213000 +0800" stop="20260618215200 +0800">
-        <title lang="zh">《山河岁月》第七集：北伐北伐</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618215200 +0800" stop="20260618221500 +0800">
-        <title lang="zh">《山河岁月》第八集：从南昌到三河坝</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618221500 +0800" stop="20260618223800 +0800">
-        <title lang="zh">《山河岁月》第九集：战斗在罗霄山上</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618223800 +0800" stop="20260618230000 +0800">
-        <title lang="zh">《山河岁月》第十集：从三湾到古田</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618230000 +0800" stop="20260618232300 +0800">
-        <title lang="zh">《山河岁月》第十一集：共和国摇篮</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618232300 +0800" stop="20260618234600 +0800">
-        <title lang="zh">《山河岁月》第十二集：无言的丰碑</title>
-    </programme>
-    <programme channel="建党105周年巡礼" start="20260618234600 +0800" stop="20260619000800 +0800">
-        <title lang="zh">《山河岁月》第十三集：可爱的中国</title>
     </programme>
     <channel id="中国天气">
         <display-name lang="zh">中国天气</display-name>
