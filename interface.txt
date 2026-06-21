@@ -425,6 +425,10 @@ ${replace}/965556929
 ${replace}/965558687
 #EXTINF:-1 tvg-id="林仲勋/申裕斌混双夺冠 早田横扫美和" tvg-name="WTT 林仲勋/申裕斌混双夺冠 早田横扫美和 全场回放（英文解说） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 林仲勋/申裕斌混双夺冠 早田横扫美和 全场回放（英文解说） 17:00
 ${replace}/965558074
+#EXTINF:-1 tvg-id="王欣瑜比赛因雨推迟！萨姆索诺娃晋级" tvg-name="WTA 王欣瑜比赛因雨推迟！萨姆索诺娃晋级 【回放】萨姆索诺娃2-0西尼亚科娃（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 王欣瑜比赛因雨推迟！萨姆索诺娃晋级 【回放】萨姆索诺娃2-0西尼亚科娃（赛场原声） 17:00
+${replace}/965556351
+#EXTINF:-1 tvg-id="王欣瑜比赛因雨推迟！萨姆索诺娃晋级" tvg-name="WTA 王欣瑜比赛因雨推迟！萨姆索诺娃晋级 【回放】萨姆索诺娃2-0西尼亚科娃（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 王欣瑜比赛因雨推迟！萨姆索诺娃晋级 【回放】萨姆索诺娃2-0西尼亚科娃（英文原声） 17:00
+${replace}/965555689
 #EXTINF:-1 tvg-id="阿勒泰队VS塔城队" tvg-name="疆超 阿勒泰队VS塔城队 全场回放 17:58" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png" group-title="体育-昨天",疆超 阿勒泰队VS塔城队 全场回放 17:58
 ${replace}/965558752
 #EXTINF:-1 tvg-id="NBA精彩重播：2026总决赛 尼克斯vs马刺 G5" tvg-name="NBA经典赛事 NBA精彩重播：2026总决赛 尼克斯vs马刺 G5 全场回放（杨健、周琦、陈正昊） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA精彩重播：2026总决赛 尼克斯vs马刺 G5 全场回放（杨健、周琦、陈正昊） 18:00
@@ -495,74 +499,46 @@ ${replace}/965558715
 ${replace}/965558496
 #EXTINF:-1 tvg-id="阳光村足球队VS小堡村足球队" tvg-name="贵州村超 阳光村足球队VS小堡村足球队 全场回放 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-昨天",贵州村超 阳光村足球队VS小堡村足球队 全场回放 20:30
 ${replace}/965558826
-#EXTINF:-1 tvg-id="佩古拉VS诺斯科娃" tvg-name="WTA 佩古拉VS诺斯科娃 刘钟鸣 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉VS诺斯科娃 刘钟鸣 18:00
-${replace}/965546211
-#EXTINF:-1 tvg-id="佩古拉VS诺斯科娃" tvg-name="WTA 佩古拉VS诺斯科娃 赛场原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉VS诺斯科娃 赛场原声 18:00
-${replace}/965271662
-#EXTINF:-1 tvg-id="佩古拉VS诺斯科娃" tvg-name="WTA 佩古拉VS诺斯科娃 英文原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉VS诺斯科娃 英文原声 18:00
-${replace}/965271666
-#EXTINF:-1 tvg-id="早田4-3朱雨玲夺冠 雨果激战户上" tvg-name="WTT 早田4-3朱雨玲夺冠 雨果激战户上 马特 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田4-3朱雨玲夺冠 雨果激战户上 马特 23:00
-${replace}/965362504
-#EXTINF:-1 tvg-id="早田4-3朱雨玲夺冠 雨果激战户上" tvg-name="WTT 早田4-3朱雨玲夺冠 雨果激战户上 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田4-3朱雨玲夺冠 雨果激战户上 赛场原声 23:00
-${replace}/965362465
-#EXTINF:-1 tvg-id="早田4-3朱雨玲夺冠 雨果激战户上" tvg-name="WTT 早田4-3朱雨玲夺冠 雨果激战户上 智能字幕 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田4-3朱雨玲夺冠 雨果激战户上 智能字幕 23:00
-${replace}/965431871
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 娄一晨 李彦 武磊 邵凌霄 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 娄一晨 李彦 武磊 邵凌霄 23:00
-${replace}/965452657
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 AI智慧观赛 23:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 AI智慧观赛 23:55
-${replace}/965452976
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 粤语：江忠德 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 粤语：江忠德 23:45
-${replace}/965452667
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 女声：沈云怡 胡小凡 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 女声：沈云怡 胡小凡 23:45
-${replace}/965452659
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 新声代：张昊泽 涂远 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 新声代：张昊泽 涂远 23:45
-${replace}/965452675
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 西班牙队视角 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 西班牙队视角 23:00
-${replace}/965452709
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 沙特阿拉伯队视角 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 沙特阿拉伯队视角 23:00
-${replace}/965452755
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 CCTV5 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 CCTV5 12:00
-${replace}/965271838
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 赛场原声 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 赛场原声 23:45
-${replace}/965452689
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 假如你是其中一位边裁！ 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 假如你是其中一位边裁！ 23:00
-${replace}/965452916
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 假如你是另外一位边裁！ 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 假如你是另外一位边裁！ 23:00
-${replace}/965452926
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 开天眼了！ 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 开天眼了！ 23:00
-${replace}/965452962
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 山顶的风好大！ 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 山顶的风好大！ 23:00
-${replace}/965452952
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 粤语智能字幕 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 粤语智能字幕 23:45
-${replace}/965453033
-#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 智能字幕 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 智能字幕 23:00
-${replace}/965453007
-#EXTINF:-1 tvg-id="土耳其队vs中国队" tvg-name="世界女排联赛 土耳其队vs中国队 CCTV5+ 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png" group-title="体育-今天",世界女排联赛 土耳其队vs中国队 CCTV5+ 00:30
-${replace}/965551918
-#EXTINF:-1 tvg-id="王欣瑜出战 萨姆索诺娃晋级" tvg-name="WTA 王欣瑜出战 萨姆索诺娃晋级 约维奇 vs 王欣瑜(单文强) 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 王欣瑜出战 萨姆索诺娃晋级 约维奇 vs 王欣瑜(单文强) 23:30
-${replace}/965546180
-#EXTINF:-1 tvg-id="王欣瑜出战 萨姆索诺娃晋级" tvg-name="WTA 王欣瑜出战 萨姆索诺娃晋级 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 王欣瑜出战 萨姆索诺娃晋级 赛场原声 17:00
-${replace}/965446038
-#EXTINF:-1 tvg-id="王欣瑜出战 萨姆索诺娃晋级" tvg-name="WTA 王欣瑜出战 萨姆索诺娃晋级 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 王欣瑜出战 萨姆索诺娃晋级 英文原声 17:00
-${replace}/965446300
-#EXTINF:-1 tvg-id="约维奇VS王欣瑜" tvg-name="WTA 约维奇VS王欣瑜 单文强 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 约维奇VS王欣瑜 单文强 23:30
-${replace}/965546180
-#EXTINF:-1 tvg-id="约维奇VS王欣瑜" tvg-name="WTA 约维奇VS王欣瑜 清流播出 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 约维奇VS王欣瑜 清流播出 23:30
-${replace}/965546173
+#EXTINF:-1 tvg-id="佩古拉VS诺斯科娃" tvg-name="WTA 佩古拉VS诺斯科娃 全场回放（刘钟鸣） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉VS诺斯科娃 全场回放（刘钟鸣） 18:00
+${replace}/965564077
+#EXTINF:-1 tvg-id="佩古拉VS诺斯科娃" tvg-name="WTA 佩古拉VS诺斯科娃 全场回放 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉VS诺斯科娃 全场回放 18:00
+${replace}/965565123
+#EXTINF:-1 tvg-id="佩古拉VS诺斯科娃" tvg-name="WTA 佩古拉VS诺斯科娃 全场回放 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-昨天",WTA 佩古拉VS诺斯科娃 全场回放 18:00
+${replace}/965565255
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 【男单决赛】雨果3-4户上隼辅 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 【男单决赛】雨果3-4户上隼辅 23:00
+${replace}/965563892
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 【女单决赛】早田希娜4-3朱雨玲 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 【女单决赛】早田希娜4-3朱雨玲 23:00
+${replace}/965562210
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 【男双决赛】户上隼辅/篠塚大登3-2温瑞博/黄友政 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 【男双决赛】户上隼辅/篠塚大登3-2温瑞博/黄友政 23:00
+${replace}/965539807
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 【女双决赛】张本美和/早田希娜3-0大藤沙月/横井咲樱 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 【女双决赛】张本美和/早田希娜3-0大藤沙月/横井咲樱 23:00
+${replace}/965539019
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 【混双决赛】林仲勋/申裕斌3-1邱党/沙宾·温特 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 【混双决赛】林仲勋/申裕斌3-1邱党/沙宾·温特 23:00
+${replace}/965556731
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 全场回放（马特） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 全场回放（马特） 23:00
+${replace}/965564081
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 全场回放 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 全场回放 23:00
+${replace}/965565635
+#EXTINF:-1 tvg-id="早田收获双冠 户上4-3逆转雨果折桂" tvg-name="WTT 早田收获双冠 户上4-3逆转雨果折桂 全场回放（英文解说） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 早田收获双冠 户上4-3逆转雨果折桂 全场回放（英文解说） 23:00
+${replace}/965565031
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 纯享版回放（娄一晨、李彦、武磊、邵凌霄） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 纯享版回放（娄一晨、李彦、武磊、邵凌霄） 23:00
+${replace}/965564073
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 全场回放（娄一晨、李彦、武磊、邵凌霄） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 全场回放（娄一晨、李彦、武磊、邵凌霄） 23:00
+${replace}/965564259
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 全场回放（江忠德） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 全场回放（江忠德） 23:00
+${replace}/965564115
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 全场回放（沈云怡、胡小凡） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 全场回放（沈云怡、胡小凡） 23:00
+${replace}/965564155
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 全场回放（张昊泽、涂远） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 全场回放（张昊泽、涂远） 23:00
+${replace}/965564065
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 全场回放（AI智慧观赛） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 全场回放（AI智慧观赛） 23:00
+${replace}/965564227
+#EXTINF:-1 tvg-id="西班牙VS沙特阿拉伯" tvg-name="世界杯 西班牙VS沙特阿拉伯 全场回放（智能解说） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS沙特阿拉伯 全场回放（智能解说） 23:00
+${replace}/965564144
 #EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 苏东 刘越 韩乔生 林梦鸽 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 苏东 刘越 韩乔生 林梦鸽 02:00
 ${replace}/965448827
 #EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 AI智慧观赛 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 AI智慧观赛 02:55
 ${replace}/965449029
-#EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 粤语：陈凯冬 陆毅隽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 粤语：陈凯冬 陆毅隽 02:30
-${replace}/965448785
-#EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 女声：兰子非 胡小凡 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 女声：兰子非 胡小凡 02:45
-${replace}/965448805
-#EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 新声代：张天翼 洪宇青 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 新声代：张天翼 洪宇青 02:45
-${replace}/965448727
-#EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 赛场原声 02:45
-${replace}/965448716
-#EXTINF:-1 tvg-id="比利时VS伊朗" tvg-name="世界杯 比利时VS伊朗 智能字幕 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 比利时VS伊朗 智能字幕 02:00
-${replace}/965448884
 #EXTINF:-1 tvg-id="乌拉圭VS佛得角" tvg-name="世界杯 乌拉圭VS佛得角 孙雷 贺宇 孙葆洁 李子琪 05:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 乌拉圭VS佛得角 孙雷 贺宇 孙葆洁 李子琪 05:30
 ${replace}/965449226
 #EXTINF:-1 tvg-id="乌拉圭VS佛得角" tvg-name="世界杯 乌拉圭VS佛得角 AI智慧观赛 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 乌拉圭VS佛得角 AI智慧观赛 05:55
