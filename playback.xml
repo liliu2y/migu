@@ -103,10 +103,10 @@
         <title lang="zh">星月征途第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623205310 +0800" stop="20260623205630 +0800">
-        <title lang="zh">前情提要-种墨园-1/34</title>
+        <title lang="zh">前情提要-种墨园-第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623205630 +0800" stop="20260623214430 +0800">
-        <title lang="zh">种墨园1/34</title>
+        <title lang="zh">种墨园第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623214430 +0800" stop="20260623215200 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -588,13 +588,13 @@
     <programme channel="CCTV6电影" start="20260623162736 +0800" stop="20260623181127 +0800">
         <title lang="zh">雾都神探之绝情箭</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623181127 +0800" stop="20260623200000 +0800">
+    <programme channel="CCTV6电影" start="20260623181127 +0800" stop="20260623195950 +0800">
         <title lang="zh">杀破狼·贪狼</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623200000 +0800" stop="20260623210130 +0800">
+    <programme channel="CCTV6电影" start="20260623195950 +0800" stop="20260623205430 +0800">
         <title lang="zh">第23届电影频道传媒关注单元闭幕仪式01</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623210130 +0800" stop="20260623220000 +0800">
+    <programme channel="CCTV6电影" start="20260623205430 +0800" stop="20260623220000 +0800">
         <title lang="zh">第23届电影频道传媒关注单元闭幕仪式02</title>
     </programme>
     <programme channel="CCTV6电影" start="20260623220000 +0800" stop="20260623221800 +0800">
@@ -10521,49 +10521,55 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260623000000 +0800" stop="20260623060000 +0800">
-        <title lang="zh">巴啦啦小魔仙之魔法星缘堡</title>
+    <programme channel="嘉佳卡通" start="20260623000000 +0800" stop="20260623054200 +0800">
+        <title lang="zh">巴啦啦小魔仙之飞越彩灵堡</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623060000 +0800" stop="20260623080000 +0800">
+    <programme channel="嘉佳卡通" start="20260623054200 +0800" stop="20260623060200 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623060200 +0800" stop="20260623080400 +0800">
         <title lang="zh">猪猪侠之竞速小英雄八</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623080000 +0800" stop="20260623101500 +0800">
+    <programme channel="嘉佳卡通" start="20260623080400 +0800" stop="20260623090900 +0800">
+        <title lang="zh">超级飞侠二十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623090900 +0800" stop="20260623113000 +0800">
         <title lang="zh">薇薇猫的日常</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623101500 +0800" stop="20260623110500 +0800">
-        <title lang="zh">奶龙搞怪大作战二</title>
+    <programme channel="嘉佳卡通" start="20260623113000 +0800" stop="20260623115900 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623110500 +0800" stop="20260623113000 +0800">
-        <title lang="zh">盟卡车神之魔幻元珠二</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260623113000 +0800" stop="20260623140500 +0800">
-        <title lang="zh">奶龙搞怪大作战</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260623140500 +0800" stop="20260623150000 +0800">
-        <title lang="zh">《高光星少年》六一盛典</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260623150000 +0800" stop="20260623161000 +0800">
+    <programme channel="嘉佳卡通" start="20260623115900 +0800" stop="20260623140300 +0800">
         <title lang="zh">奶龙之奇妙冒险</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623161000 +0800" stop="20260623163000 +0800">
+    <programme channel="嘉佳卡通" start="20260623140300 +0800" stop="20260623160800 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者四</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623160800 +0800" stop="20260623163000 +0800">
         <title lang="zh">嘿，托玛</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623163000 +0800" stop="20260623190000 +0800">
-        <title lang="zh">奶龙搞怪大作战二</title>
+    <programme channel="嘉佳卡通" start="20260623163000 +0800" stop="20260623165100 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623190000 +0800" stop="20260623191500 +0800">
+    <programme channel="嘉佳卡通" start="20260623165100 +0800" stop="20260623190100 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623190100 +0800" stop="20260623191300 +0800">
         <title lang="zh">咖宝车神之超能救援</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623191500 +0800" stop="20260623200700 +0800">
-        <title lang="zh">喜羊羊与灰太狼之羊村守护者之六勇闯四季城</title>
+    <programme channel="嘉佳卡通" start="20260623191300 +0800" stop="20260623200100 +0800">
+        <title lang="zh">超级飞侠二十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623200700 +0800" stop="20260623202000 +0800">
-        <title lang="zh">湾区少年行</title>
+    <programme channel="嘉佳卡通" start="20260623200100 +0800" stop="20260623211000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623202000 +0800" stop="20260623220500 +0800">
-        <title lang="zh">喜羊羊与灰太狼之羊村守护者之六勇闯四季城</title>
+    <programme channel="嘉佳卡通" start="20260623211000 +0800" stop="20260623211100 +0800">
+        <title lang="zh">2026遇见中华诗词之美</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623220500 +0800" stop="20260624000000 +0800">
+    <programme channel="嘉佳卡通" start="20260623211100 +0800" stop="20260623215900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623215900 +0800" stop="20260624000100 +0800">
         <title lang="zh">猪猪侠之竞速小英雄八</title>
     </programme>
     <channel id="经典动画大集合">

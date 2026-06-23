@@ -407,34 +407,26 @@ ${replace}/965599245
 ${replace}/965601708
 #EXTINF:-1 tvg-id="Watnoinoppakhun学校 vs 光州Speer Girls高中" tvg-name="NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星邀请赛 Watnoinoppakhun学校 vs 光州Speer Girls高中 全场回放 12:55
 ${replace}/965601759
-#EXTINF:-1 tvg-id="福建U21vs江西赣星" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 福建U21vs江西赣星 清流播出 13:25
-${replace}/965293008
-#EXTINF:-1 tvg-id="围甲联赛第5轮" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 解说 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png" group-title="体育-今天",中国围棋甲级联赛 围甲联赛第5轮 解说 14:00
-${replace}/965416743
-#EXTINF:-1 tvg-id="上海U21vs河北英励" tvg-name="全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 上海U21vs河北英励 清流播出 15:25
-${replace}/965293011
-#EXTINF:-1 tvg-id="青岛红狮VS大连可为" tvg-name="中乙 青岛红狮VS大连可为 解说 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 青岛红狮VS大连可为 解说 15:50
-${replace}/965585667
-#EXTINF:-1 tvg-id="长春喜都VS兰州陇原竞技" tvg-name="中乙 长春喜都VS兰州陇原竞技 解说 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 长春喜都VS兰州陇原竞技 解说 15:50
-${replace}/965585669
-#EXTINF:-1 tvg-id="厦门飞鹭VS湖北青年星" tvg-name="中乙 厦门飞鹭VS湖北青年星 解说 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 厦门飞鹭VS湖北青年星 解说 15:50
-${replace}/965585671
-#EXTINF:-1 tvg-id="上海赛更达VS大连英博B队" tvg-name="中乙 上海赛更达VS大连英博B队 解说 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 上海赛更达VS大连英博B队 解说 15:50
-${replace}/965585677
-#EXTINF:-1 tvg-id="世新大学女篮VS拉脱维亚U18女篮" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/11/100000001486106f6163.png" group-title="体育-今天",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 清流播出 15:50
-${replace}/965476701
-#EXTINF:-1 tvg-id="NBA未来之星邀请赛开幕式" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 清流播出 15:55
-${replace}/965576537
+#EXTINF:-1 tvg-id="福建U21vs江西赣星" tvg-name="全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 福建U21vs江西赣星 全场回放（赛场原声） 13:25
+${replace}/965603204
+#EXTINF:-1 tvg-id="围甲联赛第5轮" tvg-name="中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png" group-title="体育-今天",中国围棋甲级联赛 围甲联赛第5轮 2026中国围棋甲级联赛第5轮全场回放（官方解说） 14:00
+${replace}/965604945
+#EXTINF:-1 tvg-id="上海U21vs河北英励" tvg-name="全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 上海U21vs河北英励 全场回放（赛场原声） 15:25
+${replace}/965605461
+#EXTINF:-1 tvg-id="长春喜都VS兰州陇原竞技" tvg-name="中乙 长春喜都VS兰州陇原竞技 全场回放 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 长春喜都VS兰州陇原竞技 全场回放 15:50
+${replace}/965605948
+#EXTINF:-1 tvg-id="上海赛更达VS大连英博B队" tvg-name="中乙 上海赛更达VS大连英博B队 全场回放 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 上海赛更达VS大连英博B队 全场回放 15:50
+${replace}/965606129
+#EXTINF:-1 tvg-id="世新大学女篮VS拉脱维亚U18女篮" tvg-name="国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/11/100000001486106f6163.png" group-title="体育-今天",国青女篮热身赛 世新大学女篮VS拉脱维亚U18女篮 全场回放（原声） 15:50
+${replace}/965605882
+#EXTINF:-1 tvg-id="NBA未来之星邀请赛开幕式" tvg-name="NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星邀请赛 NBA未来之星邀请赛开幕式 全场回放 15:55
+${replace}/965604809
 #EXTINF:-1 tvg-id="大坂直美、斯维托丽娜领衔出战" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美、斯维托丽娜领衔出战 王欣瑜 vs 费尔南德斯(宋光振) 18:30
 ${replace}/965595478
 #EXTINF:-1 tvg-id="大坂直美、斯维托丽娜领衔出战" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美、斯维托丽娜领衔出战 赛场原声 17:00
 ${replace}/965446095
 #EXTINF:-1 tvg-id="大坂直美、斯维托丽娜领衔出战" tvg-name="WTA 大坂直美、斯维托丽娜领衔出战 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美、斯维托丽娜领衔出战 英文原声 17:00
 ${replace}/965446335
-#EXTINF:-1 tvg-id="新加坡工艺教育学院 vs 清华附中" tvg-name="NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星邀请赛 新加坡工艺教育学院 vs 清华附中 清流播出 16:55
-${replace}/965576546
-#EXTINF:-1 tvg-id="Rowville中学 vs Royal国际学校" tvg-name="NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星邀请赛 Rowville中学 vs Royal国际学校 清流播出 16:55
-${replace}/965576816
 #EXTINF:-1 tvg-id="北京首钢vs新疆天山" tvg-name="全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 北京首钢vs新疆天山 清流播出 17:55
 ${replace}/965293018
 #EXTINF:-1 tvg-id="2025世锦赛决赛 赵心童vs老马三阶段" tvg-name="斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 2025世锦赛决赛 赵心童vs老马三阶段 第三阶段 18:00
@@ -451,7 +443,7 @@ ${replace}/965446335
 ${replace}/965576558
 #EXTINF:-1 tvg-id="远东大学迪利曼高中 vs 华侨中学" tvg-name="NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星邀请赛 远东大学迪利曼高中 vs 华侨中学 清流播出 18:55
 ${replace}/965576832
-#EXTINF:-1 tvg-id="《绿茵狂想》第12期" tvg-name="世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》第12期 绿茵狂想第12期 19:00
+#EXTINF:-1 tvg-id="《绿茵狂想》：徐阳徐云龙前瞻C罗次战" tvg-name="世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》：徐阳徐云龙前瞻C罗次战 绿茵狂想第12期 19:00
 ${replace}/965274201
 #EXTINF:-1 tvg-id="广东铭途VS贵州贵阳竞技" tvg-name="中乙 广东铭途VS贵州贵阳竞技 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-今天",中乙 广东铭途VS贵州贵阳竞技 解说 19:20
 ${replace}/965585658
