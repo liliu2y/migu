@@ -497,8 +497,10 @@ ${replace}/965657717
 ${replace}/965656770
 #EXTINF:-1 tvg-id="新疆天山59-70武汉盛帆" tvg-name="全国青年篮球联赛 新疆天山59-70武汉盛帆 2026全国U21青年篮球锦标赛全场回放：新疆天山vs武汉盛帆（赛场原声） 13:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 新疆天山59-70武汉盛帆 2026全国U21青年篮球锦标赛全场回放：新疆天山vs武汉盛帆（赛场原声） 13:25
 ${replace}/965658586
-#EXTINF:-1 tvg-id="吕梁赛区市级联赛3-4名、冠亚军决赛" tvg-name="晋超联赛 吕梁赛区市级联赛3-4名、冠亚军决赛 2026山西省男子篮球超级联赛第3轮全场回放：中阳vs兴县（官方解说） 14:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png" group-title="体育-今天",晋超联赛 吕梁赛区市级联赛3-4名、冠亚军决赛 2026山西省男子篮球超级联赛第3轮全场回放：中阳vs兴县（官方解说） 14:10
+#EXTINF:-1 tvg-id="吕梁赛区市级联赛3-4名、冠亚军决赛" tvg-name="晋超联赛 吕梁赛区市级联赛3-4名、冠亚军决赛 全场回放：中阳vs兴县 4:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png" group-title="体育-今天",晋超联赛 吕梁赛区市级联赛3-4名、冠亚军决赛 全场回放：中阳vs兴县 4:10
 ${replace}/965659930
+#EXTINF:-1 tvg-id="吕梁赛区市级联赛3-4名、冠亚军决赛" tvg-name="晋超联赛 吕梁赛区市级联赛3-4名、冠亚军决赛 全场回放：汾阳vs离石 4:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png" group-title="体育-今天",晋超联赛 吕梁赛区市级联赛3-4名、冠亚军决赛 全场回放：汾阳vs离石 4:10
+${replace}/965661530
 #EXTINF:-1 tvg-id="伯威克学院 vs 东泰高中" tvg-name="NBA未来之星高中邀请赛 伯威克学院 vs 东泰高中 全场回放 14:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星高中邀请赛 伯威克学院 vs 东泰高中 全场回放 14:55
 ${replace}/965660513
 #EXTINF:-1 tvg-id="精华女子高等学校 vs 协恩中学" tvg-name="NBA未来之星高中邀请赛 精华女子高等学校 vs 协恩中学 全场回放 14:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星高中邀请赛 精华女子高等学校 vs 协恩中学 全场回放 14:55
@@ -507,42 +509,38 @@ ${replace}/965658936
 ${replace}/965659316
 #EXTINF:-1 tvg-id="山东U21 89-56 山西竹叶青酒" tvg-name="全国青年篮球联赛 山东U21 89-56 山西竹叶青酒 全场回放（赛场原声） 15:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 山东U21 89-56 山西竹叶青酒 全场回放（赛场原声） 15:25
 ${replace}/965660695
+#EXTINF:-1 tvg-id="拉脱维亚U18女篮VS巴西U18女篮" tvg-name="国青女篮热身赛 拉脱维亚U18女篮VS巴西U18女篮 全场回放 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/11/100000001486106f6163.png" group-title="体育-今天",国青女篮热身赛 拉脱维亚U18女篮VS巴西U18女篮 全场回放 15:50
+${replace}/965661300
 #EXTINF:-1 tvg-id="大威廉姆斯女双止步！穆霍娃压场" tvg-name="WTA 大威廉姆斯女双止步！穆霍娃压场 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大威廉姆斯女双止步！穆霍娃压场 赛场原声 17:00
 ${replace}/965446187
 #EXTINF:-1 tvg-id="大威廉姆斯女双止步！穆霍娃压场" tvg-name="WTA 大威廉姆斯女双止步！穆霍娃压场 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大威廉姆斯女双止步！穆霍娃压场 英文原声 17:00
 ${replace}/965446402
-#EXTINF:-1 tvg-id="大威廉姆斯女双止步！穆霍娃压场" tvg-name="WTA 大威廉姆斯女双止步！穆霍娃压场 大坂直美 vs 亚历山德洛娃(单文强) 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大威廉姆斯女双止步！穆霍娃压场 大坂直美 vs 亚历山德洛娃(单文强) 19:00
-${replace}/965655069
-#EXTINF:-1 tvg-id="广州Speer Girls高中 vs 杨明高中" tvg-name="NBA未来之星高中邀请赛 广州Speer Girls高中 vs 杨明高中 清流播出 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星高中邀请赛 广州Speer Girls高中 vs 杨明高中 清流播出 16:55
-${replace}/965576738
-#EXTINF:-1 tvg-id="广东U21vs江西赣星" tvg-name="全国青年篮球联赛 广东U21vs江西赣星 清流播出 17:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 广东U21vs江西赣星 清流播出 17:55
-${replace}/965293101
-#EXTINF:-1 tvg-id="NBA精彩重播：2026西决 雷霆vs马刺 G3" tvg-name="NBA经典赛事 NBA精彩重播：2026西决 雷霆vs马刺 G3 李天宇 刘家成 张兆旭 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：2026西决 雷霆vs马刺 G3 李天宇 刘家成 张兆旭 18:00
+#EXTINF:-1 tvg-id="广州Speer Girls高中 vs 杨明高中" tvg-name="NBA未来之星高中邀请赛 广州Speer Girls高中 vs 杨明高中 全场回放 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星高中邀请赛 广州Speer Girls高中 vs 杨明高中 全场回放 16:55
+${replace}/965661897
+#EXTINF:-1 tvg-id="广东U21 117-45 江西赣星" tvg-name="全国青年篮球联赛 广东U21 117-45 江西赣星 全场回放（赛场原声） 17:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 广东U21 117-45 江西赣星 全场回放（赛场原声） 17:55
+${replace}/965662480
+#EXTINF:-1 tvg-id="NBA精彩重播：2026西决 雷霆vs马刺 G3" tvg-name="NBA经典赛事 NBA精彩重播：2026西决 雷霆vs马刺 G3 全场回放(李天宇,刘家成,张兆旭,廖昕阳) 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：2026西决 雷霆vs马刺 G3 全场回放(李天宇,刘家成,张兆旭,廖昕阳) 18:00
 ${replace}/965594829
-#EXTINF:-1 tvg-id="奥斯塔彭科PK森梅兹 凯斯接场" tvg-name="WTA 奥斯塔彭科PK森梅兹 凯斯接场 赛场原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 奥斯塔彭科PK森梅兹 凯斯接场 赛场原声 18:00
+#EXTINF:-1 tvg-id="玛利亚出战 奥斯塔彭科、凯斯晋级" tvg-name="WTA 玛利亚出战 奥斯塔彭科、凯斯晋级 赛场原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 玛利亚出战 奥斯塔彭科、凯斯晋级 赛场原声 18:00
 ${replace}/965596175
-#EXTINF:-1 tvg-id="奥斯塔彭科PK森梅兹 凯斯接场" tvg-name="WTA 奥斯塔彭科PK森梅兹 凯斯接场 英文原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 奥斯塔彭科PK森梅兹 凯斯接场 英文原声 18:00
+#EXTINF:-1 tvg-id="玛利亚出战 奥斯塔彭科、凯斯晋级" tvg-name="WTA 玛利亚出战 奥斯塔彭科、凯斯晋级 英文原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 玛利亚出战 奥斯塔彭科、凯斯晋级 英文原声 18:00
 ${replace}/965596401
-#EXTINF:-1 tvg-id="鸟取城北高校 vs 远东大学迪利曼高中" tvg-name="NBA未来之星高中邀请赛 鸟取城北高校 vs 远东大学迪利曼高中 清流播出 18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg" group-title="体育-今天",NBA未来之星高中邀请赛 鸟取城北高校 vs 远东大学迪利曼高中 清流播出 18:55
-${replace}/965576754
-#EXTINF:-1 tvg-id="女子成年组预赛暨团体、女子个人全能决赛 第四场" tvg-name="亚洲体操锦标赛 女子成年组预赛暨团体、女子个人全能决赛 第四场 CCTV5+ 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/15/100000001489106644c3.png" group-title="体育-今天",亚洲体操锦标赛 女子成年组预赛暨团体、女子个人全能决赛 第四场 CCTV5+ 19:00
-${replace}/965653150
-#EXTINF:-1 tvg-id="大坂直美VS亚历山德洛娃" tvg-name="WTA 大坂直美VS亚历山德洛娃 单文强 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美VS亚历山德洛娃 单文强 19:00
-${replace}/965655069
-#EXTINF:-1 tvg-id="大坂直美VS亚历山德洛娃" tvg-name="WTA 大坂直美VS亚历山德洛娃 赛场原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美VS亚历山德洛娃 赛场原声 19:00
-${replace}/965655083
-#EXTINF:-1 tvg-id="大坂直美VS亚历山德洛娃" tvg-name="WTA 大坂直美VS亚历山德洛娃 英文原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美VS亚历山德洛娃 英文原声 17:00
-${replace}/965446402
-#EXTINF:-1 tvg-id="《绿茵狂想》：AI预测内马尔淘汰赛破门概率" tvg-name="世界杯 《绿茵狂想》：AI预测内马尔淘汰赛破门概率 绿茵狂想第14期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》：AI预测内马尔淘汰赛破门概率 绿茵狂想第14期 19:00
-${replace}/965274233
-#EXTINF:-1 tvg-id="中国U18女篮VS世新大学女篮" tvg-name="国青女篮热身赛 中国U18女篮VS世新大学女篮 清流播出 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/11/100000001486106f6163.png" group-title="体育-今天",国青女篮热身赛 中国U18女篮VS世新大学女篮 清流播出 19:20
-${replace}/965476786
-#EXTINF:-1 tvg-id="河北英励vs福建U21" tvg-name="全国青年篮球联赛 河北英励vs福建U21 清流播出 19:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 河北英励vs福建U21 清流播出 19:55
-${replace}/965293107
+#EXTINF:-1 tvg-id="大坂直美VS亚历山德洛娃" tvg-name="WTA 大坂直美VS亚历山德洛娃 全场回放（单文强） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美VS亚历山德洛娃 全场回放（单文强） 17:00
+${replace}/965662539
+#EXTINF:-1 tvg-id="大坂直美VS亚历山德洛娃" tvg-name="WTA 大坂直美VS亚历山德洛娃 全场回放（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美VS亚历山德洛娃 全场回放（赛场原声） 17:00
+${replace}/965662944
+#EXTINF:-1 tvg-id="大坂直美VS亚历山德洛娃" tvg-name="WTA 大坂直美VS亚历山德洛娃 全场回放（英文原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 大坂直美VS亚历山德洛娃 全场回放（英文原声） 17:00
+${replace}/965662874
+#EXTINF:-1 tvg-id="中国U18女篮VS世新大学女篮" tvg-name="国青女篮热身赛 中国U18女篮VS世新大学女篮 全场回放 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/11/100000001486106f6163.png" group-title="体育-今天",国青女篮热身赛 中国U18女篮VS世新大学女篮 全场回放 19:20
+${replace}/965664896
+#EXTINF:-1 tvg-id="河北英励 62-77 福建U21" tvg-name="全国青年篮球联赛 河北英励 62-77 福建U21 2026全国U21青年篮球锦标赛全场回放：河北英励vs福建U21（赛场原声） 19:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-今天",全国青年篮球联赛 河北英励 62-77 福建U21 2026全国U21青年篮球锦标赛全场回放：河北英励vs福建U21（赛场原声） 19:55
+${replace}/965664607
 #EXTINF:-1 tvg-id="人机大战：谁是世界杯预言家 胡海泉刘语熙硬刚AI" tvg-name="世界杯 人机大战：谁是世界杯预言家 胡海泉刘语熙硬刚AI 人机大战第2期 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 人机大战：谁是世界杯预言家 胡海泉刘语熙硬刚AI 人机大战第2期 21:00
 ${replace}/965549659
 #EXTINF:-1 tvg-id="中国队vs比利时队" tvg-name="世界男排联赛 中国队vs比利时队 CCTV5+ 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png" group-title="体育-今天",世界男排联赛 中国队vs比利时队 CCTV5+ 22:30
 ${replace}/965653156
+#EXTINF:-1 tvg-id="李梓嘉领衔！贾士贤/盖骆剑指八强" tvg-name="BWF 李梓嘉领衔！贾士贤/盖骆剑指八强 贾士贤/盖骆 vs 巴特勒/艾比盖尔 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 李梓嘉领衔！贾士贤/盖骆剑指八强 贾士贤/盖骆 vs 巴特勒/艾比盖尔 03:00
+${replace}/965663580
 #EXTINF:-1 tvg-id="李梓嘉领衔！贾士贤/盖骆剑指八强" tvg-name="BWF 李梓嘉领衔！贾士贤/盖骆剑指八强 1号场地 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 李梓嘉领衔！贾士贤/盖骆剑指八强 1号场地 03:00
 ${replace}/965571582
 #EXTINF:-1 tvg-id="李梓嘉领衔！贾士贤/盖骆剑指八强" tvg-name="BWF 李梓嘉领衔！贾士贤/盖骆剑指八强 2号场地 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 李梓嘉领衔！贾士贤/盖骆剑指八强 2号场地 03:00
