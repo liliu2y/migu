@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/7/1 05:44:10",
+  "update_time": "2026/7/1 07:14:14",
   "statistics": {
     "total_processed": 9183,
-    "valid_ip_count": 57,
-    "duplicate_ip_count": 7557
+    "valid_ip_count": 58,
+    "duplicate_ip_count": 7680
   },
   "ip_list": {
     "gdct": [
@@ -92,6 +92,9 @@
     "bjct": [
       "115.171.216.32:4000",
       "115.171.216.46:4000"
+    ],
+    "gzct": [
+      "61.159.135.242:4022"
     ],
     "tjct": [
       "180.213.170.24:8188"
