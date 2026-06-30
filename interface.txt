@@ -411,15 +411,15 @@ ${replace}/965830188
 ${replace}/965830262
 #EXTINF:-1 tvg-id="孙颖莎单双打皆横扫 陈熠2-3韩莹" tvg-name="WTT 孙颖莎单双打皆横扫 陈熠2-3韩莹 全场回放（四号桌） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 孙颖莎单双打皆横扫 陈熠2-3韩莹 全场回放（四号桌） 09:00
 ${replace}/965826518
+#EXTINF:-1 tvg-id="孙颖莎单双打皆横扫 陈熠2-3韩莹" tvg-name="WTT 孙颖莎单双打皆横扫 陈熠2-3韩莹 全场回放（英文解说） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 孙颖莎单双打皆横扫 陈熠2-3韩莹 全场回放（英文解说） 09:00
+${replace}/965834568
+#EXTINF:-1 tvg-id="精彩回顾：拉杜卡努 vs 拉克西莫娃" tvg-name="WTA 精彩回顾：拉杜卡努 vs 拉克西莫娃 全场回放 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：拉杜卡努 vs 拉克西莫娃 全场回放 12:00
+${replace}/965348020
 #EXTINF:-1 tvg-id="中国自行车运动骑游大会湖系列·康平站" tvg-name="中国自行车运动协会系列赛 中国自行车运动骑游大会湖系列·康平站 2026中国自行车运动骑游大会湖系列·康平站全场回放（官方解说） 08:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 中国自行车运动骑游大会湖系列·康平站 2026中国自行车运动骑游大会湖系列·康平站全场回放（官方解说） 08:50
 ${replace}/965833135
-#EXTINF:-1 tvg-id="精彩回顾：约维奇 vs 阿尼西莫娃" tvg-name="WTA 精彩回顾：约维奇 vs 阿尼西莫娃 赛场原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：约维奇 vs 阿尼西莫娃 赛场原声 15:00
-${replace}/965696946
-#EXTINF:-1 tvg-id="意大利VS美国" tvg-name="U17男篮世界杯 意大利VS美国 赛场原声 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 意大利VS美国 赛场原声 16:50
-${replace}/965602433
-#EXTINF:-1 tvg-id="法国VS日本" tvg-name="U17男篮世界杯 法国VS日本 赛场原声 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 法国VS日本 赛场原声 16:50
-${replace}/965602663
-#EXTINF:-1 tvg-id="2025斯诺克国际锦标赛16进8 吴宜泽vs特鲁姆普" tvg-name="斯诺克 2025斯诺克国际锦标赛16进8 吴宜泽vs特鲁姆普 经典回放 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 2025斯诺克国际锦标赛16进8 吴宜泽vs特鲁姆普 经典回放 17:00
+#EXTINF:-1 tvg-id="精彩回顾：约维奇 vs 阿尼西莫娃" tvg-name="WTA 精彩回顾：约维奇 vs 阿尼西莫娃 全场回放 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：约维奇 vs 阿尼西莫娃 全场回放 15:00
+${replace}/965327439
+#EXTINF:-1 tvg-id="【重播】吴宜泽2025南京国锦赛夺冠之旅" tvg-name="斯诺克 【重播】吴宜泽2025南京国锦赛夺冠之旅 经典回放 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 【重播】吴宜泽2025南京国锦赛夺冠之旅 经典回放 17:00
 ${replace}/965799348
 #EXTINF:-1 tvg-id="NBA精彩重播：2012总决赛 雷霆vs热火 G5" tvg-name="NBA经典赛事 NBA精彩重播：2012总决赛 雷霆vs热火 G5 王冠证 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：2012总决赛 雷霆vs热火 G5 王冠证 18:00
 ${replace}/965796962
@@ -445,7 +445,17 @@ ${replace}/965801198
 ${replace}/965801220
 #EXTINF:-1 tvg-id="首日挥拍！何志伟/黄睿璿领衔出战" tvg-name="BWF 首日挥拍！何志伟/黄睿璿领衔出战 4号场地 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 首日挥拍！何志伟/黄睿璿领衔出战 4号场地 21:00
 ${replace}/965801232
-#EXTINF:-1 tvg-id="人机大战：谁是世界杯预言家 第6期" tvg-name="世界杯 人机大战：谁是世界杯预言家 第6期 人机大战第6期 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 人机大战：谁是世界杯预言家 第6期 人机大战第6期 21:00
+#EXTINF:-1 tvg-id="首日挥拍！何志伟/黄睿璿领衔出战" tvg-name="BWF 首日挥拍！何志伟/黄睿璿领衔出战 轩子博 07:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 首日挥拍！何志伟/黄睿璿领衔出战 轩子博 07:40
+${replace}/965837123
+#EXTINF:-1 tvg-id="首日挥拍！何志伟/黄睿璿领衔出战" tvg-name="BWF 首日挥拍！何志伟/黄睿璿领衔出战 轩子博 06:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 首日挥拍！何志伟/黄睿璿领衔出战 轩子博 06:50
+${replace}/965837137
+#EXTINF:-1 tvg-id="首日挥拍！何志伟/黄睿璿领衔出战" tvg-name="BWF 首日挥拍！何志伟/黄睿璿领衔出战 杨妮娜 22:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 首日挥拍！何志伟/黄睿璿领衔出战 杨妮娜 22:10
+${replace}/965837156
+#EXTINF:-1 tvg-id="首日挥拍！何志伟/黄睿璿领衔出战" tvg-name="BWF 首日挥拍！何志伟/黄睿璿领衔出战 杨妮娜 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 首日挥拍！何志伟/黄睿璿领衔出战 杨妮娜 21:30
+${replace}/965837168
+#EXTINF:-1 tvg-id="首日挥拍！何志伟/黄睿璿领衔出战" tvg-name="BWF 首日挥拍！何志伟/黄睿璿领衔出战 杨妮娜 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 首日挥拍！何志伟/黄睿璿领衔出战 杨妮娜 21:00
+${replace}/965837268
+#EXTINF:-1 tvg-id="人机大战：谁是世界杯预言家 苏醒卷土重来战AI" tvg-name="世界杯 人机大战：谁是世界杯预言家 苏醒卷土重来战AI 人机大战第6期 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 人机大战：谁是世界杯预言家 苏醒卷土重来战AI 人机大战第6期 21:00
 ${replace}/965549745
 #EXTINF:-1 tvg-id="委内瑞拉VS澳大利亚" tvg-name="U17男篮世界杯 委内瑞拉VS澳大利亚 赛场原声 22:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 委内瑞拉VS澳大利亚 赛场原声 22:20
 ${replace}/965602681
