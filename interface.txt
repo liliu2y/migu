@@ -343,9 +343,9 @@ ${replace}/965841747
 ${replace}/965840339
 #EXTINF:-1 tvg-id="立陶宛VS中国" tvg-name="U17男篮世界杯 立陶宛VS中国 全场回放（原声） 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 立陶宛VS中国 全场回放（原声） 19:35
 ${replace}/965841452
-#EXTINF:-1 tvg-id="委内瑞拉VS澳大利亚" tvg-name="U17男篮世界杯 委内瑞拉VS澳大利亚 全场回放 22:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 委内瑞拉VS澳大利亚 全场回放 22:20
+#EXTINF:-1 tvg-id="委内瑞拉VS澳大利亚" tvg-name="U17男篮世界杯 委内瑞拉VS澳大利亚 全场回放（原声） 22:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 委内瑞拉VS澳大利亚 全场回放（原声） 22:20
 ${replace}/965844813
-#EXTINF:-1 tvg-id="塞尔维亚VS科特迪瓦" tvg-name="U17男篮世界杯 塞尔维亚VS科特迪瓦 全场回放 22:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 塞尔维亚VS科特迪瓦 全场回放 22:20
+#EXTINF:-1 tvg-id="塞尔维亚VS科特迪瓦" tvg-name="U17男篮世界杯 塞尔维亚VS科特迪瓦 全场回放（原声） 22:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 塞尔维亚VS科特迪瓦 全场回放（原声） 22:20
 ${replace}/965845277
 #EXTINF:-1 tvg-id="科特迪瓦VS挪威" tvg-name="世界杯 科特迪瓦VS挪威 纯享版回放（苏东、刘越、徐云龙、林梦鸽） 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 科特迪瓦VS挪威 纯享版回放（苏东、刘越、徐云龙、林梦鸽） 00:00
 ${replace}/965847827
@@ -417,8 +417,8 @@ ${replace}/965851516
 ${replace}/965851690
 #EXTINF:-1 tvg-id="法国VS瑞典" tvg-name="世界杯 法国VS瑞典 全场回放（AI智慧观赛） 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 法国VS瑞典 全场回放（AI智慧观赛） 04:00
 ${replace}/965851679
-#EXTINF:-1 tvg-id="全国男子冰球锦标赛day4" tvg-name="全国男子冰球锦标赛 全国男子冰球锦标赛day4 解说 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png" group-title="体育-今天",全国男子冰球锦标赛 全国男子冰球锦标赛day4 解说 08:45
-${replace}/965667417
+#EXTINF:-1 tvg-id="全国男子冰球锦标赛day4" tvg-name="全国男子冰球锦标赛 全国男子冰球锦标赛day4 2026全国男子冰球锦标赛Day4全场回放（官方解说）（一） 08:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png" group-title="体育-今天",全国男子冰球锦标赛 全国男子冰球锦标赛day4 2026全国男子冰球锦标赛Day4全场回放（官方解说）（一） 08:45
+${replace}/965866681
 #EXTINF:-1 tvg-id="王楚钦横扫塔卡 王曼昱单打止步" tvg-name="WTT 王楚钦横扫塔卡 王曼昱单打止步 全场回放（乒乓观察室） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 王楚钦横扫塔卡 王曼昱单打止步 全场回放（乒乓观察室） 09:00
 ${replace}/965862320
 #EXTINF:-1 tvg-id="王楚钦横扫塔卡 王曼昱单打止步" tvg-name="WTT 王楚钦横扫塔卡 王曼昱单打止步 全场回放（赵曦） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 王楚钦横扫塔卡 王曼昱单打止步 全场回放（赵曦） 09:00
@@ -461,35 +461,31 @@ ${replace}/964502835
 ${replace}/965867259
 #EXTINF:-1 tvg-id="精彩回顾：博尔特 vs 维基奇" tvg-name="WTA 精彩回顾：博尔特 vs 维基奇 全场回放 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：博尔特 vs 维基奇 全场回放 15:00
 ${replace}/965346939
-#EXTINF:-1 tvg-id="NBA精彩重播：1998总决赛 公牛vs爵士 G6" tvg-name="NBA经典赛事 NBA精彩重播：1998总决赛 公牛vs爵士 G6 徐秦威 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：1998总决赛 公牛vs爵士 G6 徐秦威 18:00
-${replace}/965797022
-#EXTINF:-1 tvg-id="富阳VS西湖" tvg-name="浙BA 富阳VS西湖 2026赛季浙江省城市篮球联赛杭州赛区: 富阳VS西湖 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 富阳VS西湖 2026赛季浙江省城市篮球联赛杭州赛区: 富阳VS西湖 19:00
-${replace}/965788562
-#EXTINF:-1 tvg-id="《绿茵狂想》：黄健翔锐评法国攻击线" tvg-name="世界杯 《绿茵狂想》：黄健翔锐评法国攻击线 绿茵狂想第20期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》：黄健翔锐评法国攻击线 绿茵狂想第20期 19:00
-${replace}/965274292
-#EXTINF:-1 tvg-id="江北VS余姚" tvg-name="浙BA 江北VS余姚 2026赛季浙江省城市篮球联赛宁波赛区: 江北VS余姚 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 江北VS余姚 2026赛季浙江省城市篮球联赛宁波赛区: 江北VS余姚 19:30
-${replace}/965788578
-#EXTINF:-1 tvg-id="秀洲VS海宁" tvg-name="浙BA 秀洲VS海宁 2026赛季浙江省城市篮球联赛嘉兴赛区: 秀洲VS海宁 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 秀洲VS海宁 2026赛季浙江省城市篮球联赛嘉兴赛区: 秀洲VS海宁 19:30
+#EXTINF:-1 tvg-id="日本VS立陶宛" tvg-name="U17男篮世界杯 日本VS立陶宛 全场回放（赛场原声） 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 日本VS立陶宛 全场回放（赛场原声） 16:50
+${replace}/965869991
+#EXTINF:-1 tvg-id="法国VS中国" tvg-name="U17男篮世界杯 法国VS中国 全场回放（石楷文） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 法国VS中国 全场回放（石楷文） 17:20
+${replace}/965869722
+#EXTINF:-1 tvg-id="法国VS中国" tvg-name="U17男篮世界杯 法国VS中国 全场回放（原声） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 法国VS中国 全场回放（原声） 17:20
+${replace}/965870383
+#EXTINF:-1 tvg-id="NBA精彩重播：1998总决赛 公牛vs爵士 G6" tvg-name="NBA经典赛事 NBA精彩重播：1998总决赛 公牛vs爵士 G6 全场回放 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：1998总决赛 公牛vs爵士 G6 全场回放 18:00
+${replace}/965797860
+#EXTINF:-1 tvg-id="富阳83-65西湖" tvg-name="浙BA 富阳83-65西湖 2026浙江省城市篮球联赛全场回放：富阳vs西湖（官方解说） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 富阳83-65西湖 2026浙江省城市篮球联赛全场回放：富阳vs西湖（官方解说） 19:00
+${replace}/965872353
+#EXTINF:-1 tvg-id="江北V69-98余姚" tvg-name="浙BA 江北V69-98余姚 2026浙江省城市篮球联赛全场回放：江北vs余姚（官方解说） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 江北V69-98余姚 2026浙江省城市篮球联赛全场回放：江北vs余姚（官方解说） 19:30
+${replace}/965872435
+#EXTINF:-1 tvg-id="秀洲85-78海宁" tvg-name="浙BA 秀洲85-78海宁 2026赛季浙江省城市篮球联赛嘉兴赛区: 秀洲VS海宁 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 秀洲85-78海宁 2026赛季浙江省城市篮球联赛嘉兴赛区: 秀洲VS海宁 19:30
 ${replace}/965788630
-#EXTINF:-1 tvg-id="东阳VS义乌" tvg-name="浙BA 东阳VS义乌 2026赛季浙江省城市篮球联赛金华赛区: 东阳VS义乌 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 东阳VS义乌 2026赛季浙江省城市篮球联赛金华赛区: 东阳VS义乌 19:30
+#EXTINF:-1 tvg-id="东阳81-70义乌" tvg-name="浙BA 东阳81-70义乌 2026赛季浙江省城市篮球联赛金华赛区: 东阳VS义乌 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 东阳81-70义乌 2026赛季浙江省城市篮球联赛金华赛区: 东阳VS义乌 19:30
 ${replace}/965788638
-#EXTINF:-1 tvg-id="椒江VS路桥" tvg-name="浙BA 椒江VS路桥 2026赛季浙江省城市篮球联赛台州赛区: 椒江VS路桥 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 椒江VS路桥 2026赛季浙江省城市篮球联赛台州赛区: 椒江VS路桥 19:30
+#EXTINF:-1 tvg-id="椒江72-77路桥" tvg-name="浙BA 椒江72-77路桥 2026赛季浙江省城市篮球联赛台州赛区: 椒江VS路桥 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 椒江72-77路桥 2026赛季浙江省城市篮球联赛台州赛区: 椒江VS路桥 19:30
 ${replace}/965788660
-#EXTINF:-1 tvg-id="美国VS喀麦隆" tvg-name="U17男篮世界杯 美国VS喀麦隆 赛场原声 19:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 美国VS喀麦隆 赛场原声 19:35
-${replace}/965855742
-#EXTINF:-1 tvg-id="意大利VS加拿大" tvg-name="U17男篮世界杯 意大利VS加拿大 赛场原声 20:05" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-今天",U17男篮世界杯 意大利VS加拿大 赛场原声 20:05
-${replace}/965855774
-#EXTINF:-1 tvg-id="李梓嘉与斯里坎特强强对决 赖浩俊登场" tvg-name="BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 陈政宽/刘广珩VS亚历克斯/鲁斯 21:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 陈政宽/刘广珩VS亚历克斯/鲁斯 21:10
-${replace}/965868193
-#EXTINF:-1 tvg-id="李梓嘉与斯里坎特强强对决 赖浩俊登场" tvg-name="BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 凯瑟琳.万/韦尔格VS林芷均/杨筑云 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 凯瑟琳.万/韦尔格VS林芷均/杨筑云 21:00
-${replace}/965868157
-#EXTINF:-1 tvg-id="李梓嘉与斯里坎特强强对决 赖浩俊登场" tvg-name="BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 1号场地 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 1号场地 21:00
+#EXTINF:-1 tvg-id="李梓嘉晋级次轮 赖浩俊登场" tvg-name="BWF 李梓嘉晋级次轮 赖浩俊登场 1号场地 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉晋级次轮 赖浩俊登场 1号场地 21:00
 ${replace}/965810060
-#EXTINF:-1 tvg-id="李梓嘉与斯里坎特强强对决 赖浩俊登场" tvg-name="BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 2号场地 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 2号场地 21:00
+#EXTINF:-1 tvg-id="李梓嘉晋级次轮 赖浩俊登场" tvg-name="BWF 李梓嘉晋级次轮 赖浩俊登场 2号场地 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉晋级次轮 赖浩俊登场 2号场地 21:00
 ${replace}/965810063
-#EXTINF:-1 tvg-id="李梓嘉与斯里坎特强强对决 赖浩俊登场" tvg-name="BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 3号场地 21:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 3号场地 21:10
+#EXTINF:-1 tvg-id="李梓嘉晋级次轮 赖浩俊登场" tvg-name="BWF 李梓嘉晋级次轮 赖浩俊登场 3号场地 21:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉晋级次轮 赖浩俊登场 3号场地 21:10
 ${replace}/965810073
-#EXTINF:-1 tvg-id="李梓嘉与斯里坎特强强对决 赖浩俊登场" tvg-name="BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 4号场地 21:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉与斯里坎特强强对决 赖浩俊登场 4号场地 21:10
+#EXTINF:-1 tvg-id="李梓嘉晋级次轮 赖浩俊登场" tvg-name="BWF 李梓嘉晋级次轮 赖浩俊登场 4号场地 21:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 李梓嘉晋级次轮 赖浩俊登场 4号场地 21:10
 ${replace}/965810105
 #EXTINF:-1 tvg-id="人机大战：谁是世界杯预言家 徐志胜惊喜入局" tvg-name="世界杯 人机大战：谁是世界杯预言家 徐志胜惊喜入局 人机大战第7期 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 人机大战：谁是世界杯预言家 徐志胜惊喜入局 人机大战第7期 21:00
 ${replace}/965549753
