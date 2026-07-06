@@ -489,7 +489,7 @@ ${replace}/965997606
 ${replace}/965997891
 #EXTINF:-1 tvg-id="广西恒宸VS大连鲲城" tvg-name="中甲 广西恒宸VS大连鲲城 全场回放（官方解说） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-昨天",中甲 广西恒宸VS大连鲲城 全场回放（官方解说） 19:20
 ${replace}/965997912
-#EXTINF:-1 tvg-id="南京城市VS佛山南狮" tvg-name="中甲 南京城市VS佛山南狮 全场回放 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-昨天",中甲 南京城市VS佛山南狮 全场回放 19:20
+#EXTINF:-1 tvg-id="南京城市VS佛山南狮" tvg-name="中甲 南京城市VS佛山南狮 全场回放（官方解说） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-昨天",中甲 南京城市VS佛山南狮 全场回放（官方解说） 19:20
 ${replace}/965998817
 #EXTINF:-1 tvg-id="贵州贵阳竞技VS江西庐山" tvg-name="中乙 贵州贵阳竞技VS江西庐山 全场回放（官方解说） 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="体育-昨天",中乙 贵州贵阳竞技VS江西庐山 全场回放（官方解说） 19:20
 ${replace}/965998005
@@ -565,6 +565,8 @@ ${replace}/966001258
 ${replace}/966001336
 #EXTINF:-1 tvg-id="刘广珩/许尹鏸混双摘银 冲本优大夺金" tvg-name="BWF 刘广珩/许尹鏸混双摘银 冲本优大夺金 2026BWF加拿大羽毛球公开赛Day6一号场地全场回放（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 刘广珩/许尹鏸混双摘银 冲本优大夺金 2026BWF加拿大羽毛球公开赛Day6一号场地全场回放（赛场原声） 23:00
 ${replace}/966018726
+#EXTINF:-1 tvg-id="刘广珩/许尹鏸混双摘银 冲本优大夺金" tvg-name="BWF 刘广珩/许尹鏸混双摘银 冲本优大夺金 2026BWF加拿大羽毛球公开赛Day6一号场地全场回放（英文解说） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 刘广珩/许尹鏸混双摘银 冲本优大夺金 2026BWF加拿大羽毛球公开赛Day6一号场地全场回放（英文解说） 23:00
+${replace}/966019791
 #EXTINF:-1 tvg-id="斯洛文尼亚VS中国" tvg-name="U17男篮世界杯 斯洛文尼亚VS中国 全场回放（石楷文） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 斯洛文尼亚VS中国 全场回放（石楷文） 22:50
 ${replace}/965999376
 #EXTINF:-1 tvg-id="斯洛文尼亚VS中国" tvg-name="U17男篮世界杯 斯洛文尼亚VS中国 全场回放（赛场原声） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png" group-title="体育-昨天",U17男篮世界杯 斯洛文尼亚VS中国 全场回放（赛场原声） 22:50
@@ -687,36 +689,42 @@ ${replace}/966013044
 ${replace}/966015433
 #EXTINF:-1 tvg-id="孙颖莎女单夺冠 松岛辉空问鼎男单" tvg-name="WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 全场回放（英文解说） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 全场回放（英文解说） 10:00
 ${replace}/966015762
-#EXTINF:-1 tvg-id="汤杯经典重映-中国 vs 法国" tvg-name="BWF 汤杯经典重映-中国 vs 法国 经典重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 vs 法国 经典重映 12:00
-${replace}/965828726
-#EXTINF:-1 tvg-id="中国VS中国台北" tvg-name="男篮世预赛 中国VS中国台北 杨健 郭艾伦 杨毅 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 中国VS中国台北 杨健 郭艾伦 杨毅 13:30
-${replace}/965824837
-#EXTINF:-1 tvg-id="中国VS中国台北" tvg-name="男篮世预赛 中国VS中国台北 郭艾伦专属视角 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 中国VS中国台北 郭艾伦专属视角 13:30
-${replace}/965981675
-#EXTINF:-1 tvg-id="中国VS中国台北" tvg-name="男篮世预赛 中国VS中国台北 赛场原声 13:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 中国VS中国台北 赛场原声 13:50
-${replace}/966005353
-#EXTINF:-1 tvg-id="第三届晋城全国职业围棋公开赛" tvg-name="中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 解说 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/3/10000000150510690cba.png" group-title="体育-今天",中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 解说 14:30
-${replace}/965928058
-#EXTINF:-1 tvg-id="新西兰VS关岛" tvg-name="男篮世预赛 新西兰VS关岛 赛场原声 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 新西兰VS关岛 赛场原声 14:50
-${replace}/965793497
-#EXTINF:-1 tvg-id="精彩回顾：佩古拉 vs 凯斯" tvg-name="WTA 精彩回顾：佩古拉 vs 凯斯 赛场原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：佩古拉 vs 凯斯 赛场原声 15:00
-${replace}/965928945
-#EXTINF:-1 tvg-id="澳大利亚VS菲律宾" tvg-name="男篮世预赛 澳大利亚VS菲律宾 赛场原声 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 澳大利亚VS菲律宾 赛场原声 18:20
-${replace}/965793509
-#EXTINF:-1 tvg-id="韩国VS日本" tvg-name="男篮世预赛 韩国VS日本 邵化谦 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 韩国VS日本 邵化谦 18:20
-${replace}/965824900
-#EXTINF:-1 tvg-id="韩国VS日本" tvg-name="男篮世预赛 韩国VS日本 赛场原声 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 韩国VS日本 赛场原声 18:20
-${replace}/965793521
-#EXTINF:-1 tvg-id="《绿茵狂想》第25期" tvg-name="世界杯 《绿茵狂想》第25期 绿茵狂想第25期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》第25期 绿茵狂想第25期 19:00
-${replace}/965274189
-#EXTINF:-1 tvg-id="海盐VS秀洲" tvg-name="浙BA 海盐VS秀洲 2026赛季浙江省城市篮球联赛嘉兴赛区: 海盐VS秀洲 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 海盐VS秀洲 2026赛季浙江省城市篮球联赛嘉兴赛区: 海盐VS秀洲 19:30
-${replace}/966010939
-#EXTINF:-1 tvg-id="云和VS缙云" tvg-name="浙BA 云和VS缙云 2026赛季浙江省城市篮球联赛丽水赛区: 云和VS缙云 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 云和VS缙云 2026赛季浙江省城市篮球联赛丽水赛区: 云和VS缙云 19:30
-${replace}/966010956
-#EXTINF:-1 tvg-id="景宁VS遂昌" tvg-name="浙BA 景宁VS遂昌 2026赛季浙江省城市篮球联赛丽水赛区: 景宁VS遂昌 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 景宁VS遂昌 2026赛季浙江省城市篮球联赛丽水赛区: 景宁VS遂昌 19:30
-${replace}/966010967
-#EXTINF:-1 tvg-id="人机大战：谁是世界杯预言家 第12期" tvg-name="世界杯 人机大战：谁是世界杯预言家 第12期 人机大战第12期 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 人机大战：谁是世界杯预言家 第12期 人机大战第12期 21:00
-${replace}/965549836
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【全场回放】中国3-1法国（余博洋、黄雅琼、刘雨辰） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【全场回放】中国3-1法国（余博洋、黄雅琼、刘雨辰） 12:00
+${replace}/964569194
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【全场回放】中国3-1法国（明星视角） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【全场回放】中国3-1法国（明星视角） 12:00
+${replace}/964572373
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【回放】石宇奇2-1小波波夫（余博洋、黄雅琼、刘雨辰） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【回放】石宇奇2-1小波波夫（余博洋、黄雅琼、刘雨辰） 12:00
+${replace}/964566786
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【回放】李诗沣0-2拉尼尔（余博洋、黄雅琼、刘雨辰） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【回放】李诗沣0-2拉尼尔（余博洋、黄雅琼、刘雨辰） 12:00
+${replace}/964567724
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【回放】翁泓阳2-1大波波夫（余博洋、黄雅琼、刘雨辰） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【回放】翁泓阳2-1大波波夫（余博洋、黄雅琼、刘雨辰） 12:00
+${replace}/964568288
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【回放】何济霆/任翔宇2-0伊劳埃/里奥（余博洋、黄雅琼、刘雨辰） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【回放】何济霆/任翔宇2-0伊劳埃/里奥（余博洋、黄雅琼、刘雨辰） 12:00
+${replace}/964568691
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 【全场回放】中国3-1法国（赛场原声） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 【全场回放】中国3-1法国（赛场原声） 12:00
+${replace}/964569847
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 一号场地全场回放（赛场原声） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 一号场地全场回放（赛场原声） 12:00
+${replace}/964569889
+#EXTINF:-1 tvg-id="汤杯经典重映-中国 3-1 法国" tvg-name="BWF 汤杯经典重映-中国 3-1 法国 一号场地全场回放（英文原声） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 汤杯经典重映-中国 3-1 法国 一号场地全场回放（英文原声） 12:00
+${replace}/964570656
+#EXTINF:-1 tvg-id="中国VS中国台北" tvg-name="男篮世预赛 中国VS中国台北 全场回放（杨健、杨毅、郭艾伦、金佳悦） 13:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 中国VS中国台北 全场回放（杨健、杨毅、郭艾伦、金佳悦） 13:50
+${replace}/966019863
+#EXTINF:-1 tvg-id="中国VS中国台北" tvg-name="男篮世预赛 中国VS中国台北 全场回放（郭艾伦专属视角） 13:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 中国VS中国台北 全场回放（郭艾伦专属视角） 13:50
+${replace}/966020690
+#EXTINF:-1 tvg-id="中国VS中国台北" tvg-name="男篮世预赛 中国VS中国台北 全场回放（赛场原声） 13:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 中国VS中国台北 全场回放（赛场原声） 13:50
+${replace}/966020503
+#EXTINF:-1 tvg-id="第三届晋城全国职业围棋公开赛" tvg-name="中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 第三届晋城全国职业围棋公开赛决赛全场回放（官方解说） 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/3/10000000150510690cba.png" group-title="体育-今天",中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 第三届晋城全国职业围棋公开赛决赛全场回放（官方解说） 14:30
+${replace}/966021759
+#EXTINF:-1 tvg-id="新西兰VS关岛" tvg-name="男篮世预赛 新西兰VS关岛 全场回放（赛场原声） 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 新西兰VS关岛 全场回放（赛场原声） 14:50
+${replace}/966021163
+#EXTINF:-1 tvg-id="精彩回顾：佩古拉 vs 凯斯" tvg-name="WTA 精彩回顾：佩古拉 vs 凯斯 全场回放 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：佩古拉 vs 凯斯 全场回放 15:00
+${replace}/965509850
+#EXTINF:-1 tvg-id="澳大利亚VS菲律宾" tvg-name="男篮世预赛 澳大利亚VS菲律宾 全场回放（赛场原声） 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 澳大利亚VS菲律宾 全场回放（赛场原声） 18:20
+${replace}/966024093
+#EXTINF:-1 tvg-id="韩国VS日本" tvg-name="男篮世预赛 韩国VS日本 全场回放（邵化谦） 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 韩国VS日本 全场回放（邵化谦） 18:20
+${replace}/966023457
+#EXTINF:-1 tvg-id="韩国VS日本" tvg-name="男篮世预赛 韩国VS日本 全场回放（赛场原声） 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 韩国VS日本 全场回放（赛场原声） 18:20
+${replace}/966024360
 #EXTINF:-1 tvg-id="捷克VS爱沙尼亚" tvg-name="男篮世预赛 捷克VS爱沙尼亚 赛场原声 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-今天",男篮世预赛 捷克VS爱沙尼亚 赛场原声 22:50
 ${replace}/965832295
 #EXTINF:-1 tvg-id="土耳其VS瑞士" tvg-name="男篮世预赛 土耳其VS瑞士 周鹏 23:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-明天",男篮世预赛 土耳其VS瑞士 周鹏 23:50
@@ -835,6 +843,8 @@ ${replace}/965929622
 ${replace}/965929666
 #EXTINF:-1 tvg-id="精彩回顾：萨巴伦卡 vs 佩古拉" tvg-name="WTA 精彩回顾：萨巴伦卡 vs 佩古拉 单文强 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 精彩回顾：萨巴伦卡 vs 佩古拉 单文强 12:00
 ${replace}/965928950
+#EXTINF:-1 tvg-id="经典重映-2026全英赛半决赛" tvg-name="BWF 经典重映-2026全英赛半决赛 赛事重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 经典重映-2026全英赛半决赛 赛事重映 12:00
+${replace}/966014110
 #EXTINF:-1 tvg-id="精彩回顾：诺斯科娃 vs 伊埃拉" tvg-name="WTA 精彩回顾：诺斯科娃 vs 伊埃拉 李宁 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 精彩回顾：诺斯科娃 vs 伊埃拉 李宁 15:00
 ${replace}/965928952
 #EXTINF:-1 tvg-id="第四届武术世界杯 首日下半场" tvg-name="武术套路世界杯 第四届武术世界杯 首日下半场 解说 14:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/4/1000000015061062eccf.png" group-title="体育-明天",武术套路世界杯 第四届武术世界杯 首日下半场 解说 14:55
