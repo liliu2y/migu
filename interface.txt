@@ -425,20 +425,18 @@ ${replace}/966057313
 ${replace}/966058145
 #EXTINF:-1 tvg-id="灰熊VS老鹰" tvg-name="NBA 灰熊VS老鹰 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS老鹰 全场回放（英文原声） 06:55
 ${replace}/966058749
-#EXTINF:-1 tvg-id="爵士VS雷霆" tvg-name="NBA 爵士VS雷霆 罗森 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS雷霆 罗森 08:55
-${replace}/965896691
-#EXTINF:-1 tvg-id="爵士VS雷霆" tvg-name="NBA 爵士VS雷霆 英文原声 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS雷霆 英文原声 08:55
-${replace}/965898669
-#EXTINF:-1 tvg-id="第四届武术世界杯 第二日上半场" tvg-name="武术套路世界杯 第四届武术世界杯 第二日上半场 解说 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/4/1000000015061062eccf.png" group-title="体育-今天",武术套路世界杯 第四届武术世界杯 第二日上半场 解说 08:55
-${replace}/965929646
-#EXTINF:-1 tvg-id="第四届武术世界杯 第二日上半场" tvg-name="武术套路世界杯 第四届武术世界杯 第二日上半场 清流 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/4/1000000015061062eccf.png" group-title="体育-今天",武术套路世界杯 第四届武术世界杯 第二日上半场 清流 08:55
-${replace}/965929682
+#EXTINF:-1 tvg-id="爵士VS雷霆" tvg-name="NBA 爵士VS雷霆 全场回放（罗森） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 爵士VS雷霆 全场回放（罗森） 08:55
+${replace}/966061155
+#EXTINF:-1 tvg-id="第四届武术世界杯 第二日上半场" tvg-name="武术套路世界杯 第四届武术世界杯 第二日上半场 第四届武术套路世界杯第二比赛日上午场全场回放（官方解说） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/4/1000000015061062eccf.png" group-title="体育-今天",武术套路世界杯 第四届武术世界杯 第二日上半场 第四届武术套路世界杯第二比赛日上午场全场回放（官方解说） 08:55
+${replace}/966065058
+#EXTINF:-1 tvg-id="第四届武术世界杯 第二日上半场" tvg-name="武术套路世界杯 第四届武术世界杯 第二日上半场 第四届武术套路世界杯第二比赛日上午场全场回放（现场原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/4/1000000015061062eccf.png" group-title="体育-今天",武术套路世界杯 第四届武术世界杯 第二日上半场 第四届武术套路世界杯第二比赛日上午场全场回放（现场原声） 08:55
+${replace}/966066031
 #EXTINF:-1 tvg-id="精彩回顾：佩古拉 vs 诺斯科娃" tvg-name="WTA 精彩回顾：佩古拉 vs 诺斯科娃 刘钟鸣 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：佩古拉 vs 诺斯科娃 刘钟鸣 12:00
 ${replace}/965928957
 #EXTINF:-1 tvg-id="经典重映-2026全英赛决赛" tvg-name="BWF 经典重映-2026全英赛决赛 赛事重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2026全英赛决赛 赛事重映 12:00
 ${replace}/966014263
-#EXTINF:-1 tvg-id="2026UFC中国赛上海站重磅对阵官宣" tvg-name="UFC前瞻与回顾 2026UFC中国赛上海站重磅对阵官宣 陈瑞阳 郑文祺 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 2026UFC中国赛上海站重磅对阵官宣 陈瑞阳 郑文祺 12:00
-${replace}/966013371
+#EXTINF:-1 tvg-id="UFC上海站对阵官宣 宋亚东大战乌马尔" tvg-name="UFC前瞻与回顾 UFC上海站对阵官宣 宋亚东大战乌马尔 2026UFC中国赛重磅官宣全场回放（陈瑞阳、郑文祺） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 UFC上海站对阵官宣 宋亚东大战乌马尔 2026UFC中国赛重磅官宣全场回放（陈瑞阳、郑文祺） 12:00
+${replace}/966065118
 #EXTINF:-1 tvg-id="精彩回顾：纳瓦罗 vs 布兹科娃" tvg-name="WTA 精彩回顾：纳瓦罗 vs 布兹科娃 房朕 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：纳瓦罗 vs 布兹科娃 房朕 15:00
 ${replace}/965928971
 #EXTINF:-1 tvg-id="第四届武术世界杯 第二日下半场" tvg-name="武术套路世界杯 第四届武术世界杯 第二日下半场 解说 14:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/4/1000000015061062eccf.png" group-title="体育-今天",武术套路世界杯 第四届武术世界杯 第二日下半场 解说 14:55
@@ -449,6 +447,8 @@ ${replace}/965929694
 ${replace}/966050488
 #EXTINF:-1 tvg-id="【重播】2022世锦赛 丁俊晖VS威尔逊（第一阶段）" tvg-name="斯诺克 【重播】2022世锦赛 丁俊晖VS威尔逊（第一阶段） 第一阶段 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 【重播】2022世锦赛 丁俊晖VS威尔逊（第一阶段） 第一阶段 17:00
 ${replace}/966011505
+#EXTINF:-1 tvg-id="日本队VS巴西队" tvg-name="世界女排联赛 日本队VS巴西队 CCTV5+ 18:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png" group-title="体育-今天",世界女排联赛 日本队VS巴西队 CCTV5+ 18:20
+${replace}/966060357
 #EXTINF:-1 tvg-id="钱塘VS余杭" tvg-name="浙BA 钱塘VS余杭 赛场原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-今天",浙BA 钱塘VS余杭 赛场原声 19:00
 ${replace}/966011018
 #EXTINF:-1 tvg-id="场坝龙泉井村队VS大利村" tvg-name="贵州村超 场坝龙泉井村队VS大利村 赛场原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-今天",贵州村超 场坝龙泉井村队VS大利村 赛场原声 19:00
@@ -473,6 +473,8 @@ ${replace}/966011074
 ${replace}/965930702
 #EXTINF:-1 tvg-id="中国U17VS坦桑尼亚U17" tvg-name="中国之队·银川国际青年足球锦标赛 中国U17VS坦桑尼亚U17 赛场原声 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/3/1000000015031067f3cd.png" group-title="体育-今天",中国之队·银川国际青年足球锦标赛 中国U17VS坦桑尼亚U17 赛场原声 19:20
 ${replace}/965930679
+#EXTINF:-1 tvg-id="中国队VS加拿大队" tvg-name="世界女排联赛 中国队VS加拿大队 CCTV5+ 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png" group-title="体育-今天",世界女排联赛 中国队VS加拿大队 CCTV5+ 20:30
+${replace}/966060411
 #EXTINF:-1 tvg-id="委内瑞拉VS哥伦比亚" tvg-name="男篮世预赛 委内瑞拉VS哥伦比亚 赛场原声 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg" group-title="体育-明天",男篮世预赛 委内瑞拉VS哥伦比亚 赛场原声 08:00
 ${replace}/965791089
 #EXTINF:-1 tvg-id="精彩回顾：郑钦文 vs 谢拉" tvg-name="WTA 精彩回顾：郑钦文 vs 谢拉 李宁 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-明天",WTA 精彩回顾：郑钦文 vs 谢拉 李宁 12:00
