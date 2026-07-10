@@ -337,6 +337,8 @@ ${replace}/964336307
 ${replace}/966114647
 #EXTINF:-1 tvg-id="曲靖队VS德宏队" tvg-name="滇超 曲靖队VS德宏队 全场回放（官方解说） 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png" group-title="体育-昨天",滇超 曲靖队VS德宏队 全场回放（官方解说） 18:30
 ${replace}/966116992
+#EXTINF:-1 tvg-id="“九九杯”海南（文昌）乡排联赛day1" tvg-name="海南“村VA” “九九杯”海南（文昌）乡排联赛day1 2026年“九九杯”海南（文昌）乡镇排球联赛第一阶段全场回放 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/10/100000001507106004a0.png" group-title="体育-昨天",海南“村VA” “九九杯”海南（文昌）乡排联赛day1 2026年“九九杯”海南（文昌）乡镇排球联赛第一阶段全场回放 18:30
+${replace}/966117218
 #EXTINF:-1 tvg-id="临安77-61桐庐" tvg-name="浙BA 临安77-61桐庐 2026浙江省城市篮球联赛全场回放：临安vs桐庐（赛场原声） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-昨天",浙BA 临安77-61桐庐 2026浙江省城市篮球联赛全场回放：临安vs桐庐（赛场原声） 19:00
 ${replace}/966115277
 #EXTINF:-1 tvg-id="吴兴67-80长兴" tvg-name="浙BA 吴兴67-80长兴 2026浙江省城市篮球联赛全场回放：吴兴vs长兴（赛场原声） 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-昨天",浙BA 吴兴67-80长兴 2026浙江省城市篮球联赛全场回放：吴兴vs长兴（赛场原声） 19:30
@@ -345,10 +347,8 @@ ${replace}/966115840
 ${replace}/966115614
 #EXTINF:-1 tvg-id="俾吊岑村足球队VS党相村塔石羊瘪队" tvg-name="贵州村超 俾吊岑村足球队VS党相村塔石羊瘪队 全场回放 20:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-昨天",贵州村超 俾吊岑村足球队VS党相村塔石羊瘪队 全场回放 20:30
 ${replace}/966116569
-#EXTINF:-1 tvg-id="PFL利雅得：全胜新星阿尔赛夫对阵乌哈奇" tvg-name="PFL PFL利雅得：全胜新星阿尔赛夫对阵乌哈奇 汪乐 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-昨天",PFL PFL利雅得：全胜新星阿尔赛夫对阵乌哈奇 汪乐 22:00
-${replace}/966071903
-#EXTINF:-1 tvg-id="PFL利雅得：全胜新星阿尔赛夫对阵乌哈奇" tvg-name="PFL PFL利雅得：全胜新星阿尔赛夫对阵乌哈奇 英文原声 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-昨天",PFL PFL利雅得：全胜新星阿尔赛夫对阵乌哈奇 英文原声 22:00
-${replace}/966071924
+#EXTINF:-1 tvg-id="保持不败！阿尔赛夫一拳放倒终结乌哈奇" tvg-name="PFL 保持不败！阿尔赛夫一拳放倒终结乌哈奇 侯赛因VS达尔维什 22:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-昨天",PFL 保持不败！阿尔赛夫一拳放倒终结乌哈奇 侯赛因VS达尔维什 22:00
+${replace}/966116725
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 詹俊 张路 孙继海 邵凌霄 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 詹俊 张路 孙继海 邵凌霄 02:00
 ${replace}/966085959
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 鲁靖明 李彦 魏欣怡 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 鲁靖明 李彦 魏欣怡 02:00
@@ -359,14 +359,30 @@ ${replace}/966086163
 ${replace}/966085987
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 女声：沈云怡 兰子非 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 女声：沈云怡 兰子非 02:45
 ${replace}/966085972
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 西班牙队球星视角 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 西班牙队球星视角 02:00
+${replace}/966086122
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 比利时队球星视角 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 比利时队球星视角 02:00
+${replace}/966086131
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 新声代：鹿中原 乔迁 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 新声代：鹿中原 乔迁 02:45
 ${replace}/966086017
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 CCTV5 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 CCTV5 02:00
+${replace}/966086352
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 赛场原声 02:45
 ${replace}/966085969
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 西班牙队视角 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 西班牙队视角 02:00
+${replace}/966086059
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 比利时队视角 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 比利时队视角 02:00
+${replace}/966086075
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 闽南语：洪荒 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 闽南语：洪荒 02:45
 ${replace}/966086001
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 沪语：陈渤胄 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 沪语：陈渤胄 02:45
 ${replace}/966086004
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 我在主席台看球 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 我在主席台看球 02:00
+${replace}/966086118
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 最佳观赛位 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 最佳观赛位 02:00
+${replace}/966086124
+#EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 开天眼了！ 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 开天眼了！ 02:00
+${replace}/966086136
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 为了听不见的你 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 为了听不见的你 02:00
 ${replace}/966086141
 #EXTINF:-1 tvg-id="西班牙VS比利时" tvg-name="世界杯 西班牙VS比利时 闽南语智能字幕 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 西班牙VS比利时 闽南语智能字幕 02:45
