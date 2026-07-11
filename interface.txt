@@ -391,8 +391,8 @@ ${replace}/966122811
 ${replace}/966123788
 #EXTINF:-1 tvg-id="APBA匹克球公开赛单项总决赛Day 2" tvg-name="APBA匹克球全球总决赛 APBA匹克球公开赛单项总决赛Day 2 清流播出 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/9/100000001483106e5a39.png" group-title="体育-今天",APBA匹克球全球总决赛 APBA匹克球公开赛单项总决赛Day 2 清流播出 09:00
 ${replace}/966081463
-#EXTINF:-1 tvg-id="单打半决赛决赛、团体赛第一、二阶段" tvg-name="中国乒协会员联赛 单打半决赛决赛、团体赛第一、二阶段 赛场原声 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打半决赛决赛、团体赛第一、二阶段 赛场原声 08:30
-${replace}/966086417
+#EXTINF:-1 tvg-id="单打半决赛决赛、团体赛第一、二阶段" tvg-name="中国乒协会员联赛 单打半决赛决赛、团体赛第一、二阶段 全场回放（一） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打半决赛决赛、团体赛第一、二阶段 全场回放（一） 08:30
+${replace}/966126031
 #EXTINF:-1 tvg-id="猛龙VS凯尔特人" tvg-name="NBA 猛龙VS凯尔特人 全场回放（蔡凯臣） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 猛龙VS凯尔特人 全场回放（蔡凯臣） 08:55
 ${replace}/966124111
 #EXTINF:-1 tvg-id="猛龙VS凯尔特人" tvg-name="NBA 猛龙VS凯尔特人 全场回放（英文原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 猛龙VS凯尔特人 全场回放（英文原声） 08:55
@@ -403,24 +403,30 @@ ${replace}/966125279
 ${replace}/966126091
 #EXTINF:-1 tvg-id="激战前夜：重温康纳 霍洛威 王聪高光时刻" tvg-name="UFC前瞻与回顾 激战前夜：重温康纳 霍洛威 王聪高光时刻 激战前夜全场回放：UFC329特辑（王琰博） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 激战前夜：重温康纳 霍洛威 王聪高光时刻 激战前夜全场回放：UFC329特辑（王琰博） 10:00
 ${replace}/966125877
+#EXTINF:-1 tvg-id="激战前夜：重温康纳 霍洛威 王聪高光时刻" tvg-name="UFC前瞻与回顾 激战前夜：重温康纳 霍洛威 王聪高光时刻 激战前夜全场回放：UFC329特辑（赛场原声） 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 激战前夜：重温康纳 霍洛威 王聪高光时刻 激战前夜全场回放：UFC329特辑（赛场原声） 10:00
+${replace}/966126705
 #EXTINF:-1 tvg-id="呼和浩特队VS巴彦淖尔队" tvg-name="蒙超联赛 呼和浩特队VS巴彦淖尔队 全场回放 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png" group-title="体育-今天",蒙超联赛 呼和浩特队VS巴彦淖尔队 全场回放 10:30
 ${replace}/966126462
 #EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 全场回放（邢晨） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 全场回放（邢晨） 10:55
 ${replace}/966126057
-#EXTINF:-1 tvg-id="精彩回顾：穆霍娃 vs 陶森" tvg-name="WTA 精彩回顾：穆霍娃 vs 陶森 赛场原声 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：穆霍娃 vs 陶森 赛场原声 12:00
-${replace}/965929005
-#EXTINF:-1 tvg-id="经典重映-2026新加坡公开赛半决赛" tvg-name="BWF 经典重映-2026新加坡公开赛半决赛 伪直播 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2026新加坡公开赛半决赛 伪直播 12:00
-${replace}/966087139
-#EXTINF:-1 tvg-id="环大美青海国际公路自行车赛" tvg-name="中国自行车运动协会系列赛 环大美青海国际公路自行车赛 解说 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 环大美青海国际公路自行车赛 解说 13:00
-${replace}/966068450
-#EXTINF:-1 tvg-id="聚焦八角笼：社会步五年空白挡不住巨星归来" tvg-name="UFC前瞻与回顾 聚焦八角笼：社会步五年空白挡不住巨星归来 陈瑞阳 郑文祺 13:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 聚焦八角笼：社会步五年空白挡不住巨星归来 陈瑞阳 郑文祺 13:00
-${replace}/966089986
-#EXTINF:-1 tvg-id="2026亚洲自由式小轮车锦标赛" tvg-name="中国自行车运动协会系列赛 2026亚洲自由式小轮车锦标赛 解说 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 2026亚洲自由式小轮车锦标赛 解说 14:00
-${replace}/966089534
-#EXTINF:-1 tvg-id="场坝大河口将军岩队VS平永村足球队" tvg-name="贵州村超 场坝大河口将军岩队VS平永村足球队 赛场原声 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-今天",贵州村超 场坝大河口将军岩队VS平永村足球队 赛场原声 14:30
-${replace}/966020105
-#EXTINF:-1 tvg-id="精彩回顾：王欣瑜 vs 大坂直美" tvg-name="WTA 精彩回顾：王欣瑜 vs 大坂直美 胡力涛 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：王欣瑜 vs 大坂直美 胡力涛 15:00
-${replace}/965929021
+#EXTINF:-1 tvg-id="太阳VS开拓者" tvg-name="NBA 太阳VS开拓者 全场回放（英文原声） 10:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS开拓者 全场回放（英文原声） 10:55
+${replace}/966126666
+#EXTINF:-1 tvg-id="精彩回顾：穆霍娃 vs 陶森" tvg-name="WTA 精彩回顾：穆霍娃 vs 陶森 全场回放 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：穆霍娃 vs 陶森 全场回放 12:00
+${replace}/965671521
+#EXTINF:-1 tvg-id="经典重映-2026新加坡公开赛半决赛" tvg-name="BWF 经典重映-2026新加坡公开赛半决赛 【回放】安洗莹2-1陈雨菲（鸿昆） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2026新加坡公开赛半决赛 【回放】安洗莹2-1陈雨菲（鸿昆） 12:00
+${replace}/965069745
+#EXTINF:-1 tvg-id="经典重映-2026新加坡公开赛半决赛" tvg-name="BWF 经典重映-2026新加坡公开赛半决赛 【回放】刘圣书/谭宁2-0白荷娜/李绍希（鸿昆） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2026新加坡公开赛半决赛 【回放】刘圣书/谭宁2-0白荷娜/李绍希（鸿昆） 12:00
+${replace}/965068542
+#EXTINF:-1 tvg-id="经典重映-2026新加坡公开赛半决赛" tvg-name="BWF 经典重映-2026新加坡公开赛半决赛 【回放】山口茜2-1王祉怡（鸿昆） 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2026新加坡公开赛半决赛 【回放】山口茜2-1王祉怡（鸿昆） 12:00
+${replace}/965068038
+#EXTINF:-1 tvg-id="2026亚洲自由式小轮车锦标赛" tvg-name="中国自行车运动协会系列赛 2026亚洲自由式小轮车锦标赛 2026中国自行车运动协会系列赛亚洲自由式小轮车锦标赛全场回放（官方解说）（一） 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 2026亚洲自由式小轮车锦标赛 2026中国自行车运动协会系列赛亚洲自由式小轮车锦标赛全场回放（官方解说）（一） 14:00
+${replace}/966127222
+#EXTINF:-1 tvg-id="2026亚洲自由式小轮车锦标赛" tvg-name="中国自行车运动协会系列赛 2026亚洲自由式小轮车锦标赛 2026中国自行车运动协会系列赛亚洲自由式小轮车锦标赛全场回放（官方解说）（二） 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 2026亚洲自由式小轮车锦标赛 2026中国自行车运动协会系列赛亚洲自由式小轮车锦标赛全场回放（官方解说）（二） 14:00
+${replace}/966128162
+#EXTINF:-1 tvg-id="场坝大河口将军岩队VS平永村足球队" tvg-name="贵州村超 场坝大河口将军岩队VS平永村足球队 全场回放 14:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png" group-title="体育-今天",贵州村超 场坝大河口将军岩队VS平永村足球队 全场回放 14:30
+${replace}/966128886
+#EXTINF:-1 tvg-id="精彩回顾：王欣瑜 vs 大坂直美" tvg-name="WTA 精彩回顾：王欣瑜 vs 大坂直美 全场回放 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 精彩回顾：王欣瑜 vs 大坂直美 全场回放 15:00
+${replace}/965693211
 #EXTINF:-1 tvg-id="锡林郭勒队VS乌兰察布队" tvg-name="蒙超联赛 锡林郭勒队VS乌兰察布队 赛场原声 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png" group-title="体育-今天",蒙超联赛 锡林郭勒队VS乌兰察布队 赛场原声 16:00
 ${replace}/966010862
 #EXTINF:-1 tvg-id="激战前夜：嘴炮康纳发布会回顾" tvg-name="UFC前瞻与回顾 激战前夜：嘴炮康纳发布会回顾 陈瑞阳 16:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 激战前夜：嘴炮康纳发布会回顾 陈瑞阳 16:00
@@ -457,7 +463,7 @@ ${replace}/966058335
 ${replace}/966010942
 #EXTINF:-1 tvg-id="激战前夜：嘴炮康纳特辑" tvg-name="UFC前瞻与回顾 激战前夜：嘴炮康纳特辑 王琰博 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png" group-title="体育-今天",UFC前瞻与回顾 激战前夜：嘴炮康纳特辑 王琰博 19:00
 ${replace}/966090183
-#EXTINF:-1 tvg-id="《绿茵狂想》第29期" tvg-name="世界杯 《绿茵狂想》第29期 绿茵狂想第29期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》第29期 绿茵狂想第29期 19:00
+#EXTINF:-1 tvg-id="《绿茵狂想》：前瞻英格兰阿根廷冲四强" tvg-name="世界杯 《绿茵狂想》：前瞻英格兰阿根廷冲四强 绿茵狂想第29期 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg" group-title="体育-今天",世界杯 《绿茵狂想》：前瞻英格兰阿根廷冲四强 绿茵狂想第29期 19:00
 ${replace}/965274132
 #EXTINF:-1 tvg-id="广东广州豹足球俱乐部VS石家庄功夫" tvg-name="中甲 广东广州豹足球俱乐部VS石家庄功夫 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-今天",中甲 广东广州豹足球俱乐部VS石家庄功夫 解说 19:20
 ${replace}/966058351
@@ -557,8 +563,8 @@ ${replace}/966088636
 ${replace}/966088652
 #EXTINF:-1 tvg-id="黄蜂VS鹈鹕" tvg-name="NBA 黄蜂VS鹈鹕 英文原声 03:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-明天",NBA 黄蜂VS鹈鹕 英文原声 03:55
 ${replace}/966088668
-#EXTINF:-1 tvg-id="UFC第329期：嘴炮VS霍洛威 王聪出战" tvg-name="UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 王琰博 郝俊 李景亮 08:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000004031067eab4.png" group-title="体育-明天",UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 王琰博 郝俊 李景亮 08:40
-${replace}/966106671
+#EXTINF:-1 tvg-id="UFC第329期：嘴炮VS霍洛威 王聪出战" tvg-name="UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 王琰博 郝俊 李景亮 04:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000004031067eab4.png" group-title="体育-明天",UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 王琰博 郝俊 李景亮 04:50
+${replace}/966127274
 #EXTINF:-1 tvg-id="UFC第329期：嘴炮VS霍洛威 王聪出战" tvg-name="UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 陈瑞阳 郑文祺 张名扬 04:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000004031067eab4.png" group-title="体育-明天",UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 陈瑞阳 郑文祺 张名扬 04:50
 ${replace}/966090245
 #EXTINF:-1 tvg-id="UFC第329期：嘴炮VS霍洛威 王聪出战" tvg-name="UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 英文原声 04:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000004031067eab4.png" group-title="体育-明天",UFC数字赛 UFC第329期：嘴炮VS霍洛威 王聪出战 英文原声 04:50
