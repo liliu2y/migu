@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/7/17 17:57:29",
+  "update_time": "2026/7/17 19:25:32",
   "statistics": {
-    "total_processed": 9963,
-    "valid_ip_count": 59,
-    "duplicate_ip_count": 8310
+    "total_processed": 9767,
+    "valid_ip_count": 58,
+    "duplicate_ip_count": 8187
   },
   "ip_list": {
     "sdcu": [
@@ -107,9 +107,6 @@
     "nmgct": [
       "123.179.60.28:4022"
     ],
-    "gzct": [
-      "61.159.134.225:4022"
-    ],
     "nxct": [
       "106.45.2.15:4000"
     ],
@@ -143,7 +140,7 @@
       "113.58.7.33:8188"
     ],
     "hencu": [
-      "219.156.35.133:4022"
+      "42.237.212.193:4022"
     ]
   }
 }
