@@ -357,8 +357,6 @@ ${replace}/966332382
 ${replace}/966332721
 #EXTINF:-1 tvg-id="关文皓迎首胜 博加尔·豪格横扫晋级" tvg-name="WTT 关文皓迎首胜 博加尔·豪格横扫晋级 全场回放（三号桌） 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 关文皓迎首胜 博加尔·豪格横扫晋级 全场回放（三号桌） 04:00
 ${replace}/966332307
-#EXTINF:-1 tvg-id="主场作战！王祉怡、凤凰组合领衔" tvg-name="中国羽毛球公开赛 主场作战！王祉怡、凤凰组合领衔 CCTV5 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/17/1000000012291064f891.png" group-title="体育-今天",中国羽毛球公开赛 主场作战！王祉怡、凤凰组合领衔 CCTV5 09:00
-${replace}/966321449
 #EXTINF:-1 tvg-id="首届北京市中学生人形机器人足球赛DAY2" tvg-name="机器人足球赛 首届北京市中学生人形机器人足球赛DAY2 解说 13:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/100000001509106a9bd8.png" group-title="体育-今天",机器人足球赛 首届北京市中学生人形机器人足球赛DAY2 解说 13:30
 ${replace}/966218009
 #EXTINF:-1 tvg-id="围甲联赛第8轮" tvg-name="中国围棋甲级联赛 围甲联赛第8轮 解说 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png" group-title="体育-今天",中国围棋甲级联赛 围甲联赛第8轮 解说 14:00
@@ -369,6 +367,8 @@ ${replace}/966321505
 ${replace}/966167373
 #EXTINF:-1 tvg-id="河南豫光金铅vs浙江稠州银行" tvg-name="全国女子篮球锦标赛 河南豫光金铅vs浙江稠州银行 清流播出 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 河南豫光金铅vs浙江稠州银行 清流播出 16:55
 ${replace}/966167398
+#EXTINF:-1 tvg-id="周跃龙、雷佩凡、塔猜亚领衔出战" tvg-name="斯诺克 周跃龙、雷佩凡、塔猜亚领衔出战 孙嘉星 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 周跃龙、雷佩凡、塔猜亚领衔出战 孙嘉星 17:00
+${replace}/966336956
 #EXTINF:-1 tvg-id="周跃龙、雷佩凡、塔猜亚领衔出战" tvg-name="斯诺克 周跃龙、雷佩凡、塔猜亚领衔出战 一号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 周跃龙、雷佩凡、塔猜亚领衔出战 一号桌 17:00
 ${replace}/966169153
 #EXTINF:-1 tvg-id="周跃龙、雷佩凡、塔猜亚领衔出战" tvg-name="斯诺克 周跃龙、雷佩凡、塔猜亚领衔出战 二号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 周跃龙、雷佩凡、塔猜亚领衔出战 二号桌 17:00
@@ -387,7 +387,9 @@ ${replace}/966169212
 ${replace}/966169230
 #EXTINF:-1 tvg-id="经典重映-BWF日本站 王祉怡、梁王速胜晋级" tvg-name="BWF 经典重映-BWF日本站 王祉怡、梁王速胜晋级 伪直播 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-BWF日本站 王祉怡、梁王速胜晋级 伪直播 18:00
 ${replace}/966320519
-#EXTINF:-1 tvg-id="周冠达、杨硕、小马哥为您前瞻乒超" tvg-name="乒超 周冠达、杨硕、小马哥为您前瞻乒超 乒乓观察室 18:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4DCD6FR90.png" group-title="体育-今天",乒超 周冠达、杨硕、小马哥为您前瞻乒超 乒乓观察室 18:00
+#EXTINF:-1 tvg-id="NBA精彩重播：火箭vs雷霆" tvg-name="NBA经典赛事 NBA精彩重播：火箭vs雷霆 连睿 周鹏 拜月宁 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：火箭vs雷霆 连睿 周鹏 拜月宁 18:00
+${replace}/966323674
+#EXTINF:-1 tvg-id="周冠达、杨硕、小马哥为您前瞻乒超" tvg-name="乒超 周冠达、杨硕、小马哥为您前瞻乒超 周冠达 杨硕 小马哥 18:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4DCD6FR90.png" group-title="体育-今天",乒超 周冠达、杨硕、小马哥为您前瞻乒超 周冠达 杨硕 小马哥 18:00
 ${replace}/966324189
 #EXTINF:-1 tvg-id="东莞新世纪vs上海交通大学" tvg-name="全国女子篮球锦标赛 东莞新世纪vs上海交通大学 清流播出 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-今天",全国女子篮球锦标赛 东莞新世纪vs上海交通大学 清流播出 19:25
 ${replace}/966167461
@@ -477,6 +479,8 @@ ${replace}/966219904
 ${replace}/966220160
 #EXTINF:-1 tvg-id="经典重映-BWF日本站1/8决赛" tvg-name="BWF 经典重映-BWF日本站1/8决赛 伪直播 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-明天",BWF 经典重映-BWF日本站1/8决赛 伪直播 18:00
 ${replace}/966320536
+#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs勇士" tvg-name="NBA经典赛事 NBA精彩重播：掘金vs勇士 孙博 曾令旭 马健 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-明天",NBA经典赛事 NBA精彩重播：掘金vs勇士 孙博 曾令旭 马健 18:00
+${replace}/966323667
 #EXTINF:-1 tvg-id="山东赤水河酒vs武汉盛帆黄鹤" tvg-name="全国女子篮球锦标赛 山东赤水河酒vs武汉盛帆黄鹤 清流播出 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-明天",全国女子篮球锦标赛 山东赤水河酒vs武汉盛帆黄鹤 清流播出 19:25
 ${replace}/966167524
 #EXTINF:-1 tvg-id="浙江稠州银行vs石家庄英励" tvg-name="全国女子篮球锦标赛 浙江稠州银行vs石家庄英励 清流播出 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-明天",全国女子篮球锦标赛 浙江稠州银行vs石家庄英励 清流播出 19:25
