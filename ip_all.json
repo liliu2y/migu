@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/7/25 17:47:58",
+  "update_time": "2026/7/25 19:10:31",
   "statistics": {
-    "total_processed": 10222,
-    "valid_ip_count": 61,
-    "duplicate_ip_count": 8683
+    "total_processed": 10093,
+    "valid_ip_count": 62,
+    "duplicate_ip_count": 8682
   },
   "ip_list": {
     "jsct": [
@@ -25,7 +25,8 @@
     ],
     "hebcu": [
       "60.4.29.80:8077",
-      "121.29.215.51:2083"
+      "121.29.215.51:2083",
+      "121.29.215.131:2083"
     ],
     "bjcu": [
       "221.220.129.51:8012",
