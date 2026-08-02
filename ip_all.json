@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/2 23:02:14",
+  "update_time": "2026/8/3 00:59:38",
   "statistics": {
     "total_processed": 8690,
-    "valid_ip_count": 55,
-    "duplicate_ip_count": 7648
+    "valid_ip_count": 54,
+    "duplicate_ip_count": 7500
   },
   "ip_list": {
     "hencu": [
@@ -62,9 +62,6 @@
     ],
     "gsct": [
       "42.92.117.151:8231"
-    ],
-    "nmgct": [
-      "123.179.61.28:4022"
     ],
     "nxct": [
       "106.45.2.15:4000"
