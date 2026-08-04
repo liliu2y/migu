@@ -363,6 +363,8 @@ ${replace}/961153211
 ${replace}/966570433
 #EXTINF:-1 tvg-id="山东山高83-70龙狮青年" tvg-name="全国青年篮球联赛 山东山高83-70龙狮青年 全场回放（赛场原声） 18:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-昨天",全国青年篮球联赛 山东山高83-70龙狮青年 全场回放（赛场原声） 18:25
 ${replace}/966570377
+#EXTINF:-1 tvg-id="乌兰察布队VS包头队" tvg-name="蒙超联赛 乌兰察布队VS包头队 全场回放 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png" group-title="体育-昨天",蒙超联赛 乌兰察布队VS包头队 全场回放 19:00
+${replace}/966571247
 #EXTINF:-1 tvg-id="富阳81-71萧山" tvg-name="浙BA 富阳81-71萧山 2026浙江省城市篮球联赛全场回放：富阳VS萧山（赛场原声） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-昨天",浙BA 富阳81-71萧山 2026浙江省城市篮球联赛全场回放：富阳VS萧山（赛场原声） 19:00
 ${replace}/966571468
 #EXTINF:-1 tvg-id="临安76-67钱塘" tvg-name="浙BA 临安76-67钱塘 2026浙江省城市篮球联赛全场回放：临安VS钱塘（赛场原声） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-昨天",浙BA 临安76-67钱塘 2026浙江省城市篮球联赛全场回放：临安VS钱塘（赛场原声） 19:00
@@ -385,9 +387,9 @@ ${replace}/966571228
 ${replace}/966571597
 #EXTINF:-1 tvg-id="福建浔兴81-106上海久事" tvg-name="全国青年篮球联赛 福建浔兴81-106上海久事 全场回放（赛场原声） 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-昨天",全国青年篮球联赛 福建浔兴81-106上海久事 全场回放（赛场原声） 20:25
 ${replace}/966571623
-#EXTINF:-1 tvg-id="斯瓦泰克、萨巴伦卡领衔出战" tvg-name="WTA 斯瓦泰克、萨巴伦卡领衔出战 赛场原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯瓦泰克、萨巴伦卡领衔出战 赛场原声 00:30
+#EXTINF:-1 tvg-id="斯瓦泰克横扫！萨巴伦卡压轴出战" tvg-name="WTA 斯瓦泰克横扫！萨巴伦卡压轴出战 赛场原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯瓦泰克横扫！萨巴伦卡压轴出战 赛场原声 00:30
 ${replace}/966473813
-#EXTINF:-1 tvg-id="斯瓦泰克、萨巴伦卡领衔出战" tvg-name="WTA 斯瓦泰克、萨巴伦卡领衔出战 英文原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯瓦泰克、萨巴伦卡领衔出战 英文原声 00:30
+#EXTINF:-1 tvg-id="斯瓦泰克横扫！萨巴伦卡压轴出战" tvg-name="WTA 斯瓦泰克横扫！萨巴伦卡压轴出战 英文原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 斯瓦泰克横扫！萨巴伦卡压轴出战 英文原声 00:30
 ${replace}/966473837
 #EXTINF:-1 tvg-id="胡哲安PK科尔约宁 韩千禧压场出战" tvg-name="BWF 胡哲安PK科尔约宁 韩千禧压场出战 1号场地 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 胡哲安PK科尔约宁 韩千禧压场出战 1号场地 08:00
 ${replace}/966541838
@@ -515,6 +517,12 @@ ${replace}/966485393
 ${replace}/966485409
 #EXTINF:-1 tvg-id="山东山高vs福建浔兴" tvg-name="全国青年篮球联赛 山东山高vs福建浔兴 清流播出 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-明天",全国青年篮球联赛 山东山高vs福建浔兴 清流播出 15:55
 ${replace}/966485417
+#EXTINF:-1 tvg-id="男女单打1/8决赛" tvg-name="WTT 男女单打1/8决赛 周冠达 刘国正 侯英超 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打1/8决赛 周冠达 刘国正 侯英超 15:30
+${replace}/966483916
+#EXTINF:-1 tvg-id="男女单打1/8决赛" tvg-name="WTT 男女单打1/8决赛 赛场原声 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打1/8决赛 赛场原声 16:30
+${replace}/966197445
+#EXTINF:-1 tvg-id="男女单打1/8决赛" tvg-name="WTT 男女单打1/8决赛 智能字幕 16:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打1/8决赛 智能字幕 16:30
+${replace}/966540507
 #EXTINF:-1 tvg-id="NBA精彩重播：湖人vs太阳" tvg-name="NBA经典赛事 NBA精彩重播：湖人vs太阳 李天宇 陈正昊 廖昕阳 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-明天",NBA经典赛事 NBA精彩重播：湖人vs太阳 李天宇 陈正昊 廖昕阳 18:00
 ${replace}/966323906
 #EXTINF:-1 tvg-id="四川锦城vs广东宏远" tvg-name="全国青年篮球联赛 四川锦城vs广东宏远 清流播出 18:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-明天",全国青年篮球联赛 四川锦城vs广东宏远 清流播出 18:25
