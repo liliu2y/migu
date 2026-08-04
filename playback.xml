@@ -100,10 +100,10 @@
         <title lang="zh">制胜-6</title>
     </programme>
     <programme channel="CCTV1综合" start="20260804203405 +0800" stop="20260804203750 +0800">
-        <title lang="zh">前情提要-江海潮生-20/28</title>
+        <title lang="zh">前情提要-江海潮生-第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260804203750 +0800" stop="20260804212930 +0800">
-        <title lang="zh">江海潮生20/28</title>
+        <title lang="zh">江海潮生第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260804212930 +0800" stop="20260804213430 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -886,25 +886,25 @@
         <title lang="zh">本集提要-兵自风中来-第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804193000 +0800" stop="20260804202540 +0800">
-        <title lang="zh">兵自风中来25/36</title>
+        <title lang="zh">兵自风中来第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804202540 +0800" stop="20260804203040 +0800">
-        <title lang="zh">本集提要-兵自风中来-26/36</title>
+        <title lang="zh">本集提要-兵自风中来-第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804203040 +0800" stop="20260804212440 +0800">
-        <title lang="zh">兵自风中来26/36</title>
+        <title lang="zh">兵自风中来第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804212440 +0800" stop="20260804212940 +0800">
         <title lang="zh">本集提要-米良与麦青-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804212940 +0800" stop="20260804221940 +0800">
-        <title lang="zh">米良与麦青8/26</title>
+        <title lang="zh">米良与麦青第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804221940 +0800" stop="20260804222140 +0800">
-        <title lang="zh">本集提要-米良与麦青-9/26</title>
+        <title lang="zh">本集提要-米良与麦青-第9集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804222140 +0800" stop="20260804231140 +0800">
-        <title lang="zh">米良与麦青9/26</title>
+        <title lang="zh">米良与麦青第9集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260804231140 +0800" stop="20260804235740 +0800">
         <title lang="zh">蛮好的人生第9集</title>
@@ -3591,17 +3591,20 @@
     <programme channel="24小时城市联赛轮播台" start="20260804113600 +0800" stop="20260804141400 +0800">
         <title lang="zh">山东齐鲁超第11轮全场回放：日照队5:1济宁港航</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260804141400 +0800" stop="20260804162700 +0800">
-        <title lang="zh">东北地区东北超第5轮全场回放：呼和浩特4:1鸡西</title>
+    <programme channel="24小时城市联赛轮播台" start="20260804141400 +0800" stop="20260804164500 +0800">
+        <title lang="zh">湖南湘超第2轮全场回放：衡阳队0:0常德队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260804162700 +0800" stop="20260804185300 +0800">
-        <title lang="zh">广西桂BA第5轮全场回放：防城港市100:80贵港市</title>
+    <programme channel="24小时城市联赛轮播台" start="20260804164500 +0800" stop="20260804185300 +0800">
+        <title lang="zh">新疆疆超半决赛第二回合全场回放：伊犁3:0阿勒泰</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260804185300 +0800" stop="20260804212300 +0800">
-        <title lang="zh">湖北楚超第11轮全场回放：黄石美尔雅2:1鄂州临空</title>
+    <programme channel="24小时城市联赛轮播台" start="20260804185300 +0800" stop="20260804211500 +0800">
+        <title lang="zh">浙江浙BA全场回放：嵊州71:77诸暨</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260804212300 +0800" stop="20260805001100 +0800">
-        <title lang="zh">贵州村超总决赛全场回放：平永村0:1车江一村</title>
+    <programme channel="24小时城市联赛轮播台" start="20260804211500 +0800" stop="20260804233000 +0800">
+        <title lang="zh">山东齐鲁超12轮全场回放：济南队1:0威海文旅集团队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260804233000 +0800" stop="20260805010600 +0800">
+        <title lang="zh">安徽徽BA第10轮全场回放：池州58:98滁州</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -4464,7 +4467,7 @@
     <programme channel="河北卫视" start="20260804233000 +0800" stop="20260804233800 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260804233800 +0800" stop="20260805000000 +0800">
+    <programme channel="河北卫视" start="20260804233800 +0800" stop="20260805000800 +0800">
         <title lang="zh">嘿，这就是诗经</title>
     </programme>
     <channel id="江西卫视">
