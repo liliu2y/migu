@@ -357,6 +357,8 @@ ${replace}/966631201
 ${replace}/966630806
 #EXTINF:-1 tvg-id="岳阳队VS湘潭队" tvg-name="湘超 岳阳队VS湘潭队 全场回放 19:38" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png" group-title="体育-昨天",湘超 岳阳队VS湘潭队 全场回放 19:38
 ${replace}/966631744
+#EXTINF:-1 tvg-id="精彩！海南“村VA”5-8名排名赛来了" tvg-name="海南“村VA” 精彩！海南“村VA”5-8名排名赛来了 2026年“九九杯”海南（文昌）乡镇排球联赛Day1全场回放 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/10/100000001507106004a0.png" group-title="体育-昨天",海南“村VA” 精彩！海南“村VA”5-8名排名赛来了 2026年“九九杯”海南（文昌）乡镇排球联赛Day1全场回放 20:00
+${replace}/966632642
 #EXTINF:-1 tvg-id="拜仁慕尼黑VS阿斯顿维拉" tvg-name="足球热身赛 拜仁慕尼黑VS阿斯顿维拉 全场回放（鲁靖明、马延峰） 19:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/7/12/1000000008461068fbfd.png" group-title="体育-昨天",足球热身赛 拜仁慕尼黑VS阿斯顿维拉 全场回放（鲁靖明、马延峰） 19:45
 ${replace}/966631075
 #EXTINF:-1 tvg-id="山西汾酒82-86吉林东北虎" tvg-name="全国青年篮球联赛 山西汾酒82-86吉林东北虎 全场回放（赛场原声） 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png" group-title="体育-昨天",全国青年篮球联赛 山西汾酒82-86吉林东北虎 全场回放（赛场原声） 20:25
@@ -365,14 +367,18 @@ ${replace}/966632502
 ${replace}/966631996
 #EXTINF:-1 tvg-id="ONE周五格斗夜165：佩特宁芒空VS派特" tvg-name="ONE冠军赛 ONE周五格斗夜165：佩特宁芒空VS派特 【全场回放】（郝俊） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 ONE周五格斗夜165：佩特宁芒空VS派特 【全场回放】（郝俊） 21:30
 ${replace}/966632516
-#EXTINF:-1 tvg-id="莱巴金娜、安德列娃领衔出战" tvg-name="WTA 莱巴金娜、安德列娃领衔出战 赛场原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 莱巴金娜、安德列娃领衔出战 赛场原声 00:30
-${replace}/966473934
-#EXTINF:-1 tvg-id="莱巴金娜、安德列娃领衔出战" tvg-name="WTA 莱巴金娜、安德列娃领衔出战 英文原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 莱巴金娜、安德列娃领衔出战 英文原声 00:30
-${replace}/966473947
+#EXTINF:-1 tvg-id="ONE周五格斗夜165：佩特宁芒空VS派特" tvg-name="ONE冠军赛 ONE周五格斗夜165：佩特宁芒空VS派特 【全场回放】（英文原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 ONE周五格斗夜165：佩特宁芒空VS派特 【全场回放】（英文原声） 21:30
+${replace}/966632734
+#EXTINF:-1 tvg-id="ONE周五格斗夜165：佩特宁芒空VS派特" tvg-name="ONE冠军赛 ONE周五格斗夜165：佩特宁芒空VS派特 ONE周五格斗夜165全场回放（赛场原声） 21:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-昨天",ONE冠军赛 ONE周五格斗夜165：佩特宁芒空VS派特 ONE周五格斗夜165全场回放（赛场原声） 21:30
+${replace}/966632766
 #EXTINF:-1 tvg-id="PFL夏洛特站：巴特尔VS罗斯塔" tvg-name="PFL PFL夏洛特站：巴特尔VS罗斯塔 汪乐 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL夏洛特站：巴特尔VS罗斯塔 汪乐 07:00
 ${replace}/966599175
 #EXTINF:-1 tvg-id="PFL夏洛特站：巴特尔VS罗斯塔" tvg-name="PFL PFL夏洛特站：巴特尔VS罗斯塔 英文原声 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL夏洛特站：巴特尔VS罗斯塔 英文原声 07:00
 ${replace}/966599200
+#EXTINF:-1 tvg-id="高芙、伊埃拉轮番出战" tvg-name="WTA 高芙、伊埃拉轮番出战 赛场原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 高芙、伊埃拉轮番出战 赛场原声 00:30
+${replace}/966473934
+#EXTINF:-1 tvg-id="高芙、伊埃拉轮番出战" tvg-name="WTA 高芙、伊埃拉轮番出战 英文原声 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 高芙、伊埃拉轮番出战 英文原声 00:30
+${replace}/966473947
 #EXTINF:-1 tvg-id="第二届环自贡自行车赛" tvg-name="中国自行车运动协会系列赛 第二届环自贡自行车赛 解说 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 第二届环自贡自行车赛 解说 07:00
 ${replace}/966576370
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第143期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第143期 08:00
