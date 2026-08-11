@@ -612,16 +612,16 @@
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
     </channel>
-    <programme channel="CCTV6电影" start="20260811000000 +0800" stop="20260811002322 +0800">
+    <programme channel="CCTV6电影" start="20260811000000 +0800" stop="20260811004342 +0800">
         <title lang="zh">西游记女儿国（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260811002322 +0800" stop="20260811020006 +0800">
+    <programme channel="CCTV6电影" start="20260811004342 +0800" stop="20260811022026 +0800">
         <title lang="zh">鹿镇传奇</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260811020006 +0800" stop="20260811033040 +0800">
+    <programme channel="CCTV6电影" start="20260811022026 +0800" stop="20260811035100 +0800">
         <title lang="zh">笑林足球</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260811033040 +0800" stop="20260811045936 +0800">
+    <programme channel="CCTV6电影" start="20260811035100 +0800" stop="20260811045936 +0800">
         <title lang="zh">李司法的冬暖夏凉</title>
     </programme>
     <programme channel="CCTV6电影" start="20260811045936 +0800" stop="20260811052908 +0800">
@@ -1107,19 +1107,19 @@
     <programme channel="CCTV10科教" start="20260811203200 +0800" stop="20260811212030 +0800">
         <title lang="zh">探索·发现-2026-223</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260811212030 +0800" stop="20260811214800 +0800">
+    <programme channel="CCTV10科教" start="20260811212030 +0800" stop="20260811214230 +0800">
         <title lang="zh">创新进行时-2026-159</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260811214800 +0800" stop="20260811224000 +0800">
-        <title lang="zh">2026大千世界-50</title>
+    <programme channel="CCTV10科教" start="20260811214230 +0800" stop="20260811215800 +0800">
+        <title lang="zh">中国桥衡（微纪录片10分钟）-1</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260811224000 +0800" stop="20260811231200 +0800">
-        <title lang="zh">地理·中国-2026-223</title>
+    <programme channel="CCTV10科教" start="20260811215800 +0800" stop="20260811224500 +0800">
+        <title lang="zh">江泽民-1</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260811231200 +0800" stop="20260811232530 +0800">
-        <title lang="zh">时尚科技秀-2026-223</title>
+    <programme channel="CCTV10科教" start="20260811224500 +0800" stop="20260811233200 +0800">
+        <title lang="zh">江泽民-2</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260811232530 +0800" stop="20260811235900 +0800">
+    <programme channel="CCTV10科教" start="20260811233200 +0800" stop="20260811235900 +0800">
         <title lang="zh">解码科技史-2026-63</title>
     </programme>
     <channel id="CCTV11戏曲">
@@ -4524,7 +4524,7 @@
     <programme channel="河北卫视" start="20260811233000 +0800" stop="20260811233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260811233300 +0800" stop="20260812000000 +0800">
+    <programme channel="河北卫视" start="20260811233300 +0800" stop="20260812001800 +0800">
         <title lang="zh">西柏坡</title>
     </programme>
     <channel id="江西卫视">
