@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/12 21:10:00",
+  "update_time": "2026/8/12 22:57:13",
   "statistics": {
     "total_processed": 9503,
-    "valid_ip_count": 59,
-    "duplicate_ip_count": 8195
+    "valid_ip_count": 58,
+    "duplicate_ip_count": 7982
   },
   "ip_list": {
     "hencu": [
@@ -15,8 +15,7 @@
       "113.119.25.138:58888"
     ],
     "hebcu": [
-      "60.4.31.149:8077",
-      "121.29.215.140:2083"
+      "60.4.31.149:8077"
     ],
     "bjct": [
       "115.171.216.40:4000",
