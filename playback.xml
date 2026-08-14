@@ -513,10 +513,13 @@
     <programme channel="CCTV5体育" start="20260814170000 +0800" stop="20260814180000 +0800">
         <title lang="zh">运动一起赢</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260814180000 +0800" stop="20260814183000 +0800">
+    <programme channel="CCTV5体育" start="20260814180000 +0800" stop="20260814183500 +0800">
+        <title lang="zh">WTT欧洲大满贯2026-混双、女双 半决赛，单打1/8决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260814183500 +0800" stop="20260814190500 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260814183000 +0800" stop="20260814213000 +0800">
+    <programme channel="CCTV5体育" start="20260814190500 +0800" stop="20260814213000 +0800">
         <title lang="zh">WTT欧洲大满贯2026-混双、女双 半决赛，单打1/8决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260814213000 +0800" stop="20260814220500 +0800">
@@ -4380,7 +4383,7 @@
     <programme channel="河北卫视" start="20260814233900 +0800" stop="20260814235900 +0800">
         <title lang="zh">磁州窑</title>
     </programme>
-    <programme channel="河北卫视" start="20260814235900 +0800" stop="20260815000000 +0800">
+    <programme channel="河北卫视" start="20260814235900 +0800" stop="20260815005200 +0800">
         <title lang="zh">父辈的荣耀</title>
     </programme>
     <channel id="江西卫视">
