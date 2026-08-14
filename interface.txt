@@ -355,7 +355,7 @@ ${replace}/966747555
 ${replace}/966739389
 #EXTINF:-1 tvg-id="2026年世界攀联亚洲青年杯（中国全南）" tvg-name="世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 2026年世界攀联亚洲青年杯（中国全南）全场回放（二） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png" group-title="体育-昨天",世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 2026年世界攀联亚洲青年杯（中国全南）全场回放（二） 09:00
 ${replace}/966746686
-#EXTINF:-1 tvg-id="川崎前锋足球俱乐部vs斯旺西城足球俱乐部" tvg-name="大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs斯旺西城足球俱乐部 2026大连友城杯青少年足球邀请赛小组赛第6轮全场回放：川崎前锋足球俱乐部3:4斯旺西城足球俱乐部（赛场原声） 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-昨天",大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs斯旺西城足球俱乐部 2026大连友城杯青少年足球邀请赛小组赛第6轮全场回放：川崎前锋足球俱乐部3:4斯旺西城足球俱乐部（赛场原声） 16:55
+#EXTINF:-1 tvg-id="川崎前锋足球俱乐部vs斯旺西城足球俱乐部" tvg-name="大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs斯旺西城足球俱乐部 全场回放（赛场原声） 16:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-昨天",大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs斯旺西城足球俱乐部 全场回放（赛场原声） 16:55
 ${replace}/966743492
 #EXTINF:-1 tvg-id="王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟" tvg-name="WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（周冠达、刘国正、徐晨皓） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-昨天",WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（周冠达、刘国正、徐晨皓） 18:00
 ${replace}/966746851
@@ -399,6 +399,8 @@ ${replace}/966752901
 ${replace}/966753166
 #EXTINF:-1 tvg-id="王曼昱/蒯曼惜败 周启豪晋级男单16强" tvg-name="WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（二号桌） 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（二号桌） 00:00
 ${replace}/966753100
+#EXTINF:-1 tvg-id="王曼昱/蒯曼惜败 周启豪晋级男单16强" tvg-name="WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（三号桌） 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（三号桌） 00:00
+${replace}/966755493
 #EXTINF:-1 tvg-id="王曼昱/蒯曼惜败 周启豪晋级男单16强" tvg-name="WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（四号桌） 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（四号桌） 00:00
 ${replace}/966752990
 #EXTINF:-1 tvg-id="王曼昱/蒯曼惜败 周启豪晋级男单16强" tvg-name="WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（英文解说智能字幕） 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（英文解说智能字幕） 00:00
@@ -413,18 +415,20 @@ ${replace}/966753679
 ${replace}/966634174
 #EXTINF:-1 tvg-id="跃界星途国际青少年篮球邀请赛Day2" tvg-name="跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day2 赛场原声 08:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/11/1000000015201062e0d2.png" group-title="体育-今天",跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day2 赛场原声 08:50
 ${replace}/966701286
-#EXTINF:-1 tvg-id="2026年世界攀联亚洲青年杯（中国全南）" tvg-name="世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 中国全南 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png" group-title="体育-今天",世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 中国全南 10:00
-${replace}/966702191
-#EXTINF:-1 tvg-id="欧塞尔vs梅州客家" tvg-name="希望杯国际青少年俱乐部邀请赛 欧塞尔vs梅州客家 清流播出 09:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/4/10000000151410696307.png" group-title="体育-今天",希望杯国际青少年俱乐部邀请赛 欧塞尔vs梅州客家 清流播出 09:50
-${replace}/966715930
-#EXTINF:-1 tvg-id="广东队vs诺丁汉森林" tvg-name="希望杯国际青少年俱乐部邀请赛 广东队vs诺丁汉森林 清流播出 09:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/4/10000000151410696307.png" group-title="体育-今天",希望杯国际青少年俱乐部邀请赛 广东队vs诺丁汉森林 清流播出 09:50
-${replace}/966715938
-#EXTINF:-1 tvg-id="诺维奇城足球俱乐部vs香港東區足球會俱乐部" tvg-name="大连友城杯青少年足球邀请赛 诺维奇城足球俱乐部vs香港東區足球會俱乐部 清流播出 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-今天",大连友城杯青少年足球邀请赛 诺维奇城足球俱乐部vs香港東區足球會俱乐部 清流播出 10:10
-${replace}/966721146
-#EXTINF:-1 tvg-id="韩国足协庆州花郎选拔队vs大连第二十一中代表队" tvg-name="大连友城杯青少年足球邀请赛 韩国足协庆州花郎选拔队vs大连第二十一中代表队 清流播出 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-今天",大连友城杯青少年足球邀请赛 韩国足协庆州花郎选拔队vs大连第二十一中代表队 清流播出 11:25
-${replace}/966721178
+#EXTINF:-1 tvg-id="川崎前锋足球俱乐部vs大连市足球协会（A队）" tvg-name="大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs大连市足球协会（A队） 全场回放（赛场原声） 08:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-今天",大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs大连市足球协会（A队） 全场回放（赛场原声） 08:55
+${replace}/966755612
+#EXTINF:-1 tvg-id="广东队vs诺丁汉森林" tvg-name="希望杯国际青少年俱乐部邀请赛 广东队vs诺丁汉森林 全场回放（赛场原声） 09:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/4/10000000151410696307.png" group-title="体育-今天",希望杯国际青少年俱乐部邀请赛 广东队vs诺丁汉森林 全场回放（赛场原声） 09:50
+${replace}/966757775
+#EXTINF:-1 tvg-id="诺维奇城足球俱乐部vs香港東區足球會俱乐部" tvg-name="大连友城杯青少年足球邀请赛 诺维奇城足球俱乐部vs香港東區足球會俱乐部 全场回放（赛场原声） 10:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-今天",大连友城杯青少年足球邀请赛 诺维奇城足球俱乐部vs香港東區足球會俱乐部 全场回放（赛场原声） 10:10
+${replace}/966757295
+#EXTINF:-1 tvg-id="韩国足协庆州花郎选拔队vs大连第二十一中代表队" tvg-name="大连友城杯青少年足球邀请赛 韩国足协庆州花郎选拔队vs大连第二十一中代表队 全场回放（赛场原声） 11:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg" group-title="体育-今天",大连友城杯青少年足球邀请赛 韩国足协庆州花郎选拔队vs大连第二十一中代表队 全场回放（赛场原声） 11:25
+${replace}/966758380
 #EXTINF:-1 tvg-id="经典重映-中国 vs 丹麦" tvg-name="BWF 经典重映-中国 vs 丹麦 经典重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-中国 vs 丹麦 经典重映 12:00
 ${replace}/966686518
+#EXTINF:-1 tvg-id="超三联赛 靖江大区赛 B档小组赛下午场" tvg-name="超三联赛 超三联赛 靖江大区赛 B档小组赛下午场 清流播出 12:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-今天",超三联赛 超三联赛 靖江大区赛 B档小组赛下午场 清流播出 12:55
+${replace}/966721337
+#EXTINF:-1 tvg-id="上海李宁之队VS意大利瓦雷泽篮球俱乐部" tvg-name="上海明日之星篮球争冠赛 上海李宁之队VS意大利瓦雷泽篮球俱乐部 清流播出 12:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/4/100000001086106ec13f.png" group-title="体育-今天",上海明日之星篮球争冠赛 上海李宁之队VS意大利瓦雷泽篮球俱乐部 清流播出 12:50
+${replace}/966754085
 #EXTINF:-1 tvg-id="诺鹏·桑卡姆VS肖恩·墨菲" tvg-name="斯诺克 诺鹏·桑卡姆VS肖恩·墨菲 秦正 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 诺鹏·桑卡姆VS肖恩·墨菲 秦正 14:00
 ${replace}/966582682
 #EXTINF:-1 tvg-id="诺鹏·桑卡姆VS肖恩·墨菲" tvg-name="斯诺克 诺鹏·桑卡姆VS肖恩·墨菲 桑卡姆vs墨菲 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 诺鹏·桑卡姆VS肖恩·墨菲 桑卡姆vs墨菲 14:00
@@ -443,8 +447,6 @@ ${replace}/966720548
 ${replace}/966720525
 #EXTINF:-1 tvg-id="世界腰旗橄榄球锦标赛 Day 2" tvg-name="腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 2 三号场地 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/12/10000000152110683c04.png" group-title="体育-今天",腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 2 三号场地 14:00
 ${replace}/966720715
-#EXTINF:-1 tvg-id="超三联赛 靖江大区赛 B档小组赛下午场" tvg-name="超三联赛 超三联赛 靖江大区赛 B档小组赛下午场 清流播出 13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-今天",超三联赛 超三联赛 靖江大区赛 B档小组赛下午场 清流播出 13:55
-${replace}/966721337
 #EXTINF:-1 tvg-id="黔东南州“村BA”day2" tvg-name="贵州“村BA”联赛 黔东南州“村BA”day2 赛场原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="体育-今天",贵州“村BA”联赛 黔东南州“村BA”day2 赛场原声 15:00
 ${replace}/966735349
 #EXTINF:-1 tvg-id="拳击比赛" tvg-name="贵州省运会 拳击比赛 赛场原声 15:52" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/21/100000001513106de8b3.jpg" group-title="体育-今天",贵州省运会 拳击比赛 赛场原声 15:52
@@ -473,6 +475,8 @@ ${replace}/966742522
 ${replace}/966701802
 #EXTINF:-1 tvg-id="惠安村唱大舞台" tvg-name="惠安洄岸季户外系列赛事 惠安村唱大舞台 解说 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/27/10000000150210613f0f.png" group-title="体育-今天",惠安洄岸季户外系列赛事 惠安村唱大舞台 解说 19:00
 ${replace}/966496971
+#EXTINF:-1 tvg-id="2026年世界攀联亚洲青年杯（中国全南）" tvg-name="世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 中国全南 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png" group-title="体育-今天",世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 中国全南 10:00
+${replace}/966702191
 #EXTINF:-1 tvg-id="超三联赛 靖江大区赛 B档小组赛晚间场" tvg-name="超三联赛 超三联赛 靖江大区赛 B档小组赛晚间场 清流播出 18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="体育-今天",超三联赛 超三联赛 靖江大区赛 B档小组赛晚间场 清流播出 18:55
 ${replace}/966721456
 #EXTINF:-1 tvg-id="陕西联合VS长春亚泰" tvg-name="中甲 陕西联合VS长春亚泰 解说 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="体育-今天",中甲 陕西联合VS长春亚泰 解说 19:20
@@ -515,6 +519,8 @@ ${replace}/966754365
 ${replace}/966719661
 #EXTINF:-1 tvg-id="ONE周五格斗夜166：坤蓬VS攀帕杰" tvg-name="ONE冠军赛 ONE周五格斗夜166：坤蓬VS攀帕杰 英文原声 21:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-今天",ONE冠军赛 ONE周五格斗夜166：坤蓬VS攀帕杰 英文原声 21:25
 ${replace}/966719670
+#EXTINF:-1 tvg-id="篮球公园丨中国男女篮热身赛积极备战" tvg-name="CBA 篮球公园丨中国男女篮热身赛积极备战 CCTV5 22:05" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HDE6N6HQ1.png" group-title="体育-今天",CBA 篮球公园丨中国男女篮热身赛积极备战 CCTV5 22:05
+${replace}/966754039
 #EXTINF:-1 tvg-id="普利斯科娃率先出战 大威登场" tvg-name="WTA 普利斯科娃率先出战 大威登场 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 普利斯科娃率先出战 大威登场 赛场原声 23:00
 ${replace}/966701849
 #EXTINF:-1 tvg-id="普利斯科娃率先出战 大威登场" tvg-name="WTA 普利斯科娃率先出战 大威登场 英文原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 普利斯科娃率先出战 大威登场 英文原声 23:00
@@ -627,7 +633,7 @@ ${replace}/966754259
 ${replace}/966496957
 #EXTINF:-1 tvg-id="厦门队VS龙岩队" tvg-name="闽超 厦门队VS龙岩队 赛场原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-明天",闽超 厦门队VS龙岩队 赛场原声 19:00
 ${replace}/966557141
-#EXTINF:-1 tvg-id="莆田队VS泉州队" tvg-name="闽超 莆田队VS泉州队 赛场原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-明天",闽超 莆田队VS泉州队 赛场原声 19:00
+#EXTINF:-1 tvg-id="莆田队VS泉州队" tvg-name="闽超 莆田队VS泉州队 赛场原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-明天",闽超 莆田队VS泉州队 赛场原声 18:00
 ${replace}/966557178
 #EXTINF:-1 tvg-id="漳州队VS宁德队" tvg-name="闽超 漳州队VS宁德队 赛场原声 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-明天",闽超 漳州队VS宁德队 赛场原声 19:00
 ${replace}/966557193
@@ -697,8 +703,6 @@ ${replace}/966739405
 ${replace}/966563526
 #EXTINF:-1 tvg-id="余姚VS宁海" tvg-name="浙BA 余姚VS宁海 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-明天",浙BA 余姚VS宁海 赛场原声 19:30
 ${replace}/966686994
-#EXTINF:-1 tvg-id="诸暨VS越城" tvg-name="浙BA 诸暨VS越城 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-明天",浙BA 诸暨VS越城 赛场原声 19:30
-${replace}/966687014
 #EXTINF:-1 tvg-id="永康VS婺城" tvg-name="浙BA 永康VS婺城 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-明天",浙BA 永康VS婺城 赛场原声 19:30
 ${replace}/966687045
 #EXTINF:-1 tvg-id="江山VS柯城" tvg-name="浙BA 江山VS柯城 赛场原声 19:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="体育-明天",浙BA 江山VS柯城 赛场原声 19:30
