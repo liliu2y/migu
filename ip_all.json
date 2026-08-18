@@ -1,9 +1,9 @@
 {
-  "update_time": "2026/8/18 16:36:59",
+  "update_time": "2026/8/18 18:28:13",
   "statistics": {
-    "total_processed": 8993,
-    "valid_ip_count": 57,
-    "duplicate_ip_count": 8015
+    "total_processed": 8864,
+    "valid_ip_count": 56,
+    "duplicate_ip_count": 7888
   },
   "ip_list": {
     "gdct": [
@@ -60,7 +60,6 @@
       "42.92.117.151:8231"
     ],
     "scct": [
-      "171.213.241.29:8188",
       "171.213.242.21:8188",
       "171.213.242.36:8188"
     ],
