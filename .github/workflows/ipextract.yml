@@ -1,8 +1,8 @@
 name: IPTV IP 自动提取（每2小时）
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */2 * * *"
+   # schedule:
+   # - cron: "0 */6 * * *"
 
 jobs:
   build:
