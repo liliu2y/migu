@@ -309,7 +309,7 @@ ${replace}/966971576
 ${replace}/966970167
 #EXTINF:-1 tvg-id="全国少年体操U系列冠军赛Day3" tvg-name="全国青少年体操U系列锦标赛 全国少年体操U系列冠军赛Day3 全场回放（赛场原声）（一） 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png" group-title="体育-昨天",全国青少年体操U系列锦标赛 全国少年体操U系列冠军赛Day3 全场回放（赛场原声）（一） 15:00
 ${replace}/966965382
-#EXTINF:-1 tvg-id="全国少年体操U系列冠军赛Day3" tvg-name="全国青少年体操U系列锦标赛 全国少年体操U系列冠军赛Day3 2026全国少年体操U系列冠军赛Day3全场回放（赛场原声）（二） 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png" group-title="体育-昨天",全国青少年体操U系列锦标赛 全国少年体操U系列冠军赛Day3 2026全国少年体操U系列冠军赛Day3全场回放（赛场原声）（二） 15:00
+#EXTINF:-1 tvg-id="全国少年体操U系列冠军赛Day3" tvg-name="全国青少年体操U系列锦标赛 全国少年体操U系列冠军赛Day3 全场回放（赛场原声）（二） 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png" group-title="体育-昨天",全国青少年体操U系列锦标赛 全国少年体操U系列冠军赛Day3 全场回放（赛场原声）（二） 15:00
 ${replace}/966973245
 #EXTINF:-1 tvg-id="浙江稠州银行VS上海浦发银行" tvg-name="全国女子篮球锦标赛 浙江稠州银行VS上海浦发银行 全场回放（赛场原声） 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-昨天",全国女子篮球锦标赛 浙江稠州银行VS上海浦发银行 全场回放（赛场原声） 15:20
 ${replace}/966971696
@@ -347,84 +347,64 @@ ${replace}/966974041
 ${replace}/966974320
 #EXTINF:-1 tvg-id="河南豫光金铅VS上海交通大学" tvg-name="全国女子篮球锦标赛 河南豫光金铅VS上海交通大学 全场回放 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png" group-title="体育-昨天",全国女子篮球锦标赛 河南豫光金铅VS上海交通大学 全场回放 19:50
 ${replace}/966974455
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 郑钦文VS尤晓迪(李宁) 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 郑钦文VS尤晓迪(李宁) 23:00
-${replace}/966966652
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 大看台球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 默勒VS黄泽林(宋光振) 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 默勒VS黄泽林(宋光振) 03:30
+${replace}/966966619
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 大看台球场 23:00
 ${replace}/966834678
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 17号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 17号球场 23:00
 ${replace}/966834715
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 4号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 4号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 4号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 4号球场 23:00
 ${replace}/966834761
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 5号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 5号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 5号球场 23:00
 ${replace}/966834821
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 6号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 6号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 6号球场 23:00
 ${replace}/966834839
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 7号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 7号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 7号球场 23:00
 ${replace}/966834879
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 8号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 8号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 8号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 8号球场 23:00
 ${replace}/966834978
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 9号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 9号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 9号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 9号球场 23:00
 ${replace}/966835011
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 10号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 10号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 10号球场 23:00
 ${replace}/966835035
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 11号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 11号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 11号球场 23:00
 ${replace}/966835062
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 12号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 12号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 12号球场 23:00
 ${replace}/966835084
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 13号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 13号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 13号球场 23:00
 ${replace}/966835114
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 14号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 14号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 14号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 14号球场 23:00
 ${replace}/966835148
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 15号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 15号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 15号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 15号球场 23:00
 ${replace}/966835166
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 16号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 16号球场 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 16号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 16号球场 23:00
 ${replace}/966835179
-#EXTINF:-1 tvg-id="郑钦文领衔资格赛首轮 马烨欣遗憾止步" tvg-name="美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文领衔资格赛首轮 马烨欣遗憾止步 国际信号 23:00
+#EXTINF:-1 tvg-id="郑钦文挺进资格赛次轮！马烨欣止步" tvg-name="美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 国际信号 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文挺进资格赛次轮！马烨欣止步 国际信号 23:00
 ${replace}/966868910
-#EXTINF:-1 tvg-id="郑钦文VS尤晓迪" tvg-name="美国网球公开赛 郑钦文VS尤晓迪 李宁 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS尤晓迪 李宁 23:00
-${replace}/966966652
-#EXTINF:-1 tvg-id="郑钦文VS尤晓迪" tvg-name="美国网球公开赛 郑钦文VS尤晓迪 赛场原声 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS尤晓迪 赛场原声 23:00
-${replace}/966970431
-#EXTINF:-1 tvg-id="博洛尼亚VS拉齐奥" tvg-name="意甲 博洛尼亚VS拉齐奥 涂远 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 博洛尼亚VS拉齐奥 涂远 00:15
-${replace}/966868913
-#EXTINF:-1 tvg-id="博洛尼亚VS拉齐奥" tvg-name="意甲 博洛尼亚VS拉齐奥 赛场原声 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 博洛尼亚VS拉齐奥 赛场原声 00:15
-${replace}/966868909
-#EXTINF:-1 tvg-id="奥萨苏纳VS莱万特" tvg-name="西甲 奥萨苏纳VS莱万特 梁祥宇 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 奥萨苏纳VS莱万特 梁祥宇 01:15
-${replace}/966869059
-#EXTINF:-1 tvg-id="奥萨苏纳VS莱万特" tvg-name="西甲 奥萨苏纳VS莱万特 赛场原声 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 奥萨苏纳VS莱万特 赛场原声 01:15
-${replace}/966869046
-#EXTINF:-1 tvg-id="波鲁达VS朱琳" tvg-name="美国网球公开赛 波鲁达VS朱琳 蔡凯臣 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 波鲁达VS朱琳 蔡凯臣 02:00
-${replace}/966966635
-#EXTINF:-1 tvg-id="波鲁达VS朱琳" tvg-name="美国网球公开赛 波鲁达VS朱琳 赛场原声 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 波鲁达VS朱琳 赛场原声 02:00
-${replace}/966970465
-#EXTINF:-1 tvg-id="罗马VS佛罗伦萨" tvg-name="意甲 罗马VS佛罗伦萨 鲁靖明 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 罗马VS佛罗伦萨 鲁靖明 02:30
-${replace}/966868901
-#EXTINF:-1 tvg-id="罗马VS佛罗伦萨" tvg-name="意甲 罗马VS佛罗伦萨 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 罗马VS佛罗伦萨 赛场原声 02:30
-${replace}/966868898
-#EXTINF:-1 tvg-id="富勒姆VS切尔西" tvg-name="英超 富勒姆VS切尔西 兰子非 贺宇 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 富勒姆VS切尔西 兰子非 贺宇 02:45
-${replace}/966871830
-#EXTINF:-1 tvg-id="富勒姆VS切尔西" tvg-name="英超 富勒姆VS切尔西 赛场原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 富勒姆VS切尔西 赛场原声 02:45
-${replace}/966871802
-#EXTINF:-1 tvg-id="富勒姆VS切尔西" tvg-name="英超 富勒姆VS切尔西 英文原声 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 富勒姆VS切尔西 英文原声 02:45
-${replace}/966871818
-#EXTINF:-1 tvg-id="富勒姆VS切尔西" tvg-name="英超 富勒姆VS切尔西 智能解说 02:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 富勒姆VS切尔西 智能解说 02:55
-${replace}/966915604
-#EXTINF:-1 tvg-id="马拉加VS拉科鲁尼亚" tvg-name="西甲 马拉加VS拉科鲁尼亚 鹿中原 03:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 马拉加VS拉科鲁尼亚 鹿中原 03:15
-${replace}/966869086
-#EXTINF:-1 tvg-id="马拉加VS拉科鲁尼亚" tvg-name="西甲 马拉加VS拉科鲁尼亚 赛场原声 03:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 马拉加VS拉科鲁尼亚 赛场原声 03:15
-${replace}/966869074
+#EXTINF:-1 tvg-id="郑钦文VS尤晓迪" tvg-name="美国网球公开赛 郑钦文VS尤晓迪 全场回放（李宁） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS尤晓迪 全场回放（李宁） 23:00
+${replace}/966975452
+#EXTINF:-1 tvg-id="郑钦文VS尤晓迪" tvg-name="美国网球公开赛 郑钦文VS尤晓迪 全场回放（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 郑钦文VS尤晓迪 全场回放（赛场原声） 23:00
+${replace}/966975460
+#EXTINF:-1 tvg-id="布蕾尔VS马烨欣" tvg-name="美国网球公开赛 布蕾尔VS马烨欣 【回放】全场回放（鸿昆） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 布蕾尔VS马烨欣 【回放】全场回放（鸿昆） 23:00
+${replace}/966975400
+#EXTINF:-1 tvg-id="布蕾尔VS马烨欣" tvg-name="美国网球公开赛 布蕾尔VS马烨欣 【回放】比雷尔2-0马烨欣（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 布蕾尔VS马烨欣 【回放】比雷尔2-0马烨欣（赛场原声） 23:00
+${replace}/966975421
+#EXTINF:-1 tvg-id="博洛尼亚VS拉齐奥" tvg-name="意甲 博洛尼亚VS拉齐奥 全场回放（涂远） 00:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 博洛尼亚VS拉齐奥 全场回放（涂远） 00:15
+${replace}/966976291
+#EXTINF:-1 tvg-id="奥萨苏纳VS莱万特" tvg-name="西甲 奥萨苏纳VS莱万特 全场回放（梁祥宇） 01:15" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 奥萨苏纳VS莱万特 全场回放（梁祥宇） 01:15
+${replace}/966976323
+#EXTINF:-1 tvg-id="罗马VS佛罗伦萨" tvg-name="意甲 罗马VS佛罗伦萨 全场回放（鲁靖明） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-今天",意甲 罗马VS佛罗伦萨 全场回放（鲁靖明） 02:30
+${replace}/966977826
+#EXTINF:-1 tvg-id="富勒姆VS切尔西" tvg-name="英超 富勒姆VS切尔西 全场回放（兰子非、贺宇） 02:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-今天",英超 富勒姆VS切尔西 全场回放（兰子非、贺宇） 02:45
+${replace}/966978174
+#EXTINF:-1 tvg-id="曾丽美出战 李吉妮两盘横扫" tvg-name="WTA 曾丽美出战 李吉妮两盘横扫 赛场原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 曾丽美出战 李吉妮两盘横扫 赛场原声 05:00
+${replace}/966892566
+#EXTINF:-1 tvg-id="曾丽美出战 李吉妮两盘横扫" tvg-name="WTA 曾丽美出战 李吉妮两盘横扫 英文原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 曾丽美出战 李吉妮两盘横扫 英文原声 05:00
+${replace}/966892699
 #EXTINF:-1 tvg-id="黄泽林VS默勒" tvg-name="美国网球公开赛 黄泽林VS默勒 宋光振 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 黄泽林VS默勒 宋光振 03:30
 ${replace}/966966619
 #EXTINF:-1 tvg-id="黄泽林VS默勒" tvg-name="美国网球公开赛 黄泽林VS默勒 赛场原声 03:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 黄泽林VS默勒 赛场原声 03:30
 ${replace}/966970474
-#EXTINF:-1 tvg-id="李吉妮、曾丽美领衔出战" tvg-name="WTA 李吉妮、曾丽美领衔出战 赛场原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮、曾丽美领衔出战 赛场原声 05:00
-${replace}/966892566
-#EXTINF:-1 tvg-id="李吉妮、曾丽美领衔出战" tvg-name="WTA 李吉妮、曾丽美领衔出战 英文原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="体育-今天",WTA 李吉妮、曾丽美领衔出战 英文原声 05:00
-${replace}/966892699
-#EXTINF:-1 tvg-id="坂本怜VS张之臻" tvg-name="美国网球公开赛 坂本怜VS张之臻 刘钟鸣 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 坂本怜VS张之臻 刘钟鸣 05:00
-${replace}/966966601
-#EXTINF:-1 tvg-id="坂本怜VS张之臻" tvg-name="美国网球公开赛 坂本怜VS张之臻 赛场原声 05:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 坂本怜VS张之臻 赛场原声 05:00
-${replace}/966970531
 #EXTINF:-1 tvg-id="中国贵阳亚洲青年攀岩锦标赛DAY5" tvg-name="攀岩系列赛 中国贵阳亚洲青年攀岩锦标赛DAY5 解说 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg" group-title="体育-今天",攀岩系列赛 中国贵阳亚洲青年攀岩锦标赛DAY5 解说 08:00
 ${replace}/966821316
 #EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第160期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第160期 08:00
