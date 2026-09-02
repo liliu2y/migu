@@ -439,7 +439,7 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260902220000 +0800" stop="20260902223000 +0800">
-        <title lang="zh">走遍中国-2026-140</title>
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260902223000 +0800" stop="20260902230430 +0800">
         <title lang="zh">新闻联播</title>
@@ -1686,14 +1686,14 @@
     <programme channel="CCTV4欧洲" start="20260902213000 +0800" stop="20260902220000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260902220000 +0800" stop="20260902224500 +0800">
+    <programme channel="CCTV4欧洲" start="20260902220000 +0800" stop="20260902223000 +0800">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme channel="CCTV4欧洲" start="20260902223000 +0800" stop="20260902231500 +0800">
         <title lang="zh">沸腾的群山-(四套)-15/28</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260902224500 +0800" stop="20260902233000 +0800">
+    <programme channel="CCTV4欧洲" start="20260902231500 +0800" stop="20260902235900 +0800">
         <title lang="zh">沸腾的群山-(四套)-16/28</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260902233000 +0800" stop="20260902235900 +0800">
-        <title lang="zh">中国文艺-2026-174</title>
     </programme>
     <channel id="CCTV4美洲">
         <display-name lang="zh">CCTV4美洲</display-name>
@@ -5172,7 +5172,7 @@
     <programme channel="东南卫视" start="20260902225900 +0800" stop="20260902230300 +0800">
         <title lang="zh">政绩观短视频:《绿水青山中的政绩观》</title>
     </programme>
-    <programme channel="东南卫视" start="20260902230300 +0800" stop="20260903000000 +0800">
+    <programme channel="东南卫视" start="20260902230300 +0800" stop="20260903000800 +0800">
         <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
