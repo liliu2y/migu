@@ -1302,13 +1302,13 @@
     <programme channel="CCTV13新闻" start="20260906210000 +0800" stop="20260906213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260906213000 +0800" stop="20260906221500 +0800">
+    <programme channel="CCTV13新闻" start="20260906213000 +0800" stop="20260906220500 +0800">
         <title lang="zh">面对面</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260906221500 +0800" stop="20260906230000 +0800">
+    <programme channel="CCTV13新闻" start="20260906220500 +0800" stop="20260906225000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260906230000 +0800" stop="20260906235900 +0800">
+    <programme channel="CCTV13新闻" start="20260906225000 +0800" stop="20260906235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
@@ -1416,8 +1416,14 @@
     <programme channel="CCTV15音乐" start="20260906181430 +0800" stop="20260906193000 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-344</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260906193000 +0800" stop="20260906213045 +0800">
-        <title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+    <programme channel="CCTV15音乐" start="20260906193000 +0800" stop="20260906200958 +0800">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260906200958 +0800" stop="20260906204050 +0800">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260906204050 +0800" stop="20260906213045 +0800">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260906213045 +0800" stop="20260906223015 +0800">
         <title lang="zh">音乐公开课-2026-15</title>
