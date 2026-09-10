@@ -501,10 +501,13 @@
     <programme channel="CCTV5体育" start="20260910180000 +0800" stop="20260910183000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260910183000 +0800" stop="20260910203000 +0800">
+    <programme channel="CCTV5体育" start="20260910183000 +0800" stop="20260910190000 +0800">
         <title lang="zh">WTT澳门冠军赛2026-1/8决赛 1</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260910203000 +0800" stop="20260910222000 +0800">
+    <programme channel="CCTV5体育" start="20260910190000 +0800" stop="20260910201500 +0800">
+        <title lang="zh">2026年女篮世界杯-1/4决赛资格赛（中国VS波多黎各）</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260910201500 +0800" stop="20260910222000 +0800">
         <title lang="zh">2026年女篮世界杯-1/4决赛（中国VS法国）</title>
     </programme>
     <programme channel="CCTV5体育" start="20260910222000 +0800" stop="20260910232500 +0800">
@@ -4104,7 +4107,7 @@
     <programme channel="广东卫视" start="20260910230500 +0800" stop="20260910234500 +0800">
         <title lang="zh">孤舟(3)</title>
     </programme>
-    <programme channel="广东卫视" start="20260910234500 +0800" stop="20260911000000 +0800">
+    <programme channel="广东卫视" start="20260910234500 +0800" stop="20260911002300 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
