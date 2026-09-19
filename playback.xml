@@ -468,20 +468,23 @@
     <programme channel="CCTV5体育" start="20260920133000 +0800" stop="20260920141500 +0800">
         <title lang="zh">2026年亚运会 射击女子10米气步枪决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260920141500 +0800" stop="20260920160000 +0800">
-        <title lang="zh">2026年亚运会 女篮小组赛：中国-泰国</title>
+    <programme channel="CCTV5体育" start="20260920141500 +0800" stop="20260920150000 +0800">
+        <title lang="zh">录像：2026年亚运会 女篮小组赛：中国-泰国</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260920150000 +0800" stop="20260920160000 +0800">
+        <title lang="zh">录像：2026年亚运会 男足小组赛：中国VS伊朗</title>
     </programme>
     <programme channel="CCTV5体育" start="20260920160000 +0800" stop="20260920180000 +0800">
-        <title lang="zh">2026年亚运会 游泳多项决赛(女子200米蝶泳、男子200米个人混合泳、女子1500米自由泳、男子100米自由泳、女子50米蛙泳、男子100米仰泳、女子4*100米自由泳接力</title>
+        <title lang="zh">2026年亚运会 游泳多项决赛(女子200米蝶泳、男子200米个人混合泳、女子1500米自由泳、男子100米自由泳、女子50米蛙泳、男子100米仰泳、女子4*100米自由泳接力）</title>
     </programme>
     <programme channel="CCTV5体育" start="20260920180000 +0800" stop="20260920181500 +0800">
         <title lang="zh">《亚运进行时》</title>
     </programme>
     <programme channel="CCTV5体育" start="20260920181500 +0800" stop="20260920191500 +0800">
-        <title lang="zh">录播：2026年亚运会 乒乓球女团 中国-尼泊尔</title>
+        <title lang="zh">录像：2026年亚运会 乒乓球女团 中国-尼泊尔</title>
     </programme>
     <programme channel="CCTV5体育" start="20260920191500 +0800" stop="20260920213000 +0800">
-        <title lang="zh">2026年亚运会 女排1/4决赛：中国-越南</title>
+        <title lang="zh">录像：2026年亚运会 女排1/4决赛：中国-越南</title>
     </programme>
     <programme channel="CCTV5体育" start="20260920213000 +0800" stop="20260920221500 +0800">
         <title lang="zh">体育世界-全景亚运</title>
@@ -3681,8 +3684,98 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260920000000 +0800" stop="20260920235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260920000000 +0800" stop="20260920004800 +0800">
+        <title lang="zh">凭栏一片风云起</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920004800 +0800" stop="20260920013400 +0800">
+        <title lang="zh">凭栏一片风云起</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920013400 +0800" stop="20260920022100 +0800">
+        <title lang="zh">凭栏一片风云起</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920022100 +0800" stop="20260920032000 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920032000 +0800" stop="20260920041900 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920041900 +0800" stop="20260920050800 +0800">
+        <title lang="zh">中华书院</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920050800 +0800" stop="20260920060700 +0800">
+        <title lang="zh">中华书院</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920060700 +0800" stop="20260920063200 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920063200 +0800" stop="20260920070000 +0800">
+        <title lang="zh">紫金文化名家第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920070000 +0800" stop="20260920070100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920070100 +0800" stop="20260920072100 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920072100 +0800" stop="20260920074100 +0800">
+        <title lang="zh">艺江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920074100 +0800" stop="20260920083400 +0800">
+        <title lang="zh">我爱古诗词</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920083400 +0800" stop="20260920091300 +0800">
+        <title lang="zh">宿命之敌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920091300 +0800" stop="20260920095500 +0800">
+        <title lang="zh">宿命之敌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920095500 +0800" stop="20260920103800 +0800">
+        <title lang="zh">叛逆者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920103800 +0800" stop="20260920111900 +0800">
+        <title lang="zh">叛逆者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920111900 +0800" stop="20260920120000 +0800">
+        <title lang="zh">叛逆者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920120000 +0800" stop="20260920123100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920123100 +0800" stop="20260920141100 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920141100 +0800" stop="20260920161900 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920161900 +0800" stop="20260920170300 +0800">
+        <title lang="zh">亲爱的生命</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920170300 +0800" stop="20260920174700 +0800">
+        <title lang="zh">亲爱的生命</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920174700 +0800" stop="20260920181600 +0800">
+        <title lang="zh">时代问答</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920181600 +0800" stop="20260920183000 +0800">
+        <title lang="zh">领航新时代</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920183000 +0800" stop="20260920190000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920190000 +0800" stop="20260920193300 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920193300 +0800" stop="20260920202200 +0800">
+        <title lang="zh">醒来 第17集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920202200 +0800" stop="20260920210800 +0800">
+        <title lang="zh">醒来 第18集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920210800 +0800" stop="20260920223800 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260920223800 +0800" stop="20260921000000 +0800">
+        <title lang="zh">非诚勿扰复播</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
