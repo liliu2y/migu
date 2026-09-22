@@ -216,13 +216,16 @@
     <programme channel="CCTV2财经" start="20260922194500 +0800" stop="20260922220000 +0800">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260922220000 +0800" stop="20260922230315 +0800">
+    <programme channel="CCTV2财经" start="20260922220000 +0800" stop="20260922221650 +0800">
+        <title lang="zh">中国传统建筑的智慧 5-16分50秒版</title>
+    </programme>
+    <programme channel="CCTV2财经" start="20260922221650 +0800" stop="20260922232005 +0800">
         <title lang="zh">2026央视财经金融强国-外滩大会之夜</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260922230315 +0800" stop="20260922233645 +0800">
+    <programme channel="CCTV2财经" start="20260922232005 +0800" stop="20260922235335 +0800">
         <title lang="zh">2026精品财经纪录-神奇的嫦娥五号2</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260922233645 +0800" stop="20260922235900 +0800">
+    <programme channel="CCTV2财经" start="20260922235335 +0800" stop="20260922235900 +0800">
         <title lang="zh">中国经济大讲堂-2026-36</title>
     </programme>
     <channel id="CCTV3综艺">
@@ -477,20 +480,20 @@
     <programme channel="CCTV5体育" start="20260922080000 +0800" stop="20260922090000 +0800">
         <title lang="zh">录像：2026年亚运会 体操男子资格赛暨全能决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922090000 +0800" stop="20260922105500 +0800">
+    <programme channel="CCTV5体育" start="20260922090000 +0800" stop="20260922110500 +0800">
         <title lang="zh">直播：2026年亚运会 游泳多项预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922105500 +0800" stop="20260922114000 +0800">
+    <programme channel="CCTV5体育" start="20260922110500 +0800" stop="20260922114000 +0800">
         <title lang="zh">直播：2026年亚运会 射击10米气步枪混合团体决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260922114000 +0800" stop="20260922115500 +0800">
         <title lang="zh">《亚运最前沿》</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922115500 +0800" stop="20260922141000 +0800">
+    <programme channel="CCTV5体育" start="20260922115500 +0800" stop="20260922135800 +0800">
         <title lang="zh">直播：2026年亚运会 3对3篮球小组赛（男子中国-伊朗 中国-马来西亚等）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922141000 +0800" stop="20260922150000 +0800">
-        <title lang="zh">直播：2026年亚运会 乒乓球混双第1轮</title>
+    <programme channel="CCTV5体育" start="20260922135800 +0800" stop="20260922150000 +0800">
+        <title lang="zh">录像：2026年亚运会 女排半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260922150000 +0800" stop="20260922160000 +0800">
         <title lang="zh">录像：2026年亚运会 中国女足-菲律宾女足</title>
@@ -501,11 +504,14 @@
     <programme channel="CCTV5体育" start="20260922180000 +0800" stop="20260922181500 +0800">
         <title lang="zh">《亚运进行时》</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922181500 +0800" stop="20260922203000 +0800">
+    <programme channel="CCTV5体育" start="20260922181500 +0800" stop="20260922195600 +0800">
         <title lang="zh">直播：2026年亚运会 女排决赛（中国VS日本）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922203000 +0800" stop="20260922213000 +0800">
-        <title lang="zh">录像：2026年亚运会 体操女子全能</title>
+    <programme channel="CCTV5体育" start="20260922195600 +0800" stop="20260922210000 +0800">
+        <title lang="zh">录像：2026年亚运会 体操女子资格赛/个人全能决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260922210000 +0800" stop="20260922213000 +0800">
+        <title lang="zh">《亚运典藏》</title>
     </programme>
     <programme channel="CCTV5体育" start="20260922213000 +0800" stop="20260922223500 +0800">
         <title lang="zh">《全景亚运会》</title>
@@ -3786,10 +3792,10 @@
     <programme channel="东方卫视" start="20260922185700 +0800" stop="20260922190000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260922190000 +0800" stop="20260922193100 +0800">
+    <programme channel="东方卫视" start="20260922190000 +0800" stop="20260922193300 +0800">
         <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="东方卫视" start="20260922193100 +0800" stop="20260922210200 +0800">
+    <programme channel="东方卫视" start="20260922193300 +0800" stop="20260922210200 +0800">
         <title lang="zh">世界技能大赛融媒体直播暨开幕式</title>
     </programme>
     <programme channel="东方卫视" start="20260922210200 +0800" stop="20260922214700 +0800">
