@@ -405,8 +405,11 @@
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
     </channel>
-    <programme channel="CCTV5体育" start="20261003000000 +0800" stop="20261003010600 +0800">
+    <programme channel="CCTV5体育" start="20261003000000 +0800" stop="20261003002000 +0800">
         <title lang="zh">体育世界-全景亚运</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20261003002000 +0800" stop="20261003010600 +0800">
+        <title lang="zh">2026年世界艺术体操锦标赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20261003010600 +0800" stop="20261003023600 +0800">
         <title lang="zh">国际足球赛场-26-27赛季英超联赛第3轮 曼城—考文垂城（4K）</title>
