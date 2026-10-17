@@ -271,12 +271,12 @@ ${replace}/968426819
 ${replace}/968422939
 #EXTINF:-1 tvg-id="UCI上海场地车世锦赛" tvg-name="中国自行车运动协会系列赛 UCI上海场地车世锦赛 2026中国自行车运动协会系列赛UCI上海场地车世锦赛Day3全场回放（官方解说） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-昨天",中国自行车运动协会系列赛 UCI上海场地车世锦赛 2026中国自行车运动协会系列赛UCI上海场地车世锦赛Day3全场回放（官方解说） 17:00
 ${replace}/968430265
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】瓦尔达尼0-2王祉怡（朱胤丞） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】瓦尔达尼0-2王祉怡（朱胤丞） 22:50
-${replace}/968425486
-#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】冯彦哲/黄东萍2-0叶宏蔚/詹又蓁（鸿昆） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】冯彦哲/黄东萍2-0叶宏蔚/詹又蓁（鸿昆） 22:50
-${replace}/968428840
 #EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】吴世飞/伊祖丁1-2梁伟铿/王昶（余博洋） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】吴世飞/伊祖丁1-2梁伟铿/王昶（余博洋） 22:50
 ${replace}/968429198
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】冯彦哲/黄东萍2-0叶宏蔚/詹又蓁（鸿昆） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】冯彦哲/黄东萍2-0叶宏蔚/詹又蓁（鸿昆） 22:50
+${replace}/968428840
+#EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】瓦尔达尼0-2王祉怡（朱胤丞） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】瓦尔达尼0-2王祉怡（朱胤丞） 22:50
+${replace}/968425486
 #EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】程星/张驰2-0马蒂亚斯/博尔（鸿昆） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】程星/张驰2-0马蒂亚斯/博尔（鸿昆） 22:50
 ${replace}/968430459
 #EXTINF:-1 tvg-id="星驰、凤凰横扫晋级 梁王逆转取胜" tvg-name="BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】李美妙0-2山口茜（余博洋） 22:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 星驰、凤凰横扫晋级 梁王逆转取胜 【回放】李美妙0-2山口茜（余博洋） 22:50
@@ -369,90 +369,80 @@ ${replace}/968439317
 ${replace}/968439172
 #EXTINF:-1 tvg-id="拉科鲁尼亚VS莱万特" tvg-name="西甲 拉科鲁尼亚VS莱万特 全场回放（洪宇青） 02:55" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 拉科鲁尼亚VS莱万特 全场回放（洪宇青） 02:55
 ${replace}/968439994
-#EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 汪乐 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 汪乐 05:55
-${replace}/968378975
-#EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 英文原声 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 英文原声 05:55
-${replace}/968378917
-#EXTINF:-1 tvg-id="步行者VS雄鹿" tvg-name="NBA 步行者VS雄鹿 罗森 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS雄鹿 罗森 06:55
-${replace}/968238615
-#EXTINF:-1 tvg-id="步行者VS雄鹿" tvg-name="NBA 步行者VS雄鹿 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS雄鹿 英文原声 06:55
-${replace}/968368947
-#EXTINF:-1 tvg-id="活塞VS猛龙" tvg-name="NBA 活塞VS猛龙 刘圳展 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS猛龙 刘圳展 06:55
-${replace}/968238546
-#EXTINF:-1 tvg-id="活塞VS猛龙" tvg-name="NBA 活塞VS猛龙 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS猛龙 英文原声 06:55
-${replace}/968368913
-#EXTINF:-1 tvg-id="魔术VS热火" tvg-name="NBA 魔术VS热火 金哲豪 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS热火 金哲豪 06:55
-${replace}/968238663
-#EXTINF:-1 tvg-id="魔术VS热火" tvg-name="NBA 魔术VS热火 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS热火 英文原声 06:55
-${replace}/968368970
-#EXTINF:-1 tvg-id="76人VS凯尔特人" tvg-name="NBA 76人VS凯尔特人 蔡凯臣 季孟年 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS凯尔特人 蔡凯臣 季孟年 06:55
-${replace}/968238718
-#EXTINF:-1 tvg-id="76人VS凯尔特人" tvg-name="NBA 76人VS凯尔特人 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS凯尔特人 英文原声 06:55
-${replace}/968369002
-#EXTINF:-1 tvg-id="公牛VS森林狼" tvg-name="NBA 公牛VS森林狼 徐秦威 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS森林狼 徐秦威 07:55
-${replace}/968238807
-#EXTINF:-1 tvg-id="公牛VS森林狼" tvg-name="NBA 公牛VS森林狼 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS森林狼 英文原声 07:55
-${replace}/968369012
-#EXTINF:-1 tvg-id="灰熊VS黄蜂" tvg-name="NBA 灰熊VS黄蜂 刘沛元 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS黄蜂 刘沛元 07:55
-${replace}/968239089
-#EXTINF:-1 tvg-id="灰熊VS黄蜂" tvg-name="NBA 灰熊VS黄蜂 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS黄蜂 英文原声 07:55
-${replace}/968369044
-#EXTINF:-1 tvg-id="鹈鹕VS奇才" tvg-name="NBA 鹈鹕VS奇才 王凯 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS奇才 王凯 07:55
-${replace}/968239311
-#EXTINF:-1 tvg-id="鹈鹕VS奇才" tvg-name="NBA 鹈鹕VS奇才 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS奇才 英文原声 07:55
-${replace}/968369066
-#EXTINF:-1 tvg-id="马刺VS国王" tvg-name="NBA 马刺VS国王 王晓晨 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS国王 王晓晨 07:55
-${replace}/968239400
-#EXTINF:-1 tvg-id="马刺VS国王" tvg-name="NBA 马刺VS国王 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS国王 英文原声 07:55
-${replace}/968369234
-#EXTINF:-1 tvg-id="独行侠VS老鹰" tvg-name="NBA 独行侠VS老鹰 盛哲 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 独行侠VS老鹰 盛哲 07:55
-${replace}/968238859
-#EXTINF:-1 tvg-id="独行侠VS老鹰" tvg-name="NBA 独行侠VS老鹰 英文原声 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 独行侠VS老鹰 英文原声 07:55
-${replace}/968369033
-#EXTINF:-1 tvg-id="135CM精英赛、100CM团体赛等" tvg-name="浪琴表北京国际马术大师赛 135CM精英赛、100CM团体赛等 清流播出 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001561106407f7.png" group-title="体育-今天",浪琴表北京国际马术大师赛 135CM精英赛、100CM团体赛等 清流播出 08:00
-${replace}/968209252
-#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第213期 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 咪咕体育日报 第213期 08:00
-${replace}/968047818
-#EXTINF:-1 tvg-id="北京怀柔铁人三项世界杯赛" tvg-name="铁人三项系列赛 北京怀柔铁人三项世界杯赛 解说 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/28/1000000015321060415f.png" group-title="体育-今天",铁人三项系列赛 北京怀柔铁人三项世界杯赛 解说 08:30
-${replace}/968376731
-#EXTINF:-1 tvg-id="中国攀岩联赛（河北邯郸肥乡站）" tvg-name="攀岩系列赛 中国攀岩联赛（河北邯郸肥乡站） 河北邯郸肥乡站 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg" group-title="体育-今天",攀岩系列赛 中国攀岩联赛（河北邯郸肥乡站） 河北邯郸肥乡站 09:00
-${replace}/968373855
-#EXTINF:-1 tvg-id="第二届江苏省城市钓鱼超级联赛总决赛" tvg-name="江苏省城市钓鱼超级联赛 第二届江苏省城市钓鱼超级联赛总决赛 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/14/100000001373106f7299.jpg" group-title="体育-今天",江苏省城市钓鱼超级联赛 第二届江苏省城市钓鱼超级联赛总决赛 解说 09:00
-${replace}/968414916
+#EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 主赛（汪乐） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 主赛（汪乐） 05:55
+${replace}/968448206
+#EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 主赛（英文原声） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 主赛（英文原声） 05:55
+${replace}/968449368
+#EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 副赛（汪乐） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 副赛（汪乐） 05:55
+${replace}/968444510
+#EXTINF:-1 tvg-id="PFL芝加哥站：卡穆什VS毕肖普" tvg-name="PFL PFL芝加哥站：卡穆什VS毕肖普 副赛（英文原声） 05:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-今天",PFL PFL芝加哥站：卡穆什VS毕肖普 副赛（英文原声） 05:55
+${replace}/968446858
+#EXTINF:-1 tvg-id="步行者VS雄鹿" tvg-name="NBA 步行者VS雄鹿 全场回放（罗森） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS雄鹿 全场回放（罗森） 06:55
+${replace}/968442925
+#EXTINF:-1 tvg-id="步行者VS雄鹿" tvg-name="NBA 步行者VS雄鹿 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 步行者VS雄鹿 全场回放（英文原声） 06:55
+${replace}/968444902
+#EXTINF:-1 tvg-id="活塞VS猛龙" tvg-name="NBA 活塞VS猛龙 全场回放（刘圳展） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS猛龙 全场回放（刘圳展） 06:55
+${replace}/968443103
+#EXTINF:-1 tvg-id="活塞VS猛龙" tvg-name="NBA 活塞VS猛龙 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 活塞VS猛龙 全场回放（英文原声） 06:55
+${replace}/968445331
+#EXTINF:-1 tvg-id="魔术VS热火" tvg-name="NBA 魔术VS热火 全场回放（金哲豪） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS热火 全场回放（金哲豪） 06:55
+${replace}/968443020
+#EXTINF:-1 tvg-id="魔术VS热火" tvg-name="NBA 魔术VS热火 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS热火 全场回放（英文原声） 06:55
+${replace}/968444207
+#EXTINF:-1 tvg-id="76人VS凯尔特人" tvg-name="NBA 76人VS凯尔特人 全场回放（蔡凯臣、季孟年） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS凯尔特人 全场回放（蔡凯臣、季孟年） 06:55
+${replace}/968443210
+#EXTINF:-1 tvg-id="76人VS凯尔特人" tvg-name="NBA 76人VS凯尔特人 全场回放（英文原声） 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 76人VS凯尔特人 全场回放（英文原声） 06:55
+${replace}/968444307
+#EXTINF:-1 tvg-id="公牛VS森林狼" tvg-name="NBA 公牛VS森林狼 全场回放（徐秦威） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS森林狼 全场回放（徐秦威） 07:55
+${replace}/968444542
+#EXTINF:-1 tvg-id="公牛VS森林狼" tvg-name="NBA 公牛VS森林狼 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 公牛VS森林狼 全场回放（英文原声） 07:55
+${replace}/968445988
+#EXTINF:-1 tvg-id="灰熊VS黄蜂" tvg-name="NBA 灰熊VS黄蜂 全场回放（刘沛元） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 灰熊VS黄蜂 全场回放（刘沛元） 07:55
+${replace}/968444484
+#EXTINF:-1 tvg-id="鹈鹕VS奇才" tvg-name="NBA 鹈鹕VS奇才 全场回放（王凯） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS奇才 全场回放（王凯） 07:55
+${replace}/968444462
+#EXTINF:-1 tvg-id="鹈鹕VS奇才" tvg-name="NBA 鹈鹕VS奇才 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 鹈鹕VS奇才 全场回放（英文原声） 07:55
+${replace}/968446624
+#EXTINF:-1 tvg-id="马刺VS国王" tvg-name="NBA 马刺VS国王 全场回放（王晓晨） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS国王 全场回放（王晓晨） 07:55
+${replace}/968444479
+#EXTINF:-1 tvg-id="马刺VS国王" tvg-name="NBA 马刺VS国王 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 马刺VS国王 全场回放（英文原声） 07:55
+${replace}/968446467
+#EXTINF:-1 tvg-id="独行侠VS老鹰" tvg-name="NBA 独行侠VS老鹰 全场回放（盛哲） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 独行侠VS老鹰 全场回放（盛哲） 07:55
+${replace}/968444231
+#EXTINF:-1 tvg-id="独行侠VS老鹰" tvg-name="NBA 独行侠VS老鹰 全场回放（英文原声） 07:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 独行侠VS老鹰 全场回放（英文原声） 07:55
+${replace}/968446259
+#EXTINF:-1 tvg-id="北京怀柔铁人三项世界杯赛" tvg-name="铁人三项系列赛 北京怀柔铁人三项世界杯赛 2026北京怀柔铁人三项世界杯赛全场回放（官方解说） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/28/1000000015321060415f.png" group-title="体育-今天",铁人三项系列赛 北京怀柔铁人三项世界杯赛 2026北京怀柔铁人三项世界杯赛全场回放（官方解说） 08:30
+${replace}/968447087
+#EXTINF:-1 tvg-id="北京怀柔铁人三项世界杯赛" tvg-name="铁人三项系列赛 北京怀柔铁人三项世界杯赛 2026北京怀柔铁人三项世界杯赛全场回放（官方解说）（二） 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/28/1000000015321060415f.png" group-title="体育-今天",铁人三项系列赛 北京怀柔铁人三项世界杯赛 2026北京怀柔铁人三项世界杯赛全场回放（官方解说）（二） 08:30
+${replace}/968450949
 #EXTINF:-1 tvg-id="第四届中国飞盘联赛总决赛" tvg-name="中国飞盘联赛 第四届中国飞盘联赛总决赛 解说 09:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/14/1000000010411065f47d.png" group-title="体育-今天",中国飞盘联赛 第四届中国飞盘联赛总决赛 解说 09:20
 ${replace}/968373300
 #EXTINF:-1 tvg-id="全国霹雳舞锦标赛暨全国街舞锦标赛" tvg-name="中国体育舞蹈联合会系列赛 全国霹雳舞锦标赛暨全国街舞锦标赛 解说 09:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png" group-title="体育-今天",中国体育舞蹈联合会系列赛 全国霹雳舞锦标赛暨全国街舞锦标赛 解说 09:20
 ${replace}/968403373
-#EXTINF:-1 tvg-id="太阳VS爵士" tvg-name="NBA 太阳VS爵士 殷文玉 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS爵士 殷文玉 09:55
-${replace}/968239589
-#EXTINF:-1 tvg-id="太阳VS爵士" tvg-name="NBA 太阳VS爵士 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS爵士 英文原声 09:55
-${replace}/968369105
-#EXTINF:-1 tvg-id="勇士VS开拓者" tvg-name="NBA 勇士VS开拓者 连睿 周鹏 邢晨 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS开拓者 连睿 周鹏 邢晨 09:45
-${replace}/968239530
-#EXTINF:-1 tvg-id="勇士VS开拓者" tvg-name="NBA 勇士VS开拓者 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS开拓者 英文原声 09:55
-${replace}/968369084
-#EXTINF:-1 tvg-id="勇士VS开拓者" tvg-name="NBA 勇士VS开拓者 智能字幕 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS开拓者 智能字幕 09:55
-${replace}/968371183
-#EXTINF:-1 tvg-id="单打第一、二阶段、团体第一阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段、团体第一阶段 赛场原声 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打第一、二阶段、团体第一阶段 赛场原声 10:00
-${replace}/968394807
-#EXTINF:-1 tvg-id="湖人VS掘金" tvg-name="NBA 湖人VS掘金 王冠证 曾令旭 陈正昊 10:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS掘金 王冠证 曾令旭 陈正昊 10:15
-${replace}/968239712
-#EXTINF:-1 tvg-id="湖人VS掘金" tvg-name="NBA 湖人VS掘金 英文原声 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS掘金 英文原声 10:25
-${replace}/968369128
-#EXTINF:-1 tvg-id="湖人VS掘金" tvg-name="NBA 湖人VS掘金 智能字幕 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS掘金 智能字幕 10:25
-${replace}/968371215
-#EXTINF:-1 tvg-id="吴向东对谈——PB、训练和自媒体" tvg-name="逐马计划 吴向东对谈——PB、训练和自媒体 逐马计划郑州站大咖分享会 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png" group-title="体育-今天",逐马计划 吴向东对谈——PB、训练和自媒体 逐马计划郑州站大咖分享会 10:30
-${replace}/968211942
-#EXTINF:-1 tvg-id="ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕" tvg-name="ONE冠军赛 ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕 王琰博 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-今天",ONE冠军赛 ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕 王琰博 10:30
-${replace}/968378705
-#EXTINF:-1 tvg-id="顶峰相见——丰配友对话赵家驹" tvg-name="逐马计划 顶峰相见——丰配友对话赵家驹 逐马计划北京站大咖分享会 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png" group-title="体育-今天",逐马计划 顶峰相见——丰配友对话赵家驹 逐马计划北京站大咖分享会 11:00
-${replace}/968351266
+#EXTINF:-1 tvg-id="太阳VS爵士" tvg-name="NBA 太阳VS爵士 全场回放（殷文玉） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS爵士 全场回放（殷文玉） 09:55
+${replace}/968447017
+#EXTINF:-1 tvg-id="太阳VS爵士" tvg-name="NBA 太阳VS爵士 全场回放（英文原声） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS爵士 全场回放（英文原声） 09:55
+${replace}/968448237
+#EXTINF:-1 tvg-id="勇士VS开拓者" tvg-name="NBA 勇士VS开拓者 全场回放（连睿、周鹏、邢晨、拜月宁） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS开拓者 全场回放（连睿、周鹏、邢晨、拜月宁） 09:55
+${replace}/968449208
+#EXTINF:-1 tvg-id="勇士VS开拓者" tvg-name="NBA 勇士VS开拓者 全场回放（英文原声） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 勇士VS开拓者 全场回放（英文原声） 09:55
+${replace}/968450602
+#EXTINF:-1 tvg-id="湖人VS掘金" tvg-name="NBA 湖人VS掘金 全场回放（王冠证、曾令旭、陈正昊、廖昕阳） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS掘金 全场回放（王冠证、曾令旭、陈正昊、廖昕阳） 10:25
+${replace}/968448326
+#EXTINF:-1 tvg-id="湖人VS掘金" tvg-name="NBA 湖人VS掘金 全场回放（英文原声） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS掘金 全场回放（英文原声） 10:25
+${replace}/968449119
+#EXTINF:-1 tvg-id="湖人VS掘金" tvg-name="NBA 湖人VS掘金 全场回放（AI字幕） 10:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 湖人VS掘金 全场回放（AI字幕） 10:25
+${replace}/968448398
+#EXTINF:-1 tvg-id="吴向东对谈——PB、训练和自媒体" tvg-name="逐马计划 吴向东对谈——PB、训练和自媒体 2026逐马计划郑州站大咖分享会全场回放（赛场原声） 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png" group-title="体育-今天",逐马计划 吴向东对谈——PB、训练和自媒体 2026逐马计划郑州站大咖分享会全场回放（赛场原声） 10:30
+${replace}/968445818
+#EXTINF:-1 tvg-id="ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕" tvg-name="ONE冠军赛 ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕 ONE激战前夜全场回放：武士系列赛4特辑（王琰博） 10:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-今天",ONE冠军赛 ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕 ONE激战前夜全场回放：武士系列赛4特辑（王琰博） 10:30
+${replace}/968449729
 #EXTINF:-1 tvg-id="杭州高尔夫公开赛 Day 1" tvg-name="高尔夫中国公开赛 杭州高尔夫公开赛 Day 1 解说 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/13/100000001005106d8bf8.png" group-title="体育-今天",高尔夫中国公开赛 杭州高尔夫公开赛 Day 1 解说 12:00
 ${replace}/968360091
 #EXTINF:-1 tvg-id="杭州高尔夫公开赛 Day 1" tvg-name="高尔夫中国公开赛 杭州高尔夫公开赛 Day 1 清流播出 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/13/100000001005106d8bf8.png" group-title="体育-今天",高尔夫中国公开赛 杭州高尔夫公开赛 Day 1 清流播出 12:00
 ${replace}/968360065
-#EXTINF:-1 tvg-id="环广西公路自行车世界巡回赛" tvg-name="环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/12/100000001352106e15f5.png" group-title="体育-今天",环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:10
-${replace}/968202544
+#EXTINF:-1 tvg-id="第二届江苏省城市钓鱼超级联赛总决赛" tvg-name="江苏省城市钓鱼超级联赛 第二届江苏省城市钓鱼超级联赛总决赛 解说 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/14/100000001373106f7299.jpg" group-title="体育-今天",江苏省城市钓鱼超级联赛 第二届江苏省城市钓鱼超级联赛总决赛 解说 09:00
+${replace}/968414916
 #EXTINF:-1 tvg-id="广西漓泉天龍VS柳州龙城" tvg-name="桂超联赛 广西漓泉天龍VS柳州龙城 赛场原声 14:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/10/1000000009021061a809.png" group-title="体育-今天",桂超联赛 广西漓泉天龍VS柳州龙城 赛场原声 14:20
 ${replace}/968181286
 #EXTINF:-1 tvg-id="ONE武士系列赛4：哈格蒂VS秋元皓贵 武尊退役仪式" tvg-name="ONE冠军赛 ONE武士系列赛4：哈格蒂VS秋元皓贵 武尊退役仪式 赵凡尘 刘梦阳 任中贤 14:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png" group-title="体育-今天",ONE冠军赛 ONE武士系列赛4：哈格蒂VS秋元皓贵 武尊退役仪式 赵凡尘 刘梦阳 任中贤 14:25
@@ -469,30 +459,36 @@ ${replace}/968359016
 ${replace}/968399023
 #EXTINF:-1 tvg-id="兰州陇原竞技VS广州蒲公英" tvg-name="中乙 兰州陇原竞技VS广州蒲公英 解说 14:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 兰州陇原竞技VS广州蒲公英 解说 14:50
 ${replace}/968399062
-#EXTINF:-1 tvg-id="莱西市vs市南区" tvg-name="青岛城市足球争霸赛 莱西市vs市南区 清流播出 14:50" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png" group-title="体育-今天",青岛城市足球争霸赛 莱西市vs市南区 清流播出 14:50
-${replace}/968394212
-#EXTINF:-1 tvg-id="孝感孝傲江湖队VS宜昌东阳光队" tvg-name="楚超 孝感孝傲江湖队VS宜昌东阳光队 赛场原声 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png" group-title="体育-今天",楚超 孝感孝傲江湖队VS宜昌东阳光队 赛场原声 15:00
-${replace}/968050990
 #EXTINF:-1 tvg-id="FISE极限运动世界巡回赛上海站" tvg-name="FISE极限运动世界巡回赛 FISE极限运动世界巡回赛上海站 解说 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001558106e8930.png" group-title="体育-今天",FISE极限运动世界巡回赛 FISE极限运动世界巡回赛上海站 解说 15:00
 ${replace}/968202728
-#EXTINF:-1 tvg-id="国羽混双德比 王祉怡直面山口茜" tvg-name="BWF 国羽混双德比 王祉怡直面山口茜 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽混双德比 王祉怡直面山口茜 1号场地 15:00
+#EXTINF:-1 tvg-id="凤凰组合出战 王祉怡PK山口茜" tvg-name="BWF 凤凰组合出战 王祉怡PK山口茜 金元浩/徐承宰VS谢定峰/苏伟译 15:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 凤凰组合出战 王祉怡PK山口茜 金元浩/徐承宰VS谢定峰/苏伟译 15:30
+${replace}/968442460
+#EXTINF:-1 tvg-id="凤凰组合出战 王祉怡PK山口茜" tvg-name="BWF 凤凰组合出战 王祉怡PK山口茜 1号场地 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 凤凰组合出战 王祉怡PK山口茜 1号场地 15:00
 ${replace}/968330244
-#EXTINF:-1 tvg-id="国羽混双德比 王祉怡直面山口茜" tvg-name="BWF 国羽混双德比 王祉怡直面山口茜 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 国羽混双德比 王祉怡直面山口茜 1号场地英文视角 15:00
+#EXTINF:-1 tvg-id="凤凰组合出战 王祉怡PK山口茜" tvg-name="BWF 凤凰组合出战 王祉怡PK山口茜 1号场地英文视角 15:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 凤凰组合出战 王祉怡PK山口茜 1号场地英文视角 15:00
 ${replace}/968330255
 #EXTINF:-1 tvg-id="上海赛更达VS广东铭途" tvg-name="中乙 上海赛更达VS广东铭途 解说 15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 上海赛更达VS广东铭途 解说 15:20
 ${replace}/968399089
+#EXTINF:-1 tvg-id="单打第一、二阶段、团体第一阶段" tvg-name="中国乒协会员联赛 单打第一、二阶段、团体第一阶段 赛场原声 10:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png" group-title="体育-今天",中国乒协会员联赛 单打第一、二阶段、团体第一阶段 赛场原声 10:00
+${replace}/968394807
 #EXTINF:-1 tvg-id="大连可为VS贵州贵阳竞技" tvg-name="中乙 大连可为VS贵州贵阳竞技 解说 15:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 大连可为VS贵州贵阳竞技 解说 15:50
 ${replace}/968399126
+#EXTINF:-1 tvg-id="中国攀岩联赛（河北邯郸肥乡站）" tvg-name="攀岩系列赛 中国攀岩联赛（河北邯郸肥乡站） 河北邯郸肥乡站 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg" group-title="体育-今天",攀岩系列赛 中国攀岩联赛（河北邯郸肥乡站） 河北邯郸肥乡站 09:00
+${replace}/968373855
 #EXTINF:-1 tvg-id="武汉三镇B队VS泰安天贶" tvg-name="中乙 武汉三镇B队VS泰安天贶 解说 16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="体育-今天",中乙 武汉三镇B队VS泰安天贶 解说 16:50
 ${replace}/968399142
 #EXTINF:-1 tvg-id="UCI上海场地车世锦赛" tvg-name="中国自行车运动协会系列赛 UCI上海场地车世锦赛 解说 17:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png" group-title="体育-今天",中国自行车运动协会系列赛 UCI上海场地车世锦赛 解说 17:30
 ${replace}/968235477
-#EXTINF:-1 tvg-id="波士顿凯尔特人 vs 费城76人" tvg-name="NBA经典赛事 波士顿凯尔特人 vs 费城76人 NBA重播 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 波士顿凯尔特人 vs 费城76人 NBA重播 18:00
+#EXTINF:-1 tvg-id="波士顿凯尔特人 vs 费城76人" tvg-name="NBA经典赛事 波士顿凯尔特人 vs 费城76人 蔡凯臣 季孟年 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 波士顿凯尔特人 vs 费城76人 蔡凯臣 季孟年 18:00
 ${replace}/968169309
 #EXTINF:-1 tvg-id="厦门队VS福州队" tvg-name="闽超 厦门队VS福州队 赛场原声 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-今天",闽超 厦门队VS福州队 赛场原声 18:00
 ${replace}/968181650
 #EXTINF:-1 tvg-id="厦门队VS福州队" tvg-name="闽超 厦门队VS福州队 AI智慧观赛 17:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png" group-title="体育-今天",闽超 厦门队VS福州队 AI智慧观赛 17:55
 ${replace}/968412569
+#EXTINF:-1 tvg-id="孝感孝傲江湖队VS宜昌东阳光队" tvg-name="楚超 孝感孝傲江湖队VS宜昌东阳光队 赛场原声 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png" group-title="体育-今天",楚超 孝感孝傲江湖队VS宜昌东阳光队 赛场原声 18:30
+${replace}/968450054
+#EXTINF:-1 tvg-id="琼中VS保亭" tvg-name="琼超 琼中VS保亭 赛场原声 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/17/1000000015661067b865.png" group-title="体育-今天",琼超 琼中VS保亭 赛场原声 18:30
+${replace}/968443424
 #EXTINF:-1 tvg-id="大连英博海发VS深圳新鹏城" tvg-name="中超 大连英博海发VS深圳新鹏城 孙雨轩 张辛昕 李子琪 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="体育-今天",中超 大连英博海发VS深圳新鹏城 孙雨轩 张辛昕 李子琪 18:30
 ${replace}/968376526
 #EXTINF:-1 tvg-id="大连英博海发VS深圳新鹏城" tvg-name="中超 大连英博海发VS深圳新鹏城 赛场原声 18:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="体育-今天",中超 大连英博海发VS深圳新鹏城 赛场原声 18:45
@@ -577,9 +573,9 @@ ${replace}/968411462
 ${replace}/968411480
 #EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 姜帆 季孟年 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 姜帆 季孟年 19:15
 ${replace}/968411494
-#EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 林国雄 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 林国雄 19:25
+#EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 宁波主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 宁波主队解说 19:25
 ${replace}/968411513
-#EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 周赫 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 周赫 19:25
+#EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 北京主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 北京主队解说 19:25
 ${replace}/968411544
 #EXTINF:-1 tvg-id="宁波町渥VS北京控股" tvg-name="CBA 宁波町渥VS北京控股 赛场原声 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 宁波町渥VS北京控股 赛场原声 19:25
 ${replace}/968411553
@@ -589,9 +585,9 @@ ${replace}/968411561
 ${replace}/968411583
 #EXTINF:-1 tvg-id="浙江浙商证券VS山西汾酒" tvg-name="CBA 浙江浙商证券VS山西汾酒 孙博 李根 刘铁 19:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 浙江浙商证券VS山西汾酒 孙博 李根 刘铁 19:15
 ${replace}/968411613
-#EXTINF:-1 tvg-id="浙江浙商证券VS山西汾酒" tvg-name="CBA 浙江浙商证券VS山西汾酒 郭知昊 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 浙江浙商证券VS山西汾酒 郭知昊 19:25
+#EXTINF:-1 tvg-id="浙江浙商证券VS山西汾酒" tvg-name="CBA 浙江浙商证券VS山西汾酒 浙江主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 浙江浙商证券VS山西汾酒 浙江主队解说 19:25
 ${replace}/968411625
-#EXTINF:-1 tvg-id="浙江浙商证券VS山西汾酒" tvg-name="CBA 浙江浙商证券VS山西汾酒 石楷文 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 浙江浙商证券VS山西汾酒 石楷文 19:25
+#EXTINF:-1 tvg-id="浙江浙商证券VS山西汾酒" tvg-name="CBA 浙江浙商证券VS山西汾酒 山西主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 浙江浙商证券VS山西汾酒 山西主队解说 19:25
 ${replace}/968411644
 #EXTINF:-1 tvg-id="浙江浙商证券VS山西汾酒" tvg-name="CBA 浙江浙商证券VS山西汾酒 赛场原声 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 浙江浙商证券VS山西汾酒 赛场原声 19:25
 ${replace}/968411652
@@ -623,9 +619,9 @@ ${replace}/968376510
 ${replace}/968376357
 #EXTINF:-1 tvg-id="新疆广汇能源VS青岛崂山啤酒" tvg-name="CBA 新疆广汇能源VS青岛崂山啤酒 吕程 周鹏 19:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 新疆广汇能源VS青岛崂山啤酒 吕程 周鹏 19:45
 ${replace}/968411588
-#EXTINF:-1 tvg-id="新疆广汇能源VS青岛崂山啤酒" tvg-name="CBA 新疆广汇能源VS青岛崂山啤酒 盛哲 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 新疆广汇能源VS青岛崂山啤酒 盛哲 19:50
+#EXTINF:-1 tvg-id="新疆广汇能源VS青岛崂山啤酒" tvg-name="CBA 新疆广汇能源VS青岛崂山啤酒 新疆主队解说 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 新疆广汇能源VS青岛崂山啤酒 新疆主队解说 19:50
 ${replace}/968411594
-#EXTINF:-1 tvg-id="新疆广汇能源VS青岛崂山啤酒" tvg-name="CBA 新疆广汇能源VS青岛崂山啤酒 刘沛元 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 新疆广汇能源VS青岛崂山啤酒 刘沛元 19:50
+#EXTINF:-1 tvg-id="新疆广汇能源VS青岛崂山啤酒" tvg-name="CBA 新疆广汇能源VS青岛崂山啤酒 青岛主队解说 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 新疆广汇能源VS青岛崂山啤酒 青岛主队解说 19:50
 ${replace}/968411601
 #EXTINF:-1 tvg-id="新疆广汇能源VS青岛崂山啤酒" tvg-name="CBA 新疆广汇能源VS青岛崂山啤酒 赛场原声 19:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-今天",CBA 新疆广汇能源VS青岛崂山啤酒 赛场原声 19:50
 ${replace}/968411608
@@ -766,7 +762,7 @@ ${replace}/968376749
 #EXTINF:-1 tvg-id="庐山半程马拉松赛" tvg-name="马拉松系列赛 庐山半程马拉松赛 清流播出 08:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="体育-明天",马拉松系列赛 庐山半程马拉松赛 清流播出 08:15
 ${replace}/968402703
 #EXTINF:-1 tvg-id="第二届江苏省城市钓鱼超级联赛总决赛" tvg-name="江苏省城市钓鱼超级联赛 第二届江苏省城市钓鱼超级联赛总决赛 解说 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/14/100000001373106f7299.jpg" group-title="体育-明天",江苏省城市钓鱼超级联赛 第二届江苏省城市钓鱼超级联赛总决赛 解说 08:30
-${replace}/968414929
+${replace}/968441499
 #EXTINF:-1 tvg-id="全国霹雳舞锦标赛暨全国街舞锦标赛" tvg-name="中国体育舞蹈联合会系列赛 全国霹雳舞锦标赛暨全国街舞锦标赛 解说 09:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png" group-title="体育-明天",中国体育舞蹈联合会系列赛 全国霹雳舞锦标赛暨全国街舞锦标赛 解说 09:20
 ${replace}/968403394
 #EXTINF:-1 tvg-id="中国攀岩联赛（河北邯郸肥乡站）" tvg-name="攀岩系列赛 中国攀岩联赛（河北邯郸肥乡站） 河北邯郸肥乡站 09:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg" group-title="体育-明天",攀岩系列赛 中国攀岩联赛（河北邯郸肥乡站） 河北邯郸肥乡站 09:30
@@ -859,33 +855,33 @@ ${replace}/968179934
 ${replace}/968399251
 #EXTINF:-1 tvg-id="南京同曦宙光VS广东东阳光" tvg-name="CBA 南京同曦宙光VS广东东阳光 李天宇 徐咏 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 南京同曦宙光VS广东东阳光 李天宇 徐咏 19:20
 ${replace}/968411660
-#EXTINF:-1 tvg-id="南京同曦宙光VS广东东阳光" tvg-name="CBA 南京同曦宙光VS广东东阳光 王港 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 南京同曦宙光VS广东东阳光 王港 19:25
+#EXTINF:-1 tvg-id="南京同曦宙光VS广东东阳光" tvg-name="CBA 南京同曦宙光VS广东东阳光 南京主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 南京同曦宙光VS广东东阳光 南京主队解说 19:25
 ${replace}/968411670
-#EXTINF:-1 tvg-id="南京同曦宙光VS广东东阳光" tvg-name="CBA 南京同曦宙光VS广东东阳光 翻译小余 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 南京同曦宙光VS广东东阳光 翻译小余 19:25
+#EXTINF:-1 tvg-id="南京同曦宙光VS广东东阳光" tvg-name="CBA 南京同曦宙光VS广东东阳光 广东主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 南京同曦宙光VS广东东阳光 广东主队解说 19:25
 ${replace}/968411685
 #EXTINF:-1 tvg-id="南京同曦宙光VS广东东阳光" tvg-name="CBA 南京同曦宙光VS广东东阳光 赛场原声 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 南京同曦宙光VS广东东阳光 赛场原声 19:25
 ${replace}/968411690
 #EXTINF:-1 tvg-id="广州智都集团VS浙江稠州金租" tvg-name="CBA 广州智都集团VS浙江稠州金租 徐秦威 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 广州智都集团VS浙江稠州金租 徐秦威 19:20
 ${replace}/968411720
-#EXTINF:-1 tvg-id="广州智都集团VS浙江稠州金租" tvg-name="CBA 广州智都集团VS浙江稠州金租 张泽欣 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 广州智都集团VS浙江稠州金租 张泽欣 19:25
+#EXTINF:-1 tvg-id="广州智都集团VS浙江稠州金租" tvg-name="CBA 广州智都集团VS浙江稠州金租 广州主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 广州智都集团VS浙江稠州金租 广州主队解说 19:25
 ${replace}/968411731
-#EXTINF:-1 tvg-id="广州智都集团VS浙江稠州金租" tvg-name="CBA 广州智都集团VS浙江稠州金租 金哲豪 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 广州智都集团VS浙江稠州金租 金哲豪 19:25
+#EXTINF:-1 tvg-id="广州智都集团VS浙江稠州金租" tvg-name="CBA 广州智都集团VS浙江稠州金租 浙江主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 广州智都集团VS浙江稠州金租 浙江主队解说 19:25
 ${replace}/968411740
 #EXTINF:-1 tvg-id="广州智都集团VS浙江稠州金租" tvg-name="CBA 广州智都集团VS浙江稠州金租 赛场原声 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 广州智都集团VS浙江稠州金租 赛场原声 19:25
 ${replace}/968412242
 #EXTINF:-1 tvg-id="山东高速VS辽宁本钢" tvg-name="CBA 山东高速VS辽宁本钢 连睿 杨鸣 周鹏 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 山东高速VS辽宁本钢 连睿 杨鸣 周鹏 19:00
 ${replace}/968411762
-#EXTINF:-1 tvg-id="山东高速VS辽宁本钢" tvg-name="CBA 山东高速VS辽宁本钢 王新通 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 山东高速VS辽宁本钢 王新通 19:25
+#EXTINF:-1 tvg-id="山东高速VS辽宁本钢" tvg-name="CBA 山东高速VS辽宁本钢 山东主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 山东高速VS辽宁本钢 山东主队解说 19:25
 ${replace}/968411768
-#EXTINF:-1 tvg-id="山东高速VS辽宁本钢" tvg-name="CBA 山东高速VS辽宁本钢 哈秋 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 山东高速VS辽宁本钢 哈秋 19:25
+#EXTINF:-1 tvg-id="山东高速VS辽宁本钢" tvg-name="CBA 山东高速VS辽宁本钢 辽宁主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 山东高速VS辽宁本钢 辽宁主队解说 19:25
 ${replace}/968411774
 #EXTINF:-1 tvg-id="山东高速VS辽宁本钢" tvg-name="CBA 山东高速VS辽宁本钢 赛场原声 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 山东高速VS辽宁本钢 赛场原声 19:25
 ${replace}/968411777
 #EXTINF:-1 tvg-id="长白山恩都里VS北京首钢" tvg-name="CBA 长白山恩都里VS北京首钢 邵化谦 季孟年 19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 长白山恩都里VS北京首钢 邵化谦 季孟年 19:20
 ${replace}/968411779
-#EXTINF:-1 tvg-id="长白山恩都里VS北京首钢" tvg-name="CBA 长白山恩都里VS北京首钢 陈涛 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 长白山恩都里VS北京首钢 陈涛 19:25
+#EXTINF:-1 tvg-id="长白山恩都里VS北京首钢" tvg-name="CBA 长白山恩都里VS北京首钢 吉林主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 长白山恩都里VS北京首钢 吉林主队解说 19:25
 ${replace}/968411786
-#EXTINF:-1 tvg-id="长白山恩都里VS北京首钢" tvg-name="CBA 长白山恩都里VS北京首钢 谭成国 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 长白山恩都里VS北京首钢 谭成国 19:25
+#EXTINF:-1 tvg-id="长白山恩都里VS北京首钢" tvg-name="CBA 长白山恩都里VS北京首钢 北京主队解说 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 长白山恩都里VS北京首钢 北京主队解说 19:25
 ${replace}/968411796
 #EXTINF:-1 tvg-id="长白山恩都里VS北京首钢" tvg-name="CBA 长白山恩都里VS北京首钢 赛场原声 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-明天",CBA 长白山恩都里VS北京首钢 赛场原声 19:25
 ${replace}/968411812
