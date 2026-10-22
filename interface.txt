@@ -283,11 +283,11 @@ ${replace}/968603529
 ${replace}/968603356
 #EXTINF:-1 tvg-id="尼克斯VS76人" tvg-name="NBA 尼克斯VS76人 全场回放（闽南语） 06:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 尼克斯VS76人 全场回放（闽南语） 06:45
 ${replace}/968603418
-#EXTINF:-1 tvg-id="PPA香港1500大满贯赛事 Day2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 2026PPA香港1500大满贯赛事Day2全场回放（赛场原声）（二） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg" group-title="体育-昨天",PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 2026PPA香港1500大满贯赛事Day2全场回放（赛场原声）（二） 09:00
-${replace}/968615945
-#EXTINF:-1 tvg-id="PPA香港1500大满贯赛事 Day2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 2026PPA香港1500大满贯赛事Day2全场回放（赛场原声）（一） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg" group-title="体育-昨天",PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 2026PPA香港1500大满贯赛事Day2全场回放（赛场原声）（一） 09:00
+#EXTINF:-1 tvg-id="PPA香港1500大满贯赛事 Day2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 【全场回放】（赛场原声）（一） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg" group-title="体育-昨天",PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 【全场回放】（赛场原声）（一） 09:00
 ${replace}/968616060
-#EXTINF:-1 tvg-id="PPA香港1500大满贯赛事 Day2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 2026PPA香港1500大满贯赛事Day2全场回放（赛场原声）（三） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg" group-title="体育-昨天",PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 2026PPA香港1500大满贯赛事Day2全场回放（赛场原声）（三） 09:00
+#EXTINF:-1 tvg-id="PPA香港1500大满贯赛事 Day2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 【全场回放】（赛场原声）（二） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg" group-title="体育-昨天",PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 【全场回放】（赛场原声）（二） 09:00
+${replace}/968615945
+#EXTINF:-1 tvg-id="PPA香港1500大满贯赛事 Day2" tvg-name="PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 【全场回放】（赛场原声）（三） 09:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg" group-title="体育-昨天",PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day2 【全场回放】（赛场原声）（三） 09:00
 ${replace}/968616764
 #EXTINF:-1 tvg-id="马刺VS雷霆" tvg-name="NBA 马刺VS雷霆 全场回放（庄宁宇、徐咏、郭维盛、魏欣怡） 09:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-昨天",NBA 马刺VS雷霆 全场回放（庄宁宇、徐咏、郭维盛、魏欣怡） 09:15
 ${replace}/968604742
@@ -375,23 +375,33 @@ ${replace}/968614585
 ${replace}/968611705
 #EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【回放】伍家朗2-0安东森（荆裕洲） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【回放】伍家朗2-0安东森（荆裕洲） 18:10
 ${replace}/968621251
+#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】一号场地（赛场原声）（二） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】一号场地（赛场原声）（二） 18:10
+${replace}/968621906
 #EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】二号场地（赛场原声）（一） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】二号场地（赛场原声）（一） 18:10
 ${replace}/968621267
 #EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】二号场地（赛场原声）（二） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】二号场地（赛场原声）（二） 18:10
 ${replace}/968621412
+#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】二号场地（赛场原声）（三） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】二号场地（赛场原声）（三） 18:10
+${replace}/968621786
+#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】三号场地（赛场原声）（一） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】三号场地（赛场原声）（一） 18:10
+${replace}/968621423
 #EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】三号场地（赛场原声）（二） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】三号场地（赛场原声）（二） 18:10
 ${replace}/968621367
+#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】三号场地（赛场原声）（三） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】三号场地（赛场原声）（三） 18:10
+${replace}/968621608
 #EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】四号场地（赛场原声）（一） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】四号场地（赛场原声）（一） 18:10
 ${replace}/968621335
-#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 2026BWF法国羽毛球公开赛Day2三号场地全场回放（赛场原声）（一） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 2026BWF法国羽毛球公开赛Day2三号场地全场回放（赛场原声）（一） 18:10
-${replace}/968621423
-#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：庞俊旭4-3利亚姆·戴维斯（涂子轩） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：庞俊旭4-3利亚姆·戴维斯（涂子轩） 17:00
+#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】四号场地（赛场原声）（二） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 【全场回放】四号场地（赛场原声）（二） 18:10
+${replace}/968621621
+#EXTINF:-1 tvg-id="胡哲安爆冷晋级 丫邦拿下混双德比" tvg-name="BWF 胡哲安爆冷晋级 丫邦拿下混双德比 2026BWF法国羽毛球公开赛Day2一号场地全场回放（英文原声）（二） 18:10" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-昨天",BWF 胡哲安爆冷晋级 丫邦拿下混双德比 2026BWF法国羽毛球公开赛Day2一号场地全场回放（英文原声）（二） 18:10
+${replace}/968622680
+#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】庞俊旭4-3利亚姆·戴维斯（涂子轩） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】庞俊旭4-3利亚姆·戴维斯（涂子轩） 17:00
 ${replace}/968615993
-#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：张家玮4-0斯图尔特·宾汉姆（陶哲铭） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：张家玮4-0斯图尔特·宾汉姆（陶哲铭） 17:00
+#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】张家玮4-0斯图尔特·宾汉姆（陶哲铭） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】张家玮4-0斯图尔特·宾汉姆（陶哲铭） 17:00
 ${replace}/968616219
-#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：张家玮4-0斯图尔特·宾汉姆（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：张家玮4-0斯图尔特·宾汉姆（赛场原声） 17:00
+#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】张家玮4-0斯图尔特·宾汉姆（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】张家玮4-0斯图尔特·宾汉姆（赛场原声） 17:00
 ${replace}/968616733
-#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：庞俊旭4-3利亚姆·戴维斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：庞俊旭4-3利亚姆·戴维斯（赛场原声） 17:00
+#EXTINF:-1 tvg-id="张家玮零封宾汉姆 庞俊旭逆转晋级" tvg-name="斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】庞俊旭4-3利亚姆·戴维斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张家玮零封宾汉姆 庞俊旭逆转晋级 【回放】庞俊旭4-3利亚姆·戴维斯（赛场原声） 17:00
 ${replace}/968616921
 #EXTINF:-1 tvg-id="国乒男团挺进四强 国乒单打全胜晋级" tvg-name="乒乓球亚锦赛 国乒男团挺进四强 国乒单打全胜晋级 全场回放（张靖松、李柯鑫、肖扬） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png" group-title="体育-昨天",乒乓球亚锦赛 国乒男团挺进四强 国乒单打全胜晋级 全场回放（张靖松、李柯鑫、肖扬） 18:00
 ${replace}/968618634
@@ -431,32 +441,36 @@ ${replace}/968618330
 ${replace}/968618354
 #EXTINF:-1 tvg-id="青岛崂山啤酒VS辽宁本钢" tvg-name="CBA 青岛崂山啤酒VS辽宁本钢 全场回放（赛场原声） 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="体育-昨天",CBA 青岛崂山啤酒VS辽宁本钢 全场回放（赛场原声） 19:25
 ${replace}/968617663
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：约翰·希金斯2-4杰克·琼斯（杨江浩） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：约翰·希金斯2-4杰克·琼斯（杨江浩） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】约翰·希金斯2-4杰克·琼斯（杨江浩） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】约翰·希金斯2-4杰克·琼斯（杨江浩） 20:00
 ${replace}/968618693
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：丹尼尔·威尔斯3-4瑞恩·戴（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：丹尼尔·威尔斯3-4瑞恩·戴（赛场原声） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】丹尼尔·威尔斯3-4瑞恩·戴（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】丹尼尔·威尔斯3-4瑞恩·戴（赛场原声） 20:00
 ${replace}/968620994
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：马克·威廉姆斯4-2张安达（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：马克·威廉姆斯4-2张安达（柏林） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】马克·威廉姆斯4-2张安达（柏林） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】马克·威廉姆斯4-2张安达（柏林） 20:00
 ${replace}/968620986
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：约翰·希金斯2-4杰克·琼斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：约翰·希金斯2-4杰克·琼斯（赛场原声） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】约翰·希金斯2-4杰克·琼斯（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】约翰·希金斯2-4杰克·琼斯（赛场原声） 20:00
 ${replace}/968621004
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：徐思3-4山姆·克雷吉（朱峰立） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：徐思3-4山姆·克雷吉（朱峰立） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】徐思3-4山姆·克雷吉（朱峰立） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】徐思3-4山姆·克雷吉（朱峰立） 20:00
 ${replace}/968621084
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：徐思3-4山姆·克雷吉（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：徐思3-4山姆·克雷吉（赛场原声） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】徐思3-4山姆·克雷吉（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】徐思3-4山姆·克雷吉（赛场原声） 20:00
 ${replace}/968621249
-#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：马克·威廉姆斯4-2张安达（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 26/27赛季斯诺克北爱尔兰公开赛第2轮回放：马克·威廉姆斯4-2张安达（赛场原声） 20:00
+#EXTINF:-1 tvg-id="张安达2-4马克·威廉姆斯 希金斯遭淘汰" tvg-name="斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】马克·威廉姆斯4-2张安达（赛场原声） 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-昨天",斯诺克 张安达2-4马克·威廉姆斯 希金斯遭淘汰 【回放】马克·威廉姆斯4-2张安达（赛场原声） 20:00
 ${replace}/968621331
-#EXTINF:-1 tvg-id="莱万特VS毕尔巴鄂竞技" tvg-name="西甲 莱万特VS毕尔巴鄂竞技 鹿中原 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS毕尔巴鄂竞技 鹿中原 01:45
-${replace}/968377261
-#EXTINF:-1 tvg-id="莱万特VS毕尔巴鄂竞技" tvg-name="西甲 莱万特VS毕尔巴鄂竞技 智能解说 01:55" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS毕尔巴鄂竞技 智能解说 01:55
-${replace}/968412969
-#EXTINF:-1 tvg-id="高阳PK吉尔伯特 霍尔特、布雷切尔出战" tvg-name="斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 杨江源 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 杨江源 02:00
-${replace}/968602498
-#EXTINF:-1 tvg-id="高阳PK吉尔伯特 霍尔特、布雷切尔出战" tvg-name="斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 1号桌 02:00
-${replace}/968352173
-#EXTINF:-1 tvg-id="高阳PK吉尔伯特 霍尔特、布雷切尔出战" tvg-name="斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 2号桌 02:00
-${replace}/968352228
-#EXTINF:-1 tvg-id="高阳PK吉尔伯特 霍尔特、布雷切尔出战" tvg-name="斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 3号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳PK吉尔伯特 霍尔特、布雷切尔出战 3号桌 02:00
-${replace}/968352258
+#EXTINF:-1 tvg-id="莱万特VS毕尔巴鄂竞技" tvg-name="西甲 莱万特VS毕尔巴鄂竞技 全场回放（鹿中原） 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS毕尔巴鄂竞技 全场回放（鹿中原） 01:45
+${replace}/968621626
+#EXTINF:-1 tvg-id="莱万特VS毕尔巴鄂竞技" tvg-name="西甲 莱万特VS毕尔巴鄂竞技 全场回放（AI智慧观赛） 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS毕尔巴鄂竞技 全场回放（AI智慧观赛） 01:45
+${replace}/968621646
+#EXTINF:-1 tvg-id="莱万特VS毕尔巴鄂竞技" tvg-name="西甲 莱万特VS毕尔巴鄂竞技 全场回放（智能解说） 01:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-今天",西甲 莱万特VS毕尔巴鄂竞技 全场回放（智能解说） 01:45
+${replace}/968621651
+#EXTINF:-1 tvg-id="高阳3-4吉尔伯特 布雷切尔2-4遭淘汰" tvg-name="斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】高阳3-4大卫·吉尔伯特（杨江源） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】高阳3-4大卫·吉尔伯特（杨江源） 02:00
+${replace}/968621711
+#EXTINF:-1 tvg-id="高阳3-4吉尔伯特 布雷切尔2-4遭淘汰" tvg-name="斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】诺鹏·桑卡姆1-4斯科特·唐纳森（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】诺鹏·桑卡姆1-4斯科特·唐纳森（赛场原声） 02:00
+${replace}/968621696
+#EXTINF:-1 tvg-id="高阳3-4吉尔伯特 布雷切尔2-4遭淘汰" tvg-name="斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】迈克尔·霍尔特3-4乔丹·布朗（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】迈克尔·霍尔特3-4乔丹·布朗（赛场原声） 02:00
+${replace}/968621783
+#EXTINF:-1 tvg-id="高阳3-4吉尔伯特 布雷切尔2-4遭淘汰" tvg-name="斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】高阳3-4大卫·吉尔伯特（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】高阳3-4大卫·吉尔伯特（赛场原声） 02:00
+${replace}/968621831
+#EXTINF:-1 tvg-id="高阳3-4吉尔伯特 布雷切尔2-4遭淘汰" tvg-name="斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】埃利奥特·斯莱塞4-1杰米·琼斯（赛场原声） 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 高阳3-4吉尔伯特 布雷切尔2-4遭淘汰 【回放】埃利奥特·斯莱塞4-1杰米·琼斯（赛场原声） 02:00
+${replace}/968623015
 #EXTINF:-1 tvg-id="魔术VS老鹰" tvg-name="NBA 魔术VS老鹰 贾磊 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS老鹰 贾磊 06:55
 ${replace}/968571789
 #EXTINF:-1 tvg-id="魔术VS老鹰" tvg-name="NBA 魔术VS老鹰 英文原声 06:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 魔术VS老鹰 英文原声 06:55
