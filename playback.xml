@@ -97,16 +97,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20261029200250 +0800" stop="20261029200600 +0800">
-        <title lang="zh">前情提要-伟大的长征-32/60</title>
+        <title lang="zh">前情提要-伟大的长征-第32集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261029200600 +0800" stop="20261029205555 +0800">
-        <title lang="zh">伟大的长征32/60</title>
+        <title lang="zh">伟大的长征第32集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261029205555 +0800" stop="20261029205900 +0800">
-        <title lang="zh">前情提要-伟大的长征-33/60</title>
+        <title lang="zh">前情提要-伟大的长征-第33集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261029205900 +0800" stop="20261029214955 +0800">
-        <title lang="zh">伟大的长征33/60</title>
+        <title lang="zh">伟大的长征第33集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261029214955 +0800" stop="20261029220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -309,10 +309,10 @@
     <programme channel="CCTV3综艺" start="20261029180545 +0800" stop="20261029193000 +0800">
         <title lang="zh">开门大吉-2026-34</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261029193000 +0800" stop="20261029210710 +0800">
+    <programme channel="CCTV3综艺" start="20261029193000 +0800" stop="20261029210510 +0800">
         <title lang="zh">味你而来拾鲜季-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261029210710 +0800" stop="20261029222925 +0800">
+    <programme channel="CCTV3综艺" start="20261029210510 +0800" stop="20261029222925 +0800">
         <title lang="zh">越战越勇-2026-41</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261029222925 +0800" stop="20261029230210 +0800">
@@ -493,7 +493,7 @@
         <title lang="zh">国际足球赛场-26-27赛季法甲联赛第8轮 巴黎圣日耳曼—里昂（4K）</title>
     </programme>
     <programme channel="CCTV5体育" start="20261029103000 +0800" stop="20261029115500 +0800">
-        <title lang="zh">实况录像-2026/2027赛季欧洲篮球联赛 第8轮 贝西克塔斯-奥林匹亚科斯（录播）</title>
+        <title lang="zh">2026国际足联U17女足世界杯小组赛E组 第3轮 中国队-美国队</title>
     </programme>
     <programme channel="CCTV5体育" start="20261029115500 +0800" stop="20261029120000 +0800">
         <title lang="zh">健身动起来</title>
@@ -880,13 +880,13 @@
         <title lang="zh">本集提要-小城良方-第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261029193000 +0800" stop="20261029202540 +0800">
-        <title lang="zh">小城良方17/29</title>
+        <title lang="zh">小城良方第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261029202540 +0800" stop="20261029203040 +0800">
         <title lang="zh">本集提要-小城良方-第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261029203040 +0800" stop="20261029212710 +0800">
-        <title lang="zh">小城良方18/29</title>
+        <title lang="zh">小城良方第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261029212710 +0800" stop="20261029213210 +0800">
         <title lang="zh">本集提要-嫁金钗-第22集</title>
@@ -4179,7 +4179,7 @@
     <programme channel="广东卫视" start="20261029230200 +0800" stop="20261029234500 +0800">
         <title lang="zh">深潜(26)</title>
     </programme>
-    <programme channel="广东卫视" start="20261029234500 +0800" stop="20261030000000 +0800">
+    <programme channel="广东卫视" start="20261029234500 +0800" stop="20261030001600 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4357,22 +4357,25 @@
         <title lang="zh">带你游辽宁</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029084100 +0800" stop="20261029091300 +0800">
-        <title lang="zh">白天剧场:正阳门下26</title>
+        <title lang="zh">白天剧场:正阳门下22</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029091300 +0800" stop="20261029093400 +0800">
         <title lang="zh">生活服务</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029093400 +0800" stop="20261029100500 +0800">
-        <title lang="zh">白天剧场:正阳门下27</title>
+        <title lang="zh">白天剧场:正阳门下23</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261029100500 +0800" stop="20261029104900 +0800">
+    <programme channel="辽宁卫视" start="20261029100500 +0800" stop="20261029102600 +0800">
         <title lang="zh">生活服务</title>
+    </programme>
+    <programme channel="辽宁卫视" start="20261029102600 +0800" stop="20261029104900 +0800">
+        <title lang="zh">白天剧场:正阳门下24</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029104900 +0800" stop="20261029110900 +0800">
         <title lang="zh">生活服务</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029110900 +0800" stop="20261029113100 +0800">
-        <title lang="zh">白天剧场:正阳门下29</title>
+        <title lang="zh">白天剧场:正阳门下25</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029113100 +0800" stop="20261029115400 +0800">
         <title lang="zh">生活服务</title>
@@ -4390,25 +4393,28 @@
         <title lang="zh">生活服务</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029131000 +0800" stop="20261029133900 +0800">
-        <title lang="zh">白天剧场:正阳门下30</title>
+        <title lang="zh">白天剧场:正阳门下26</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029133900 +0800" stop="20261029135800 +0800">
         <title lang="zh">生活服务</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029135800 +0800" stop="20261029142800 +0800">
-        <title lang="zh">白天剧场:正阳门下31</title>
+        <title lang="zh">白天剧场:正阳门下27</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029142800 +0800" stop="20261029144700 +0800">
         <title lang="zh">生活服务</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029144700 +0800" stop="20261029151600 +0800">
-        <title lang="zh">白天剧场:正阳门下32</title>
+        <title lang="zh">白天剧场:正阳门下28</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029151600 +0800" stop="20261029153500 +0800">
         <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261029153500 +0800" stop="20261029162400 +0800">
-        <title lang="zh">白天剧场:正阳门下33</title>
+    <programme channel="辽宁卫视" start="20261029153500 +0800" stop="20261029160500 +0800">
+        <title lang="zh">白天剧场:正阳门下29</title>
+    </programme>
+    <programme channel="辽宁卫视" start="20261029160500 +0800" stop="20261029162400 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029162400 +0800" stop="20261029172900 +0800">
         <title lang="zh">欢乐集结号</title>
@@ -4450,7 +4456,7 @@
         <title lang="zh">带你游辽宁</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029211300 +0800" stop="20261029212900 +0800">
-        <title lang="zh">纪录片:北归</title>
+        <title lang="zh">纪录片:红医薪火5</title>
     </programme>
     <programme channel="辽宁卫视" start="20261029212900 +0800" stop="20261029214500 +0800">
         <title lang="zh">英雄，永不谢幕</title>
@@ -4470,7 +4476,7 @@
     <programme channel="辽宁卫视" start="20261029233600 +0800" stop="20261029234200 +0800">
         <title lang="zh">带你游辽宁</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261029234200 +0800" stop="20261030000000 +0800">
+    <programme channel="辽宁卫视" start="20261029234200 +0800" stop="20261030003800 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4620,7 +4626,7 @@
     <programme channel="河北卫视" start="20261029233700 +0800" stop="20261029234000 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20261029234000 +0800" stop="20261030000000 +0800">
+    <programme channel="河北卫视" start="20261029234000 +0800" stop="20261030062500 +0800">
         <title lang="zh">四喜</title>
     </programme>
     <channel id="江西卫视">
@@ -12132,7 +12138,7 @@
     <programme channel="嘉佳卡通" start="20261029192700 +0800" stop="20261029200100 +0800">
         <title lang="zh">超级飞侠二十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20261029200100 +0800" stop="20261030000000 +0800">
+    <programme channel="嘉佳卡通" start="20261029200100 +0800" stop="20261030000500 +0800">
         <title lang="zh">喜羊羊与灰太狼之羊村守护者七</title>
     </programme>
     <channel id="经典动画大集合">
